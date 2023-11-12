@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/ntm-digital-mind-site/ntgm-digital-mind-home/","tags":["effort","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/spaces/ntm-digital-mind-site/ntgm-digital-mind-home/","tags":["effort","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # NTGM Digital Mind Home
