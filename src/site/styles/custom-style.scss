@@ -10,4 +10,85 @@ body {
     //  h1 {
     //   color: black;
     //  }
+
+    :root {
+      --e859-bfd1-before: '';
+      --1e42-5130-before: '';
+      --535d-42c8-before: '';
+      --58ec-b4d5-before: '';
+      --6a5e-c0b4-before: '';
+      --9270-0a0f-before: '';
+      --c39d-60b1-before: '';
+      --c39d-60b1-after: '';
+      --c39d-60b1-background-color: #ffffff;
+      --c39d-60b1-decoration: initial;
+      --4818-3b20-before: '';
+      --b77b-a0f5-before: '';
+      --b795-d903-before: '';
+  }
+  
+  div[data-id="e859-bfd1"] div.setting-item-description::before,
+  .data-link-icon[data-link-tags*="source/book" i]::before {
+      content: var(--e859-bfd1-before);
+  }
+  
+  div[data-id="1e42-5130"] div.setting-item-description::before,
+  .data-link-icon[data-link-path="Extras/Images" i]::before {
+      content: var(--1e42-5130-before);
+  }
+  
+  div[data-id="535d-42c8"] div.setting-item-description::before,
+  .data-link-icon[data-link-tags*="on/People" i]::before {
+      content: var(--535d-42c8-before);
+  }
+  
+  div[data-id="58ec-b4d5"] div.setting-item-description::before,
+  .data-link-icon[data-link-tags*="source/podcast" i]::before {
+      content: var(--58ec-b4d5-before);
+  }
+  
+  div[data-id="6a5e-c0b4"] div.setting-item-description::before,
+  .data-link-icon[data-link-tags*="source/article" i]::before {
+      content: var(--6a5e-c0b4-before);
+  }
+  
+  div[data-id="9270-0a0f"] div.setting-item-description::before,
+  .data-link-icon[data-link-tags*="source/film" i]::before {
+      content: var(--9270-0a0f-before);
+  }
+  
+  .c-c39d-60b1-use-background div[data-id="c39d-60b1"] div.setting-item-description,
+  .c-c39d-60b1-use-background .data-link-text[data-link-tags*="moc" i] {
+      background-color: var(--c39d-60b1-background-color) !important;
+      border-radius: 5px;
+      padding-left: 2px;
+      padding-right: 2px;
+      text-decoration: var(--c39d-60b1-decoration) !important;
+  }
+  
+  div[data-id="c39d-60b1"] div.setting-item-description::before,
+  .data-link-icon[data-link-tags*="moc" i]::before {
+      content: var(--c39d-60b1-before);
+  }
+  
+  div[data-id="c39d-60b1"] div.setting-item-description::after,
+  .data-link-icon-after[data-link-tags*="moc" i]::after {
+      content: var(--c39d-60b1-after);
+  }
+  
+  div[data-id="4818-3b20"] div.setting-item-description::before,
+  .data-link-icon[data-link-tags*="moc/view" i]::before {
+      content: var(--4818-3b20-before);
+  }
+  
+  div[data-id="b77b-a0f5"] div.setting-item-description::before,
+  .data-link-icon[data-link-tags*="source/video " i]::before {
+      content: var(--b77b-a0f5-before);
+  }
+  
+  div[data-id="b795-d903"] div.setting-item-description::before,
+  .data-link-icon[data-link-tags*="source/researchpaper" i]::before {
+      content: var(--b795-d903-before);
+  }
+
 }
