@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/ntm-digital-mind-site/ntgm-digital-mind-home/","tags":["effort","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/spaces/ntm-digital-mind-site/ntgm-digital-mind-home/","tags":["effort","gardenEntry"]}
 ---
 
 # NTGM Digital Mind Home
@@ -9,19 +9,26 @@
 | [[Atlas/🎓 University\|🎓 University]] | [[Atlas/Sources\|Sources]] | [[Atlas/📚 Bookshelf\|📚 Bookshelf]] | 
 | ---------------------- | ----------- | --- |
 
+## Maps
+
+| [[Atlas/Add\|Add]]  | [[Atlas/Relate\|Relate]] | [[Atlas/Communicate\|Communicate]] |
+| -------- | ---------- | --------------- |
+| [[Atlas/MOCs/Food\|Food]] | [[Atlas/Logs\|Logs]]   | [[Atlas/Daily Notes\|Daily Notes]] |
+
+
 ## Recently Created Cards
-| File Name                                                                       | Date Created      |
-| ------------------------------------------------------------------------------- | ----------------- |
-| [[Cards/Ampulla\|Ampulla]]                                                   | November 12, 2023 |
-| [[Cards/Body of the Mandible\|Body of the Mandible]]                         | November 12, 2023 |
-| [[Cards/Condylar Process\|Condylar Process]]                                 | November 12, 2023 |
-| [[Cards/Coronoid Process of the Mandible\|Coronoid Process of the Mandible]] | November 12, 2023 |
-| [[Cards/Cranium\|Cranium]]                                                   | November 12, 2023 |
-| [[Cards/Deep Inguinal Ring\|Deep Inguinal Ring]]                             | November 12, 2023 |
-| [[Cards/External Occipital Protuberance\|External Occipital Protuberance]]   | November 12, 2023 |
-| [[Cards/Facial Bones\|Facial Bones]]                                         | November 12, 2023 |
-| [[Cards/Fimbriae\|Fimbriae]]                                                 | November 12, 2023 |
-| [[Cards/Frontal Sinus\|Frontal Sinus]]                                       | November 12, 2023 |
+| File Name                                                                             | Date Created      |
+| ------------------------------------------------------------------------------------- | ----------------- |
+| [[Cards/Intermittent Hypoxia\|Intermittent Hypoxia]]                               | December 03, 2023 |
+| [[Cards/Static Stretching\|Static Stretching]]                                     | December 03, 2023 |
+| [[Cards/Stretching\|Stretching]]                                                   | December 03, 2023 |
+| [[Cards/Steven Bartlett\|Steven Bartlett]]                                         | November 16, 2023 |
+| [[Cards/Hallux\|Hallux]]                                                           | November 13, 2023 |
+| [[Cards/Interphalangeal Joint of the Hallux\|Interphalangeal Joint of the Hallux]] | November 13, 2023 |
+| [[Cards/Saddle Joint\|Saddle Joint]]                                               | November 13, 2023 |
+| [[Cards/Sutures\|Sutures]]                                                         | November 13, 2023 |
+| [[Cards/Ampulla\|Ampulla]]                                                         | November 12, 2023 |
+| [[Cards/Anterior Cranial Fossa\|Anterior Cranial Fossa]]                           | November 12, 2023 |
 
 { .block-language-dataview}
 ## Articles
@@ -31,3 +38,5 @@
 | [[Spaces/My Newsletter/Developing Wisdom, Ancient Egypt & Physical Benchmarks\|Developing Wisdom, Ancient Egypt & Physical Benchmarks]]                                                                                             |
 
 { .block-language-dataview}
+
+##### Github Repo can be found at: https://github.com/Natetgmaxwell/ntgm
