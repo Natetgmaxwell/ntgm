@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/cards/extensor-indicis/","tags":["Uni/LFS122","flashcards/LFS122"]}
+---
+
+# Extensor Indicis
+
+> [!ontology]
+> up:: [[Cards/Skeletal Muscle\|Skeletal Muscle]]
+> jump:: 
+> down:: 
+
+> [!Definition] Definition
+> 
+
+![Extensor Indicis Image.png|200](/img/user/Extras/Images/Extensor%20Indicis%20Image.png)
+# Reference
+- 
+
+## Mentions
+
+{ .block-language-dataview}
+
+## Flashcards
