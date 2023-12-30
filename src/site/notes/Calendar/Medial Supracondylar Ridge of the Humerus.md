@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/calendar/medial-supracondylar-ridge-of-the-humerus/","tags":["Uni/LFS122","flashcards/LFS122"]}
+---
+
+# Medial Supracondylar Ridge of the Humerus
+
+> [!ontology]
+> up:: [[Cards/Humerus\|Humerus]]
+> jump:: [[Cards/Lateral Supracondylar Ridge of the Humerus\|Lateral Supracondylar Ridge of the Humerus]], [[Cards/Extensor Carpi Radialis Longus\|Extensor Carpi Radialis Longus]]
+> down:: 
+
+> [!Definition] Definition
+> 
+
+# Reference
+- 
+
+## Mentions
+
+{ .block-language-dataview}
+
+## Flashcards 
