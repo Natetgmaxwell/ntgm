@@ -6,7 +6,7 @@
 
 > [!Ontology]
 > up:: [[Cards/Respiratory system\|Respiratory system]]
-> jump:: [[Cards/Buccal cavity\|Buccal cavity]]
+> jump:: [[Cards/Buccal cavity\|Buccal cavity]], [[Cards/Cystic Fibrosis\|Cystic Fibrosis]]
 > down:: [[Cards/Bronchus\|Bronchus]], [[Cards/Bronchioles\|Bronchioles]], [[Cards/Pneumothorax\|Pneumothorax]], [[Cards/Alveoli\|Alveoli]]
 
 > [!Definition] Definition
@@ -16,16 +16,53 @@
 
 ## [[Cards/Lung Volumes and Capacities\|Lung Volumes and Capacities]]
 
-## Lungs Lobes
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/lung-volumes-and-capacities/#e9f29c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-- [[Cards/Left Lung\|Left Lung]]
-- [[Cards/Right Lung\|Right Lung]]
+
+
+![Pasted image 20230602200029.png](/img/user/Extras/Images/Pasted%20image%2020230602200029.png) 
+
+</div></div>
+
+
+## [[Cards/Left Lung\|Left Lung]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/lobes-of-the-left-lung/#list-of-left-lung-lobes" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## List of Left Lung Lobes
+- [[Cards/Superior Lobe of the Left Lung\|Superior Lobe of the Left Lung]]
+- [[Cards/Inferior Lobe of the Left Lung\|Inferior Lobe of the Left Lung]]
+
+> Left side of the lungs only has 2 lobes due to the heart taking up space.
+
+
+</div></div>
+
+
+## [[Cards/Right Lung\|Right Lung]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/lobes-of-the-right-lung/#list-of-right-lung-lobes" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## List of Right Lung Lobes
+- [[Cards/Superior Lobe of the Right Lung\|Superior Lobe of the Right Lung]]
+- [[Cards/Middle Lobe of the Right Lung\|Middle Lobe of the Right Lung]]
+- [[Cards/Inferior Lobe of the Right Lung\|Inferior Lobe of the Right Lung]]
+
+
+</div></div>
+
 
 # Reference
 - [[Cards/Respiration\|Respiration]]
 
 ## Mentions
+- [[Sources/Research Papers/@ben-tal2012EvaluatingPhysiologicalSignificance\|@ben-tal2012EvaluatingPhysiologicalSignificance]]
 - [[Sources/Video/@leedaffin2023-LFS122M9T1Respiratory\|@leedaffin2023-LFS122M9T1Respiratory]]
+- [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]
 
 { .block-language-dataview}
 
