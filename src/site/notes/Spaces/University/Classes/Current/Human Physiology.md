@@ -5,9 +5,8 @@
 # Human Physiology
 
 ## Projects
-| Project Name                                                                             |
-| ---------------------------------------------------------------------------------------- |
-| [[Spaces/University/Projects/LFS112A2 End Semester Exam\|LFS112A2 End Semester Exam]] |
+| Project Name |
+| ------------ |
 
 { .block-language-dataview}
 ## Dates
@@ -393,5 +392,15 @@ The [[Cards/Hypothalamus\|hypothalamus]] and the pituitary gland work in close c
 - [[Cards/Sensory Transduction\|Sensory Transduction]] is the process of converting a stimulus into an [[Cards/Action Potentials\|action potential]], so that it can be interpreted by the nervous system. When the [[Cards/Sensory Neurons\|Sensory Neurons]] is exposed to the appropriate stimulus it may undergo a physical or chemical change. This change can be due to the binding of a specific molecule, mechanical deformation or changes in temperature; which lead to changes in ion channels. The opening of these ion channels creates a coordinated all or nothing event with the purpose of sensory transmission.
 
 ###### Demonstrate an understanding of sensory receptor adaptation and how it contributes to sensory perception.
+
+Sensory receptor adaptation is a process by which the sensitivity of sensory receptors, such as those in the skin, eyes, or ears, decreases after repeated exposure to a stimulus. This can occur due to various factors, including habituation, desensitisation, and neural adaptation.
+
+Habituation is a form of sensory adaptation that occurs when a stimulus that initially elicits a response becomes less salient over time. For example, if you hear a constant, low-level noise, such as the hum of an air conditioner, your auditory system will eventually habituate to the sound and stop responding as strongly.
+
+Desensitisation is similar to habituation but occurs when the intensity of a stimulus decreases over time. For example, if you touch something with a mildly painful sensation, such as a piece of glass, your somatosensory system may desensitise to the sensation and become less responsive to it.
+
+Neural adaptation occurs when the neural response to a stimulus decreases over time due to repeated exposure. This can happen in both sensory and motor systems. For example, if you practice playing a musical instrument, your auditory system may adapt to the sound of your own playing, making it harder for you to hear errors or improvements in your performance.
+
+Sensory receptor adaptation contributes to sensory perception by allowing our brains to filter out irrelevant or constant stimuli and focus on more salient or changing ones. This helps us to efficiently process the vast amount of information that we are constantly exposed to, enabling us to respond appropriately to important changes in our environment.
 
 - 
