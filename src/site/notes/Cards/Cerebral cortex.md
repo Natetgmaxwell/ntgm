@@ -1,0 +1,55 @@
+---
+{"dg-publish":true,"permalink":"/cards/cerebral-cortex/","tags":["Uni/LFS122","Uni/HBIO1009","on/Science/Biology/Anatomy"]}
+---
+
+# Cerebral cortex
+
+> [!Ontology]
+> up:: [[Cards/Brain\|Brain]]
+> jump::
+> down:: [[Cards/Frontal lobe\|Frontal lobe]], [[Cards/Parietal lobe\|Parietal lobe]], [[Cards/Temporal lobe\|Temporal lobe]], [[Cards/Occipital lobe\|Occipital lobe]]
+
+> [!Definition] Definition
+> The cerebral cortex is the outer layer of the brain that covers and protects the inner structures. It is composed of gray and white matter, with gray matter consisting of neurons and synapses, and white matter consisting of myelinated axons that connect different regions. The cerebral cortex is responsible for most of the higher cognitive functions, such as reasoning, perception, memory, language, and decision making. It also contains various regions that specialize in different tasks, such as visual, auditory, motor, and somatosensory processing.
+
+## Parts of the [[Cards/Cerebral cortex\|Cerebral cortex]]
+- [[Cards/Frontal lobe\|Frontal lobe]]
+- [[Cards/Parietal lobe\|Parietal lobe]]
+- [[Cards/Temporal lobe\|Temporal lobe]]
+- [[Cards/Occipital lobe\|Occipital lobe]]
+
+# Reference
+- [[Cards/Pyrroloquinoline quinone\|PQQ]]
+
+## Mentions
+| Incoming Links                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------- |
+| [[Cards/Basal ganglia\|Basal ganglia]]                                                                         |
+| [[Cards/Conscious Breathing\|Conscious Breathing]]                                                             |
+| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                       |
+| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Cards/Long-term memory\|Long-term memory]]                                                                   |
+| [[Cards/Memory\|Memory]]                                                                                       |
+| [[Cards/Neocortex\|Neocortex]]                                                                                 |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                                  |
+| --------------------------------------------------------------- |
+| [[Cards/Brain\|Brain]]                                       |
+| [[Cards/Frontal lobe\|Frontal lobe]]                         |
+| [[Cards/Occipital lobe\|Occipital lobe]]                     |
+| [[Cards/Parietal lobe\|Parietal lobe]]                       |
+| [[Cards/Pyrroloquinoline quinone\|Pyrroloquinoline quinone]] |
+| [[Cards/Temporal lobe\|Temporal lobe]]                       |
+
+{ .block-language-dataview}
+
+| Sources                                                                                 |
+| --------------------------------------------------------------------------------------- |
+| [[Sources/Video/@LFS122M5T3Brain\|@LFS122M5T3Brain]]                                 |
+| [[Sources/Research Papers/@liu2022-Omega3HydroxyFatty\|@liu2022-Omega3HydroxyFatty]] |
+| [[Sources/Articles/contributorsWhatKnowPQQ\|contributorsWhatKnowPQQ]]                |
+| [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]]       |
+
+{ .block-language-dataview}
