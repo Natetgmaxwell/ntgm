@@ -31,8 +31,8 @@
 | <ul><li>LFS122 M4T4 Anterior and Lateral Trunk Muscles</li></ul>                                        | [[Sources/Video/@-LFS122M4T4Anterior\|@-LFS122M4T4Anterior]]                                                 | true      |
 | <ul><li>LFS122 M4T5 Posterior Trunk Muscles</li></ul>                                                   | [[Sources/Video/@-LFS122M4T5PosteriorTrunk\|@-LFS122M4T5PosteriorTrunk]]                                     | true      |
 | <ul><li>LFS122 M5T1 Skull</li></ul>                                                                     | [[Sources/Video/@LFS122M5T1Skull\|@LFS122M5T1Skull]]                                                         | \-        |
-| <ul><li>LFS122 M5T2 Muscles of the Head and Neck</li></ul>                                              | [[Sources/@LFS122M5T2Muscles\|@LFS122M5T2Muscles]]                                                           | \-        |
-| <ul><li>LFS122 M5T3 Brain and Cranial Nerves</li></ul>                                                  | [[Sources/@LFS122M5T3Brain\|@LFS122M5T3Brain]]                                                               | \-        |
+| <ul><li>LFS122 M5T2 Muscles of the Head and Neck</li></ul>                                              | [[Sources/Video/@LFS122M5T2Muscles\|@LFS122M5T2Muscles]]                                                     | \-        |
+| <ul><li>LFS122 M5T3 Brain and Cranial Nerves</li></ul>                                                  | [[Sources/Video/@LFS122M5T3Brain\|@LFS122M5T3Brain]]                                                         | \-        |
 | <ul><li>LFS122 M8T1 Skeletal Structures and Articulations of the Pectoral Girdle and Brachium</li></ul> | [[Sources/Video/@2023-LFS122M8T1Skeletal\|@2023-LFS122M8T1Skeletal]]                                         | true      |
 | <ul><li>LFS122 M8T2 Muscles of the Pectoral Girdle</li></ul>                                            | [[Sources/Video/@colingavagan2023-LFS122M8T2Muscles\|@colingavagan2023-LFS122M8T2Muscles]]                   | true      |
 | <ul><li>LFS122 M8T3  Skeletal Structures & Articulations of the Antebrachium & Hand</li></ul>           | [[Sources/Video/@colingavagan2023-LFS122M8T3Skeletal\|@colingavagan2023-LFS122M8T3Skeletal]]                 | true      |
@@ -100,7 +100,7 @@
 	- [[Cards/Sphenoidal Sinus\|Sphenoidal Sinus]]
 	- [[Cards/Maxillary Sinus\|Maxillary Sinus]]
 
-###### Muscles of the Neck and [[Cards/Head\|Head]] [[Sources/@LFS122M5T2Muscles\|@LFS122M5T2Muscles]]
+###### Muscles of the Neck and [[Cards/Head\|Head]] [[Sources/Video/@LFS122M5T2Muscles\|@LFS122M5T2Muscles]]
 - [[Cards/Epicranius\|Epicranius]]
 - [[Cards/Orbicularis Oris\|Orbicularis Oris]]
 - [[Cards/Temporalis\|Temporalis]]
