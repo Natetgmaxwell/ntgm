@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/cards/nucleic-acids/"}
+---
+
+# Nucleic Acids
+
+> [!Ontology]+
+> up:: [[Cards/Biomolecules\|Biomolecules]]
+> jump::
+> down:: [[Cards/Deoxyribonucleic Acid\|DNA]], [[Cards/Ribonucleic Acid\|RNA]]
+
+- [[Cards/Nucleic Acids\|Nucleic Acids]] are essential to life and are responsible for the transfer and storage of genetic material.
+
+## Forms of Nucleic Acids
+- [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]]
+- [[Cards/Ribonucleic Acid\|Ribonucleic Acid]]
+
+## Differences between [[Cards/Deoxyribonucleic Acid\|DNA]] & [[Cards/Ribonucleic Acid\|RNA]]
+![Pasted image 20220310104308.png|400](/img/user/Extras/Images/Pasted%20image%2020220310104308.png)
+
+# Reference
+- 
