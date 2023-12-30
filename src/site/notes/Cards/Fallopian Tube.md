@@ -10,7 +10,7 @@
 > down:: 
 
 > [!Definition] Definition
-> 
+> Connects the [[Cards/Ovaries\|Ovaries]] to the [[Cards/Uterus\|Uterus]].
 
 ## Sections of the [[Cards/Fallopian Tube\|Fallopian Tube]] (medial to distal)
 1. [[Cards/Fimbriae\|Fimbriae]]
