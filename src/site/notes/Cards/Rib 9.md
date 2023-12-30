@@ -1,0 +1,39 @@
+---
+{"dg-publish":true,"permalink":"/cards/rib-9/"}
+---
+
+# Rib 9
+
+> [!ontology]+
+> up:: [[Cards/Ribs\|Ribs]]
+> jump:: [[Cards/Latissimus dorsi\|Latissimus dorsi]]
+> down:: 
+
+> [!Definition] Definition
+> 
+
+- [[Cards/Rib 9\|Rib 9]] is an attachment for the [[Cards/Latissimus dorsi\|Latissimus dorsi]].
+
+# Reference
+- 
+
+## Mentions
+| Incoming Links            |
+| ------------------------- |
+| [[Cards/Rib 7\|Rib 7]] |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                  |
+| ----------------------------------------------- |
+| [[Cards/Latissimus dorsi\|Latissimus dorsi]] |
+| [[Cards/Ribs\|Ribs]]                         |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
+
+{ .block-language-dataview}
+
+## Flashcards
