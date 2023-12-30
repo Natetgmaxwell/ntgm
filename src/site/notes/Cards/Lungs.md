@@ -60,14 +60,48 @@
 - [[Cards/Respiration\|Respiration]]
 
 ## Mentions
-- [[Sources/Research Papers/@ben-tal2012EvaluatingPhysiologicalSignificance\|@ben-tal2012EvaluatingPhysiologicalSignificance]]
-- [[Sources/Video/@leedaffin2023-LFS122M9T1Respiratory\|@leedaffin2023-LFS122M9T1Respiratory]]
-- [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]
+| Incoming Links                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------- |
+| [[Calendar/2023/Daily/2023-07-25 Tue\|2023-07-25 Tue]]                                                         |
+| [[Calendar/2023/Daily/2023-09-11 Mon\|2023-09-11 Mon]]                                                         |
+| [[Extras/Excalidraw/Anatomy of the Heart.excalidraw\|Anatomy of the Heart.excalidraw]]                         |
+| [[Cards/Apex of the Left Lung\|Apex of the Left Lung]]                                                         |
+| [[Cards/Apex of the Right Lung\|Apex of the Right Lung]]                                                       |
+| [[Cards/Hilum of the Left Lung\|Hilum of the Left Lung]]                                                       |
+| [[Cards/Hilum of the Right Lung\|Hilum of the Right Lung]]                                                     |
+| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                                             |
+| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Extras/Excalidraw/Respiratory System Diagram\|Respiratory System Diagram]]                                   |
+| [[Cards/Superior Lobe of the Right Lung\|Superior Lobe of the Right Lung]]                                     |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                                        |
+| --------------------------------------------------------------------- |
+| [[Cards/Alveoli\|Alveoli]]                                         |
+| [[Cards/Bronchioles\|Bronchioles]]                                 |
+| [[Cards/Bronchus\|Bronchus]]                                       |
+| [[Cards/Buccal cavity\|Buccal cavity]]                             |
+| [[Cards/Cystic Fibrosis\|Cystic Fibrosis]]                         |
+| [[Cards/Left Lung\|Left Lung]]                                     |
+| [[Cards/Lobes of the Left Lung\|Lobes of the Left Lung]]           |
+| [[Cards/Lobes of the Right Lung\|Lobes of the Right Lung]]         |
+| [[Cards/Lung Volumes and Capacities\|Lung Volumes and Capacities]] |
+| [[Cards/Pneumothorax\|Pneumothorax]]                               |
+| [[Cards/Respiration\|Respiration]]                                 |
+| [[Cards/Respiratory system\|Respiratory system]]                   |
+| [[Cards/Right Lung\|Right Lung]]                                   |
+
+{ .block-language-dataview}
+
+| Sources                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]                                                                 |
+| [[Sources/Research Papers/@ben-tal2012EvaluatingPhysiologicalSignificance\|@ben-tal2012EvaluatingPhysiologicalSignificance]] |
+| [[Sources/Video/@leedaffin2023-LFS122M9T1Respiratory\|@leedaffin2023-LFS122M9T1Respiratory]]                                 |
 
 { .block-language-dataview}
 
 ## Flashcards
 
-> [!failure]- Failure 
->   Error: Load failed
->  
+
