@@ -1,0 +1,40 @@
+---
+{"dg-publish":true,"permalink":"/cards/distal/","tags":["Uni/LFS112","flashcards/LFS112"]}
+---
+
+# Distal
+
+> [!ontology]+
+> up:: 
+> jump:: 
+> down:: 
+
+> [!Definition] Definition
+> 
+
+# Reference
+- 
+
+## Mentions
+| Incoming Links                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------- |
+| [[Cards/Proximal\|Proximal]]                                                                                   |
+| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+
+{ .block-language-dataview}
+
+| Outgoing Links              |
+| --------------------------- |
+| [[Cards/Distal\|Distal]] |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
+
+{ .block-language-dataview}
+
+## Flashcards
+
+What term refers to structures located further away from the trunk of the body?;;[[Cards/Distal\|Distal]]
+<!--SR:!2023-12-15,101,290-->
