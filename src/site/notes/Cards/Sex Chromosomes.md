@@ -12,6 +12,10 @@
 > [!Definition] Definition
 > 
 
+## Types of [[Cards/Sex Chromosomes\|Sex Chromosomes]]
+- [[Cards/Male Sex Chromosome\|Male Sex Chromosome]]
+- [[Cards/Female Sex Chromosome\|Female Sex Chromosome]]
+
 # Reference
 - 
 
