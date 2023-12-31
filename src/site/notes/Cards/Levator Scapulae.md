@@ -4,7 +4,7 @@
 
 # Levator Scapulae
 
-> [!Ontology]
+> [!Ontology]-
 > up:: [[Cards/Skeletal Muscle\|Skeletal Muscle]]
 > jump:: [[Cards/Cervical 1\|C1]], [[Cards/Cervical 2\|C2]], [[Cards/Cervical 3\|C3]], [[Cards/Cervical 4\|C4]], [[Cards/Superior Angle of the Scapula\|Superior Angle of the Scapula]]
 > down:: 
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > [[Cards/Levator Scapulae\|Levator Scapulae]] is **a posterior Axio-appendicular muscle that connects the upper limb to the vertebral column and lies in the posterior triangle of the neck**.
 
-![Pasted image 20230310205703.png|350](/img/user/Extras/Images/Pasted%20image%2020230310205703.png)
+![Levator Scapula Image.png|400](/img/user/Extras/Levator%20Scapula%20Image.png)
 
 ## Attachments
 - [[Cards/Cervical 1\|Cervical 1]], [[Cards/Cervical 2\|C2]], [[Cards/Cervical 3\|C3]] [[Cards/Cervical 4\|C4]]
