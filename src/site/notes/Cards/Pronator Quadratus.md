@@ -28,5 +28,5 @@
 
 ## Flashcards
 
-What is name for the distal muscle involved in pronation?;;[[Cards/Pronator Quadratus\|Pronator Quadratus]]
+What is name for the distal muscle involved in [[Cards/Pronation\|pronation]]?;;[[Cards/Pronator Quadratus\|Pronator Quadratus]]
 <!--SR:!2023-10-26,2,150-->
