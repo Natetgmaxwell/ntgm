@@ -6,7 +6,7 @@
 
 > [!ontology]+
 > up:: [[Cards/Stomach\|Stomach]]
-> jump:: 
+> jump:: [[Cards/Greater Curvature of the Stomach\|Greater Curvature of the Stomach]]
 > down:: 
 
 > [!Definition] Definition
