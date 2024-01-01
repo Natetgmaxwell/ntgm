@@ -37,5 +37,5 @@ Is the [[Cards/Pronator teres\|Pronator teres]] on the anterior or posterior of 
 What muscles lyes laterally to the [[Cards/Flexor carpi radialis\|Flexor carpi radialis]]?;;[[Cards/Pronator teres\|Pronator teres]]
 <!--SR:!2023-10-24,1,138-->
 
-What is the name for the proximal muscle involved in pronation of the [[Cards/Ante-brachium\|Ante-brachium]]?;;[[Cards/Pronator teres\|Pronator teres]]
+What is the name for the proximal muscle involved in [[Cards/Pronation\|pronation]] of the [[Cards/Ante-brachium\|Ante-brachium]]?;;[[Cards/Pronator teres\|Pronator teres]]
 <!--SR:!2023-10-26,2,158-->
