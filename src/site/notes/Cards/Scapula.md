@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/cards/scapula/","tags":["Uni/OMT1","on/Science/Biology/Anatomy"]}
 ---
 
-tags:: #Uni/OMT1 #on/Science/Biology/Anatomy 
-
 # Scapula
 
 > [!Ontology]
