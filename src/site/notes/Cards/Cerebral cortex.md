@@ -25,6 +25,7 @@
 | Incoming Links                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Basal ganglia\|Basal ganglia]]                                                                         |
+| [[Cards/Central Nervous System\|Central Nervous System]]                                                       |
 | [[Cards/Conscious Breathing\|Conscious Breathing]]                                                             |
 | [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                       |
 | [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
