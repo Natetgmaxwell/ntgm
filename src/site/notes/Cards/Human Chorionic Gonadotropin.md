@@ -13,7 +13,7 @@
 > 
 
 > [!quote] [[Sources/Research Papers/@betz2023HumanChorionicGonadotropin\|@betz2023HumanChorionicGonadotropin]]
-> "[[Cards/Human Chorionic Gonadotropin\|Human Chorionic Gonadotropin]] is a hormone produced primarily by syncytiotrophoblastic cells of the placenta during pregnancy."
+> "[In females] [[Cards/Human Chorionic Gonadotropin\|Human Chorionic Gonadotropin]] is a hormone produced primarily by syncytiotrophoblastic cells of the placenta during pregnancy."
 
 # Reference
 - 
