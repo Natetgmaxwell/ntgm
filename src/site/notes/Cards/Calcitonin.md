@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/calcitonin/","tags":["Uni/LFS112","Uni/HBIO1010"]}
+{"dg-publish":true,"permalink":"/cards/calcitonin/","tags":["Uni/LFS112","Uni/HBIO1010","flashcards/LFS112"]}
 ---
 
 # Calcitonin
 
-> [!ontology]
+> [!ontology]-
 > up:: [[Cards/Amino Acid-Peptide Hormones\|Amino Acid-Peptide Hormones]], [[Cards/Thyroid Gland\|Thyroid Gland]]
 > jump:: [[Cards/Calcium Regulation\|Calcium Regulation]]
 > down:: 
@@ -28,3 +28,5 @@
 ## Flashcards
 
 What is the function of calcitonin and what triggers its release?;;Calcitonin is produced by [[Cards/Parafollicular cells\|C cells]] and is stimulated by increased blood calcium levels. It targets the [[Cards/Kidneys\|kidneys]] to increase calcium excretion.
+
+What gland releases [[Cards/Calcitonin\|Calcitonin]]?;;The [[Cards/Thyroid Gland\|Thyroid Gland]]
