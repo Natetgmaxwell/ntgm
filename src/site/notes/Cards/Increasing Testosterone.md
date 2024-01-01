@@ -61,7 +61,7 @@ Engaging in regular resistance training, particularly [[Cards/Compound Movements
 
 ###### Some Key Nutrients for Testosterone Production Include:
 
-- Zinc: Found in foods like oysters, beef, pumpkin seeds, and spinach, zinc is essential for testosterone synthesis.
+- Zinc: Found in foods like [[Cards/Oysters\|oysters]], beef, pumpkin seeds, and spinach, zinc is essential for testosterone synthesis.
 
 - [[Cards/Vitamin D\|Vitamin D]]: Adequate levels of [[Cards/Vitamin D\|vitamin D]] are crucial for testosterone production. Foods like fatty fish, fortified [[Cards/Dairy Products\|Dairy Products]], and egg yolks are good sources of [[Cards/Vitamin D\|vitamin D]].
 
