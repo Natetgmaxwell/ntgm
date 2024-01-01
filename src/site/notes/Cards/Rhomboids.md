@@ -16,7 +16,7 @@
 
 ### Attachments of the [[Cards/Rhomboids\|Rhomboids]]
 - [[Cards/Scapula\|Scapula]]
-- [[Cards/Thoracic 2\|Thoracic 2]], [[T3\|T3]], [[T4\|T4]] and [[Cards/Thoracic 5\|T5]]
+- [[Cards/Thoracic 2\|Thoracic 2]], [[• Inbox/Thoracic 3\|Thoracic 3]], [[T4\|T4]] and [[Cards/Thoracic 5\|T5]]
 
 ### [[Cards/Rhomboids Major\|Rhomboids Major]]
 
