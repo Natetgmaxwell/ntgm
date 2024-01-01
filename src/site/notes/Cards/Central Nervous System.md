@@ -12,9 +12,25 @@
 > [!Definition] Definition
 > 
 
+> Adult brain ≈1.5kg
+
 ## Parts of the CNS
-- [[Cards/Brain\|Brain]]
-- [[Cards/Spinal cord\|Spinal cord]]
+
+- [[Cards/Grey matter\|Grey]] and [[Cards/White matter\|White matter]]
+- 4 Main Regions of the [[Cards/Brain\|Brain]]
+	1. [[Cards/Cerebral cortex\|Cerebral Hemisphere]]
+	2. Diencephalon
+	3. [[Cards/Cerebellum\|Cerebellum]] 
+	4. [[Cards/Brain Stem\|Brain Stem]]
+- [[Cards/Meninges\|Meninges]]
+	- [[Cards/Dura mater\|Dura mater]]
+	- [[Cards/Arachnoid mater\|Arachnoid mater]] 
+	- [[Cards/Pia Mater\|Pia Mater]]
+- [[Cards/Subarachnoid space\|Subarachnoid space]]
+	- [[Cards/Cerebrospinal Fluid\|Cerebrospinal Fluid]]
+	- Major [[Cards/Blood Vessels\|Blood Vessels]]
+- [[Cards/Blood-brain Barrier\|BBB]]
+	- Shelters brain from [[Cards/Toxins\|toxins]], fluctuations in hormones, ions and neurotransmitters 
 
 # Reference
 - [[Cards/Spine\|Spine]]
