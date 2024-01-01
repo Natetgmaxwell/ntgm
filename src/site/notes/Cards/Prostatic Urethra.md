@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/prostatic-urethra/"}
+{"dg-publish":true,"permalink":"/cards/prostatic-urethra/","tags":["Uni/LFS122"]}
 ---
 
 # Prostatic Urethra
