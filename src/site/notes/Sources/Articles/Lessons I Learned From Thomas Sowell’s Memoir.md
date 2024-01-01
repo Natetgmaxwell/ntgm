@@ -164,7 +164,7 @@ I never had any toys when I was living in the foster homes. When I was adopted, 
 
 * **Don’t judge the discrepancy between the actual and the ideal; focus on what the reality-based alternatives could be.**
 
-Sowell describes how, as a young man, he took a keen interest in the unfolding of the Korean War. Upon learning that the Soviets had set up a puppet government in North Korea, and the U.S. had done the same in South Korea, he was outraged. He then acknowledges that this was because he hadn’t thought about what the realistic alternatives might have been, and concentrated only how the installation of these puppet governments was so far from the rhetoric of socialism and freedom.
+Sowell describes how, as a young man, he took a keen interest in the unfolding of the Korean War. Upon learning that the Soviets had set up a puppet government in North Korea, and the U.S. had done the same in South Korea, he was outraged. He then acknowledges that this was because he hadn’t thought about what the realistic alternatives might have been, and concentrated only how the installation of these puppet governments was so far from the rhetoric of [[Cards/Socialism\|socialism]] and freedom.
 
 * **==Trust people who value being honest more than being nice.==**
 
