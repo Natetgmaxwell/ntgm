@@ -4,7 +4,7 @@
 
 # <% tp.file.title %>
 
-> [!ontology]+
+> [!ontology]-
 > up:: 
 > jump:: 
 > down:: 
