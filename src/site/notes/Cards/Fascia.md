@@ -22,6 +22,7 @@
 | Incoming Links                                              |
 | ----------------------------------------------------------- |
 | [[Cards/Musculoskeletal System\|Musculoskeletal System]] |
+| [[Cards/Palmar Aponeurosis\|Palmar Aponeurosis]]         |
 
 { .block-language-dataview}
 
