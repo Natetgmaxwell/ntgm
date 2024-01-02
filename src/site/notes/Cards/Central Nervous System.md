@@ -7,7 +7,7 @@
 > [!Ontology]+
 > up:: [[Cards/Nervous System\|Nervous System]]
 > jump::
-> down:: 
+> down:: [[Cards/Brain\|Brain]], [[Cards/Spinal cord\|Spinal cord]]
 
 > [!Definition] Definition
 > 
@@ -36,8 +36,49 @@
 - [[Cards/Spine\|Spine]]
 
 ## Mentions
-- [[Sources/Articles/EffectsAlcoholBody\|EffectsAlcoholBody]]
-- [[Sources/Articles/WhichProbioticsHistamine\|WhichProbioticsHistamine]]
-- [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]]
+| Incoming Links                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------- |
+| [[Calendar/2023/Daily/2023-10-16 Mon\|2023-10-16 Mon]]                                                         |
+| [[Cards/Acetylcholine\|Acetylcholine]]                                                                         |
+| [[Extras/Excalidraw/Divisions of the Nervous System.excalidraw\|Divisions of the Nervous System.excalidraw]]   |
+| [[Cards/Gamma-Aminobutyric Acid\|Gamma-Aminobutyric Acid]]                                                     |
+| [[Cards/Glycine\|Glycine]]                                                                                     |
+| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                       |
+| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Extras/Excalidraw/Negative Feedback Loops.excalidraw\|Negative Feedback Loops.excalidraw]]                   |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                        |
+| ----------------------------------------------------- |
+| [[Cards/Arachnoid mater\|Arachnoid mater]]         |
+| [[Cards/Blood Vessels\|Blood Vessels]]             |
+| [[Cards/Blood-brain Barrier\|Blood-brain Barrier]] |
+| [[Cards/Brain\|Brain]]                             |
+| [[Cards/Brain Stem\|Brain Stem]]                   |
+| [[Cards/Cerebellum\|Cerebellum]]                   |
+| [[Cards/Cerebral cortex\|Cerebral cortex]]         |
+| [[Cards/Cerebrospinal Fluid\|Cerebrospinal Fluid]] |
+| [[Cards/Dura mater\|Dura mater]]                   |
+| [[Cards/Grey matter\|Grey matter]]                 |
+| [[Cards/Meninges\|Meninges]]                       |
+| [[Cards/Nervous System\|Nervous System]]           |
+| [[Cards/Pia Mater\|Pia Mater]]                     |
+| [[Cards/Spinal cord\|Spinal cord]]                 |
+| [[Cards/Spine\|Spine]]                             |
+| [[Cards/Subarachnoid space\|Subarachnoid space]]   |
+| [[Cards/Toxins\|Toxins]]                           |
+| [[Cards/White matter\|White matter]]               |
+
+{ .block-language-dataview}
+
+| Sources                                                                                     |
+| ------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@chrisaskewLFS112M3T1Functional\|@chrisaskewLFS112M3T1Functional]]       |
+| [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]] |
+| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]               |
+| [[Sources/Articles/EffectsAlcoholBody\|EffectsAlcoholBody]]                              |
+| [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]]           |
+| [[Sources/Articles/WhichProbioticsHistamine\|WhichProbioticsHistamine]]                  |
 
 { .block-language-dataview}
