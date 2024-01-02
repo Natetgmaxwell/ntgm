@@ -25,6 +25,7 @@
 | Incoming Links                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Basal ganglia\|Basal ganglia]]                                                                         |
+| [[Extras/Excalidraw/Brain Diagram.excalidraw\|Brain Diagram.excalidraw]]                                       |
 | [[Cards/Central Nervous System\|Central Nervous System]]                                                       |
 | [[Cards/Conscious Breathing\|Conscious Breathing]]                                                             |
 | [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                       |
