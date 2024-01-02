@@ -4,13 +4,13 @@
 
 # Enterocytes
 
-> [!ontology]
+> [!ontology]-
 > up:: [[Cards/Small Intestine\|Small Intestine]], [[Cards/Large Intestine\|Large Intestine]], [[Cards/Cells\|Cells]]
 > jump:: 
 > down:: 
 
 > [!Definition] Definition
-> 
+> Enterocytes are specialized cells that line the enteric nervous system and the epithelium of the small intestine. They play a role in absorbing nutrients from food, regulating ion transport, and coordinating immune responses. Enterocytes can also undergo apoptosis or programmed cell death in response to pathogens or injury.
 
 # Reference
 - 
