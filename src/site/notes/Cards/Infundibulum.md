@@ -10,7 +10,7 @@
 > down:: 
 
 > [!Definition] Definition
-> 
+> The infundibulum is the funnel-shaped part of the uterus that receives the fertilized egg during conception. The infundibulum helps to propel the egg into the main body of the uterus, where it can implant and develop.
 
 # Reference
 - 
