@@ -16,10 +16,11 @@
 - 
 
 ## Mentions
-| Incoming Links                            |
-| ----------------------------------------- |
-| [[Cards/Basal ganglia\|Basal ganglia]] |
-| [[Cards/Limbic System\|Limbic System]] |
+| Incoming Links                                                              |
+| --------------------------------------------------------------------------- |
+| [[Cards/Basal ganglia\|Basal ganglia]]                                   |
+| [[Cards/Limbic System\|Limbic System]]                                   |
+| [[Extras/Excalidraw/Brain Diagram.excalidraw\|Brain Diagram.excalidraw]] |
 
 { .block-language-dataview}
 
