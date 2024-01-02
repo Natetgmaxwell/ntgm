@@ -10,7 +10,7 @@
 > down:: 
 
 > [!Definition] Definition
-> 
+> The broad ligament is a fold of peritoneum, which is the membrane that lines the abdominal and pelvic cavities. The broad ligament connects the uterus, fallopian tubes, ovaries, and vagina on one side to the anterior abdominal wall on the other side. It also contains blood vessels, nerves, lymphatic vessels, and fat cells. The broad ligament is involved in various functions such as supporting the uterus and fallopian tubes, providing space for the ovaries and vagina, and transmitting sensory information from the uterus and fallopian tubes to the brain.
 
 # Reference
 - 
