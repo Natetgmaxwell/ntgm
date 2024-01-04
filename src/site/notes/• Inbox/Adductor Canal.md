@@ -1,0 +1,35 @@
+---
+{"dg-publish":true,"permalink":"/inbox/adductor-canal/","tags":["Uni/LFS122"]}
+---
+
+# Adductor Canal
+
+> [!ontology]-
+> up:: 
+> jump:: 
+> down:: 
+
+> [!Definition] Definition
+> 
+
+# Reference
+- 
+
+## Mentions
+| Incoming Links |
+| -------------- |
+
+{ .block-language-dataview}
+
+| Outgoing Links |
+| -------------- |
+
+{ .block-language-dataview}
+
+| Sources                                                                                     |
+| ------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffin2023-LFS122M10T1Systemic\|@leedaffin2023-LFS122M10T1Systemic]] |
+
+{ .block-language-dataview}
+
+## Flashcards 
