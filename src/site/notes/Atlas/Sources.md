@@ -31,11 +31,11 @@
 ## Articles
 | Title                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------- |
-| [[Sources/Articles/@henderson2022-DawnEverythingNew\|@henderson2022-DawnEverythingNew]]                 |
 | [[Sources/Articles/@teamultrahuman2022-IdealGlucoseRange\|@teamultrahuman2022-IdealGlucoseRange]]       |
 | [[Sources/Articles/@laurabaisas2022-SexNotViolence\|@laurabaisas2022-SexNotViolence]]                   |
 | [[Sources/Articles/@greenfield2022-JamesDiNicolantonioDirt\|@greenfield2022-JamesDiNicolantonioDirt]]   |
 | [[Sources/Articles/@bariso2022-EmotionallyIntelligentPeople\|@bariso2022-EmotionallyIntelligentPeople]] |
+| [[Sources/Articles/@henderson2022-DawnEverythingNew\|@henderson2022-DawnEverythingNew]]                 |
 | [[Sources/Research Papers/@acsmOneExerciseYou2022\|@acsmOneExerciseYou2022]]                            |
 
 { .block-language-dataview}
