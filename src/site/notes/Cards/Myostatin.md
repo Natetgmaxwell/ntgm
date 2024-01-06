@@ -35,11 +35,10 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Research Papers/@bentek.pedersenMusclesExerciseObesity2012\|@bentek.pedersenMusclesExerciseObesity2012]] |
-| [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]                         |
-| [[Sources/Research Papers/@leal2018-PhysicalExerciseInducedMyokines\|@leal2018-PhysicalExerciseInducedMyokines]]   |
+| Sources                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]                       |
+| [[Sources/Research Papers/@leal2018-PhysicalExerciseInducedMyokines\|@leal2018-PhysicalExerciseInducedMyokines]] |
 
 { .block-language-dataview}
 
