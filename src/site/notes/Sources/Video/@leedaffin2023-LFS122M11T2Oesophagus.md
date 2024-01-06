@@ -52,13 +52,13 @@
 > [[Cards/Pyloric Sphincter\|Pyloric Sphincter]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> The small intestine is approx. 3 to 5 metres long and has three distinct regions: Duodenum: 5% of the length [[Cards/Jejunum\|Jejunum]]: almost 40% of the length Ileum: almost 60% of the length  
+> The small intestine is approx. 3 to 5 metres long and has three distinct regions: [[Cards/Duodenum\|Duodenum]]: 5% of the length [[Cards/Jejunum\|Jejunum]]: almost 40% of the length Ileum: almost 60% of the length  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> The duodenum is the shortest part of the small intestine (about 20–25 cm long) and is shaped like a "C“. It is where preparation for absorption begins.  
+> The [[Cards/Duodenum\|duodenum]] is the shortest part of the small intestine (about 20–25 cm long) and is shaped like a "C“. It is where preparation for absorption begins.  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> The [[Cards/Jejunum\|jejunum]] is the midsection of the small intestine connecting the duodenum to the ileum.  
+> The [[Cards/Jejunum\|jejunum]] is the midsection of the small intestine connecting the [[Cards/Duodenum\|duodenum]] to the ileum.  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > Products of digestion (sugars, amino acids, and fatty acids) are absorbed into the bloodstream within this region.  
