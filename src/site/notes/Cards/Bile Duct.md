@@ -22,5 +22,5 @@
 
 ## Flashcards
 
-Which duct transporting bile joins with the main pancreatic duct to empty into the duodenum via a duodenal papilla?;;[[Cards/Bile Duct\|Bile Duct]]
+Which duct transporting bile joins with the main pancreatic duct to empty into the [[Cards/Duodenum\|duodenum]] via a duodenal papilla?;;[[Cards/Bile Duct\|Bile Duct]]
 <!--SR:!2023-10-26,2,150-->
