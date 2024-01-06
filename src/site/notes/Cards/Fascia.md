@@ -21,6 +21,7 @@
 ## Mentions
 | Incoming Links                                              |
 | ----------------------------------------------------------- |
+| [[Cards/Iliotibial Band\|Iliotibial Band]]               |
 | [[Cards/Musculoskeletal System\|Musculoskeletal System]] |
 | [[Cards/Palmar Aponeurosis\|Palmar Aponeurosis]]         |
 
