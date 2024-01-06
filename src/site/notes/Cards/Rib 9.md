@@ -18,9 +18,8 @@
 - 
 
 ## Mentions
-| Incoming Links            |
-| ------------------------- |
-| [[Cards/Rib 7\|Rib 7]] |
+| Incoming Links |
+| -------------- |
 
 { .block-language-dataview}
 
