@@ -3,7 +3,6 @@
 ---
 
 # NTGM Digital Mind Home
-n# NTGM Digital Mind Home
 
 ## Areas
 
@@ -13,16 +12,16 @@ n# NTGM Digital Mind Home
 ## Recently Created Cards
 | File Name                                                 | Date Modified    |
 | --------------------------------------------------------- | ---------------- |
+| [[Cards/Calcaneus\|Calcaneus]]                         | January 06, 2024 |
 | [[Cards/Fundus of the Stomach\|Fundus of the Stomach]] | January 06, 2024 |
+| [[Cards/Sebum\|Sebum]]                                 | January 06, 2024 |
+| [[Cards/Computation\|Computation]]                     | January 06, 2024 |
+| [[Cards/Rib 6\|Rib 6]]                                 | January 06, 2024 |
+| [[Cards/Adductor Canal\|Adductor Canal]]               | January 06, 2024 |
 | [[Cards/Automatic Computation\|Automatic Computation]] | January 05, 2024 |
 | [[Cards/Buccal cavity\|Buccal cavity]]                 | January 05, 2024 |
 | [[Cards/Coronoid Process\|Coronoid Process]]           | January 05, 2024 |
 | [[Cards/Eccrine Sweat Glands\|Eccrine Sweat Glands]]   | January 05, 2024 |
-| [[Cards/Gonads\|Gonads]]                               | January 05, 2024 |
-| [[Cards/Organelles\|Organelles]]                       | January 05, 2024 |
-| [[Cards/Peloponnesian War\|Peloponnesian War]]         | January 05, 2024 |
-| [[Cards/Resting Potential\|Resting Potential]]         | January 05, 2024 |
-| [[Cards/Salivary glands\|Salivary glands]]             | January 05, 2024 |
 
 { .block-language-dataview}
 
