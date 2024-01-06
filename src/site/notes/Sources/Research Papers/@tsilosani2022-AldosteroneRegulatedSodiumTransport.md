@@ -28,7 +28,7 @@
 > [Zotero](zotero://select/library/items/VMA9BUGZ) [attachment](file:///Users/nathanmaxwell/Zotero/storage/F3SHPF4N/tsilosani2022-AldosteroneRegulatedSodiumTransport.pdf)
   
 > [!Abstract]  
-> Aldosterone is a major mineralocorticoid steroid hormone secreted by glomerulosa cells in the adrenal cortex. It regulates a variety of physiological responses including those to oxidative stress, inflammation, fluid disruption, and abnormal blood pressure through its actions on various tissues including the kidney, heart, and the central nervous system. Aldosterone synthesis is primarily regulated by angiotensin II, K+ concentration, and adrenocorticotrophic hormone. Elevated serum aldosterone levels increase blood pressure largely by increasing Na+ re-absorption in the kidney through regulating transcription and activity of the epithelial sodium channel (ENaC). This review focuses on the signaling pathways involved in aldosterone synthesis and its effects on Na+ reabsorption through ENaC.
+> [[Cards/Aldosterone\|Aldosterone]] is a major mineralocorticoid steroid hormone secreted by glomerulosa cells in the adrenal cortex. It regulates a variety of physiological responses including those to oxidative stress, inflammation, fluid disruption, and abnormal blood pressure through its actions on various tissues including the kidney, heart, and the central nervous system. [[Cards/Aldosterone\|Aldosterone]] synthesis is primarily regulated by angiotensin II, K+ concentration, and adrenocorticotrophic hormone. Elevated serum [[Cards/Aldosterone\|aldosterone]] levels increase blood pressure largely by increasing Na+ re-absorption in the kidney through regulating transcription and activity of the epithelial sodium channel (ENaC). This review focuses on the signaling pathways involved in [[Cards/Aldosterone\|aldosterone]] synthesis and its effects on Na+ reabsorption through ENaC.
 
 ## Notes
 
@@ -36,14 +36,14 @@
 
 > [!yellow] Page 1
 > 
-> Aldosterone is a major mineralocorticoid steroid hormone secreted by glomerulosa cells in the adrenal cortex.
+> [[Cards/Aldosterone\|Aldosterone]] is a major mineralocorticoid steroid hormone secreted by glomerulosa cells in the adrenal cortex.
 >
 { #6QE5VGPIaF3SHPF4Np1}
 
 
 > [!yellow] Page 1
 > 
-> Elevated serum aldosterone levels increase blood pressure largely by increasing Na+ re-absorption in the kidney through regulating transcription and activity of the epithelial sodium channel (ENaC).
+> Elevated serum [[Cards/Aldosterone\|aldosterone]] levels increase blood pressure largely by increasing Na+ re-absorption in the kidney through regulating transcription and activity of the epithelial sodium channel (ENaC).
 >
 { #N8GKFTKZaF3SHPF4Np1}
 
@@ -64,7 +64,7 @@
 
 > [!yellow] Page 10
 > 
-> Aldosterone is a vital steroid hormone produced by the adrenal glands that regulates blood pressure by affecting electrolyte and fluid balance.
+> [[Cards/Aldosterone\|Aldosterone]] is a vital steroid hormone produced by the adrenal glands that regulates blood pressure by affecting electrolyte and fluid balance.
 >
 { #XRF8NCBRaF3SHPF4Np10}
 
