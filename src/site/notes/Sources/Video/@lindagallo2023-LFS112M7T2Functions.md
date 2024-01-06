@@ -51,7 +51,7 @@
     
     - Parts
         
-        - Duodenum
+        - [[Cards/Duodenum\|Duodenum]]
         - [[Cards/Jejunum\|Jejunum]]
         - Ileum
     - Chemical Digestion
@@ -122,7 +122,7 @@
 >   
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> Duodenum  
+> [[Cards/Duodenum\|Duodenum]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > [[Cards/Jejunum\|Jejunum]]  
