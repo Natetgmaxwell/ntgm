@@ -312,7 +312,7 @@ Now this isn't actually belonging to the skin itself, although it still plays an
 
 So this sits deep to the [[Cards/Dermis\|dermis]] and helps anchor our skin to our [[Cards/Fascia\|fascia]] of our underlying bones and/or muscle.
 
-We find that it has a fatty layer so it stores our adipose tissue and provides cushioning and insulation as well as being vascularized so it has that blood supply.
+We find that it has a fatty layer so it stores our [[Cards/Adipose tissue\|adipose tissue]] and provides cushioning and insulation as well as being vascularized so it has that blood supply.
 
 As you can see we have a quite a cool skin fact here so it is the largest organ of the body and can actually account for approximately 7% of our total body weight.
 
@@ -588,7 +588,7 @@ So even though this is a little bit more fizz, it's kind of important with our a
 
 You're also gonna see a flattening of that dermal, epidermal ridge junction there.
 
-With our hyperdermis, we're gonna see a reduction and redistribution of adipose tissue.
+With our hyperdermis, we're gonna see a reduction and redistribution of [[Cards/Adipose tissue\|adipose tissue]].
 
 So again, another contributor to our thinning and sagging skin.
 
