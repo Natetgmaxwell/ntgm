@@ -21,7 +21,7 @@
 - [[Cards/Plasma Membranes\|Plasma Membranes]]
 - [[Cards/Mitochondria\|Mitochondria]]
 - [[Cards/Endoplasmic reticulum\|Endoplasmic reticulum]]
-	- [[Cards/Smooth endoplasmic reticulum\|Smooth endoplasmic reticulum]]
+	- [[Cards/Smooth Endoplasmic Reticulum\|Smooth Endoplasmic Reticulum]]
 	- [[Cards/Rough Endoplasmic Reticulum\|Rough Endoplasmic Reticulum]]
 - [[Cards/Golgi Apparatus\|Golgi Apparatus]]
 - [[Cards/Vesicles\|Vesicles]]
