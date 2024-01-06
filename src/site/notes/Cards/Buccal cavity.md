@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/buccal-cavity/"}
 ---
 
-# Buccal Cavity
+# Buccal cavity
 
 > [!ontology]
 > up:: [[Cards/Gastrointestinal tract#Food Channel\|Gastrointestinal tract#Food Channel]], [[Cards/Head\|Head]]
