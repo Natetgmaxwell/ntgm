@@ -13,8 +13,8 @@
 - [[Sources/Books/Blink by Malcolm Gladwell\|Blink by Malcolm Gladwell]]
 - [[Sources/Books/@robertgreene2018-LawsHumanNature\|@robertgreene2018-LawsHumanNature]]
 - [[Sources/Books/@fyodordostoevsky1869-Idiot\|@fyodordostoevsky1869-Idiot]]
-- [[Sources/Books/@danielkahnemanThinkingFastSlow2011\|@danielkahnemanThinkingFastSlow2011]]
 - [[Sources/Books/Outlive by Peter Attia Bill Gifford\|Outlive by Peter Attia Bill Gifford]]
+- [[Sources/Books/@danielkahnemanThinkingFastSlow2011\|@danielkahnemanThinkingFastSlow2011]]
 
 { .block-language-dataview}
 
