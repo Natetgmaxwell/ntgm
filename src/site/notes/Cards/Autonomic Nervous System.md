@@ -4,10 +4,13 @@
 
 # Autonomic Nervous System
 
-> [!Ontology]
-> up:: [[Cards/Nervous System\|Nervous System]]
+> [!Ontology]-
+> up:: [[Cards/Peripheral nervous system\|PNS]]
 > jump::
 > down:: 
+
+> [!Definition] Definition
+> The autonomic nervous system (ANS) is a part of the peripheral nervous system that controls involuntary functions, such as heart rate, blood pressure, digestion, and respiratory rate. 
 
 ## Autonomic Centres in the [[Cards/Brain\|Brain]]
 - [[Cards/Hypothalamus\|Hypothalamus]]
@@ -36,7 +39,6 @@
 | [[Cards/Hypothalamic-Pituitary-Adrenal Axis\|Hypothalamic-Pituitary-Adrenal Axis]]                             |
 | [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
 | [[Cards/Non-Verbal Cues\|Non-Verbal Cues]]                                                                     |
-| [[Cards/Peripheral nervous system\|Peripheral nervous system]]                                                 |
 | [[Extras/Excalidraw/Stress Response.excalidraw\|Stress Response.excalidraw]]                                   |
 | [[Cards/Vagus Nerve\|Vagus Nerve]]                                                                             |
 
@@ -44,6 +46,7 @@
 
 | Outgoing Links                                                              |
 | --------------------------------------------------------------------------- |
+| [[Cards/Adipose tissue\|Adipose tissue]]                                 |
 | [[Cards/Blood Flow\|Blood Flow]]                                         |
 | [[Cards/Blood Pressure\|Blood Pressure]]                                 |
 | [[Cards/Brain\|Brain]]                                                   |
@@ -51,8 +54,8 @@
 | [[Cards/Heart Rate\|Heart Rate]]                                         |
 | [[Cards/Hypothalamus\|Hypothalamus]]                                     |
 | [[Cards/Medulla Oblongata\|Medulla Oblongata]]                           |
-| [[Cards/Nervous System\|Nervous System]]                                 |
 | [[Cards/Parasympathetic Nervous System\|Parasympathetic Nervous System]] |
+| [[Cards/Peripheral nervous system\|Peripheral nervous system]]           |
 | [[Cards/Pons\|Pons]]                                                     |
 | [[Cards/Pupillary Size\|Pupillary Size]]                                 |
 | [[Cards/Sympathetic Nervous System\|Sympathetic Nervous System]]         |
@@ -70,7 +73,7 @@
 
 ## Flashcards
 
-What is the autonomic nervous system responsible for?;; The autonomic nervous system automatically regulates smooth and cardiac muscles, glands, and adipose tissue. It includes the [[Cards/Parasympathetic Nervous System\|parasympathetic]] (rest and digest) and sympathetic (fight or flight) divisions.
+What is the autonomic nervous system responsible for?;; The autonomic nervous system automatically regulates smooth and cardiac muscles, glands, and [[Cards/Adipose tissue\|adipose tissue]]. It includes the [[Cards/Parasympathetic Nervous System\|parasympathetic]] (rest and digest) and sympathetic (fight or flight) divisions.
 <!--SR:!2023-10-29,8,160-->
 
 What is the Autonomic Nervous System (ANS) responsible for?;; The ANS controls involuntary functions of visceral effectors like smooth and cardiac muscles, glands, and adipocytes.
