@@ -284,7 +284,7 @@ The [[Cards/Hypothalamus\|hypothalamus]] and the pituitary gland work in close c
 
 - [[Cards/Spermatogenesis\|Spermatogenesis]] is the production of new sperm cells, whereas [[Cards/Spermiogenesis\|spermiogenesis]] is the maturation of the sperm.
 - [[Cards/Spermatogenesis\|Spermatogenesis]] Processes
-	- [[Cards/Mitosis\|Mitosis]] (DNA Replication) (2 Chromosomes - Diploid)
+	- [[Cards/Mitosis\|Mitosis]] (DNA Replication) (2 [[Cards/Chromosomes\|Chromosomes]] - Diploid)
 	- [[Cards/Meiosis\|Meiosis]] I (1 Chromosome - Diploid)
 	- [[Cards/Meiosis\|Meiosis]] II ($\frac{1}{2}$ Chromosome - Haploid) 
 
