@@ -24,4 +24,4 @@
 
 ## Flashcards
 
-What are the branches of the brachial artery at the [[Cards/Cubital Fossa\|Cubital Fossa]]?;;The branches of the brachial artery are the ulnar artery and the radial artery.
+What are the branches of the brachial artery at the [[Cards/Cubital Fossa\|Cubital Fossa]]?;;The branches of the brachial artery are the [[Cards/Ulnar Artery\|ulnar artery]] and the radial artery.
