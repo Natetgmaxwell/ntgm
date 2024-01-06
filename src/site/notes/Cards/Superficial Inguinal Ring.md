@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/superficial-inguinal-ring/"}
+{"dg-publish":true,"permalink":"/cards/superficial-inguinal-ring/","tags":["Uni/LFS122"]}
 ---
 
 # Superficial Inguinal Ring
@@ -10,7 +10,7 @@
 > down:: 
 
 > [!Definition] Definition
-> 
+> The superficial inguinal ring is a thin layer of skin and fascia that covers the external iliac vein, which drains blood from the lower limb back to the heart. It is located at the level of the anterior superior iliac spine, where it can be palpated with fingers or a blunt instrument. The superficial inguinal ring forms part of the subcutaneous boundary of the femoral triangle, which contains several major nerves and vessels that supply the thigh and leg.
 
 # Reference
 - 
@@ -29,8 +29,9 @@
 
 { .block-language-dataview}
 
-| Sources |
-| ------- |
+| Sources                                                                             |
+| ----------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffin2023-LFS122M12T2Male\|@leedaffin2023-LFS122M12T2Male]] |
 
 { .block-language-dataview}
 
