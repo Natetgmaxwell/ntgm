@@ -46,7 +46,7 @@
 > [[Cards/Spermatic Cord\|Spermatic Cord]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> Superficial Inguinal Ring  
+> [[Cards/Superficial Inguinal Ring\|Superficial Inguinal Ring]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > Inguinal Canal  
