@@ -252,7 +252,7 @@ Zotero Link: [-LFS112M4T1OverviewEndocrine.pdf](zotero://select/library/items/VW
 
 
 
-> *"Feedback loops (mainly [[Cards/Negative Feedback Loops\|negative feedback]])"*
+> *"[[Cards/Feedback Loops\|Feedback loops]] (mainly [[Cards/Negative Feedback Loops\|negative feedback]])"*
 > 
 > 
 
