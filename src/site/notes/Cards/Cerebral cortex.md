@@ -33,6 +33,7 @@
 | [[Cards/Long-term memory\|Long-term memory]]                                                                   |
 | [[Cards/Memory\|Memory]]                                                                                       |
 | [[Cards/Neocortex\|Neocortex]]                                                                                 |
+| [[Cards/Optical Lobe\|Optical Lobe]]                                                                           |
 
 { .block-language-dataview}
 
