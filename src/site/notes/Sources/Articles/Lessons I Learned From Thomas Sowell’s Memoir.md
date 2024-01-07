@@ -396,7 +396,7 @@ From the book:
 > 
 > _Apparently, there must be an expert for every subject, even if no one knows very much about it._
 
-A few years ago, I’d written a couple of pieces about “cancel culture,” and suddenly people were asking to interview me about the phenomenon. I was unsure whether to do these interviews. I was just a PhD student studying psychology, and didn’t feel I necessarily had special insight into a relatively novel phenomenon. A friend of mine who is a professor said, “Look Rob, if you don’t do these interviews they’re just going to find someone else to speak with. And who knows what type of person that might be.” So I agreed to the interviews. The most surreal moment was on a video stream where the banner read something like “Rob Henderson: Cancel Culture Expert.”
+A few years ago, I’d written a couple of pieces about “cancel culture,” and suddenly people were asking to interview me about the phenomenon. I was unsure whether to do these interviews. I was just a PhD student studying psychology, and didn’t feel I necessarily had special insight into a relatively novel phenomenon. A friend of mine who is a professor said, “Look Rob, if you don’t do these interviews they’re just going to find someone else to speak with. And who knows what type of person that might be.” So I agreed to the interviews. The most surreal moment was on a video stream where the banner read something like “[[Cards/Rob Henderson\|Rob Henderson]]: Cancel Culture Expert.”
 
 * **The stuff of which successful politicians are made**.
 
