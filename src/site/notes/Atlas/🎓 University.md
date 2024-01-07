@@ -9,7 +9,7 @@
 | ------------------------------------------------------------------------------------------- | ------------------------ |
 | [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                       | <ul><li>LFS122</li></ul> |
 | [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                 | <ul><li>LFS112</li></ul> |
-| [[Spaces/University/Classes/Current/Science Research Methods\|Science Research Methods]] | SCI110                   |
+| [[Spaces/University/Classes/Current/Science Research Methods\|Science Research Methods]] | <ul><li>SCI110</li></ul> |
 | [[Spaces/University/Classes/Current/Introductory Bioscience\|Introductory Bioscience]]   | <ul><li>LFS103</li></ul> |
 
 { .block-language-dataview}
