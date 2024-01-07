@@ -18,7 +18,7 @@
 > "The [[Cards/Liver\|liver]] can metabolise about one standard drink of [[Cards/Alcohol\|alcohol]] per hour”
 
 > [!quote] [@leedaffin2023-LFS122M11T3Pancreas]
-> "Lobules are the functional units of the liver. Each lobule is made up of millions of hepatic cells (hepatocytes) which are the basic metabolic cells. The lobules are held together by a fine dense irregular connective tissue layer. The whole surface of the liver is covered in a serous coat derived from peritoneum." 
+> "Lobules are the functional units of the liver. Each lobule is made up of millions of hepatic cells (hepatocytes) which are the basic metabolic cells. The lobules are held together by a fine dense irregular connective tissue layer. The whole surface of the liver is covered in a serous coat derived from [[Cards/Peritoneum\|peritoneum]]." 
 
 - [[Cards/Glycine\|Glycine]] protects the [[Cards/Liver\|Liver]] from [[Cards/Alcohol\|Alcohol]] damage.
 
