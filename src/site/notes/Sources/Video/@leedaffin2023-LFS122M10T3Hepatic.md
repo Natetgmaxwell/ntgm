@@ -56,7 +56,7 @@
 > Superior Mesenteric Vein  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> Inferior Mesenteric Vein  
+> [[Cards/Inferior Mesenteric Vein\|Inferior Mesenteric Vein]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > Splenic Vein  
