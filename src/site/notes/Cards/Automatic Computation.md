@@ -5,7 +5,7 @@
 # Automatic Computation
 
 > [!ontology]
-> up:: [[• Inbox/Computation\|Computation]]
+> up:: [[Cards/Computation\|Computation]]
 > jump:: [[Cards/Thin Slicing\|Thin Slicing]], [[Cards/Conscience Computation\|Conscience Computation]]
 > down:: 
 
@@ -23,7 +23,7 @@
 
 | Outgoing Links                                              |
 | ----------------------------------------------------------- |
-| [[• Inbox/Computation\|Computation]]                     |
+| [[Cards/Computation\|Computation]]                       |
 | [[Cards/Conscience Computation\|Conscience Computation]] |
 | [[Cards/Thin Slicing\|Thin Slicing]]                     |
 
