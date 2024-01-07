@@ -67,7 +67,7 @@
 - [[Cards/Small Saphenous Vein\|Small Saphenous Vein]]
 #### Transition Points
 - [[Cards/Femoral Triangle\|Femoral Triangle]]
-- [[• Inbox/Adductor Canal\|Adductor Canal]]
+- [[Cards/Adductor Canal\|Adductor Canal]]
 - [[Cards/Popliteal Fossa\|Popliteal Fossa]]
 - [[Cards/Cuboidal Fossa\|Cuboidal Fossa]]
 # Annotations  
@@ -163,7 +163,7 @@
 >   
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> [[• Inbox/Adductor Canal\|adductor canal]]  
+> [[Cards/Adductor Canal\|Adductor Canal]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > [[Cards/Popliteal Fossa\|Popliteal Fossa]]  
