@@ -32,5 +32,5 @@
 
 ## Flashcards
 
-What are the five major peritoneal folds?;;The five major peritoneal folds are the parietal peritoneum, visceral peritoneum, greater omentum, lesser omentum, and mesentery.
+What are the five major peritoneal folds?;;The five major peritoneal folds are the parietal peritoneum, visceral peritoneum, greater omentum, [[Cards/Lesser Omentum\|lesser omentum]], and mesentery.
 
