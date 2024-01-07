@@ -37,7 +37,7 @@
 - [[Cards/Falciform Ligament\|Falciform Ligament]] (Separates the [[Cards/Left Lobe of the Liver\|Left Lobe of the Liver]] from the [[Cards/Right Lobe of the Liver\|Right Lobe of the Liver]])
 
 > [!quote] [@leedaffin2023-LFS122M11T3Pancreas]
-> "Lobules are the functional units of the liver. Each lobule is made up of millions of hepatic cells (hepatocytes) which are the basic metabolic cells. The lobules are held together by a fine dense irregular connective tissue layer. The whole surface of the liver is covered in a serous coat derived from peritoneum." 
+> "Lobules are the functional units of the liver. Each lobule is made up of millions of hepatic cells (hepatocytes) which are the basic metabolic cells. The lobules are held together by a fine dense irregular connective tissue layer. The whole surface of the liver is covered in a serous coat derived from [[Cards/Peritoneum\|peritoneum]]." 
 #### Structures of the [[Cards/Gallbladder\|Gallbladder]]
 - The [[Cards/Gallbladder\|Gallbladder]] is situated below the larger [[Cards/Right Lobe of the Liver\|Right Lobe of the Liver]]
 - Open End (tapers) -> [[Cards/Cystic Duct\|Cystic Duct]] -> [[Cards/Bile Duct\|Bile Duct]] (uniting with the [[Cards/Common Hepatic Duct\|Common Hepatic Duct]])
@@ -67,7 +67,7 @@
 > Right Lobe (1) Left Lobe (2) Quadrate Lobe (3) Caudate Lobe (4)  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> Lobules are the functional units of the liver. Each lobule is made up of millions of hepatic cells (hepatocytes) which are the basic metabolic cells. The lobules are held together by a fine dense irregular connective tissue layer. The whole surface of the liver is covered in a serous coat derived from peritoneum.  
+> Lobules are the functional units of the liver. Each lobule is made up of millions of hepatic cells (hepatocytes) which are the basic metabolic cells. The lobules are held together by a fine dense irregular connective tissue layer. The whole surface of the liver is covered in a serous coat derived from [[Cards/Peritoneum\|peritoneum]].  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > The [[Cards/Gallbladder\|gallbladder]] is a hollow tapered sac shaped organ that sits in a shallow depression below the right lobe of the liver.  
