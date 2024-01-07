@@ -26,7 +26,7 @@
 ## Sections of the [[Cards/Heart\|Heart]]
 - [[Cards/Right atrium\|Right atrium]]
 - [[Cards/Left atrium\|Left atrium]]
-- [[Cards/Right ventricle\|Right ventricle]]
+- [[Cards/Right Ventricle\|Right Ventricle]]
 - [[Cards/Left ventricle\|Left ventricle]]
 
 ## Layers of the [[Cards/Heart\|Heart]]
@@ -45,5 +45,5 @@
 
 ## Flashcards
 
-What are the four heart chambers, and what are their functions?;;The four heart chambers are the left atrium, right atrium, left ventricle, and right ventricle. The atria receive blood, and the ventricles pump it. The left side pumps oxygenated blood to the body, while the right side pumps deoxygenated blood to the lungs.
+What are the four heart chambers, and what are their functions?;;The four heart chambers are the left atrium, right atrium, left ventricle, and [[Cards/Right Ventricle\|right ventricle]]. The atria receive blood, and the ventricles pump it. The left side pumps oxygenated blood to the body, while the right side pumps deoxygenated blood to the lungs.
 <!--SR:!2023-11-03,13,170-->
