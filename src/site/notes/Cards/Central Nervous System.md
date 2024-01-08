@@ -74,7 +74,6 @@
 
 | Sources                                                                                     |
 | ------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@chrisaskewLFS112M3T1Functional\|@chrisaskewLFS112M3T1Functional]]       |
 | [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]] |
 | [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]               |
 | [[Sources/Articles/EffectsAlcoholBody\|EffectsAlcoholBody]]                              |
