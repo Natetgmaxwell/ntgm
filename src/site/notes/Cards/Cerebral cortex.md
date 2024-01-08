@@ -28,6 +28,9 @@
 | [[Extras/Excalidraw/Brain Diagram.excalidraw\|Brain Diagram.excalidraw]]                                       |
 | [[Cards/Central Nervous System\|Central Nervous System]]                                                       |
 | [[Cards/Conscious Breathing\|Conscious Breathing]]                                                             |
+| [[Cards/Cranial Gyri\|Cranial Gyri]]                                                                           |
+| [[Cards/Cranial Sulci\|Cranial Sulci]]                                                                         |
+| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                                             |
 | [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                       |
 | [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
 | [[Cards/Long-term memory\|Long-term memory]]                                                                   |
