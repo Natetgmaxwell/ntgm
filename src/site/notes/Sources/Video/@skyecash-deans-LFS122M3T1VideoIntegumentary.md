@@ -330,7 +330,7 @@ We'll talk about [[Cards/Ultra Violet radiation\|UV]] radiation a little bit mor
 
 We also are able to regulate our body temperature through a couple of different mechanisms.
 
-We have our sweat and also through our circulatory system.
+We have our sweat and also through our [[Cards/Cardiovascular System\|circulatory system]].
 
 We're also able to do excretion and secretion so this can include things like our sweat we are actually are able to also absorb some of those lipid soluble products so that can be in the way of dermal patches or if it's detrimental it can be things like those heavy metal salts like lead and mercury.
 
