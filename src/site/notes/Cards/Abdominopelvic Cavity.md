@@ -7,7 +7,7 @@
 > [!ontology]+
 > up:: 
 > jump:: 
-> down:: 
+> down:: [[Cards/Abdominal Cavity\|Abdominal Cavity]], [[Pelvic Cavity\|Pelvic Cavity]]
 
 > [!Definition] Definition
 > 
