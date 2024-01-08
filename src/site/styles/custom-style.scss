@@ -8,7 +8,7 @@ body {
     //   font-size: 14px;
     //  }
 
-    --background-primary: #14171c;
+    --background-primary: #0e1014;
     --text-accent: #5fa0ff !important;
     --link-color-hover: #ffaf00 !important;
     
@@ -16,13 +16,35 @@ body {
     
     font-family: "iA Writer Quattro";
 
-    --h2-color: #ffaf00 !important;
+    //H1
+    
+    --h1-color: #f9f9f9 !important;
+    --h1-size: 1.6em;
+    --h1-weight: 700;
+    
+    //H2
+    
+    --h2-color: #FFA421 !important;
+    --h2-size: 1.25em;
+    --h2-weight: 650;
 
-    //H4 Settings
-     --h4-color: #DD8D31;
-    --h4-style: italic !important;
-    --h4-line-height: 1.25 !important;
-    --h4-weight: 400 !important;
+    //H3
+    
+    --h2-color: #4990BF !important;
+    --h2-size: 1.1em;
+    --h2-weight: 540;
+
+    //H4
+    
+    --h4-color: #d6d6d6 !important;
+    --h4-size: 1.2em;
+    --h2-weight: 625;
+    
+    //H5 Settings
+    --h5-color: #DD8D31;
+    --h5-style: italic !important;
+    --h5-size: 1.25 !important;
+    --h5-weight: 400 !important;
     
       .content {
         font-family: "iA Writer Quattro";
