@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/respiratory-system/","tags":["Uni/LFS112","Uni/HBIO1010"]}
 ---
 
-# Respiratory System
+# Respiratory system
 
 > [!Ontology]
 > up:: [[Cards/Organ Systems\|Organ Systems]]
