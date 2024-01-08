@@ -8,20 +8,20 @@ body {
     //   font-size: 14px;
     //  }
 
-    --background-primary: #1E293B;
-    --text-accent: #5fa0ff;
-    --link-color-hover: #ffaf00;
+    --background-primary: #1E293B !important;
+    --text-accent: #5fa0ff !important;
+    --link-color-hover: #ffaf00 !important;
     
-    --link-color: #5fa0ff;
+    --link-color: #5fa0ff !important;
     
     font-family: "iA Writer Quattro";
 
     --h2-color: #ffaf00 !important;
 
     //H4 Settings
-    --h4-style: italic;
-    --h4-line-height: 1.25;
-    --h4-weight: 400;
+    --h4-style: italic !important;
+    --h4-line-height: 1.25 !important;
+    --h4-weight: 400 !important;
     
       .content {
         font-family: "iA Writer Quattro";
