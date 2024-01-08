@@ -15,7 +15,8 @@
 > [[Cards/Homeostasis\|Homeostasis]] is a bodily process in which the body acts to maintain [[Cards/Equilibrium\|Equilibrium]] despite the external environment. 
 { #b9e926}
 
-
+> [!quote] [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]]
+> Homeostasis = “the existence of a stable internal environment”
 ## Types of Homeostasis
 1. [[Cards/Osmoregulation\|Osmoregulation]]
 2. [[Cards/Thermoregulation\|Thermoregulation]]
