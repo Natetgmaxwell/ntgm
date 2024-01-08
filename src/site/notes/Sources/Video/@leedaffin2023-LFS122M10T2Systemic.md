@@ -122,7 +122,7 @@
 > Veins are also called "capacitance vessels" because most of the blood volume (60%) is contained within veins.  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> The return of blood to the heart is assisted by the action of the muscle pump, and by the thoracic pump action of breathing during respiration.  
+> The return of blood to the heart is assisted by the action of the muscle pump, and by the thoracic pump action of breathing during [[Cards/Respiration\|respiration]].  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > [[Cards/Inferior Vena Cava\|inferior vena cava]]  
