@@ -28,8 +28,8 @@
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------- |
 | <ul><li>Fundamentals of anatomy & physiology</li></ul>                          | [[Sources/Books/@martini2015-FundamentalsAnatomyPhysiology\|@martini2015-FundamentalsAnatomyPhysiology]] | true      |
 | <ul><li>LFS112 M12T1 Core principles of sensory physiology</li></ul>            | [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]]                 | true      |
-| <ul><li>LFS112 M1T1 Video Core principles in physiology</li></ul>               | [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]]                             | \-        |
-| <ul><li>LFS112 M3T1 Functional organisation of skeletal muscle fibres</li></ul> | [[Sources/Video/@chrisaskewLFS112M3T1Functional\|@chrisaskewLFS112M3T1Functional]]                       | \-        |
+| <ul><li>LFS112 M1T1 Video Core principles in physiology</li></ul>               | [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]]                             | true      |
+| <ul><li>LFS112 M3T1 Functional organisation of skeletal muscle fibres</li></ul> | [[Sources/Video/@chrisaskewLFS112M3T1Functional\|@chrisaskewLFS112M3T1Functional]]                       | true      |
 | <ul><li>LFS112 M4T1 Overview of the Endocrine System</li></ul>                  | [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]                                             | true      |
 | <ul><li>LFS112 M4T2 Hypothalamus and Pituitary</li></ul>                        | [[Sources/Video/@-LFS112M4T2Hypothalamus\|@-LFS112M4T2Hypothalamus]]                                     | true      |
 | <ul><li>LFS112 M4T3 Thyroid and Parathyroid glands</li></ul>                    | [[Sources/Video/@2023-LFS112M4T3Thyroid\|@2023-LFS112M4T3Thyroid]]                                       | true      |
@@ -37,7 +37,7 @@
 | <ul><li>LFS112 M4T5 Endocrine Pancreas</li></ul>                                | [[Sources/Video/@-LFS112M4T5Endocrine\|@-LFS112M4T5Endocrine]]                                           | true      |
 | <ul><li>LFS112 M5T1 Building blocks of life</li></ul>                           | [[Sources/Video/@2023-LFS112M5T1Building\|@2023-LFS112M5T1Building]]                                     | true      |
 | <ul><li>LFS112 M5T2 Chemical reactions in the body + enzymes</li></ul>          | [[Sources/Video/@2023-LFS112M5T2Chemical\|@2023-LFS112M5T2Chemical]]                                     | true      |
-| <ul><li>LFS112 M5T3 ATP</li></ul>                                               | [[Sources/Video/@nicolemastersLFS112M5T3ATP2023\|@nicolemastersLFS112M5T3ATP2023]]                       | \-        |
+| <ul><li>LFS112 M5T3 ATP</li></ul>                                               | [[Sources/Video/@nicolemastersLFS112M5T3ATP2023\|@nicolemastersLFS112M5T3ATP2023]]                       | true      |
 | <ul><li>LFS112 M6T1 Blood function + Components</li></ul>                       | [[Sources/Video/@2023-LFS112M6T1Blood\|@2023-LFS112M6T1Blood]]                                           | true      |
 | <ul><li>LFS112 M6T2 Red blood cells + oxygen transport</li></ul>                | [[Sources/Video/@2023-LFS112M6T2Red\|@2023-LFS112M6T2Red]]                                               | true      |
 | <ul><li>LFS112 M6T3 Platelets and haemostasis</li></ul>                         | [[Sources/Video/@2023-LFS112M6T3Platelets\|@2023-LFS112M6T3Platelets]]                                   | true      |
