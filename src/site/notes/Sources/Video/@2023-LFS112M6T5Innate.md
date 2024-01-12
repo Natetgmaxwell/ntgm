@@ -40,7 +40,7 @@
     - Eosinophils
         
         - Release toxic chemicals
-    - Basophils
+    - [[Cards/Basophils\|Basophils]]
     - MAST cells
     - Macrophages
         
@@ -79,7 +79,7 @@
 > Non-specific defences  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> Cellular components – Neutrophils, Eosinophils, Basophils, Mast Cells, Macrophages, Dendritic Cells, Natural Killer Cells  
+> Cellular components – Neutrophils, Eosinophils, [[Cards/Basophils\|Basophils]], Mast Cells, Macrophages, Dendritic Cells, Natural Killer Cells  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > First lines of defence • Skin – [[Cards/Keratin\|Keratin]], [[Cards/Sebaceous glands\|sebaceous glands]] • Secretions – Tears, saliva, contain antimicrobial enzymes • Mucus, Cilia – E.g. in respiratory passage, trap and expel microorganisms • Changes in pH – E.g. [[Cards/Stomach\|stomach]] acid (pH 2), inhibits microbial growth • Microbiota – ‘Normal flora’ compete with pathogens  
@@ -88,7 +88,7 @@
 > “Apprehend the target” – By Phagocytosis (neutrophils, macrophages, dendritic cells) – By releasing toxic chemicals that destroy pathogen (eosinophils, natural killer cells, macrophages)  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> “Sound the alarm” – Present antigen to initiate adaptive immune response (macrophages, dendritic cells) – Release mediators that promote inflammation (mast cells, basophils, eosinophils, neutrophils)  
+> “Sound the alarm” – Present antigen to initiate adaptive immune response (macrophages, dendritic cells) – Release mediators that promote inflammation (mast cells, [[Cards/Basophils\|basophils]], eosinophils, neutrophils)  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > Neutrophils and phagocytosis  
