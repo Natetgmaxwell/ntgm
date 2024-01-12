@@ -16,7 +16,6 @@
 - 
 
 ## Mentions
-- [[Sources/Books/Outlive by Peter Attia Bill Gifford\|Outlive by Peter Attia Bill Gifford]]
 
 { .block-language-dataview}
 
