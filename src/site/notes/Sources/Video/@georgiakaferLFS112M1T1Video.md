@@ -1433,7 +1433,7 @@ I hope that you have enjoyed it and that you are ready for the next part, which 
 
 339
 00:26:30,760 --> 00:26:35,720
-1.2, where we're going to look at the integumentary system, which is, like I said, just a fancy
+1.2, where we're going to look at the [[Cards/Integumentary System\|integumentary system]], which is, like I said, just a fancy
 
 340
 00:26:35,720 --> 00:26:36,720
