@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/flavin-adenine-dinucleotide/"}
 ---
 
-# Flavin Adenine Dinucleotide
+# Flavin adenine dinucleotide
 
 > [!ontology]+
 > up:: 
