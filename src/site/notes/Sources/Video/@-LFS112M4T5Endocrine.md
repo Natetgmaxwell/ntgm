@@ -36,7 +36,7 @@ Zotero Link: [-LFS112M4T5EndocrinePancreas.pdf](zotero://select/library/items/U4
 
 
 
-> *"α-cells produce glucagon"*
+> *"α-cells produce [[Cards/Glucagon\|glucagon]]"*
 > 
 > 
 
@@ -118,7 +118,7 @@ Zotero Link: [-LFS112M4T5EndocrinePancreas.pdf](zotero://select/library/items/U4
 
 
 
-> *"glucagon"*
+> *"[[Cards/Glucagon\|glucagon]]"*
 > 
 > 
 
@@ -132,7 +132,7 @@ Zotero Link: [-LFS112M4T5EndocrinePancreas.pdf](zotero://select/library/items/U4
 
 
 
-> *"Glycogenolysis: breakdown of glycogen to glucose (mainly liver) – [[Cards/Gluconeogenesis\|Gluconeogenesis]]: synthesis of new glucose from lactic acid & non- carbohydrate sources (liver) – Breakdown of triglycerides into fatty acids (adipose)"*
+> *"Glycogenolysis: breakdown of glycogen to glucose (mainly liver) – [[Cards/Gluconeogenesis\|Gluconeogenesis]]: synthesis of new glucose from lactic acid & non- carbohydrate sources (liver) – Breakdown of [[Cards/Triglycerides\|triglycerides]] into fatty acids (adipose)"*
 > 
 > 
 
