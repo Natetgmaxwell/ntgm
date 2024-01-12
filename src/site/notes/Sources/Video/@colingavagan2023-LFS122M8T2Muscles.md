@@ -39,7 +39,7 @@
     
     - Greater subercle
     - Infraspinous fossa
-- Teres Minor
+- [[Cards/Teres Minor\|Teres Minor]]
     
     - Lateral border of the [[Cards/Scapula\|scapula]]
     - [[Cards/Greater Tubercle of the Humerus\|greater tubercle]]
@@ -75,7 +75,7 @@
 > [[Cards/Infraspinatus\|Infraspinatus]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> Teres Minor  
+> [[Cards/Teres Minor\|Teres Minor]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > Subscapularis  
@@ -90,16 +90,16 @@
 > The [[Cards/Supraspinatus\|Supraspinatus]] attaches to the superiorly on the [[Cards/Greater Tubercle of the Humerus\|greater tubercle]] as well as on the Glenohumeral [[Cards/Articular capsule\|joint capsule]].  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> The [[Cards/Infraspinatus\|infraspinatus]] attaches to the [[Cards/Greater Tubercle of the Humerus\|greater tubercle]] between the [[Cards/Supraspinatus\|supraspinatus]] (superiorly) and the teres minor (inferiorly).  
+> The [[Cards/Infraspinatus\|infraspinatus]] attaches to the [[Cards/Greater Tubercle of the Humerus\|greater tubercle]] between the [[Cards/Supraspinatus\|supraspinatus]] (superiorly) and the [[Cards/Teres Minor\|teres minor]] (inferiorly).  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> The teres minor (Latin meaning 'rounded') is a narrow, elongated, deep round muscle. It is frequently fused with the inferior lateral border of the [[Cards/Infraspinatus\|infraspinatus]]. It assists the [[Cards/Infraspinatus\|infraspinatus]] with external (lateral) rotation of the [[Cards/Glenohumeral Joint\|glenohumeral joint]]. It is innervated by the Axillary N. a posterior terminal branch of the [[Cards/Brachial Plexus\|Brachial Plexus]].  
+> The [[Cards/Teres Minor\|teres minor]] (Latin meaning 'rounded') is a narrow, elongated, deep round muscle. It is frequently fused with the inferior lateral border of the [[Cards/Infraspinatus\|infraspinatus]]. It assists the [[Cards/Infraspinatus\|infraspinatus]] with external (lateral) rotation of the [[Cards/Glenohumeral Joint\|glenohumeral joint]]. It is innervated by the Axillary N. a posterior terminal branch of the [[Cards/Brachial Plexus\|Brachial Plexus]].  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> The teres minor attaches to the lateral border of the [[Cards/Scapula\|scapula]] to the [[Cards/Greater Tubercle of the Humerus\|greater tubercle]]. It attaches to the [[Cards/Greater Tubercle of the Humerus\|greater tubercle]] inferiorly to both the [[Cards/Supraspinatus\|supraspinatus]] and [[Cards/Infraspinatus\|infraspinatus]].  
+> The [[Cards/Teres Minor\|teres minor]] attaches to the lateral border of the [[Cards/Scapula\|scapula]] to the [[Cards/Greater Tubercle of the Humerus\|greater tubercle]]. It attaches to the [[Cards/Greater Tubercle of the Humerus\|greater tubercle]] inferiorly to both the [[Cards/Supraspinatus\|supraspinatus]] and [[Cards/Infraspinatus\|infraspinatus]].  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> The Teres Minor attaches to the [[Cards/Greater Tubercle of the Humerus\|greater tubercle]] inferiorly and more posteriorly to the [[Cards/Infraspinatus\|Infraspinatus]] as well as on the Glenohumeral [[Cards/Articular capsule\|joint capsule]].  
+> The [[Cards/Teres Minor\|Teres Minor]] attaches to the [[Cards/Greater Tubercle of the Humerus\|greater tubercle]] inferiorly and more posteriorly to the [[Cards/Infraspinatus\|Infraspinatus]] as well as on the Glenohumeral [[Cards/Articular capsule\|joint capsule]].  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > Deltoid  
@@ -114,7 +114,7 @@
 > Teres Major  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> It attaches inferiorly to the teres minor on the lateral border.  
+> It attaches inferiorly to the [[Cards/Teres Minor\|teres minor]] on the lateral border.  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > It assists the latissimus dorsi in extension, internal rotation and adduction of the [[Cards/Humerus\|humerus]]  
