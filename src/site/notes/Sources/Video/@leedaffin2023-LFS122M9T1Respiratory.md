@@ -155,7 +155,7 @@
 >   
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> Epiglottis  
+> [[Cards/Epiglottis\|Epiglottis]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > Hyoid Bone  
