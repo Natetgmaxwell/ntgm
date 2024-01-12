@@ -54,7 +54,7 @@
 
 ### 1. [[Cards/Homeostasis\|Homeostasis]] & the [[Cards/Integumentary System\|Integumentary System]]
 
-###### What are the functions of the integumentary system, including its accessory structures?
+###### What are the functions of the [[Cards/Integumentary System\|integumentary system]], including its accessory structures?
 
 - The functions of the [[Cards/Integumentary System\|Integumentary System]] include; Sensory, [[Cards/Thermoregulation\|Thermoregulation]], [[Cards/Vitamin D\|Vitamin D]] synthesis and Protection.
 
