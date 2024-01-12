@@ -280,7 +280,7 @@
 
 > [!yellow] Page 179
 > 
-> First, facing a problem, conflict, or some exciting opportunity, we train ourselves to detach from the heat of the moment. We work to calm down our excitement or our fear. We get some distance. 
+> First, facing a problem, conflict, or some exciting opportunity, we train ourselves to detach from the heat of the moment. We work to calm down our excitement or our [[Cards/Fear\|fear]]. We get some distance. 
 > Next, we start to deepen and widen our perspective. In considering the nature of the problem we are confronting, we don’t just grab for an immediate explanation, but instead we dig deeper and consider other possibilities, other possible motivations for the people involved. We force ourselves to look at the overall context of the event, not just what immediately grabs our attention. We imagine as best we can the negative consequences of the various strategies we are contemplating.
 >
 { #XZLW5ZIVaMTKQ4SA3p179}
