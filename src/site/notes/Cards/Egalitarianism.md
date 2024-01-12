@@ -10,7 +10,7 @@
 > down:: 
 
 - The concept of social [[Cards/Equality\|Equality]]
-- [[Sources/Books/Nineteen Eighty-Four by George Orwell\|1984]] depicts a world with no sense of [[Cards/Equality\|Equality]], where the people are divided by the [[Cards/Social Hierarchy\|Social Hierarchy]]
+- [[Sources/@georgeorwell1949NineteenEightyfour\|1984]] depicts a world with no sense of [[Cards/Equality\|Equality]], where the people are divided by the [[Cards/Social Hierarchy\|Social Hierarchy]]
 
 # Reference
 - [[Cards/Democracy\|Democracy]]
