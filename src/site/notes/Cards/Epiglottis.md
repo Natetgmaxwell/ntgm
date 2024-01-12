@@ -1,0 +1,41 @@
+---
+{"dg-publish":true,"permalink":"/cards/epiglottis/","tags":["Uni/LFS122"]}
+---
+
+# Epiglottis
+
+> [!Ontology]
+> up:: [[Cards/Cartilage\|Cartilage]]
+> jump:: [[Cards/Digestive System\|Digestive System]], [[Cards/Respiratory system\|Respiratory system]]
+> down:: 
+
+> [!Definition] Definition
+> The [[Cards/Cartilage\|Cartilage]] in the back of the throat the separated the [[Cards/Digestive System\|Digestive System]] and the [[Extras/Excalidraw/Respiratory System Diagram\|Respiratory System Diagram]].
+
+# Reference
+- 
+
+## Mentions
+| Incoming Links                                                        |
+| --------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
+| [[Cards/Larynx\|Larynx]]                                           |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                                                  |
+| ------------------------------------------------------------------------------- |
+| [[Cards/Cartilage\|Cartilage]]                                               |
+| [[Cards/Digestive System\|Digestive System]]                                 |
+| [[Cards/Respiratory system\|Respiratory system]]                             |
+| [[Extras/Excalidraw/Respiratory System Diagram\|Respiratory System Diagram]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                                         |
+| ----------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffin2023-LFS122M9T1Respiratory\|@leedaffin2023-LFS122M9T1Respiratory]] |
+
+{ .block-language-dataview}
+
+## Flashcards
