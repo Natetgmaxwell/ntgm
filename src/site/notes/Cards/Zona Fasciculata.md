@@ -5,7 +5,7 @@
 # Zona Fasciculata
 
 > [!ontology]+
-> up:: [[Cards/Adrenal Cortex\|Adrenal Cortex]]
+> up:: [[Cards/Adrenal Cortex#Regions of the Adrenal Cortex\|Adrenal Cortex#Regions of the Adrenal Cortex]]
 > jump:: 
 > down:: 
 
