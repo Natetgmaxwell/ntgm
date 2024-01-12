@@ -82,7 +82,7 @@
 > Spleen  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> Appendix  
+> [[Cards/Vermiform Appendix\|Appendix]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > Lymph nodes  
