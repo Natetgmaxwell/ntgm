@@ -51,9 +51,7 @@
 - 
 
 ## Mentions
-- [[Sources/Articles/2014ZoneTrainingEnduranceAthletesBuild-bettin\|2014ZoneTrainingEnduranceAthletesBuild-bettin]]
 - [[Sources/Books/Anatomy Skeletal Muscle\|Anatomy Skeletal Muscle]]
-- [[Sources/Research Papers/@trotter1992-FunctionalMorphologyEndomysium\|@trotter1992-FunctionalMorphologyEndomysium]]
 
 { .block-language-dataview}
 
