@@ -12,7 +12,7 @@
 | [[Sources/Books/Respiratory Contagion by Mieczyslaw Pokorski\|Respiratory Contagion by Mieczyslaw Pokorski]]                     | Non-Fiction |
 | [[Sources/Books/Red Rising by Pierce Brown\|Red Rising by Pierce Brown]]                                                         | Fiction     |
 | [[Sources/Books/Physiological Aspects of Legged Terrestrial Locomotion\|Physiological Aspects of Legged Terrestrial Locomotion]] | Non-Fiction |
-| [[Sources/Books/Nineteen Eighty-Four by George Orwell\|Nineteen Eighty-Four by George Orwell]]                                   | Fiction     |
+| [[Sources/Books/NEUROENDOCRINOLOGY OF STRESS\|NEUROENDOCRINOLOGY OF STRESS]]                                                     | Non-Fiction |
 
 { .block-language-dataview}
 
@@ -29,14 +29,14 @@
 { .block-language-dataview}
 
 ## Articles
-| Title                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------- |
-| [[Sources/Articles/@teamultrahuman2022-IdealGlucoseRange\|@teamultrahuman2022-IdealGlucoseRange]]       |
-| [[Sources/Articles/@laurabaisas2022-SexNotViolence\|@laurabaisas2022-SexNotViolence]]                   |
-| [[Sources/Articles/@greenfield2022-JamesDiNicolantonioDirt\|@greenfield2022-JamesDiNicolantonioDirt]]   |
-| [[Sources/Articles/@bariso2022-EmotionallyIntelligentPeople\|@bariso2022-EmotionallyIntelligentPeople]] |
-| [[Sources/Articles/@henderson2022-DawnEverythingNew\|@henderson2022-DawnEverythingNew]]                 |
-| [[Sources/Research Papers/@acsmOneExerciseYou2022\|@acsmOneExerciseYou2022]]                            |
+| Title                                                                                                |
+| ---------------------------------------------------------------------------------------------------- |
+| [[Sources/@nesporMedicalTreatmentsLate2013\|@nesporMedicalTreatmentsLate2013]]                    |
+| [[Sources/@CerebrovascularAccidentSymptoms2018\|@CerebrovascularAccidentSymptoms2018]]            |
+| [[Sources/@bettinZoneTrainingEndurance2014\|@bettinZoneTrainingEndurance2014]]                    |
+| [[Sources/Articles/@teamultrahuman2022-IdealGlucoseRange\|@teamultrahuman2022-IdealGlucoseRange]] |
+| [[Sources/Articles/@laurabaisas2022-SexNotViolence\|@laurabaisas2022-SexNotViolence]]             |
+| [[Sources/Articles/@henderson2022-DawnEverythingNew\|@henderson2022-DawnEverythingNew]]           |
 
 { .block-language-dataview}
 
@@ -53,11 +53,11 @@
 ## Research Papers
 | File                                                                                                  | Keywords                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/@trotterFunctionalMorphologyEndomysium1992\|@trotterFunctionalMorphologyEndomysium1992]] | <ul><li>Animals</li><li>Female</li><li>Connective Tissue</li><li>Cats</li><li>Microscopy</li><li>Electron</li><li>Microscopy</li><li>Electron</li><li>Scanning</li><li>Muscles</li></ul>                                                                                                                                                                                                                                                                                                             |
+| [[Sources/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]                             | <ul></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | [[Sources/@xiaomengliu2023UpdateBrownAdipose\|@xiaomengliu2023UpdateBrownAdipose]]                 | <ul></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | [[Sources/@zhu2010IntermittentHypoxiaPromotes\|@zhu2010IntermittentHypoxiaPromotes]]               | <ul><li>Animals</li><li>Male</li><li>Rats</li><li>Stress</li><li>Physiological</li><li>Stress</li><li>Psychological</li><li>Brain-Derived Neurotrophic Factor</li><li>Analysis of Variance</li><li>Rats</li><li>Wistar</li><li>Antidepressive Agents</li><li>Behavior</li><li>Animal</li><li>Fluoxetine</li><li>Hippocampus</li><li>Hypoxia</li><li>Immunohistochemistry</li><li>In Situ Nick-End Labeling</li><li>Motor Activity</li><li>Neurogenesis</li><li>Rats</li><li>Sprague-Dawley</li></ul> |
 | [[Sources/@pangMitochondriaHomeostasisOxidant2021\|@pangMitochondriaHomeostasisOxidant2021]]       | <ul></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | [[Sources/Research Papers/@rattanTestingHormeticNature2010\|@rattanTestingHormeticNature2010]]     | <ul><li>✅</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| [[Sources/Research Papers/@perez2019EffectsBeetrootJuice\|@perez2019EffectsBeetrootJuice]]         | <ul><li>performance</li><li>Nitric oxide</li><li>ergogenic aid</li><li>supplement</li><li>aerobic capacity</li></ul>                                                                                                                                                                                                                                                                                                                                                                                 |
-| [[Sources/Research Papers/@ok2021SignalingVirtuousVictimhood\|@ok2021SignalingVirtuousVictimhood]] | <ul><li>dark triad</li><li>unethical behaviour</li><li>victim-signaling</li><li>virtue-signaling</li></ul>                                                                                                                                                                                                                                                                                                                                                                                           |
 
 { .block-language-dataview}
