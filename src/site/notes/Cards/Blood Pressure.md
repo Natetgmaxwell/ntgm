@@ -43,7 +43,6 @@
 - [[Sources/Articles/The Harm Caused by Masks - City Journal\|The Harm Caused by Masks - City Journal]]
 - [[Sources/Articles/VagusNerveEverything\|VagusNerveEverything]]
 - [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
-- [[Sources/Books/Outlive by Peter Attia Bill Gifford\|Outlive by Peter Attia Bill Gifford]]
 - [[Sources/Podcasts/Podcast Episodes/A Behavioral Psychologist s Tips to Identifying and Managing Stress Styles with Dr. Jemma King\|A Behavioral Psychologist s Tips to Identifying and Managing Stress Styles with Dr. Jemma King]]
 
 { .block-language-dataview}
