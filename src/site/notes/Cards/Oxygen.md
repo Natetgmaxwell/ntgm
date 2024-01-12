@@ -18,7 +18,6 @@ Chemical Symbol: $O_2$
 - [[Cards/Cardiovascular System\|Cardiovascular System]]
 
 ## Mentions
-- [[Sources/Articles/2018CerebrovascularAccidentSymptomsTreatmentPrevention-\|2018CerebrovascularAccidentSymptomsTreatmentPrevention-]]
 - [[Sources/Articles/Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX\|Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX]]
 - [[Sources/Articles/What Chemical Elements Make up the Human Body?\|What Chemical Elements Make up the Human Body?]]
 
