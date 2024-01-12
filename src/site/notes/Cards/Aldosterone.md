@@ -20,15 +20,15 @@
 | ------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Aldosterone's effect on Blood Pressure\|Aldosterone's effect on Blood Pressure]]                   |
 | [[Cards/Aldosterone's effect on Sodium\|Aldosterone's effect on Sodium]]                                   |
-| [[Cards/Distal Convoluted Tubule\|Distal Convoluted Tubule]]                                               |
 | [[Spaces/University/Classes/Archive/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
 
 { .block-language-dataview}
 
-| Outgoing Links                              |
-| ------------------------------------------- |
-| [[Cards/Lipid Hormones\|Lipid Hormones]] |
-| [[Cards/Osmoregulation\|Osmoregulation]] |
+| Outgoing Links                                                  |
+| --------------------------------------------------------------- |
+| [[Cards/Distal Convoluted Tubule\|Distal Convoluted Tubule]] |
+| [[Cards/Lipid Hormones\|Lipid Hormones]]                     |
+| [[Cards/Osmoregulation\|Osmoregulation]]                     |
 
 { .block-language-dataview}
 
@@ -44,5 +44,5 @@
 
 ## Flashcards
 
-Which hormone is responsible for the reabsorption of sodium ions in the distal convoluted tubule?;;[[Cards/Aldosterone\|Aldosterone]]
+Which hormone is responsible for the reabsorption of sodium ions in the [[Cards/Distal Convoluted Tubule\|distal convoluted tubule]]?;;[[Cards/Aldosterone\|Aldosterone]]
 <!--SR:!2023-10-22,1,130-->
