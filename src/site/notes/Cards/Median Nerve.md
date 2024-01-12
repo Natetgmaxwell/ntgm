@@ -5,7 +5,7 @@
 # Median Nerve
 
 > [!ontology]
-> up:: 
+> up:: [[Cards/Nerves of the Antebrachium\|Nerves of the Antebrachium]]
 > jump:: 
 > down:: 
 
@@ -30,6 +30,3 @@
 
 What nerve innervates most of the anterior compartment of the [[Cards/Ante-brachium\|Ante-brachium]]?;;[[Cards/Median Nerve\|Median Nerve]]
 <!--SR:!2023-10-25,1,130-->
-
-
-The median nerve innervates most of the anterior compartment of the Ante-brachium.
