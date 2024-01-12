@@ -40,7 +40,6 @@
 
 | Sources                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Research Papers/@kim2023-PhysiologyIntegument\|@kim2023-PhysiologyIntegument]]                                                  |
 | [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]]                              |
 | [[Sources/Articles/My Plan to Slow Down Aging - Richard Hanania's Newsletter\|My Plan to Slow Down Aging - Richard Hanania's Newsletter]] |
 
