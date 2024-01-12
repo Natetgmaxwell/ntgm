@@ -16,7 +16,6 @@
 - [[Cards/Liver\|Liver]]
 
 ## Mentions
-- [[Sources/Books/Outlive by Peter Attia Bill Gifford\|Outlive by Peter Attia Bill Gifford]]
 - [[Sources/Video/@leedaffin2023-LFS122M11T2Oesophagus\|@leedaffin2023-LFS122M11T2Oesophagus]]
 
 { .block-language-dataview}
