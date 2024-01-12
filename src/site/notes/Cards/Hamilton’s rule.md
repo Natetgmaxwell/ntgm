@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/hamilton-s-rule/","tags":["note/seed"]}
 ---
 
-# Hamilton’s Rule
+# Hamilton’s rule
 
 > [!ontology]+
 > up:: [[Cards/Altruism\|Altruism]]
@@ -12,11 +12,29 @@
 > [!Definition] Definition
 > 
 
+> [!quote] [[Sources/Research Papers/@nowak2017GeneralFormHamilton\|@nowak2017GeneralFormHamilton]]
+> Hamilton’s rule asserts that a trait is favored by natural selection if the benefit to others, B, multiplied by relatedness, R, exceeds the cost to self, C.
+
 # Reference
 - 
 
 ## Mentions
-- [[Sources/Research Papers/@nowak2017GeneralFormHamilton\|@nowak2017GeneralFormHamilton]]
+| Incoming Links                                 |
+| ---------------------------------------------- |
+| [[Calendar/2023/Weekly/2023-W42\|2023-W42]] |
+| [[Cards/Kin Selection\|Kin Selection]]      |
+
+{ .block-language-dataview}
+
+| Outgoing Links                  |
+| ------------------------------- |
+| [[Cards/Altruism\|Altruism]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                                     |
+| ------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@nowak2017GeneralFormHamilton\|@nowak2017GeneralFormHamilton]] |
 
 { .block-language-dataview}
 
