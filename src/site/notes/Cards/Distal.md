@@ -18,8 +18,8 @@
 ## Mentions
 | Incoming Links                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------- |
-| [[Cards/Proximal\|Proximal]]                                                                                   |
 | [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Cards/Proximal\|Proximal]]                                                                                   |
 
 { .block-language-dataview}
 
