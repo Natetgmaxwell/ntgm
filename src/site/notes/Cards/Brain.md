@@ -75,7 +75,6 @@
 | Sources                                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Podcasts/Podcast Episodes/ 515   David & Douglas Kenrick   Evolved Psychology Vs The Modern World — Modern Wisdom\| 515   David & Douglas Kenrick   Evolved Psychology Vs The Modern World — Modern Wisdom]] |
-| [[Sources/Articles/2018CerebrovascularAccidentSymptomsTreatmentPrevention-\|2018CerebrovascularAccidentSymptomsTreatmentPrevention-]]                                                                                  |
 | [[Sources/Articles/2019WhyWeFeelPain-thepaincenter\|2019WhyWeFeelPain-thepaincenter]]                                                                                                                                  |
 | [[Sources/Articles/2023WhatBrainFog-jackielam\|2023WhatBrainFog-jackielam]]                                                                                                                                            |
 | [[Sources/Podcasts/Podcast Episodes/654 Dr. Matthew Walker, All Things Sleep Continued\|654 Dr. Matthew Walker, All Things Sleep Continued]]                                                                           |
