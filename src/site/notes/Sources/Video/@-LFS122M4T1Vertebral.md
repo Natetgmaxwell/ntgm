@@ -34,7 +34,7 @@ Zotero Link: [Core_1_Vertebral Column and Ribs.pdf](zotero://select/library/item
 
 
 
-> *"Cervical spine: Thoracic spine: Lumbarspine: Sacrum: Coccyx: 7 vertebrae (C1–C7) 12 vertebrae (T1–T12) 5 vertebrae (L1–L5) 5 (fused) vertebrae (S1–S5) 4 (3–5) (fused) vertebrae"*
+> *"[[Cards/Cervical Spine\|Cervical spine]]: Thoracic spine: Lumbarspine: Sacrum: Coccyx: 7 vertebrae (C1–C7) 12 vertebrae (T1–T12) 5 vertebrae (L1–L5) 5 (fused) vertebrae (S1–S5) 4 (3–5) (fused) vertebrae"*
 > 
 > 
 
