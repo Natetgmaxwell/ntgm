@@ -22,7 +22,6 @@
 - [[Sources/Articles/37TypesHormones2018\|37TypesHormones2018]]
 - [[Sources/Articles/Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX\|Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX]]
 - [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
-- [[Sources/Books/Outlive by Peter Attia Bill Gifford\|Outlive by Peter Attia Bill Gifford]]
 - [[Sources/Podcasts/Podcast Episodes/Understanding & Controlling Aggression   Episode 71\|Understanding & Controlling Aggression   Episode 71]]
 - [[Sources/Research Papers/@nieman2015-CushingSyndromeUpdate\|@nieman2015-CushingSyndromeUpdate]]
 - [[Sources/Research Papers/@russell2019-HumanStressResponse\|@russell2019-HumanStressResponse]]
