@@ -71,7 +71,7 @@
 - Capitate
 - [[Cards/Hamate\|Hamate]]
 - Scaphoid
-- Lunate
+- [[Cards/Lunate\|Lunate]]
 - Triquetrum
 - [[Cards/Pisiform\|Pisiform]]
 
@@ -158,7 +158,7 @@
 >   
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> Distal Row (lateral to medial) 1. Trapezium 2. [[Cards/Trapezoid\|Trapezoid]] 3. Capitate 4. [[Cards/Hamate\|Hamate]]: hamulus of the [[Cards/Hamate\|Hamate]] Proximal Row (lateral to medial) 1. Scaphoid 2. Lunate 3. Triquetrum 4. [[Cards/Pisiform\|Pisiform]]  
+> Distal Row (lateral to medial) 1. Trapezium 2. [[Cards/Trapezoid\|Trapezoid]] 3. Capitate 4. [[Cards/Hamate\|Hamate]]: hamulus of the [[Cards/Hamate\|Hamate]] Proximal Row (lateral to medial) 1. Scaphoid 2. [[Cards/Lunate\|Lunate]] 3. Triquetrum 4. [[Cards/Pisiform\|Pisiform]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > Distal Radioulnar Joint  
