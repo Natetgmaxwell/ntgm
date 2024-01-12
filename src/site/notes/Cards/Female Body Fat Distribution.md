@@ -5,7 +5,7 @@
 # Female Body Fat Distribution
 
 > [!ontology]+
-> up:: 
+> up:: [[Cards/Female Secondary Sex Characteristics\|Female Secondary Sex Characteristics]]
 > jump:: 
 > down:: 
 
