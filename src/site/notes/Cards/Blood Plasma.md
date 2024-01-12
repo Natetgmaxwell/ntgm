@@ -36,7 +36,6 @@
 - 
 
 ## Mentions
-- [[Sources/Books/Outlive by Peter Attia Bill Gifford\|Outlive by Peter Attia Bill Gifford]]
 - [[Sources/Research Papers/@goodell2015-StemCellsHealthy\|@goodell2015-StemCellsHealthy]]
 - [[Sources/Research Papers/@veniamakis2022-EffectsSodiumIntake\|@veniamakis2022-EffectsSodiumIntake]]
 - [[Sources/Video/@2023-LFS112M6T1Blood\|@2023-LFS112M6T1Blood]]
