@@ -7,7 +7,7 @@
 > [!Ontology]
 > up:: [[Cards/Blood\|Blood]]
 > jump:: [[Cards/Atherosclerosis\|Atherosclerosis]], [[Cards/Cerebrovascular accident\|stroke]]
-> down:: [[Cards/Vasoconstriction\|Vasoconstriction]], [[Cards/Vasodilation\|Vasodilation]]
+> down:: [[Cards/Vasoconstriction\|Vasoconstriction]], [[Cards/Vasodilation\|Vasodilation]], [[Cards/Cerebrovascular accident\|stroke]]
 
 > [!Definition] Definition
 > 
