@@ -46,8 +46,8 @@
 
 | Sources                                                                         |
 | ------------------------------------------------------------------------------- |
-| [[Sources/Video/@-LFS112M4T5Endocrine\|@-LFS112M4T5Endocrine]]               |
 | [[Sources/Books/NEUROENDOCRINOLOGY OF STRESS\|NEUROENDOCRINOLOGY OF STRESS]] |
+| [[Sources/Video/@-LFS112M4T5Endocrine\|@-LFS112M4T5Endocrine]]               |
 
 { .block-language-dataview}
 
