@@ -18,7 +18,6 @@
 
 ## Mentions
 - [[Sources/Articles/2022RapamycinBenefitsSideEffectsResearch-gulayan\|2022RapamycinBenefitsSideEffectsResearch-gulayan]]
-- [[Sources/Books/Outlive by Peter Attia Bill Gifford\|Outlive by Peter Attia Bill Gifford]]
 - [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]]
 
 { .block-language-dataview}
