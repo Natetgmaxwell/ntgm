@@ -12,6 +12,8 @@ Links: [[Calendar/2022/Daily/2022-06-22\|2022-06-22]]
 > jump:: [[Cards/Egalitarianism\|Egalitarianism]]
 > down:: [[Cards/Influence\|Influence]]
 
+A stark example the [[Cards/Social Hierarchy\|Social Hierarchy]] is in [[Sources/@georgeorwell1949NineteenEightyfour\|1984]] and the obvious social class differences between the 'Inner Party', 'Outer Party' and the proles.
+
 ## A-households
 > - 2%
 - Successful upper level
