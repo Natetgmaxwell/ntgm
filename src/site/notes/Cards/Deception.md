@@ -24,11 +24,11 @@ When people are trying to distract you from the truth or “con” you, you must
 ## Mentions
 | Incoming Links                                                                                    |
 | ------------------------------------------------------------------------------------------------- |
+| [[Spaces/School/IA1 Time has not Changed Human Nature\|IA1 Time has not Changed Human Nature]] |
 | [[Cards/Ministry of Truth\|Ministry of Truth]]                                                 |
 | [[Cards/Fraud\|Fraud]]                                                                         |
 | [[Cards/10 Commandments for Con Artists\|10 Commandments for Con Artists]]                     |
 | [[Calendar/2022/Daily/2022-02-26\|2022-02-26]]                                                 |
-| [[Spaces/School/IA1 Time has not Changed Human Nature\|IA1 Time has not Changed Human Nature]] |
 
 { .block-language-dataview}
 
@@ -44,10 +44,10 @@ When people are trying to distract you from the truth or “con” you, you must
 
 | Sources                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Podcasts/Podcast Shows/The Jordan B. Peterson Podcast (JBP)\|The Jordan B. Peterson Podcast (JBP)]]                                                                                                                          |
 | [[Sources/Podcasts/Podcast Episodes/270. Biology and Man   Robert Trivers and Dr Jordan B Peterson — The Jordan B. Peterson Podcast\|270. Biology and Man   Robert Trivers and Dr Jordan B Peterson — The Jordan B. Peterson Podcast]] |
 | [[Sources/Books/The Crucible by Arthur Miller\|The Crucible by Arthur Miller]]                                                                                                                                                         |
 | [[Sources/Books/@fyodordostoevsky1869-Idiot\|@fyodordostoevsky1869-Idiot]]                                                                                                                                                             |
-| [[Sources/Podcasts/Podcast Shows/The Jordan B. Peterson Podcast (JBP)\|The Jordan B. Peterson Podcast (JBP)]]                                                                                                                          |
 
 { .block-language-dataview}
 
