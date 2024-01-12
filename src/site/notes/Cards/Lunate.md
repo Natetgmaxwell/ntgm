@@ -5,7 +5,7 @@
 # Lunate
 
 > [!ontology]+
-> up:: 
+> up:: [[Cards/Carpals\|Carpals]]
 > jump:: 
 > down:: 
 
@@ -16,6 +16,20 @@
 - 
 
 ## Mentions
+| Incoming Links |
+| -------------- |
+
+{ .block-language-dataview}
+
+| Outgoing Links                |
+| ----------------------------- |
+| [[Cards/Carpals\|Carpals]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                                         |
+| ----------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@colingavagan2023-LFS122M8T3Skeletal\|@colingavagan2023-LFS122M8T3Skeletal]] |
 
 { .block-language-dataview}
 
