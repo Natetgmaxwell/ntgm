@@ -144,7 +144,7 @@ tags:: #source/video #Uni/LFS112
 > Lipids  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> fatty acids → triglycerides (fats and oils)  
+> fatty acids → [[Cards/Triglycerides\|triglycerides]] (fats and oils)  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > phospholipids (& glycolipids), sterols & steroids  
