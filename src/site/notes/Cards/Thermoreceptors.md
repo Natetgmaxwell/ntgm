@@ -16,7 +16,6 @@
 - 
 
 ## Mentions
-- [[Sources/Research Papers/@kim2023-PhysiologyIntegument\|@kim2023-PhysiologyIntegument]]
 - [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]]
 
 { .block-language-dataview}
