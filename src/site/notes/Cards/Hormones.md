@@ -45,7 +45,6 @@ One hormone can have different effects on different cells. An example being [[Ca
 
 ## Mentions
 - [[Sources/Articles/37TypesHormones2018\|37TypesHormones2018]]
-- [[Sources/Books/Outlive by Peter Attia Bill Gifford\|Outlive by Peter Attia Bill Gifford]]
 - [[Sources/Podcasts/Podcast Episodes/654 Dr. Matthew Walker, All Things Sleep Continued\|654 Dr. Matthew Walker, All Things Sleep Continued]]
 - [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]
 - [[Spaces/University/Projects/HBIO1010A1 Poster\|HBIO1010A1 Poster]]
@@ -63,7 +62,6 @@ One hormone can have different effects on different cells. An example being [[Ca
 
 ## Mentions
 - [[Sources/Articles/37TypesHormones2018\|37TypesHormones2018]]
-- [[Sources/Books/Outlive by Peter Attia Bill Gifford\|Outlive by Peter Attia Bill Gifford]]
 - [[Sources/Podcasts/Podcast Episodes/654 Dr. Matthew Walker, All Things Sleep Continued\|654 Dr. Matthew Walker, All Things Sleep Continued]]
 - [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]
 
