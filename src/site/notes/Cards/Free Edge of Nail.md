@@ -1,0 +1,36 @@
+---
+{"dg-publish":true,"permalink":"/cards/free-edge-of-nail/","tags":["Uni/LFS122","flashcards/LFS122"]}
+---
+
+# Free Edge of Nail
+
+> [!ontology]
+> up:: [[Cards/Nails\|Nails]]
+> jump:: 
+> down:: 
+
+> [!Definition] Definition
+> 
+
+# Reference
+- 
+
+## Mentions
+| Incoming Links |
+| -------------- |
+
+{ .block-language-dataview}
+
+| Outgoing Links            |
+| ------------------------- |
+| [[Cards/Nails\|Nails]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]] |
+
+{ .block-language-dataview}
+
+## Flashcards
