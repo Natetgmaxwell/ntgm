@@ -14,7 +14,7 @@
 
 ## Arteries of the Hand
 
-- Radial artery
+- [[Cards/Radial Artery\|Radial artery]]
 - [[Cards/Ulnar Artery\|Ulnar artery]]
 - Superficial palmar arch
 - Deep palmar arch
