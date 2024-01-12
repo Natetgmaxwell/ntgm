@@ -7,7 +7,7 @@
 > [!ontology]+
 > up:: 
 > jump:: 
-> down:: [[Cards/Testosterones effect on Hematocrit\|Testosterones effect on Hematocrit]]
+> down:: [[Cards/Testosterones Effect on Hematocrit\|Testosterones Effect on Hematocrit]]
 
 > [!Definition] Definition
 > 
@@ -24,7 +24,7 @@
 
 | Outgoing Links                                                                      |
 | ----------------------------------------------------------------------------------- |
-| [[Cards/Testosterones effect on Hematocrit\|Testosterones effect on Hematocrit]] |
+| [[Cards/Testosterones Effect on Hematocrit\|Testosterones Effect on Hematocrit]] |
 
 { .block-language-dataview}
 
