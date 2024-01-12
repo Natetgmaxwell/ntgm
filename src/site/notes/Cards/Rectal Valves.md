@@ -21,5 +21,5 @@
 
 ## Flashcards
 
-The function of rectal valves in the rectum is to hold the faeces to allow the passage of gas through to the anus (T/F);;True
+The function of rectal valves in the [[Cards/Rectum\|rectum]] is to hold the faeces to allow the passage of gas through to the anus (T/F);;True
 <!--SR:!2023-10-25,2,150-->
