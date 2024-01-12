@@ -12,12 +12,12 @@
 > [!Definition] Definition
 > The integumentary system is the body's largest organ system, consisting of skin, hair, [[Cards/Nails\|Nails]], and associated glands.
 
-## Organs of the [[Cards/Integumentary System\|Integumentary System]] [@kim2023-PhysiologyIntegument]
+## Organs of the [[Cards/Integumentary System\|Integumentary System]] [[Sources/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]
 - [[Cards/Skin\|Skin]]
 - [[Cards/Hair\|Hair]]
 - [[Cards/Nails\|Nails]]
 
-## Functions of the [[Cards/Integumentary System\|Integumentary System]] [[Sources/Research Papers/@kim2023-PhysiologyIntegument\|@kim2023-PhysiologyIntegument]]
+## Functions of the [[Cards/Integumentary System\|Integumentary System]] [[Sources/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]
 - [[Cards/Thermoregulation\|Thermoregulation]]
 - [[Cards/Osmoregulation\|Osmoregulation]]
 - [[Cards/Vitamin D\|Vitamin D]] Synthesis
@@ -51,7 +51,8 @@
 
 | Sources                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Research Papers/@kim2023-PhysiologyIntegument\|@kim2023-PhysiologyIntegument]]                     |
+| [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]]                                 |
+| [[Sources/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]                                       |
 | [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]] |
 
 { .block-language-dataview}
