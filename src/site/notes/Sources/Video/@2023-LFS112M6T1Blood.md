@@ -50,7 +50,7 @@ tags:: #source/video #Uni/LFS112
     - Types of WBC:
         - Neutrophils
         - Eosinophils
-        - Basophils
+        - [[Cards/Basophils\|Basophils]]
         - Monocytes
         - [[Cards/Lymphocytes\|Lymphocytes]]
 - [[Cards/Blood Plasma\|Plasma]]
@@ -124,7 +124,7 @@ tags:: #source/video #Uni/LFS112
 > Eosinophil  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> Basophil  
+> [[Cards/Basophils\|Basophil]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > Monocyte  
