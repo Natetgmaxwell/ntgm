@@ -70,7 +70,7 @@
 > The [[Cards/Large Intestine\|large intestine]], also known as the [[Cards/Large Intestine\|colon]], is the last part of the gastrointestinal tract and of the digestive system (approximately 1.5m in length). Water is absorbed here and the remaining waste material is stored as faeces before being removed by defecation.  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> Most sources define the [[Cards/Large Intestine\|large intestine]] as the combination of the [[Cards/Cecum\|cecum]], [[Cards/Large Intestine\|colon]], rectum, and [[Cards/Anal Cavity\|anal canal]].  
+> Most sources define the [[Cards/Large Intestine\|large intestine]] as the combination of the [[Cards/Cecum\|cecum]], [[Cards/Large Intestine\|colon]], [[Cards/Rectum\|rectum]], and [[Cards/Anal Cavity\|anal canal]].  
   
   
 
