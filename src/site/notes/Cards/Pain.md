@@ -19,13 +19,9 @@
 - 
 
 ## Mentions
-- [[Sources/Articles/2013MedicalTreatmentsLate19thCentury-nespor\|2013MedicalTreatmentsLate19thCentury-nespor]]
 - [[Sources/Articles/2019WhyWeFeelPain-thepaincenter\|2019WhyWeFeelPain-thepaincenter]]
-- [[Sources/Articles/StoryAmerica19thCenturyOpiateAddiction-magazine\|StoryAmerica19thCenturyOpiateAddiction-magazine]]
 - [[Sources/Articles/Symptoms of Malnutrition with Cystic Fibrosis\|Symptoms of Malnutrition with Cystic Fibrosis]]
 - [[Sources/Articles/cdnBestSupplementsSlow2022\|cdnBestSupplementsSlow2022]]
-- [[Sources/Books/Nineteen Eighty-Four by George Orwell\|Nineteen Eighty-Four by George Orwell]]
-- [[Sources/Books/Outlive by Peter Attia Bill Gifford\|Outlive by Peter Attia Bill Gifford]]
 - [[Sources/Podcasts/Podcast Episodes/Future Proof Your Body by Practicing Good Posture\|Future Proof Your Body by Practicing Good Posture]]
 - [[Sources/Podcasts/Podcast Episodes/Jeff Cavaliere Optimise Your Exercise Program with Science-Based Tools Episode 79\|Jeff Cavaliere Optimise Your Exercise Program with Science-Based Tools Episode 79]]
 
