@@ -82,7 +82,6 @@
 | [[Sources/Articles/contributorsWhatKnowPQQ\|contributorsWhatKnowPQQ]]                                                                                                                                                  |
 | [[Sources/Podcasts/Podcast Episodes/Decoding Emotions\|Decoding Emotions]]                                                                                                                                             |
 | [[Sources/Podcasts/Podcast Episodes/Drink = Brain Shrink  Secret Tree Species  L.H.C. Round 3 — Curiosity Daily\|Drink = Brain Shrink  Secret Tree Species  L.H.C. Round 3 — Curiosity Daily]]                         |
-| [[Sources/Articles/EffectsAlcoholBody\|EffectsAlcoholBody]]                                                                                                                                                            |
 | [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]]                                                                                                                                         |
 | [[Sources/Books/Limitless by Jim Kwik\|Limitless by Jim Kwik]]                                                                                                                                                         |
 | [[Sources/Courses/Superbrain by Jim Kwik\|Superbrain by Jim Kwik]]                                                                                                                                                     |
