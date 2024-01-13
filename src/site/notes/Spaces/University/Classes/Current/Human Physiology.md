@@ -31,11 +31,10 @@
 | <ul><li>LFS112 M1T1 Video Core principles in physiology</li></ul>               | [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]]                             | true      |
 | <ul><li>LFS112 M3T1 Functional organisation of skeletal muscle fibres</li></ul> | [[Sources/Video/@chrisaskewLFS112M3T1Functional\|@chrisaskewLFS112M3T1Functional]]                       | true      |
 | <ul><li>LFS112 M4T1 Overview of the Endocrine System</li></ul>                  | [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]                                             | true      |
-| <ul><li>LFS112 M4T2 Hypothalamus and Pituitary</li></ul>                        | [[Sources/Video/@-LFS112M4T2Hypothalamus\|@-LFS112M4T2Hypothalamus]]                                     | true      |
+| <ul><li>LFS112 M4T2 Hypothalamus and pituitary</li></ul>                        | [[Sources/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]                 | true      |
 | <ul><li>LFS112 M4T3 Thyroid and Parathyroid glands</li></ul>                    | [[Sources/Video/@2023-LFS112M4T3Thyroid\|@2023-LFS112M4T3Thyroid]]                                       | true      |
 | <ul><li>LFS112 M4T4 Adrenal glands and Pineal Gland</li></ul>                   | [[Sources/Video/@-LFS112M4T4Adrenal\|@-LFS112M4T4Adrenal]]                                               | true      |
 | <ul><li>LFS112 M4T5 Endocrine Pancreas</li></ul>                                | [[Sources/Video/@-LFS112M4T5Endocrine\|@-LFS112M4T5Endocrine]]                                           | true      |
-| <ul><li>LFS112 M5T1 Building blocks of life</li></ul>                           | [[Sources/Video/@2023-LFS112M5T1Building\|@2023-LFS112M5T1Building]]                                     | true      |
 | <ul><li>LFS112 M5T2 Chemical reactions in the body + enzymes</li></ul>          | [[Sources/Video/@2023-LFS112M5T2Chemical\|@2023-LFS112M5T2Chemical]]                                     | true      |
 | <ul><li>LFS112 M5T3 ATP</li></ul>                                               | [[Sources/Video/@nicolemastersLFS112M5T3ATP2023\|@nicolemastersLFS112M5T3ATP2023]]                       | true      |
 | <ul><li>LFS112 M6T1 Blood function + Components</li></ul>                       | [[Sources/Video/@2023-LFS112M6T1Blood\|@2023-LFS112M6T1Blood]]                                           | true      |
@@ -350,7 +349,7 @@ The [[Cards/Hypothalamus\|hypothalamus]] and the pituitary gland work in close c
 	- Stimulates milk production
 - [[Cards/Oxytocin\|Oxytocin]]
 	- Stimulates milk ejection
-	- Promotes bonding during breastfeeding
+	- Promotes bonding during [[• Inbox/Breastfeeding\|breastfeeding]]
 
 ### 12. Sensory Physiology
 
