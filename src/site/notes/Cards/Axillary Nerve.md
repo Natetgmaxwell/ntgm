@@ -19,7 +19,6 @@
 - 
 
 ## Mentions
-- [[Sources/Video/@colingavagan2023-LFS122M8T5Peripheral\|@colingavagan2023-LFS122M8T5Peripheral]]
 
 { .block-language-dataview}
 
