@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/cards/growth-hormone-release-during-deep-sleep/"}
 ---
 
-# Growth Hormone Release during Deep Sleep
+# Growth Hormone release during Deep Sleep
 
 > [!ontology]+
-> up:: 
+> up:: [[Cards/Growth hormone\|Growth hormone]], [[Cards/Slow-wave Sleep\|Slow-wave Sleep]]
 > jump:: 
 > down:: 
 
@@ -13,7 +13,9 @@
 > 
 
 > [!quote] [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]
-> Approximately 70% of the daily pulses of growth hormone occur during slow wave sleep or deep sleep.
+> Approximately 70% of the daily pulses of growth hormone occur during slow wave sleep or [[Cards/Slow-wave Sleep\|deep sleep]].
+{ #6637e8}
+
 
 # Reference
 - 
@@ -26,6 +28,8 @@
 
 | Outgoing Links                                                                                |
 | --------------------------------------------------------------------------------------------- |
+| [[Cards/Growth hormone\|Growth hormone]]                                                   |
+| [[Cards/Slow-wave Sleep\|Slow-wave Sleep]]                                                 |
 | [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]] |
 
 { .block-language-dataview}
