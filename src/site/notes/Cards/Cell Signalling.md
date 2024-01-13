@@ -39,7 +39,6 @@
 - 
 
 ## Mentions
-- [[Sources/Video/@2023-LFS112M5T1Building\|@2023-LFS112M5T1Building]]
 - [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]]
 
 { .block-language-dataview}
