@@ -32,10 +32,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                             |
-| --------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@colingavagan2023-LFS122M8T5Peripheral\|@colingavagan2023-LFS122M8T5Peripheral]] |
-| [[Sources/Video/@colingavagan2023-LFS122M8T6Posterior\|@colingavagan2023-LFS122M8T6Posterior]]   |
+| Sources                                                                                           |
+| ------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@colingavagan2023-LFS122M8T6Posterior\|@colingavagan2023-LFS122M8T6Posterior]] |
 
 { .block-language-dataview}
 
