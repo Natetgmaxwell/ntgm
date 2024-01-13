@@ -27,7 +27,7 @@
 >  
 
 > [!Abstract]+
-> A groundbreaking manifesto on living better from the world's top longevity expert.This is the ultimate manual for longevity.For all its successes, mainstream medicine has failed to make much progress against the diseases of ageing that kill most people- heart disease, cancer, Alzheimer's disease, and type 2 diabetes. Too often, it intervenes with treatments too late, prolonging lifespan at the expense of quality of life. Dr Peter Attia, the world's top longevity expert, believes we must replace this outdated framework with a personalised, proactive strategy for longevity.This isn't 'biohacking,' it's science- a well-founded strategic approach to extending lifespan while improving our physical, cognitive and emotional health, making each decade better than the one before. With Outlive's practical advice and roadmap, you can plot a different path for your life, one that lets you outlive your genes to make each decade better than the one before.
+> A groundbreaking manifesto on living better from the world's top longevity expert.This is the ultimate manual for longevity.For all its successes, mainstream medicine has failed to make much progress against the diseases of ageing that kill most people- heart disease, cancer, [[Cards/Alzheimer's disease\|Alzheimer's disease]], and type 2 diabetes. Too often, it intervenes with treatments too late, prolonging lifespan at the expense of quality of life. Dr Peter Attia, the world's top longevity expert, believes we must replace this outdated framework with a personalised, proactive strategy for longevity.This isn't 'biohacking,' it's science- a well-founded strategic approach to extending lifespan while improving our physical, cognitive and emotional health, making each decade better than the one before. With Outlive's practical advice and roadmap, you can plot a different path for your life, one that lets you outlive your genes to make each decade better than the one before.
 
 > [!Info]
 > date:: 2023
@@ -38,7 +38,6 @@
 >  | Incoming Links                                                                                                                                                                                             |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 > | [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]                                                                                                                                            |
-> | [[Sources/Video/@2023-LFS112M5T1Building\|@2023-LFS112M5T1Building]]                                                                                                                                    |
 > | [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]                                                                                                              |
 > | [[Sources/Articles/2023HealthBenefitsThatDrinkingMatcha-lorealthompsonpayton\|2023HealthBenefitsThatDrinkingMatcha-lorealthompsonpayton]]                                                               |
 > | [[Sources/Articles/2023MetabolicSyndrome-australia\|2023MetabolicSyndrome-australia]]                                                                                                                   |
@@ -61,7 +60,7 @@
 > 
 > [!quote] (Page 15)
 > 
-> dds are overwhelming that you will die as a result of one of the chronic diseases of aging that I call the Four Horsemen: heart disease, cancer, neurodegenerative disease, or type 2 diabetes and related metabolic dysfunction. To
+> dds are overwhelming that you will die as a result of one of the chronic diseases of aging that I call the Four Horsemen: heart disease, cancer, [[Cards/Neurodegenerative disease\|neurodegenerative disease]], or type 2 diabetes and related metabolic dysfunction. To
 > 
 > [!quote] (Page 15)
 > 
@@ -73,7 +72,7 @@
 > 
 > [!quote] (Page 15)
 > 
-> Neurodegenerative disease
+> [[Cards/Neurodegenerative disease\|Neurodegenerative disease]]
 > 
 > [!quote] (Page 15)
 > 
@@ -206,7 +205,6 @@
 | Sources                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]                                                                                                                                            |
-| [[Sources/Video/@2023-LFS112M5T1Building\|@2023-LFS112M5T1Building]]                                                                                                                                    |
 | [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]                                                                                                              |
 | [[Sources/@peterattia2023OutliveScienceArt\|@peterattia2023OutliveScienceArt]]                                                                                                                          |
 | [[Sources/Articles/2023HealthBenefitsThatDrinkingMatcha-lorealthompsonpayton\|2023HealthBenefitsThatDrinkingMatcha-lorealthompsonpayton]]                                                               |
