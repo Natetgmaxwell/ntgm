@@ -37,7 +37,7 @@
 
 ## Flashcards
 
-What are the two main types of thyroid hormone and how many iodine atoms do they contain?;;Thyroid hormone includes [[Cards/Thyroxine\|thyroxine]] (T4) with four iodine atoms and [[Cards/Triiodothyronine\|triiodothyronine]] (T3) with three iodine atoms. T3 is the more biologically active form.
+What are the two main types of thyroid hormone and how many [[Cards/Iodine\|iodine]] atoms do they contain?;;Thyroid hormone includes [[Cards/Thyroxine\|thyroxine]] (T4) with four [[Cards/Iodine\|iodine]] atoms and [[Cards/Triiodothyronine\|triiodothyronine]] (T3) with three [[Cards/Iodine\|iodine]] atoms. T3 is the more biologically active form.
 <!--SR:!2023-10-25,4,130-->
 
 What are the major functions of thyroid hormone?;;It regulates metabolic rate, body temperature, tissue growth, skeletal and nervous system development, and heart function.
