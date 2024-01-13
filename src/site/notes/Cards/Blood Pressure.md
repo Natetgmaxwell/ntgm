@@ -38,7 +38,6 @@
 ## Mentions
 - [[Sources/Articles/2023HealthBenefitsThatDrinkingMatcha-lorealthompsonpayton\|2023HealthBenefitsThatDrinkingMatcha-lorealthompsonpayton]]
 - [[Sources/Articles/AncestralHealthWhat-robbwolf\|AncestralHealthWhat-robbwolf]]
-- [[Sources/Articles/EffectsAlcoholBody\|EffectsAlcoholBody]]
 - [[Sources/Articles/PeopleNeedTrackHRV\|PeopleNeedTrackHRV]]
 - [[Sources/Articles/The Harm Caused by Masks - City Journal\|The Harm Caused by Masks - City Journal]]
 - [[Sources/Articles/VagusNerveEverything\|VagusNerveEverything]]
