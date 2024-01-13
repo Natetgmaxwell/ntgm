@@ -16,7 +16,6 @@
 - 
 
 ## Mentions
-- [[Sources/Articles/EffectsAlcoholBody\|EffectsAlcoholBody]]
 
 { .block-language-dataview}
 
