@@ -17,7 +17,6 @@
 - [[Cards/Atherosclerosis\|Atherosclerosis]]
 
 ## Mentions
-- [[Sources/Articles/2022RapamycinBenefitsSideEffectsResearch-gulayan\|2022RapamycinBenefitsSideEffectsResearch-gulayan]]
 - [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]]
 
 { .block-language-dataview}
