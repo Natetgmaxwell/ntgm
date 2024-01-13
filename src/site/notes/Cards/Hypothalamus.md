@@ -14,15 +14,54 @@
 
 - The [[Cards/Hypothalamus\|Hypothalamus]] also promotes the feeling of [[Cards/Satiety\|Satiety]] to reduce further consumption.
 
+
+> [!quote] [[Sources/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]
+> "Link between autonomic nervous system & [[Cards/Endocrine System\|endocrine system]]"
+
 # Reference
 - [[Cards/Olfaction\|Olfaction]]
 
 ## Mentions
-- [[Sources/Articles/25 Mind-Blowing Psychological Facts About Love - YourTango\|25 Mind-Blowing Psychological Facts About Love - YourTango]]
-- [[Sources/Research Papers/@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine]]
-- [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]
-- [[Sources/Video/@-LFS112M4T2Hypothalamus\|@-LFS112M4T2Hypothalamus]]
-- [[Sources/Video/@leedaffin2023-LFS122M10T4Lymphatic\|@leedaffin2023-LFS122M10T4Lymphatic]]
+| Incoming Links                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Cards/Autonomic Nervous System\|Autonomic Nervous System]]                                                                                   |
+| [[Extras/Excalidraw/Brain Diagram.excalidraw\|Brain Diagram.excalidraw]]                                                                       |
+| [[Cards/Endocrine Glands\|Endocrine Glands]]                                                                                                   |
+| [[Cards/Gonadotropin-Releasing Hormone\|Gonadotropin-Releasing Hormone]]                                                                       |
+| [[Extras/Excalidraw/Hormones of the Male Reproductive System Diagram.excalidraw\|Hormones of the Male Reproductive System Diagram.excalidraw]] |
+| [[Extras/Excalidraw/HPA Axis Diagram.excalidraw\|HPA Axis Diagram.excalidraw]]                                                                 |
+| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                                                                             |
+| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                                                       |
+| [[Spaces/University/Classes/Archive/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]                                     |
+| [[Cards/Oxytocin\|Oxytocin]]                                                                                                                   |
+| [[Cards/Pituitary gland\|Pituitary gland]]                                                                                                     |
+| [[Cards/Pituitary stalk\|Pituitary stalk]]                                                                                                     |
+| [[Cards/Thermoregulation\|Thermoregulation]]                                                                                                   |
+| [[Cards/Thyroid Hormone\|Thyroid Hormone]]                                                                                                     |
+| [[Cards/Thyrotropin-releasing hormone\|Thyrotropin-releasing hormone]]                                                                         |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                                    |
+| ----------------------------------------------------------------- |
+| [[Cards/Brain\|Brain]]                                         |
+| [[Cards/Endocrine System\|Endocrine System]]                   |
+| [[Cards/Limbic System\|Limbic System]]                         |
+| [[Cards/Long-term memory\|Long-term memory]]                   |
+| [[Cards/Olfaction\|Olfaction]]                                 |
+| [[Cards/Saliva\|Saliva]]                                       |
+| [[Cards/Satiety\|Satiety]]                                     |
+| [[Cards/Ventromedial Hypothalamus\|Ventromedial Hypothalamus]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]                                                                                       |
+| [[Sources/Video/@leedaffin2023-LFS122M10T4Lymphatic\|@leedaffin2023-LFS122M10T4Lymphatic]]                                                         |
+| [[Sources/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]                                                           |
+| [[Sources/Research Papers/@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine]] |
+| [[Sources/Articles/25 Mind-Blowing Psychological Facts About Love - YourTango\|25 Mind-Blowing Psychological Facts About Love - YourTango]]        |
 
 { .block-language-dataview}
 
