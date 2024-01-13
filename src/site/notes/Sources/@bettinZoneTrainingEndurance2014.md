@@ -30,7 +30,7 @@
 
 > [!quote] (Page 1)
 > 
-> Skeletal muscle is composed of 2 kinds of muscle fibers- [[Cards/Slow Twitch Fibres\|Type I]], also known as slow twitch, and Type II, or fast twitch. Fast twitch fibers are also divided in two subgroups called Type IIa and IIb. Muscle fiber contraction obeys a sequential recruitment pattern where [[Cards/Slow Twitch Fibres\|Type I]] muscle fibers are the first ones to be recruited. As exercise intensity increases muscle contractile demands increase and [[Cards/Slow Twitch Fibres\|Type I]] muscle fibers cannot sustain the necessary demand. Type IIa muscle fibers kick in and eventually as intensity keeps increasing Type IIb will finally be recruited. Simply put, slow twitch fibers are used at slower speeds and fast twitch at faster speeds.
+> Skeletal muscle is composed of 2 kinds of muscle fibers- [[Cards/Slow Twitch Fibres\|Type I]], also known as slow twitch, and Type II, or fast twitch. Fast twitch fibers are also divided in two subgroups called [[Cards/Fast-Twitch Oxidative Fibers\|Type IIa]] and IIb. Muscle fiber contraction obeys a sequential recruitment pattern where [[Cards/Slow Twitch Fibres\|Type I]] muscle fibers are the first ones to be recruited. As exercise intensity increases muscle contractile demands increase and [[Cards/Slow Twitch Fibres\|Type I]] muscle fibers cannot sustain the necessary demand. [[Cards/Fast-Twitch Oxidative Fibers\|Type IIa]] muscle fibers kick in and eventually as intensity keeps increasing [[Cards/Fast-Twitch Glycolytic Fibers\|Type IIb]] will finally be recruited. Simply put, slow twitch fibers are used at slower speeds and fast twitch at faster speeds.
 >
 { #CTBPNFUEa8RKW7M6Zp1}
 
