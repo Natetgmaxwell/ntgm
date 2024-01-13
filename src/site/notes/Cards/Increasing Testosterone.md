@@ -16,7 +16,7 @@
 
 Increased testosterone levels can have several positive effects on the body. Firstly, it promotes [[Cards/Hypertrophy\|muscle growth]] and strength by stimulating protein synthesis and enhancing muscle fibre [[Cards/Hypertrophy\|hypertrophy]]. This is why testosterone is often associated with increased muscle mass and athletic performance.
 
-Testosterone also plays a vital role in bone health and density. It helps maintain bone mineral density and can reduce the risk of osteoporosis, especially in older individuals. Additionally, testosterone contributes to the production of [[Cards/Red Blood Cells\|red blood cells]], which are responsible for carrying oxygen to the muscles and other tissues.
+Testosterone also plays a vital role in bone health and density. It helps maintain bone mineral density and can reduce the risk of [[Cards/Osteoporosis\|osteoporosis]], especially in older individuals. Additionally, testosterone contributes to the production of [[Cards/Red Blood Cells\|red blood cells]], which are responsible for carrying oxygen to the muscles and other tissues.
 
 Furthermore, testosterone has a significant impact on mood and cognitive function. It can improve focus, concentration, and overall cognitive performance. Adequate testosterone levels have also been linked to improved mood, reduced anxiety, and increased motivation.
 
