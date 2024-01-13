@@ -16,7 +16,6 @@
 - 
 
 ## Mentions
-- [[Sources/Video/@-LFS112M4T2Hypothalamus\|@-LFS112M4T2Hypothalamus]]
 
 { .block-language-dataview}
 
