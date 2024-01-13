@@ -18,7 +18,6 @@ tags:: #Uni/HBIO1009 #flashcards/hbio1010 #Uni/LFS112
 - 
 
 ## Mentions
-- [[Sources/Video/@-LFS112M4T2Hypothalamus\|@-LFS112M4T2Hypothalamus]]
 
 { .block-language-dataview}
 
