@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-## List of the Brachium Nerves
+## List of the Brachium Nerves [[Sources/@colingavaganLFS122M8T7Peripheral2023\|@colingavaganLFS122M8T7Peripheral2023]]
 
 - [[Cards/Musculocutaneous Nerve\|Musculocutaneous nerve]]
 - [[Cards/Axillary Nerve\|Axillary nerve]]
