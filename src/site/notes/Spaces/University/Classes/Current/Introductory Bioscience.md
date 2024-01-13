@@ -64,7 +64,7 @@
     - Elements like calcium, phosphorus, and magnesium are crucial for bone health.
     - Potassium, sodium, and chlorine maintain fluid balance and muscle function.
     - Sulfur is a component of proteins like [[Cards/Keratin\|keratin]] found in hair and nails.
-    - Iodine is vital for thyroid hormones; iodine deficiency can lead to hypothyroidism.
+    - [[Cards/Iodine\|Iodine]] is vital for thyroid hormones; [[Cards/Iodine\|iodine]] deficiency can lead to hypothyroidism.
 4. **Chemical Symbols and Naming:**
     
     - Chemical symbols are shorthand representations of elements.
