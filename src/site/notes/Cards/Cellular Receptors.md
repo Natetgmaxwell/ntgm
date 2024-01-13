@@ -18,7 +18,6 @@
 - 
 
 ## Mentions
-- [[Sources/Video/@2023-LFS112M5T1Building\|@2023-LFS112M5T1Building]]
 
 { .block-language-dataview}
 
