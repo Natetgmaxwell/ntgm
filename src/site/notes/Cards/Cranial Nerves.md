@@ -15,7 +15,7 @@
 ## List of [[Cards/Cranial Nerves\|Cranial Nerves]]
 
 ![Extras/Images/JZX6VJMR.png](/img/user/Extras/Images/JZX6VJMR.png)
-[[Sources/Video/@LFS122M5T3Brain\|@LFS122M5T3Brain]]
+[[Sources/Video/@leedaffin2023LFS122M5T3Brain\|@leedaffin2023LFS122M5T3Brain]]
 
 - [[Cards/Olfactory Nerve\|Olfactory Nerve]]
 - [[Cards/Optic Nerve\|Optic Nerve]]
@@ -53,9 +53,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                 |
-| ------------------------------------------------------- |
-| [[Sources/Video/@LFS122M5T3Brain\|@LFS122M5T3Brain]] |
+| Sources                                                                           |
+| --------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffin2023LFS122M5T3Brain\|@leedaffin2023LFS122M5T3Brain]] |
 
 { .block-language-dataview}
 
