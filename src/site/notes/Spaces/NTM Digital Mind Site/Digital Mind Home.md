@@ -16,18 +16,18 @@
 > - Flashcard format is {question};;{answer}
 
 ## Recently Created Cards
-| File Name                                                           | Date Modified    |
-| ------------------------------------------------------------------- | ---------------- |
-| [[Cards/Autosomal Chromosomes\|Autosomal Chromosomes]]           | January 12, 2024 |
-| [[Cards/Blood Flow\|Blood Flow]]                                 | January 12, 2024 |
-| [[Cards/Blood Vessels of the Hand\|Blood Vessels of the Hand]]   | January 12, 2024 |
-| [[Cards/Brain Stem\|Brain Stem]]                                 | January 12, 2024 |
-| [[Cards/Cerebrovascular accident\|Cerebrovascular accident]]     | January 12, 2024 |
-| [[Cards/Cervical Spine\|Cervical Spine]]                         | January 12, 2024 |
-| [[Cards/Charisma\|Charisma]]                                     | January 12, 2024 |
-| [[Cards/Cholesterol\|Cholesterol]]                               | January 12, 2024 |
-| [[Cards/Epiglottis\|Epiglottis]]                                 | January 12, 2024 |
-| [[Cards/Fissures of the Right Lung\|Fissures of the Right Lung]] | January 12, 2024 |
+| File Name                                                       | Date Modified    |
+| --------------------------------------------------------------- | ---------------- |
+| [[Cards/Adductor Longus\|Adductor Longus]]                   | January 13, 2024 |
+| [[Cards/Alcohol\|Alcohol]]                                   | January 13, 2024 |
+| [[Cards/Alzheimer's disease\|Alzheimer's disease]]           | January 13, 2024 |
+| [[Cards/Anaemia\|Anaemia]]                                   | January 13, 2024 |
+| [[Cards/Anterior Pituitary Gland\|Anterior Pituitary Gland]] | January 13, 2024 |
+| [[Cards/Brachialis\|Brachialis]]                             | January 13, 2024 |
+| [[Cards/Caffeine\|Caffeine]]                                 | January 13, 2024 |
+| [[Cards/Coronary Circulation\|Coronary Circulation]]         | January 13, 2024 |
+| [[Cards/Cranial Nerves\|Cranial Nerves]]                     | January 13, 2024 |
+| [[Cards/Diaphysis\|Diaphysis]]                               | January 13, 2024 |
 
 { .block-language-dataview}
 
