@@ -20,7 +20,6 @@
 - 
 
 ## Mentions
-- [[Sources/Video/@colingavagan2023-LFS122M8T4Anterior\|@colingavagan2023-LFS122M8T4Anterior]]
 
 { .block-language-dataview}
 
