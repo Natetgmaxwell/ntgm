@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > Anaemia is a medical condition characterised by a deficiency of [[Cards/Red Blood Cells\|Red Blood Cells]] or [[Cards/Hemoglobin\|Hemoglobin]] in the blood.
 
-- [[Cards/Anaemia\|Anaemia]] can be a side effect of [[Cards/Rapamycin\|Rapamycin]] [[Sources/Articles/2022RapamycinBenefitsSideEffectsResearch-gulayan\|2022RapamycinBenefitsSideEffectsResearch-gulayan]]
+- [[Cards/Anaemia\|Anaemia]] can be a side effect of [[Cards/Rapamycin\|Rapamycin]] [[Sources/Research Papers/@gulayan2022RapamycinBenefitsSide\|@gulayan2022RapamycinBenefitsSide]]
 
 # Reference
 - 
@@ -33,9 +33,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Articles/2022RapamycinBenefitsSideEffectsResearch-gulayan\|2022RapamycinBenefitsSideEffectsResearch-gulayan]] |
+| Sources                                                                                             |
+| --------------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@gulayan2022RapamycinBenefitsSide\|@gulayan2022RapamycinBenefitsSide]] |
 
 { .block-language-dataview}
 
