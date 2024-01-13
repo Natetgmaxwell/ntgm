@@ -51,10 +51,31 @@
 
 
 
-## List of Antebrachium Nerves
+
+# Nerves of the Antebrachium
+
+> [!ontology]+
+> up:: [[Cards/Ante-brachium\|Antebrachium]], [[Cards/Nerves\|Nerves]]
+> jump:: [[Cards/Nerves of the Brachium\|brachium nerves]]
+> down:: [[Cards/Ulnar Nerve\|Ulnar Nerve]], [[Cards/Median Nerve\|Median Nerve]], [[Cards/Radial Nerve\|Radial Nerve]]
+
+> [!Definition] Definition
+> 
+
+## List of Ante-brachium Nerves [[Sources/@colingavaganLFS122M8T7Peripheral2023\|@colingavaganLFS122M8T7Peripheral2023]]
 - [[Cards/Ulnar Nerve\|Ulnar nerve]] 
 - [[Cards/Median Nerve\|Median nerve]]
 - [[Cards/Radial Nerve\|Radial nerve]]
+# Reference
+- 
+
+## Mentions
+- [[Sources/Books/2016GreenmanPrinciplesManualMedicine-lisaa.destefano\|2016GreenmanPrinciplesManualMedicine-lisaa.destefano]]
+
+{ .block-language-dataview}
+
+## Flashcards
+
 
 </div></div>
 
