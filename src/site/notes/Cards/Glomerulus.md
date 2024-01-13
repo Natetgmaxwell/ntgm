@@ -22,7 +22,6 @@
 - 
 
 ## Mentions
-- [[Sources/Articles/2022RapamycinBenefitsSideEffectsResearch-gulayan\|2022RapamycinBenefitsSideEffectsResearch-gulayan]]
 - [[Sources/Research Papers/@gulayan2022RapamycinBenefitsSide\|@gulayan2022RapamycinBenefitsSide]]
 
 { .block-language-dataview}
