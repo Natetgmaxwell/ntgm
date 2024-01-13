@@ -76,7 +76,6 @@
 | ------------------------------------------------------------------------------------------- |
 | [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]] |
 | [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]               |
-| [[Sources/Articles/EffectsAlcoholBody\|EffectsAlcoholBody]]                              |
 | [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]]           |
 | [[Sources/Articles/WhichProbioticsHistamine\|WhichProbioticsHistamine]]                  |
 
