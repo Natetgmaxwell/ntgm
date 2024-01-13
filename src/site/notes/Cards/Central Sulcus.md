@@ -28,9 +28,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                 |
-| ------------------------------------------------------- |
-| [[Sources/Video/@LFS122M5T3Brain\|@LFS122M5T3Brain]] |
+| Sources                                                                           |
+| --------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffin2023LFS122M5T3Brain\|@leedaffin2023LFS122M5T3Brain]] |
 
 { .block-language-dataview}
 
