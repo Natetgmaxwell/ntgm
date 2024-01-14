@@ -26,7 +26,6 @@
 - [[Cards/Vertebrae\|Vertebrae]]
 
 ## Mentions
-- [[Sources/Video/@-LFS122M4T1Vertebral\|@-LFS122M4T1Vertebral]]
 
 { .block-language-dataview}
 
