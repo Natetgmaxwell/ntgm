@@ -7,13 +7,11 @@
 ## Currently Reading
 - [[Sources/Books/The Art of Impossible by Steven Kotler\|The Art of Impossible by Steven Kotler]]
 - [[Sources/Books/Sapiens - A Brief History of Human Kind by Yuval Noah Harari\|Sapiens - A Brief History of Human Kind by Yuval Noah Harari]]
-- [[Sources/Books/@danielkahnemanThinkingFastSlow2011\|@danielkahnemanThinkingFastSlow2011]]
 - [[Sources/Books/Morning Star by Pierce Brown\|Morning Star by Pierce Brown]]
 - [[Sources/Books/Cues by Vanessa Van Edwards\|Cues by Vanessa Van Edwards]]
 - [[Sources/Books/Blink by Malcolm Gladwell\|Blink by Malcolm Gladwell]]
 - [[Sources/Books/@robertgreene2018-LawsHumanNature\|@robertgreene2018-LawsHumanNature]]
 - [[Sources/Books/@greene200048LawsPower\|@greene200048LawsPower]]
-- [[Sources/Books/@fyodordostoevsky1869-Idiot\|@fyodordostoevsky1869-Idiot]]
 
 { .block-language-dataview}
 
