@@ -17,7 +17,6 @@
 
 ## Mentions
 - [[Sources/Research Papers/@ben-tal2012EvaluatingPhysiologicalSignificance\|@ben-tal2012EvaluatingPhysiologicalSignificance]]
-- [[Sources/Video/@2023-LFS112M6T2Red\|@2023-LFS112M6T2Red]]
 
 { .block-language-dataview}
 
