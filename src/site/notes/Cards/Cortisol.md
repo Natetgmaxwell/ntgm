@@ -25,7 +25,6 @@
 - [[Sources/Podcasts/Podcast Episodes/Understanding & Controlling Aggression   Episode 71\|Understanding & Controlling Aggression   Episode 71]]
 - [[Sources/Research Papers/@nieman2015-CushingSyndromeUpdate\|@nieman2015-CushingSyndromeUpdate]]
 - [[Sources/Research Papers/@russell2019-HumanStressResponse\|@russell2019-HumanStressResponse]]
-- [[Sources/Video/@-LFS112M4T4Adrenal\|@-LFS112M4T4Adrenal]]
 
 { .block-language-dataview}
 
