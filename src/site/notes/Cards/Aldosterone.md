@@ -34,7 +34,6 @@
 
 | Sources                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@-LFS112M4T4Adrenal\|@-LFS112M4T4Adrenal]]                                                                         |
 | [[Sources/Research Papers/@kuo2016EndocrineControlHuman\|@kuo2016EndocrineControlHuman]]                                           |
 | [[Sources/Research Papers/@tsilosani2022-AldosteroneRegulatedSodiumTransport\|@tsilosani2022-AldosteroneRegulatedSodiumTransport]] |
 | [[Sources/Research Papers/@veniamakis2022-EffectsSodiumIntake\|@veniamakis2022-EffectsSodiumIntake]]                               |
