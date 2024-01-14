@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/ntm-digital-mind-site/digital-mind-home/","tags":["effort","gardenEntry"]}
+{"dg-publish":true,"permalink":"/spaces/ntm-digital-mind-site/digital-mind-home/","tags":["effort","gardenEntry","gardenEntry"]}
 ---
 
 # Digital Mind Home
@@ -16,18 +16,18 @@
 > - Flashcard format is {question};;{answer}
 
 ## Recently Created Cards
-| File Name                                                       | Date Modified    |
-| --------------------------------------------------------------- | ---------------- |
-| [[Cards/Adductor Longus\|Adductor Longus]]                   | January 13, 2024 |
-| [[Cards/Alcohol\|Alcohol]]                                   | January 13, 2024 |
-| [[Cards/Alzheimer's disease\|Alzheimer's disease]]           | January 13, 2024 |
-| [[Cards/Anaemia\|Anaemia]]                                   | January 13, 2024 |
-| [[Cards/Anterior Pituitary Gland\|Anterior Pituitary Gland]] | January 13, 2024 |
-| [[Cards/Brachialis\|Brachialis]]                             | January 13, 2024 |
-| [[Cards/Caffeine\|Caffeine]]                                 | January 13, 2024 |
-| [[Cards/Coronary Circulation\|Coronary Circulation]]         | January 13, 2024 |
-| [[Cards/Cranial Nerves\|Cranial Nerves]]                     | January 13, 2024 |
-| [[Cards/Diaphysis\|Diaphysis]]                               | January 13, 2024 |
+| File Name                                                                   | Date Modified    |
+| --------------------------------------------------------------------------- | ---------------- |
+| [[Cards/Cell Signalling\|Cell Signalling]]                               | January 14, 2024 |
+| [[Cards/Germline Mutation\|Germline Mutation]]                           | January 14, 2024 |
+| [[Cards/Genetic Disorders\|Genetic Disorders]]                           | January 14, 2024 |
+| [[Cards/Hormones of the Adrenal Cortex\|Hormones of the Adrenal Cortex]] | January 14, 2024 |
+| [[Cards/Hormones\|Hormones]]                                             | January 14, 2024 |
+| [[Cards/Loose Proper Connective Tissue\|Loose Proper Connective Tissue]] | January 14, 2024 |
+| [[Cards/Mutation\|Mutation]]                                             | January 14, 2024 |
+| [[Cards/Pancreas\|Pancreas]]                                             | January 14, 2024 |
+| [[Cards/Protein Synthesis\|Protein Synthesis]]                           | January 14, 2024 |
+| [[Cards/Adductor Longus\|Adductor Longus]]                               | January 13, 2024 |
 
 { .block-language-dataview}
 
