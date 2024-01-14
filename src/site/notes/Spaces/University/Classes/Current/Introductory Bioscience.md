@@ -207,7 +207,7 @@
 ###### Define [[Cards/Pleiotropy\|Pleiotropy]] and provide an example of a trait that exhibits [[Cards/Pleiotropy\|Pleiotropy]].
 
 - [[Cards/Pleiotropy\|Pleiotropy]] is when a [[Cards/Genes\|gene]] effects two or more characteristics.
-- An example of a [[Cards/Pleiotropy\|Pleiotropy]] trait in [[Cards/Sickle Cell Anemia\|Sickle Cell Anemia]]
+- An example of a [[Cards/Pleiotropy\|Pleiotropy]] trait in [[Cards/Sickle Cell Anaemia\|Sickle Cell Anaemia]]
 
 ###### Describe the four alterations to chromosome structure and their potential consequences.
 
