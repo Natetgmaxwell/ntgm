@@ -146,7 +146,7 @@
 
 > [!quote] (Page 122)
 > 
-> Cholesterol is essential to life. It is required to produce some of the most important structures in the body, including cell membranes; hormones such as testosterone, progesterone, estrogen, and cortisol; and bile acids, which are necessary for digesting food.
+> Cholesterol is essential to life. It is required to produce some of the most important structures in the body, including [[Cards/Plasma Membranes\|cell membranes]]; hormones such as testosterone, progesterone, estrogen, and cortisol; and bile acids, which are necessary for digesting food.
 >
 { #I2FZ3KPJaTNJSBWD5p122}
 
