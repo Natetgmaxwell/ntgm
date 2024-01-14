@@ -29,9 +29,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                       |
-| --------------------------------------------------------------------------------------------- |
-| [[Sources/Books/@danielkahnemanThinkingFastSlow2011\|@danielkahnemanThinkingFastSlow2011]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
