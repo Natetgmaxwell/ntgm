@@ -13,7 +13,7 @@
 > 
 
 > [!quote] [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
-> [[Cards/Caffeine\|Caffeine]] is a known protector of BBB integrity.
+> [[Cards/Caffeine\|Caffeine]] is a known protector of [[Cards/Blood-brain Barrier\|BBB]] integrity.
 
 # Reference
 - 
