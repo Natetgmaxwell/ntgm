@@ -96,7 +96,6 @@
 
 | Sources                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]                                                                 |
 | [[Sources/Research Papers/@ben-tal2012EvaluatingPhysiologicalSignificance\|@ben-tal2012EvaluatingPhysiologicalSignificance]] |
 | [[Sources/Video/@leedaffin2023-LFS122M9T1Respiratory\|@leedaffin2023-LFS122M9T1Respiratory]]                                 |
 
