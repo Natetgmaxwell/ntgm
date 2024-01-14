@@ -15,7 +15,7 @@
 
 
 ## Components of [[Cards/Skeletal Muscle\|Skeletal Muscle]]
-- [[Cards/Myocyte\|Myocyte]] (muscle cell)
+- [[Cards/Myocyte\|Myocyte]] ([[Cards/Myocyte\|muscle cell]])
 - [[Cards/Connective Tissue\|Connective Tissue]]
 - [[Cards/Blood Vessels\|Blood Vessels]]
 - [[Cards/Nerves\|Nerves]]
