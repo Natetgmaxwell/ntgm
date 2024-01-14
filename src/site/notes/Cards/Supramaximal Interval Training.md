@@ -17,7 +17,6 @@
 - 
 
 ## Mentions
-- [[Sources/Research Papers/@green1984AlterationsBloodVolume\|@green1984AlterationsBloodVolume]]
 
 { .block-language-dataview}
 
