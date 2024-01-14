@@ -1,0 +1,43 @@
+---
+{"dg-publish":true,"permalink":"/sources/danielkahneman-thinking-fast-slow2011/","tags":["source/book"]}
+---
+
+# @danielkahnemanThinkingFastSlow2011
+
+>[!Synth]  
+>**Contribution**::  
+>  
+>**Related**:: 
+>  
+
+> [!Abstract]+
+> Thinking, Fast and Slow is a 2011 popular science book by psychologist Daniel Kahneman. The book's main thesis is a differentiation between two modes of thought: "System 1" is fast, instinctive and emotional; "System 2" is slower, more deliberative, and more logical.
+
+> [!Info]
+> date:: 2011
+> DOI:: 
+> FirstAuthor:: Daniel Kahneman
+> creators:: Daniel Kahneman
+
+> [!Links]+
+>  | Incoming Links |
+> | -------------- |
+> 
+{ .block-language-dataview}
+
+
+[Zotero](zotero://select/library/items/52J23ETB) [attachment](<file:///Users/nathanmaxwell/Zotero/storage/AQXSEPYJ/Daniel%20Kahneman_2011_Thinking,%20Fast%20and%20Slow.pdf>)
+
+> [!quote] (Page 21)
+> 
+> System 1 operates automatically and quickly, with little or no effort and no sense of voluntary control.  System 2 allocates attention to the effortful mental activities that demand it, including complex computations. The operations of System 2 are often associated with the subjective experience of agency, choice, and concentration.
+>
+{ #TZZSTUTCaAQXSEPYJp21}
+
+
+> [!quote] (Page 24)
+> 
+> System 2 adopts the suggestions of System 1 with little or no modification
+>
+{ #WR4898DXaAQXSEPYJp24}
+
