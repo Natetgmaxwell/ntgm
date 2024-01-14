@@ -4,7 +4,7 @@
 
 # Hormones
 
-> [!Ontology]
+> [!Ontology]-
 > up:: [[Cards/Endocrine System\|Endocrine System]]
 > jump:: [[Cards/Endocrine Glands\|Endocrine Glands]], [[Cards/Parasympathetic State\|Parasympathetic State]], [[Cards/Sympathetic State\|Sympathetic State]]
 > down:: [[Cards/Amino Acid-Peptide Hormones\|Amino Acid-Peptide Hormones]], [[Cards/Lipid Hormones\|Lipid Hormones]], [[Cards/Hormone Interactions\|Hormone Interactions]], [[Cards/Stimuli for Hormonal Secretion\|Stimuli for Hormonal Secretion]]
@@ -15,6 +15,13 @@
 ![Extras/Images/image-7-x641-y249.png|250](/img/user/Extras/Images/image-7-x641-y249.png)
 
 One hormone can have different effects on different cells. An example being [[Cards/Epinephrine\|adrenaline]], which constricts blood vessels in the digestive tract and dilates the [[Cards/Bronchioles\|bronchioles]] in the lungs.
+
+## Functions [[Cards/Hormones\|Hormones]] control [[Sources/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]
+- Growth and development
+- Reproduction
+- Cell metabolism and energy
+- Body water, electrolytes and nutrients
+- Body defences
 
 ## Types of Hormones
 - [[Cards/Amino Acid-Peptide Hormones\|Amino Acid-Peptide Hormones]]
@@ -46,7 +53,6 @@ One hormone can have different effects on different cells. An example being [[Ca
 ## Mentions
 - [[Sources/Articles/37TypesHormones2018\|37TypesHormones2018]]
 - [[Sources/Podcasts/Podcast Episodes/654 Dr. Matthew Walker, All Things Sleep Continued\|654 Dr. Matthew Walker, All Things Sleep Continued]]
-- [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]
 - [[Spaces/University/Projects/HBIO1010A1 Poster\|HBIO1010A1 Poster]]
 
 { .block-language-dataview}
@@ -63,7 +69,6 @@ One hormone can have different effects on different cells. An example being [[Ca
 ## Mentions
 - [[Sources/Articles/37TypesHormones2018\|37TypesHormones2018]]
 - [[Sources/Podcasts/Podcast Episodes/654 Dr. Matthew Walker, All Things Sleep Continued\|654 Dr. Matthew Walker, All Things Sleep Continued]]
-- [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]
 
 { .block-language-dataview}
 
