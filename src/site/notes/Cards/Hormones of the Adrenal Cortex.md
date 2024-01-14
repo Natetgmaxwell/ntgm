@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-## List of Adrenal Cortex Hormones
+## List of Adrenal Cortex Hormones [[Sources/@lindagallo2023LFS112M4T4Adrenal\|@lindagallo2023LFS112M4T4Adrenal]]
 - [[Cards/Mineralocorticoids\|Mineralocorticoids]]
 - [[Cards/Glucocorticoids\|Glucocorticoids]]
 - [[Cards/Gonadocorticoids\|Gonadocorticoids]]
