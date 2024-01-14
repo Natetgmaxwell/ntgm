@@ -10,7 +10,7 @@
 > down:: 
 
 > [!Definition] Definition
-> Myostatin, also known as growth-differentiation factor 11 (GDF11), is a protein that inhibits muscle cell differentiation and growth. It is expressed mainly in skeletal muscle tissue and acts as a negative regulator of muscle mass. Myostatin deficiency or deletion can result in increased muscle size and strength, similar to the condition seen in some cattle breeds called double-muscled animals. Humans with excessive myostatin levels may have reduced muscle growth and strength.
+> Myostatin, also known as growth-differentiation factor 11 (GDF11), is a protein that inhibits [[Cards/Myocyte\|muscle cell]] differentiation and growth. It is expressed mainly in skeletal muscle tissue and acts as a negative regulator of muscle mass. Myostatin deficiency or deletion can result in increased muscle size and strength, similar to the condition seen in some cattle breeds called double-muscled animals. Humans with excessive myostatin levels may have reduced muscle growth and strength.
 
 > [!quote] [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]
 > Myostatin is a substance that inhibits muscle growth by suppressing hypertrophy[704] . It’s basically your body’s attempt to shut down muscle growth as a way to preserve energy from an evolutionary perspective.
@@ -32,6 +32,7 @@
 | Outgoing Links                                    |
 | ------------------------------------------------- |
 | [[Cards/Globular Proteins\|Globular Proteins]] |
+| [[Cards/Myocyte\|Myocyte]]                     |
 
 { .block-language-dataview}
 
