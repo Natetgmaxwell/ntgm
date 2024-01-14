@@ -13,7 +13,7 @@
 > 
 
 ![Extras/Images/image-5-x475-y316.png|300](/img/user/Extras/Images/image-5-x475-y316.png)
-[[Sources/Video/@-LFS122M4T1Vertebral\|@-LFS122M4T1Vertebral]]
+[[Sources/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]]
 ## Vertebrae of the [[Cards/Cervical Spine\|Cervical Spine]]
 
 - [[Cards/Cervical 1\|Cervical 1]]
@@ -58,9 +58,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                           |
-| ----------------------------------------------------------------- |
-| [[Sources/Video/@-LFS122M4T1Vertebral\|@-LFS122M4T1Vertebral]] |
+| Sources                                                   |
+| --------------------------------------------------------- |
+| [[Sources/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]] |
 
 { .block-language-dataview}
 
