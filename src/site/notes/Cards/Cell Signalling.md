@@ -20,7 +20,7 @@
 | Short Duration Response                        | Long Duration Response        |
 | [[Cards/Action Potentials\|Action Potentials]] and [[Cards/Neurotransmitter\|Neurotransmitter]] | [[Cards/Hormones\|Hormones]] in the [[Cards/Blood\|Blood]] |
 | Specific Area                                  | Broad                         | 
-[[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]
+[[Sources/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]
 
 ## Types of [[Cards/Cell Signalling\|Cell Signalling]]
 
