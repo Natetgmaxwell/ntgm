@@ -28,9 +28,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                           |
-| ------------------------------------------------------------------------------------------------- |
-| [[Sources/Research Papers/@green1984AlterationsBloodVolume\|@green1984AlterationsBloodVolume]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
