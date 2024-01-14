@@ -29,7 +29,6 @@
 
 | Sources                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@-LFS112M4T4Adrenal\|@-LFS112M4T4Adrenal]]                                                                         |
 | [[Sources/Research Papers/@tsilosani2022-AldosteroneRegulatedSodiumTransport\|@tsilosani2022-AldosteroneRegulatedSodiumTransport]] |
 
 { .block-language-dataview}
