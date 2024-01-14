@@ -20,7 +20,6 @@
 - 
 
 ## Mentions
-- [[Sources/Research Papers/@goodell2015-StemCellsHealthy\|@goodell2015-StemCellsHealthy]]
 - [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]]
 
 { .block-language-dataview}
