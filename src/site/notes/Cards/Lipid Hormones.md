@@ -28,7 +28,6 @@
 - 
 
 ## Mentions
-- [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]
 - [[Sources/Video/@georgiakafer2023-LFS103M6T1Cell\|@georgiakafer2023-LFS103M6T1Cell]]
 
 { .block-language-dataview}
