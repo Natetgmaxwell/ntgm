@@ -49,7 +49,6 @@
 
 ## Mentions
 - [[Sources/Podcasts/Podcast Episodes/ 542   Dr Randy Nesse   Evolutionary Psychiatry Can Explain Human Emotions\| 542   Dr Randy Nesse   Evolutionary Psychiatry Can Explain Human Emotions]]
-- [[Sources/Research Papers/@goodell2015-StemCellsHealthy\|@goodell2015-StemCellsHealthy]]
 
 { .block-language-dataview}
 
