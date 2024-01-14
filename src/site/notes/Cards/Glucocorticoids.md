@@ -18,7 +18,6 @@
 ## Mentions
 - [[Sources/Books/NEUROENDOCRINOLOGY OF STRESS\|NEUROENDOCRINOLOGY OF STRESS]]
 - [[Sources/Research Papers/@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine]]
-- [[Sources/Video/@-LFS112M4T4Adrenal\|@-LFS112M4T4Adrenal]]
 
 { .block-language-dataview}
 
