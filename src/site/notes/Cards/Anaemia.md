@@ -7,7 +7,7 @@
 > [!Ontology]
 > up:: [[Cards/Physiological Disorders\|Physiological Disorders]]
 > jump:: [[Cards/Red Blood Cells\|Red Blood Cells]], [[Cards/Hemoglobin\|Hemoglobin]]
-> down:: [[Cards/Sickle Cell Anemia\|Sickle Cell Anemia]]
+> down:: [[Cards/Sickle Cell Anaemia\|Sickle Cell Anaemia]]
 
 > [!Definition] Definition
 > Anaemia is a medical condition characterised by a deficiency of [[Cards/Red Blood Cells\|Red Blood Cells]] or [[Cards/Hemoglobin\|Hemoglobin]] in the blood.
@@ -29,7 +29,7 @@
 | [[Cards/Physiological Disorders\|Physiological Disorders]] |
 | [[Cards/Rapamycin\|Rapamycin]]                             |
 | [[Cards/Red Blood Cells\|Red Blood Cells]]                 |
-| [[Cards/Sickle Cell Anemia\|Sickle Cell Anemia]]           |
+| [[Cards/Sickle Cell Anaemia\|Sickle Cell Anaemia]]         |
 
 { .block-language-dataview}
 
