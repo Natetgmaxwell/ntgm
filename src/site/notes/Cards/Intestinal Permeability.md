@@ -16,7 +16,6 @@
 - A [[Cards/Intestinal Permeability\|leaky gut]] can affect the permeability of the [[Cards/Blood-brain Barrier\|BBB]]
 
 ## Mentions
-- [[Sources/Articles/WhichProbioticsHistamine\|WhichProbioticsHistamine]]
 - [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 
 { .block-language-dataview}
