@@ -30,9 +30,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                           |
-| ----------------------------------------------------------------- |
-| [[Sources/Video/@-LFS112M4T5Endocrine\|@-LFS112M4T5Endocrine]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
