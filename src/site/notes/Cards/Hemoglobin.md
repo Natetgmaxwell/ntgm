@@ -37,11 +37,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                         | Keywords                                                       |
-| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [[Sources/Video/@2023-LFS112M6T2Red\|@2023-LFS112M6T2Red]]                                                   | \-                                                             |
-| [[Sources/Research Papers/@green1984AlterationsBloodVolume\|@green1984AlterationsBloodVolume]]               | <ul><li>exercise</li><li>blood</li><li>plasma volume</li></ul> |
-| [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]] | \-                                                             |
+| Sources                                                                                                         | Keywords |
+| --------------------------------------------------------------------------------------------------------------- | -------- |
+| [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]] | \-       |
 
 { .block-language-dataview}
 
