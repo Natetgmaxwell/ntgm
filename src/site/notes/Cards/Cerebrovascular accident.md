@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > A cerebrovascular accident (CVA), commonly known as a stroke, occurs when there is a disruption of blood flow to the brain. This can happen due to a blood vessel in the brain becoming blocked by a clot or bursting, leading to a lack of oxygen and nutrients to the brain tissue.
 
-> [!quote] [[Sources/@CerebrovascularAccidentSymptoms2018\|@CerebrovascularAccidentSymptoms2018]]
+> [!quote] [[Sources/@seungguhan2018CerebrovascularAccidentSymptoms\|@seungguhan2018CerebrovascularAccidentSymptoms]]
 > Cerebrovascular accident (CVA) is the medical term for a stroke. A stroke is when blood ow to a part of your brain is stopped either by a blockage or the rupture of a blood vessel.
 
 ## Types of Stroke
@@ -40,11 +40,11 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                 |
-| ------------------------------------------------------------------------------------------------------- |
-| [[Sources/@CerebrovascularAccidentSymptoms2018\|@CerebrovascularAccidentSymptoms2018]]               |
-| [[Sources/Research Papers/@veniamakis2022-EffectsSodiumIntake\|@veniamakis2022-EffectsSodiumIntake]] |
-| [[Sources/Articles/2023MetabolicSyndrome-australia\|2023MetabolicSyndrome-australia]]                |
+| Sources                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------- |
+| [[Sources/@seungguhan2018CerebrovascularAccidentSymptoms\|@seungguhan2018CerebrovascularAccidentSymptoms]] |
+| [[Sources/Research Papers/@veniamakis2022-EffectsSodiumIntake\|@veniamakis2022-EffectsSodiumIntake]]       |
+| [[Sources/Articles/2023MetabolicSyndrome-australia\|2023MetabolicSyndrome-australia]]                      |
 
 { .block-language-dataview}
 
