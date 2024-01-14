@@ -12,7 +12,7 @@
 > [!quote] [[Sources/Podcasts/Podcast Shows/The Jordan B. Peterson Podcast (JBP)\|The Jordan B. Peterson Podcast (JBP)]] EP299
 > "It is impossible to lie to someone without lying to yourself…you become what you practise"
 
-> [!quote] [[Sources/Books/@fyodordostoevsky1869-Idiot\|The Idiot]]
+> [!quote] [[Sources/@fyodordostoevskyIdiot1869\|@fyodordostoevskyIdiot1869]]
 > “When you are lying, if you skillfully put in something not quite ordinary, something eccentric, something, you know, that never has happened, or very rarely, it makes the lie sound much more probable.”
 
 ## Decoding [[Cards/Deception\|Deception]]
@@ -47,7 +47,7 @@ When people are trying to distract you from the truth or “con” you, you must
 | [[Sources/Podcasts/Podcast Shows/The Jordan B. Peterson Podcast (JBP)\|The Jordan B. Peterson Podcast (JBP)]]                                                                                                                          |
 | [[Sources/Podcasts/Podcast Episodes/270. Biology and Man   Robert Trivers and Dr Jordan B Peterson — The Jordan B. Peterson Podcast\|270. Biology and Man   Robert Trivers and Dr Jordan B Peterson — The Jordan B. Peterson Podcast]] |
 | [[Sources/Books/The Crucible by Arthur Miller\|The Crucible by Arthur Miller]]                                                                                                                                                         |
-| [[Sources/Books/@fyodordostoevsky1869-Idiot\|@fyodordostoevsky1869-Idiot]]                                                                                                                                                             |
+| [[Sources/@fyodordostoevskyIdiot1869\|@fyodordostoevskyIdiot1869]]                                                                                                                                                                     |
 
 { .block-language-dataview}
 
