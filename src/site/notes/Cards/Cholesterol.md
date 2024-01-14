@@ -37,7 +37,6 @@
 > [!Links]+
 >  | Incoming Links                                                                                                                                                                                             |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]                                                                                                                                            |
 > | [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]                                                                                                              |
 > | [[Sources/Articles/2023HealthBenefitsThatDrinkingMatcha-lorealthompsonpayton\|2023HealthBenefitsThatDrinkingMatcha-lorealthompsonpayton]]                                                               |
 > | [[Sources/Articles/2023MetabolicSyndrome-australia\|2023MetabolicSyndrome-australia]]                                                                                                                   |
@@ -120,7 +119,7 @@
 > 
 > [!quote] (Page 122)
 > 
-> Cholesterol is essential to life. It is required to produce some of the most important structures in the body, including cell membranes; hormones such as testosterone, progesterone, estrogen, and cortisol; and bile acids, which are necessary for digesting food.
+> Cholesterol is essential to life. It is required to produce some of the most important structures in the body, including [[Cards/Plasma Membranes\|cell membranes]]; hormones such as testosterone, progesterone, estrogen, and cortisol; and bile acids, which are necessary for digesting food.
 > 
 > [!quote] (Page 122)
 > 
@@ -204,7 +203,6 @@
 
 | Sources                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]                                                                                                                                            |
 | [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]                                                                                                              |
 | [[Sources/@peterattia2023OutliveScienceArt\|@peterattia2023OutliveScienceArt]]                                                                                                                          |
 | [[Sources/Articles/2023HealthBenefitsThatDrinkingMatcha-lorealthompsonpayton\|2023HealthBenefitsThatDrinkingMatcha-lorealthompsonpayton]]                                                               |
