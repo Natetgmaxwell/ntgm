@@ -48,7 +48,6 @@
 
 | Sources                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@-LFS112M4T1Overview\|@-LFS112M4T1Overview]]                                                                                                 |
 | [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]]                                                                                 |
 | [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                                                                   |
 | [[Sources/Other/HBIO1010 M1T1 Video - Overview of cell physiology and thermodynamics\|HBIO1010 M1T1 Video - Overview of cell physiology and thermodynamics]] |
