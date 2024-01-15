@@ -16,8 +16,8 @@
 - 
 
 ## Mentions
-- [[Sources/Podcasts/Podcast Episodes/ 626   Richard Shotton   8 Psychology Hacks Behind The World’s Biggest Businesses\| 626   Richard Shotton   8 Psychology Hacks Behind The World’s Biggest Businesses]]
 - [[Sources/@danielkahnemanThinkingFastSlow2011\|@danielkahnemanThinkingFastSlow2011]]
+- [[Sources/Podcasts/Podcast Episodes/ 626   Richard Shotton   8 Psychology Hacks Behind The World’s Biggest Businesses\| 626   Richard Shotton   8 Psychology Hacks Behind The World’s Biggest Businesses]]
 
 { .block-language-dataview}
 
