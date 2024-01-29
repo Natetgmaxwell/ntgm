@@ -13,7 +13,7 @@
 > - '@[citekey]' = Source Notes
 > - All other files are cards
 > - '#uni/[course-code]' = Cards that are related to a Uni, broken into subject
-> - Flashcard format is {question};;{answer}
+> - Flashcard format is `{question};;{answer}`
 
 ## Recently Created Cards
 | File Name                                                                             | Date Modified    |
