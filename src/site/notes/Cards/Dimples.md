@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/dimples/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/dimples/","dgPassFrontmatter":true}
 ---
 
 # Dimples
@@ -18,9 +18,9 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                            |
-| ----------------------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Introductory Bioscience\|Introductory Bioscience]] |
+| Incoming Links                                                                    |
+| --------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Introductory Bioscience\|Introductory Bioscience]] |
 
 { .block-language-dataview}
 
