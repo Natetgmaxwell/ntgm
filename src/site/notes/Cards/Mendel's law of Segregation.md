@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/mendel-s-law-of-segregation/","tags":["Uni/LFS103","School","on/Science/Biology"]}
+{"Created":"2022-05-24","date created":"2022-05-24 Tue","edited":"2023-04-06 Thu","dg-publish":true,"tags":["Uni/LFS103","School","on/Science/Biology"],"permalink":"/cards/mendel-s-law-of-segregation/","dgPassFrontmatter":true}
 ---
 
 # Mendel's Law of Segregation
