@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/kidneys/","tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/kidneys/","dgPassFrontmatter":true}
 ---
 
 # Kidneys
