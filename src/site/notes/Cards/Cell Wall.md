@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cell-wall/","tags":["Uni/LFS103"]}
+{"aliases":null,"tags":["Uni/LFS103"],"dg-publish":true,"permalink":"/cards/cell-wall/","dgPassFrontmatter":true}
 ---
 
 # Cell Wall
