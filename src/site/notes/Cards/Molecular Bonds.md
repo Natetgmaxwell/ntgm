@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/molecular-bonds/"}
+{"aliases":["chemical bonds"],"dg-publish":true,"permalink":"/cards/molecular-bonds/","dgPassFrontmatter":true}
 ---
 
 # Molecular Bonds
@@ -20,7 +20,7 @@
 
 # Reference
 - [[Cards/Atoms\|Atoms]]
-- [[Note 15 Sep 2023.pdf]]
+- [[Note 15 Sep 2023.pdf\|Note 15 Sep 2023.pdf]]
 
 ## Mentions
 
