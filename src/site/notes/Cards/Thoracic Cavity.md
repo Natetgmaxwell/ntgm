@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/thoracic-cavity/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/thoracic-cavity/","dgPassFrontmatter":true}
 ---
 
 # Thoracic Cavity
