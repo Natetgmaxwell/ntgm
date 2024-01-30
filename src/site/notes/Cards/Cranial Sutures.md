@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cranial-sutures/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/cranial-sutures/","dgPassFrontmatter":true}
 ---
 
 # Cranial Sutures
