@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hormones-of-the-adrenal-cortex/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/hormones-of-the-adrenal-cortex/","dgPassFrontmatter":true}
 ---
 
 # Hormones of the Adrenal Cortex
