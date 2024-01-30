@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/simple-squamous-epithelium/","tags":["Uni/LFS103","flashcards/LFS103"]}
+{"aliases":null,"tags":["Uni/LFS103","flashcards/LFS103"],"dg-publish":true,"permalink":"/cards/simple-squamous-epithelium/","dgPassFrontmatter":true}
 ---
 
 # Simple Squamous Epithelium
