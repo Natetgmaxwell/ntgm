@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/chromosomes/","tags":["School","on/Science/Biology/Genetics"]}
+{"Created":"2022-03-07","tags":["School","on/Science/Biology/Genetics"],"date created":"2022-03-08 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/chromosomes/","dgPassFrontmatter":true}
 ---
 
 # Chromosomes
@@ -27,24 +27,24 @@
 - [[Cards/Polyploidy\|Polyploidy]]
 
 ## Mentions
-| Incoming Links                                                                                                |
-| ------------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-03-07\|2022-03-07]]                                                             |
-| [[Calendar/2022/Daily/2022-07-19\|2022-07-19]]                                                             |
-| [[Calendar/2022/Daily/2022-08-18\|2022-08-18]]                                                             |
-| [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                     |
-| [[Cards/Aneuploidy\|Aneuploidy]]                                                                           |
-| [[Cards/Chromosome Mutation\|Chromosome Mutation]]                                                         |
-| [[Cards/Diploid Number\|Diploid Number]]                                                                   |
-| [[Cards/Haploid Number\|Haploid Number]]                                                                   |
-| [[Cards/Histone\|Histone]]                                                                                 |
-| [[Cards/HOX Gene\|HOX Gene]]                                                                               |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                   |
-| [[Spaces/University/Classes/Archive/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
-| [[Cards/Locus\|Locus]]                                                                                     |
-| [[Cards/Meiosis\|Meiosis]]                                                                                 |
-| [[Cards/Recessive Allele\|Recessive Allele]]                                                               |
-| [[Cards/Sex-Linked Disorders\|Sex-Linked Disorders]]                                                       |
+| Incoming Links                                                                                        |
+| ----------------------------------------------------------------------------------------------------- |
+| [[Calendar/2022/Daily/2022-03-07\|2022-03-07]]                                                     |
+| [[Calendar/2022/Daily/2022-07-19\|2022-07-19]]                                                     |
+| [[Calendar/2022/Daily/2022-08-18\|2022-08-18]]                                                     |
+| [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                             |
+| [[Cards/Aneuploidy\|Aneuploidy]]                                                                   |
+| [[Cards/Chromosome Mutation\|Chromosome Mutation]]                                                 |
+| [[Cards/Diploid Number\|Diploid Number]]                                                           |
+| [[Cards/Haploid Number\|Haploid Number]]                                                           |
+| [[Cards/Histone\|Histone]]                                                                         |
+| [[Cards/HOX Gene\|HOX Gene]]                                                                       |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                   |
+| [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
+| [[Cards/Locus\|Locus]]                                                                             |
+| [[Cards/Meiosis\|Meiosis]]                                                                         |
+| [[Cards/Recessive Allele\|Recessive Allele]]                                                       |
+| [[Cards/Sex-Linked Disorders\|Sex-Linked Disorders]]                                               |
 
 { .block-language-dataview}
 
