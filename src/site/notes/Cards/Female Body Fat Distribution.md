@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/female-body-fat-distribution/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/female-body-fat-distribution/","dgPassFrontmatter":true}
 ---
 
 # Female Body Fat Distribution
