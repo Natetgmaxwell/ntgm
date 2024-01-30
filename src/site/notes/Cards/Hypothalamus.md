@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hypothalamus/","tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":["paleomammalian cortex"],"edited":"2023-04-06 Thu","date created":"2022-11-30 Wed","dg-publish":true,"tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/hypothalamus/","dgPassFrontmatter":true}
 ---
 
 # Hypothalamus
@@ -30,9 +30,9 @@
 | [[Cards/Gonadotropin-Releasing Hormone\|Gonadotropin-Releasing Hormone]]                                                                       |
 | [[Extras/Excalidraw/Hormones of the Male Reproductive System Diagram.excalidraw\|Hormones of the Male Reproductive System Diagram.excalidraw]] |
 | [[Extras/Excalidraw/HPA Axis Diagram.excalidraw\|HPA Axis Diagram.excalidraw]]                                                                 |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                                                                             |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                                                       |
-| [[Spaces/University/Classes/Archive/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]                                     |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                                                                     |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                                               |
+| [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]                                             |
 | [[Cards/Oxytocin\|Oxytocin]]                                                                                                                   |
 | [[Cards/Pituitary gland\|Pituitary gland]]                                                                                                     |
 | [[Cards/Pituitary stalk\|Pituitary stalk]]                                                                                                     |
