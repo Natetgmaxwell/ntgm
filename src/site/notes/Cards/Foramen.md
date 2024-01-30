@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/foramen/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/foramen/","dgPassFrontmatter":true}
 ---
 
 # Foramen
