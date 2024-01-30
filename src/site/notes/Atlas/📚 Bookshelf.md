@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/bookshelf/"}
+{"date created":"2022-09-15 Thu","edited":"2023-04-06 Thu","up":["[[Sources]]"],"dg-publish":true,"permalink":"/atlas/bookshelf/","dgPassFrontmatter":true}
 ---
 
 # 📚 Bookshelf
@@ -17,23 +17,23 @@
 
 ## To Read
 - [[Sources/Books/Think Big by Grace Lordan\|Think Big by Grace Lordan]]
-- [[Sources/Books/The Practicing Stoic by Ward Farnsworth\|The Practicing Stoic by Ward Farnsworth]]
-- [[Sources/Books/The Daily Laws by Robert Greene\|The Daily Laws by Robert Greene]]
 - [[Sources/Books/The Precipice by Toby Ord\|The Precipice by Toby Ord]]
+- [[Sources/Books/The Practicing Stoic by Ward Farnsworth\|The Practicing Stoic by Ward Farnsworth]]
 - [[Sources/Books/The Mindset of a Millionaire by Various Authors\|The Mindset of a Millionaire by Various Authors]]
-- [[Sources/Books/The 50th Law by Robert Greene\|The 50th Law by Robert Greene]]
+- [[Sources/Books/The Daily Laws by Robert Greene\|The Daily Laws by Robert Greene]]
 - [[Sources/Books/The Brain That Changes Itself By Norman Doidge\|The Brain That Changes Itself By Norman Doidge]]
 - [[Sources/Books/The Art of War by Sun Tzu\|The Art of War by Sun Tzu]]
+- [[Sources/Books/The 50th Law by Robert Greene\|The 50th Law by Robert Greene]]
 - [[Sources/Books/The 48 Laws Of Power by Robert Greene\|The 48 Laws Of Power by Robert Greene]]
 - [[Sources/Books/Psycho-Cybernetics Deluxe Edition by Maxwell Maltz\|Psycho-Cybernetics Deluxe Edition by Maxwell Maltz]]
-- [[Sources/Books/Malice by John Gwynne\|Malice by John Gwynne]]
 - [[Sources/Books/Meditations by Marcus Aurelius\|Meditations by Marcus Aurelius]]
+- [[Sources/Books/Malice by John Gwynne\|Malice by John Gwynne]]
 - [[Sources/Books/Ikigai - The Japanese Secret to a Long and Happy Life by Francesc Miralles\|Ikigai - The Japanese Secret to a Long and Happy Life by Francesc Miralles]]
 - [[Sources/Books/Get Smart! by Brian Tracy\|Get Smart! by Brian Tracy]]
 - [[Sources/Books/Essentialism by Greg McKeown\|Essentialism by Greg McKeown]]
 - [[Sources/Books/Discipline Is Destiny by Ryan Holiday\|Discipline Is Destiny by Ryan Holiday]]
-- [[Sources/Books/2016GreenmanPrinciplesManualMedicine-lisaa.destefano\|2016GreenmanPrinciplesManualMedicine-lisaa.destefano]]
 - [[Sources/Books/A Short History of Nearly Everything by Bill Bryson\|A Short History of Nearly Everything by Bill Bryson]]
+- [[Sources/Books/2016GreenmanPrinciplesManualMedicine-lisaa.destefano\|2016GreenmanPrinciplesManualMedicine-lisaa.destefano]]
 - [[Sources/Books/12 Rules for Life by Jordan B Peterson\|12 Rules for Life by Jordan B Peterson]]
 - [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 
@@ -53,9 +53,9 @@
 - [[Sources/Books/Limitless by Jim Kwik\|Limitless by Jim Kwik]]
 - [[Sources/Books/Magician by Raymond E Feist\|Magician by Raymond E Feist]]
 - [[Sources/Books/NEUROENDOCRINOLOGY OF STRESS\|NEUROENDOCRINOLOGY OF STRESS]]
-- [[Sources/Books/Respiratory Contagion by Mieczyslaw Pokorski\|Respiratory Contagion by Mieczyslaw Pokorski]]
-- [[Sources/Books/Red Rising by Pierce Brown\|Red Rising by Pierce Brown]]
 - [[Sources/Books/Physiological Aspects of Legged Terrestrial Locomotion\|Physiological Aspects of Legged Terrestrial Locomotion]]
+- [[Sources/Books/Red Rising by Pierce Brown\|Red Rising by Pierce Brown]]
+- [[Sources/Books/Respiratory Contagion by Mieczyslaw Pokorski\|Respiratory Contagion by Mieczyslaw Pokorski]]
 - [[Sources/Books/The Crucible by Arthur Miller\|The Crucible by Arthur Miller]]
 - [[Sources/Books/The Roots of England by Marc Morris\|The Roots of England by Marc Morris]]
 
