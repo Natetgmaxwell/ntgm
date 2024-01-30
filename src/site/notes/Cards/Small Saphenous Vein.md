@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/small-saphenous-vein/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/small-saphenous-vein/","dgPassFrontmatter":true}
 ---
 
 # Small Saphenous Vein
