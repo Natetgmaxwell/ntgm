@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/reptilian-complex/"}
+{"aliases":["R-complex"],"dg-publish":true,"permalink":"/cards/reptilian-complex/","dgPassFrontmatter":true}
 ---
 
 # Reptilian Complex
