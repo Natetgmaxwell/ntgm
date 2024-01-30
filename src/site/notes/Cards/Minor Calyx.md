@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/minor-calyx/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/minor-calyx/","dgPassFrontmatter":true}
 ---
 
 # Minor Calyx
