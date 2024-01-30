@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/paranasal-sinuses/"}
+{"aliases":"Para-nasal Sinuses","tags":null,"dg-publish":true,"permalink":"/cards/paranasal-sinuses/","dgPassFrontmatter":true}
 ---
 
 # Paranasal Sinuses
@@ -26,9 +26,9 @@
 - 
 
 ## Mentions
-| Incoming Links                                                        |
-| --------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
 
 { .block-language-dataview}
 
