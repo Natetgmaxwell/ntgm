@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/pickle-juice/","tags":["on/Food"]}
+{"aliases":null,"tags":["on/Food"],"dg-publish":true,"permalink":"/cards/pickle-juice/","dgPassFrontmatter":true}
 ---
 
 # Pickle Juice
