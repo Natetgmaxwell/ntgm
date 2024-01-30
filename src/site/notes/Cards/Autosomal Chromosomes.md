@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/autosomal-chromosomes/","tags":["Uni/LFS103"]}
+{"aliases":null,"tags":["Uni/LFS103"],"dg-publish":true,"permalink":"/cards/autosomal-chromosomes/","dgPassFrontmatter":true}
 ---
 
 # Autosomal Chromosomes
