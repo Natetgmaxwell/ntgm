@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/bicarbonate/","tags":["Uni/LFS112"]}
+{"aliases":null,"edited":"2023-04-06 Thu","date created":"2023-02-23 Thu","tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/bicarbonate/","dgPassFrontmatter":true}
 ---
 
 # Bicarbonate
