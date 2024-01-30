@@ -9,7 +9,7 @@
 > jump:: [[Cards/Adaptation\|Adaptation]]
 > down:: [[Cards/Microevolution\|Microevolution]], [[Cards/Speciation\|Speciation]]
 
-> [!quote] [@henderson2022-WhatSocialStatus]
+> [!quote] [[Sources/Articles/@henderson2022-WhatSocialStatus\|@henderson2022-WhatSocialStatus]]]
 > "Evolution doesn’t “care” that much about survival. It “cares” mostly about reproduction. A trait that damages survival can still spread if it aids in reproduction."
 
 > [!quote] [[Sources/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
