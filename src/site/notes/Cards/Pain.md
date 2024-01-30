@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/pain/"}
+{"aliases":null,"edited":"2023-04-06 Thu","date created":"2023-04-02 Sun","dg-publish":true,"permalink":"/cards/pain/","dgPassFrontmatter":true}
 ---
 
 # Pain
