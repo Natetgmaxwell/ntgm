@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/blood-flow-restriction-training/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/blood-flow-restriction-training/","dgPassFrontmatter":true}
 ---
 
 # Blood Flow Restriction Training
