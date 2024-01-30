@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/vallate-papillae/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/vallate-papillae/","dgPassFrontmatter":true}
 ---
 
 # Vallate Papillae
