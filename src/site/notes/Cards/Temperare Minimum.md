@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/temperare-minimum/"}
+{"aliases":null,"dg-publish":true,"permalink":"/cards/temperare-minimum/","dgPassFrontmatter":true}
 ---
 
 # Temperare Minimum
