@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/plagiarism/"}
+{"aliases":["Plagiarise"],"tags":null,"dg-publish":true,"permalink":"/cards/plagiarism/","dgPassFrontmatter":true}
 ---
 
 # Plagiarism
@@ -15,10 +15,10 @@
 > [!quote] [[Cards/William Ralph Inge\|William Ralph Inge]]
 > "What is originality? Undetected plagiarism"
 
-> [!quote] [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
+> [!quote] [[Sources/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
 > "According to Rob Boyd and Pete Richerson, that’s our species’ Clever Trick: stealing ideas from one another’s brains. Our Clever Trick is plagiarism! Elephants have their trunks; giraffes have their long necks – and humans have their ability to plagiarize."
 
-[[Cards/Steve Stewart-Williams\|Steve Stewart-Williams]] argues that plagiarism isn't necessarily a bad thing. It allows individuals to send time dreaming new innovations rather than solving the basic ones others have already figured out [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]].
+[[Cards/Steve Stewart-Williams\|Steve Stewart-Williams]] argues that plagiarism isn't necessarily a bad thing. It allows individuals to send time dreaming new innovations rather than solving the basic ones others have already figured out [[Sources/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]].
 
 # Reference
 - 
@@ -36,9 +36,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                             |
-| --------------------------------------------------------------------------------------------------- |
-| [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]] |
+| Sources                                                                                       |
+| --------------------------------------------------------------------------------------------- |
+| [[Sources/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]] |
 
 { .block-language-dataview}
 
