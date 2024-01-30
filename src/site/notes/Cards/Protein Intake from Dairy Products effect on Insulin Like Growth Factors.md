@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/protein-intake-from-dairy-products-effect-on-insulin-like-growth-factors/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/protein-intake-from-dairy-products-effect-on-insulin-like-growth-factors/","dgPassFrontmatter":true}
 ---
 
 # Protein Intake from Dairy Products Effect on Insulin Like Growth Factors
