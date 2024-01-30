@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/katemounsey2023-lfs-112-m6-t2-red/","tags":["source/video","Uni/LFS112"]}
+{"zotero-key":"7L24W36G","zt-attachments":["1309"],"aliases":["LFS112 M6T2 Red blood cells + oxygen transport"],"keywords":null,"FirstAuthor":"[[ Kate Mounsey]]","tags":["source/video","Uni/LFS112"],"dg-publish":true,"permalink":"/sources/katemounsey2023-lfs-112-m6-t2-red/","dgPassFrontmatter":true}
 ---
 
 # @katemounsey2023LFS112M6T2Red
