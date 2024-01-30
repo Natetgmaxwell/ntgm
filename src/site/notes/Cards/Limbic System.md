@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/limbic-system/"}
+{"aliases":null,"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/limbic-system/","dgPassFrontmatter":true}
 ---
 
 # Limbic System
