@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/central-nervous-system/","tags":["on/Science/Biology/Anatomy"]}
+{"aliases":["CNS"],"tags":["on/Science/Biology/Anatomy"],"date created":"2022-11-28 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/central-nervous-system/","dgPassFrontmatter":true}
 ---
 
 # Central Nervous System
@@ -36,16 +36,16 @@
 - [[Cards/Spine\|Spine]]
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-10-16 Mon\|2023-10-16 Mon]]                                                         |
-| [[Cards/Acetylcholine\|Acetylcholine]]                                                                         |
-| [[Extras/Excalidraw/Divisions of the Nervous System.excalidraw\|Divisions of the Nervous System.excalidraw]]   |
-| [[Cards/Gamma-Aminobutyric Acid\|Gamma-Aminobutyric Acid]]                                                     |
-| [[Cards/Glycine\|Glycine]]                                                                                     |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                       |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
-| [[Extras/Excalidraw/Negative Feedback Loops.excalidraw\|Negative Feedback Loops.excalidraw]]                   |
+| Incoming Links                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------- |
+| [[Calendar/2023/Daily/2023-10-16 Mon\|2023-10-16 Mon]]                                                       |
+| [[Cards/Acetylcholine\|Acetylcholine]]                                                                       |
+| [[Extras/Excalidraw/Divisions of the Nervous System.excalidraw\|Divisions of the Nervous System.excalidraw]] |
+| [[Cards/Gamma-Aminobutyric Acid\|Gamma-Aminobutyric Acid]]                                                   |
+| [[Cards/Glycine\|Glycine]]                                                                                   |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                             |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]       |
+| [[Extras/Excalidraw/Negative Feedback Loops.excalidraw\|Negative Feedback Loops.excalidraw]]                 |
 
 { .block-language-dataview}
 
