@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/feedback-loops/","tags":["Uni/OMT1","on/Science/Biology","Uni/HBIO1009","Uni/LFS112"]}
+{"Created:":"2022-06-11","edited":"2023-04-06 Thu","tags":["Uni/OMT1","on/Science/Biology","Uni/HBIO1009","Uni/LFS112"],"date created":"2022-06-11 Sat","dg-publish":true,"permalink":"/cards/feedback-loops/","dgPassFrontmatter":true}
 ---
 
 # Feedback Loops
@@ -25,8 +25,8 @@
 | [[Calendar/2023/Daily/2023-05-17 Wed\|2023-05-17 Wed]]                                                                    |
 | [[Cards/Cell Signalling\|Cell Signalling]]                                                                                |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
-| [[Spaces/University/Classes/Archive/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]                |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]            |
+| [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]                        |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
 | [[Cards/Neurofeedback\|Neurofeedback]]                                                                                    |
 
 { .block-language-dataview}
