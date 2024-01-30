@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/factors-for-increasing-igf-1/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/factors-for-increasing-igf-1/","dgPassFrontmatter":true}
 ---
 
 # Factors for Increasing IGF-1
