@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/spine/","tags":["Uni/OMT1","Uni/HBIO1009","flashcards/osteo-flashcards"]}
+{"aliases":null,"edited":"2023-04-06 Thu","date created":"2023-03-08 Wed","dg-publish":true,"tags":["Uni/OMT1","Uni/HBIO1009","flashcards/osteo-flashcards"],"permalink":"/cards/spine/","dgPassFrontmatter":true}
 ---
 
 # Spine
