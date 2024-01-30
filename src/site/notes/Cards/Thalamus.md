@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/thalamus/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/thalamus/","dgPassFrontmatter":true}
 ---
 
 # Thalamus
