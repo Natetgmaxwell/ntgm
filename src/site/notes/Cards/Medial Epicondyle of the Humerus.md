@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/medial-epicondyle-of-the-humerus/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":["Medial Epicondyle"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/medial-epicondyle-of-the-humerus/","dgPassFrontmatter":true}
 ---
 
 # Medial Epicondyle of the Humerus
@@ -15,7 +15,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-$<div class="markdown-embed-title">
+<div class="markdown-embed-title">
 
 # 550
 
