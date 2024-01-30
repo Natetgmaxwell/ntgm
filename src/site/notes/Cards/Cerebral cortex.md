@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cerebral-cortex/","tags":["Uni/LFS122","Uni/HBIO1009","on/Science/Biology/Anatomy"]}
+{"aliases":["Cerebral Hemisphere","Cerebrum"],"date created":"2022-12-03 Sat","edited":"2023-04-06 Thu","tags":["Uni/LFS122","Uni/HBIO1009","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/cerebral-cortex/","dgPassFrontmatter":true}
 ---
 
 # Cerebral cortex
@@ -22,21 +22,21 @@
 - [[Cards/Pyrroloquinoline quinone\|PQQ]]
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Cards/Basal ganglia\|Basal ganglia]]                                                                         |
-| [[Extras/Excalidraw/Brain Diagram.excalidraw\|Brain Diagram.excalidraw]]                                       |
-| [[Cards/Central Nervous System\|Central Nervous System]]                                                       |
-| [[Cards/Conscious Breathing\|Conscious Breathing]]                                                             |
-| [[Cards/Cranial Gyri\|Cranial Gyri]]                                                                           |
-| [[Cards/Cranial Sulci\|Cranial Sulci]]                                                                         |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                                             |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                       |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
-| [[Cards/Long-term memory\|Long-term memory]]                                                                   |
-| [[Cards/Memory\|Memory]]                                                                                       |
-| [[Cards/Neocortex\|Neocortex]]                                                                                 |
-| [[Cards/Optical Lobe\|Optical Lobe]]                                                                           |
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Cards/Basal ganglia\|Basal ganglia]]                                                                 |
+| [[Extras/Excalidraw/Brain Diagram.excalidraw\|Brain Diagram.excalidraw]]                               |
+| [[Cards/Central Nervous System\|Central Nervous System]]                                               |
+| [[Cards/Conscious Breathing\|Conscious Breathing]]                                                     |
+| [[Cards/Cranial Gyri\|Cranial Gyri]]                                                                   |
+| [[Cards/Cranial Sulci\|Cranial Sulci]]                                                                 |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                             |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                       |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Cards/Long-term memory\|Long-term memory]]                                                           |
+| [[Cards/Memory\|Memory]]                                                                               |
+| [[Cards/Neocortex\|Neocortex]]                                                                         |
+| [[Cards/Optical Lobe\|Optical Lobe]]                                                                   |
 
 { .block-language-dataview}
 
