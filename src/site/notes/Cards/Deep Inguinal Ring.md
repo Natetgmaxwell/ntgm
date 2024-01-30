@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/deep-inguinal-ring/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/deep-inguinal-ring/","dgPassFrontmatter":true}
 ---
 
 # Deep Inguinal Ring
@@ -16,10 +16,10 @@
 - 
 
 ## Mentions
-| Incoming Links                                                        |
-| --------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
-| [[Cards/Superficial Inguinal Ring\|Superficial Inguinal Ring]]     |
+| Incoming Links                                                    |
+| ----------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]     |
+| [[Cards/Superficial Inguinal Ring\|Superficial Inguinal Ring]] |
 
 { .block-language-dataview}
 
