@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/skin/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":["cutaneous membrane"],"date created":"2022-12-10 Sat","edited":"2023-04-06 Thu","tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/skin/","dgPassFrontmatter":true}
 ---
 
 # Skin
@@ -32,8 +32,8 @@
 | [[Cards/Gotu kola\|Gotu kola]]                                                                                            |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
 | [[Cards/Hematoma\|Hematoma]]                                                                                              |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                                  |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]            |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                          |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
 | [[Cards/Keratin\|Keratin]]                                                                                                |
 | [[Cards/Palpation\|Palpation]]                                                                                            |
 | [[Cards/Sebaceous glands\|Sebaceous glands]]                                                                              |
