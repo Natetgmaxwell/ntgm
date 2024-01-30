@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/books/robertgreene2018-laws-human-nature/","tags":["source/book"]}
+{"zotero-key":"LWGLDJWB","zt-attachments":["2375"],"FirstAuthor":"[[Robert Greene]]","aliases":["The Laws of Human Nature"],"citekey":"robertgreene2018-LawsHumanNature","Status":"Reading","tags":["source/book"],"Genre":"Non-Fiction","dg-publish":true,"permalink":"/sources/books/robertgreene2018-laws-human-nature/","dgPassFrontmatter":true}
 ---
 
 # @robertgreene2018-LawsHumanNature
