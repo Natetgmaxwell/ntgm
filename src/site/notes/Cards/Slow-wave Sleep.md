@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/slow-wave-sleep/","tags":["on/Health"]}
+{"aliases":["deep sleep"],"tags":["on/Health"],"date created":"2022-12-14 Wed","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/slow-wave-sleep/","dgPassFrontmatter":true}
 ---
 
 # Slow-wave Sleep
