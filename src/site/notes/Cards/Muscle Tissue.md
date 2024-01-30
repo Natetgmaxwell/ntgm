@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/muscle-tissue/","tags":["Uni/LFS112","on/Science/Biology/Anatomy","Uni/OMT1","Uni/HBIO1010","flashcards/hbio1010","flashcards/LFS112"]}
+{"aliases":["muscle fibre","Muscle Fiber"],"edited":"2023-04-06 Thu","date created":"2023-02-07 Tue","tags":["Uni/LFS112","on/Science/Biology/Anatomy","Uni/OMT1","Uni/HBIO1010","flashcards/hbio1010","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/muscle-tissue/","dgPassFrontmatter":true}
 ---
 
 # Muscle Tissue
@@ -105,8 +105,8 @@ the  oxidative  cycle  increases  due  to  an  improvement  in  efficiency”
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
 | [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]]                                                       |
 | [[Cards/High-threshold Motor Units\|High-threshold Motor Units]]                                                          |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                                  |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]            |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                          |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
 | [[Cards/Joints\|Joints]]                                                                                                  |
 | [[Cards/Low-threshold Motor Units\|Low-threshold Motor Units]]                                                            |
 | [[Cards/Motor Units\|Motor Units]]                                                                                        |
