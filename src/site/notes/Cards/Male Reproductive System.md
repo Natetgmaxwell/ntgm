@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/male-reproductive-system/","tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/male-reproductive-system/","dgPassFrontmatter":true}
 ---
 
 # Male Reproductive System
