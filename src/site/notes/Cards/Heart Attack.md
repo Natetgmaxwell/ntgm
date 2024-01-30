@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/heart-attack/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/heart-attack/","dgPassFrontmatter":true}
 ---
 
 # Heart Attack
