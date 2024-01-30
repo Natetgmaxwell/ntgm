@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/aldosterone/","tags":["on/Science/Biology","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"tags":["on/Science/Biology","Uni/LFS112","flashcards/LFS112"],"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/aldosterone/","dgPassFrontmatter":true}
 ---
 
 # Aldosterone
@@ -16,11 +16,11 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                |
-| ------------------------------------------------------------------------------------------------------------- |
-| [[Cards/Aldosterone's effect on Blood Pressure\|Aldosterone's effect on Blood Pressure]]                   |
-| [[Cards/Aldosterone's effect on Sodium\|Aldosterone's effect on Sodium]]                                   |
-| [[Spaces/University/Classes/Archive/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
+| Incoming Links                                                                                        |
+| ----------------------------------------------------------------------------------------------------- |
+| [[Cards/Aldosterone's effect on Blood Pressure\|Aldosterone's effect on Blood Pressure]]           |
+| [[Cards/Aldosterone's effect on Sodium\|Aldosterone's effect on Sodium]]                           |
+| [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
 
 { .block-language-dataview}
 
