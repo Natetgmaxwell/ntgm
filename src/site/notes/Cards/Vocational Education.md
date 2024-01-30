@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/vocational-education/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/vocational-education/","dgPassFrontmatter":true}
 ---
 
 # Vocational Education
