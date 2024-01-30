@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/testosterones-effect-on-hematocrit/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/testosterones-effect-on-hematocrit/","dgPassFrontmatter":true}
 ---
 
 # Testosterones Effect on Hematocrit
