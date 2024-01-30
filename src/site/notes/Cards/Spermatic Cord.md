@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/spermatic-cord/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/spermatic-cord/","dgPassFrontmatter":true}
 ---
 
 # Spermatic Cord
@@ -16,11 +16,11 @@
 - 
 
 ## Mentions
-| Incoming Links                                                        |
-| --------------------------------------------------------------------- |
-| [[Cards/Deep Inguinal Ring\|Deep Inguinal Ring]]                   |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
-| [[Cards/Superficial Inguinal Ring\|Superficial Inguinal Ring]]     |
+| Incoming Links                                                    |
+| ----------------------------------------------------------------- |
+| [[Cards/Deep Inguinal Ring\|Deep Inguinal Ring]]               |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]     |
+| [[Cards/Superficial Inguinal Ring\|Superficial Inguinal Ring]] |
 
 { .block-language-dataview}
 
