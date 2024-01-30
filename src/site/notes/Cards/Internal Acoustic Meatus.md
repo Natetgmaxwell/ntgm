@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/internal-acoustic-meatus/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/internal-acoustic-meatus/","dgPassFrontmatter":true}
 ---
 
 # Internal Acoustic Meatus
@@ -16,10 +16,10 @@
 - 
 
 ## Mentions
-| Incoming Links                                                        |
-| --------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
-| [[Cards/Vestibulocochlear Nerve\|Vestibulocochlear Nerve]]         |
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
+| [[Cards/Vestibulocochlear Nerve\|Vestibulocochlear Nerve]] |
 
 { .block-language-dataview}
 
