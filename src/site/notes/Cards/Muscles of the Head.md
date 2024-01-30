@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/muscles-of-the-head/"}
+{"aliases":null,"tags":[],"dg-publish":true,"permalink":"/cards/muscles-of-the-head/","dgPassFrontmatter":true}
 ---
 
 # Muscles of the Head
