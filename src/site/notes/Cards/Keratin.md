@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/keratin/","tags":["flashcards/LFS122"]}
+{"aliases":null,"dg-publish":true,"tags":["flashcards/LFS122"],"permalink":"/cards/keratin/","dgPassFrontmatter":true}
 ---
 
 # Keratin
@@ -18,10 +18,10 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
-| [[Spaces/University/Classes/Current/Introductory Bioscience\|Introductory Bioscience]]                         |
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Spaces/University/Classes/Introductory Bioscience\|Introductory Bioscience]]                         |
 
 { .block-language-dataview}
 
