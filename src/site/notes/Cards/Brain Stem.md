@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/brain-stem/","tags":["Uni/HBIO1009","Uni/LFS112"]}
+{"aliases":null,"tags":["Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/brain-stem/","dgPassFrontmatter":true}
 ---
 
 # Brain Stem
@@ -36,12 +36,12 @@ Understanding the anatomy, functions, major nuclei, pathways, and disorders asso
 - 
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Cards/Basal ganglia\|Basal ganglia]]                                                                         |
-| [[Cards/Central Nervous System\|Central Nervous System]]                                                       |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                                             |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Cards/Basal ganglia\|Basal ganglia]]                                                                 |
+| [[Cards/Central Nervous System\|Central Nervous System]]                                               |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                             |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
 
 { .block-language-dataview}
 
