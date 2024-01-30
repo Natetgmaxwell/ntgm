@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/stabilising-selection/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/stabilising-selection/","dgPassFrontmatter":true}
 ---
 
 # Stabilising Selection
