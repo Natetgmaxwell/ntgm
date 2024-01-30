@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/superior-lobe-of-the-left-lung/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/superior-lobe-of-the-left-lung/","dgPassFrontmatter":true}
 ---
 
 # Superior Lobe of the Left Lung
