@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/diet-for-increasing-testosterone/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/diet-for-increasing-testosterone/","dgPassFrontmatter":true}
 ---
 
 # Diet for Increasing Testosterone
