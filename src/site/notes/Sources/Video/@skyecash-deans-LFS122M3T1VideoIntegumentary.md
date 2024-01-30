@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/video/skyecash-deans-lfs-122-m3-t1-video-integumentary/","tags":["source/video","Uni/LFS122"]}
+{"aliases":["LFS122 M3T1 Integumentary System"],"tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/skyecash-deans-lfs-122-m3-t1-video-integumentary/","dgPassFrontmatter":true}
 ---
 
 # @skyecash-deans-LFS122M3T1VideoIntegumentary
