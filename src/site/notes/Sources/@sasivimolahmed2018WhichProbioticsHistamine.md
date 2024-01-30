@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/sasivimolahmed2018-which-probiotics-histamine/","tags":["source/article"]}
+{"zotero-key":"CEF58935","zt-attachments":["1689"],"aliases":["Which probiotics for histamine intolerance?","Which probiotics for histamine intolerance? | Professionals"],"keywords":["probiotics"],"FirstAuthor":"[[ Sasivimol Ahmed]]","dg-publish":true,"tags":["source/article"],"permalink":"/sources/sasivimolahmed2018-which-probiotics-histamine/","dgPassFrontmatter":true}
 ---
 
 # @sasivimolahmed2018WhichProbioticsHistamine
