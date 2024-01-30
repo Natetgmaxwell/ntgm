@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/enzyme/","tags":["on/Science/Biology/Biochemistry"]}
+{"Created":"2022-06-25","aliases":["enzyme","enzymes"],"date created":"2022-06-25 Sat","edited":"2023-04-06 Thu","dg-publish":true,"tags":["on/Science/Biology/Biochemistry"],"permalink":"/cards/enzyme/","dgPassFrontmatter":true}
 ---
 
 # Enzyme
@@ -42,7 +42,7 @@
 | [[Cards/Enzyme Deactivation\|Enzyme Deactivation]]                                 |
 | [[Cards/Epigenetic Regulators\|Epigenetic Regulators]]                             |
 | [[Cards/Histamine N-methyltransferase\|Histamine N-methyltransferase]]             |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]           |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                   |
 | [[Cards/Induced Fit Model\|Induced Fit Model]]                                     |
 | [[Cards/Methylenetetrahydrofolate Reductase\|Methylenetetrahydrofolate Reductase]] |
 | [[Cards/Monoamine oxidase A\|Monoamine oxidase A]]                                 |
