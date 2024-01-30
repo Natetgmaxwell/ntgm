@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/slow-twitch-fibres/","tags":["on/Science/Biology/Anatomy"]}
+{"aliases":["type I","red fibres"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2023-02-07 Tue","dg-publish":true,"permalink":"/cards/slow-twitch-fibres/","dgPassFrontmatter":true}
 ---
 
 # Slow Twitch Fibres
@@ -27,7 +27,7 @@
 | [[Calendar/2023/Daily/2023-11-07 Tue\|2023-11-07 Tue]]                                                                    |
 | [[Cards/Aerobic Training Zones\|Aerobic Training Zones]]                                                                  |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]            |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
 | [[Cards/Krebs Cycle\|Krebs Cycle]]                                                                                        |
 | [[Cards/Training Zone 2\|Training Zone 2]]                                                                                |
 
