@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/median-cubital-vein/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/median-cubital-vein/","dgPassFrontmatter":true}
 ---
 
 # Median Cubital Vein
