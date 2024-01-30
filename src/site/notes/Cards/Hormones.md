@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hormones/","tags":["Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","dg-publish":true,"tags":["Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/hormones/","dgPassFrontmatter":true}
 ---
 
 # Hormones
@@ -32,33 +32,10 @@ One hormone can have different effects on different cells. An example being [[Ca
 
 
 
-
-# Stimuli for Hormonal Secretion
-
-> [!ontology]+
-> up:: [[Cards/Hormones\|Hormones]]
-> jump:: 
-> down:: [[Cards/Humoral Stimulus\|Humoral Stimulus]], [[Cards/Neural Stimulus\|Neural Stimulus]], [[Cards/Hormonal Stimulus\|Hormonal Stimulus]]
-
-> [!Definition] Definition
-> 
-
 ## Stimuli for the Secretion of [[Cards/Hormones\|Hormones]]
 - [[Cards/Humoral Stimulus\|Humoral Stimulus]]
 - [[Cards/Neural Stimulus\|Neural Stimulus]]
 - [[Cards/Hormonal Stimulus\|Hormonal Stimulus]]
-# Reference
-- 
-
-## Mentions
-- [[Sources/Articles/37TypesHormones2018\|37TypesHormones2018]]
-- [[Sources/Podcasts/Podcast Episodes/654 Dr. Matthew Walker, All Things Sleep Continued\|654 Dr. Matthew Walker, All Things Sleep Continued]]
-- [[Spaces/University/Projects/HBIO1010A1 Poster\|HBIO1010A1 Poster]]
-
-{ .block-language-dataview}
-
-## Flashcards
-
 
 </div></div>
 
