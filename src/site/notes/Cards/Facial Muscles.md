@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/facial-muscles/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/facial-muscles/","dgPassFrontmatter":true}
 ---
 
 # Facial Muscles
