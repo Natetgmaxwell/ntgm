@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/procedural-memory/"}
+{"Created":"2022-07-25","date created":"2022-07-25 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/procedural-memory/","dgPassFrontmatter":true}
 ---
 
 # Procedural Memory
