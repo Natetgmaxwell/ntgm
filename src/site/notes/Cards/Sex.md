@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/sex/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/sex/","dgPassFrontmatter":true}
 ---
 
 # Sex
