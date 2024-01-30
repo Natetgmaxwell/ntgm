@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cranial-nerves/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/cranial-nerves/","dgPassFrontmatter":true}
 ---
 
 # Cranial Nerves
@@ -34,10 +34,10 @@
 - 
 
 ## Mentions
-| Incoming Links                                                        |
-| --------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
-| [[Cards/Nervous System\|Nervous System]]                           |
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
+| [[Cards/Nervous System\|Nervous System]]                   |
 
 { .block-language-dataview}
 
