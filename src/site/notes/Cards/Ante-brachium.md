@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/ante-brachium/"}
+{"aliases":["Forearm","Antebrachium"],"edited":"2023-04-06 Thu","date created":"2023-03-06 Mon","dg-publish":true,"permalink":"/cards/ante-brachium/","dgPassFrontmatter":true}
 ---
 
 # Ante-brachium
