@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/compound-movements/"}
+{"aliases":["Compound Lifts"],"tags":null,"dg-publish":true,"permalink":"/cards/compound-movements/","dgPassFrontmatter":true}
 ---
 
 # Compound Movements
