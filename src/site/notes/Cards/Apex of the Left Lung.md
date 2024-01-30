@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/apex-of-the-left-lung/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/apex-of-the-left-lung/","dgPassFrontmatter":true}
 ---
 
 # Apex of the Left Lung
