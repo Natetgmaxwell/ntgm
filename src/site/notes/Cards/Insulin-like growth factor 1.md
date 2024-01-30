@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/insulin-like-growth-factor-1/","tags":["Uni/HBIO1010"]}
+{"aliases":["IGF-1"],"tags":["Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/insulin-like-growth-factor-1/","dgPassFrontmatter":true}
 ---
 
 # Insulin-like growth factor 1
