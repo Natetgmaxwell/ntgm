@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/temporal-bone/","tags":["Uni/HBIO1009","Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/HBIO1009","Uni/LFS122"],"dg-publish":true,"permalink":"/cards/temporal-bone/","dgPassFrontmatter":true}
 ---
 
 # Temporal Bone
@@ -24,10 +24,10 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                                             |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                             |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
 
 { .block-language-dataview}
 
