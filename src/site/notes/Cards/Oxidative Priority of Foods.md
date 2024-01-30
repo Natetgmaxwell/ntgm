@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/oxidative-priority-of-foods/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/oxidative-priority-of-foods/","dgPassFrontmatter":true}
 ---
 
 # Oxidative Priority of Foods
