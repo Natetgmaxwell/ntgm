@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/principles-of-visual-communication/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/principles-of-visual-communication/","dgPassFrontmatter":true}
 ---
 
 # Principles of Visual Communication
