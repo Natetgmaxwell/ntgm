@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/bone-density/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/bone-density/","dgPassFrontmatter":true}
 ---
 
 # Bone Density
