@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hilum-of-the-left-lung/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/hilum-of-the-left-lung/","dgPassFrontmatter":true}
 ---
 
 # Hilum of the Left Lung
