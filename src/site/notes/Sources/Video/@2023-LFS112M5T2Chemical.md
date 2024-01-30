@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/video/2023-lfs-112-m5-t2-chemical/"}
+{"aliases":["LFS112 M5T2 Chemical reactions in the body + enzymes"],"Status":"Watched","Priority":"High","dg-publish":true,"permalink":"/sources/video/2023-lfs-112-m5-t2-chemical/","dgPassFrontmatter":true}
 ---
 
 tags:: #source/video #Uni/LFS112 
