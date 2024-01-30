@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/lobes-of-the-right-lung/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/lobes-of-the-right-lung/","dgPassFrontmatter":true}
 ---
 
 # Lobes of the Right Lung
