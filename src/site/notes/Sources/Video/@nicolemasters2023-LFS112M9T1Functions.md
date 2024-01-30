@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/video/nicolemasters2023-lfs-112-m9-t1-functions/","tags":["source/video","Uni/LFS112"]}
+{"aliases":["LFS112 M9T1 Functions and Structure of the Urinary System"],"tags":["source/video","Uni/LFS112"],"dg-publish":true,"Status":"Watched","Priority":"Medium","permalink":"/sources/video/nicolemasters2023-lfs-112-m9-t1-functions/","dgPassFrontmatter":true}
 ---
 
 # @nicolemasters2023-LFS112M9T1Functions
@@ -10,7 +10,7 @@
 >[!Synth]  
 >**Contribution**::  
 >  
->**Related**:: [[Spaces/University/Classes/Current/Human Physiology\|LFS112]]
+>**Related**:: [[Spaces/University/Classes/Human Physiology\|LFS112]]
 >  
   
 >[!md]  
