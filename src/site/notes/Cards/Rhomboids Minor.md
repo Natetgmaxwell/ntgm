@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/rhomboids-minor/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/rhomboids-minor/","dgPassFrontmatter":true}
 ---
 
 # Rhomboids Minor
