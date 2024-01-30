@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/lfs-122-m4-t1-vertebral/","tags":["source/video","Uni/LFS122"]}
+{"zotero-key":"YYG4983D","zt-attachments":["1436"],"alias":", LFS122 M4T1 Vertebral Column and Ribs","keywords":[],"FirstAuthor":"[[ ]]","tags":["source/video","Uni/LFS122"],"dg-publish":true,"year":2023,"Status":"Read","aliases":["LFS122 M4T1 Vertebral Column and Ribs"],"Priority":"Medium","permalink":"/sources/lfs-122-m4-t1-vertebral/","dgPassFrontmatter":true}
 ---
 
 # @LFS122M4T1Vertebral
@@ -32,7 +32,7 @@
 
 > [!quote] (Page 2)
 > 
-> The spinal canal is a cavity that encloses and protects the spinal cord.
+> The spinal canal is a cavity that encloses and protects the [[Cards/Spinal cord\|spinal cord]].
 >
 { #9PP6ISQJaNGRWR5Y4p2}
 
@@ -44,7 +44,7 @@
 
 > [!quote] (Page 2)
 > 
-> Cervical spine: [[Cards/Thoracic Spine\|Thoracic spine]]: Lumbarspine: Sacrum: Coccyx: 7 vertebrae (C1–C7) 12 vertebrae (T1–T12) 5 vertebrae (L1–L5) 5 (fused) vertebrae (S1–S5) 4 (3–5) (fused) vertebrae
+> Cervical spine: [[Cards/Thoracic Spine\|Thoracic spine]]: Lumbarspine: Sacrum: Coccyx: 7 vertebrae (C1–C7) 12 vertebrae ([[Cards/Thoracic 1\|T1]]–T12) 5 vertebrae ([[Cards/Lumbar 1\|L1]]–L5) 5 (fused) vertebrae (S1–S5) 4 (3–5) (fused) vertebrae
 >
 { #RI6WQGZ9aNGRWR5Y4p2}
 
