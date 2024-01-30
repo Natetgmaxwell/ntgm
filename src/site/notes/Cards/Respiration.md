@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/respiration/","tags":["Uni/LFS103","flashcards/LFS103","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"edited":"2023-04-06 Thu","date created":"2023-02-23 Thu","tags":["Uni/LFS103","flashcards/LFS103","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/respiration/","dgPassFrontmatter":true}
 ---
 
 # Respiration
@@ -34,8 +34,8 @@
 | [[Cards/Conscious Breathing\|Conscious Breathing]]                                                                        |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
 | [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]]                                                       |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                                  |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]            |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                          |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
 | [[Cards/Lungs\|Lungs]]                                                                                                    |
 | [[Cards/Net Primary Production (NPP)\|Net Primary Production (NPP)]]                                                      |
 | [[Cards/Respiratory system\|Respiratory system]]                                                                          |
