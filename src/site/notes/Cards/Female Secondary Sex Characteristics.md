@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/female-secondary-sex-characteristics/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/female-secondary-sex-characteristics/","dgPassFrontmatter":true}
 ---
 
 # Female Secondary Sex Characteristics
