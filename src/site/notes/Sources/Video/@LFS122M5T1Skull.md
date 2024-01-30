@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/video/lfs-122-m5-t1-skull/","tags":["source/video","Uni/LFS122"]}
+{"zotero-key":"6UZV96EA","zt-attachments":["1145"],"aliases":["LFS122 M5T1 Skull"],"citekey":"LFS122M5T1Skull","keywords":null,"FirstAuthor":"[[ ]]","tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/lfs-122-m5-t1-skull/","dgPassFrontmatter":true}
 ---
 
 # @LFS122M5T1Skull
@@ -19,14 +19,14 @@
 > FirstAuthor:: 
 
 > [!Links]+
->  | Incoming Links                                                        |
-> | --------------------------------------------------------------------- |
-> | [[Sources/Video/@LFS122M5T1Skull\|@LFS122M5T1Skull]]               |
-> | [[Cards/Cranial Fossas\|Cranial Fossas]]                           |
-> | [[Cards/Facial Bones\|Facial Bones]]                               |
-> | [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
-> | [[Cards/Mandible\|Mandible]]                                       |
-> | [[Cards/Paranasal Sinuses\|Paranasal Sinuses]]                     |
+>  | Incoming Links                                                |
+> | ------------------------------------------------------------- |
+> | [[Sources/Video/@LFS122M5T1Skull\|@LFS122M5T1Skull]]       |
+> | [[Cards/Cranial Fossas\|Cranial Fossas]]                   |
+> | [[Cards/Facial Bones\|Facial Bones]]                       |
+> | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
+> | [[Cards/Mandible\|Mandible]]                               |
+> | [[Cards/Paranasal Sinuses\|Paranasal Sinuses]]             |
 > 
 { .block-language-dataview}
 
