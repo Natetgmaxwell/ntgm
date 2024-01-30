@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/video/lfs-122-m4-t5-posterior-trunk/","tags":["source/video","Uni/LFS122"]}
+{"aliases":["LFS122 M4T5 Posterior Trunk Muscles"],"tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/lfs-122-m4-t5-posterior-trunk/","dgPassFrontmatter":true}
 ---
 
 # @-LFS122M4T5PosteriorTrunk
