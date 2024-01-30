@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/metabolism/","tags":["Uni/HBIO1009"]}
+{"aliases":null,"date created":"2023-01-24 Tue","edited":"2023-04-06 Thu","dg-publish":true,"tags":["Uni/HBIO1009"],"permalink":"/cards/metabolism/","dgPassFrontmatter":true}
 ---
 
 # Metabolism
