@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/dairy-products/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/dairy-products/","dgPassFrontmatter":true}
 ---
 
 # Dairy Products
