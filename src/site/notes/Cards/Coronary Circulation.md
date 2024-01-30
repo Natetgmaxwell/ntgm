@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/coronary-circulation/","tags":["Uni/HBIO1010"]}
+{"aliases":null,"tags":["Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/coronary-circulation/","dgPassFrontmatter":true}
 ---
 
 # Coronary Circulation
