@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/haploid-number/","tags":["School","on/Science/Biology/Genetics"]}
+{"tags":["School","on/Science/Biology/Genetics"],"date created":"2022-03-07 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/haploid-number/","dgPassFrontmatter":true}
 ---
 
 # Haploid Number
