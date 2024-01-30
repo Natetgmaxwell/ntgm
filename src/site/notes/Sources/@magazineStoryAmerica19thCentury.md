@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/magazine-story-america19th-century/"}
+{"zotero-key":"KJ93HGLC","zt-attachments":["2030"],"aliases":["Inside the Story of America’s 19th-Century Opiate Addiction"],"keywords":["Addiction"],"FirstAuthor":"[[ Smithsonian Magazine]]","dg-publish":true,"permalink":"/sources/magazine-story-america19th-century/","dgPassFrontmatter":true}
 ---
 
 # @magazineStoryAmerica19thCentury
