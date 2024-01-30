@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/prepuce/","tags":["Uni/LFS122"]}
+{"aliases":["foreskin"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/prepuce/","dgPassFrontmatter":true}
 ---
 
 # Prepuce
