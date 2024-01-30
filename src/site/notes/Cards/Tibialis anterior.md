@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/tibialis-anterior/","tags":["Uni/OMT1","on/Science/Biology/Anatomy"]}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["Uni/OMT1","on/Science/Biology/Anatomy"],"date created":"2023-04-03 Mon","dg-publish":true,"permalink":"/cards/tibialis-anterior/","dgPassFrontmatter":true}
 ---
 
 # Tibialis anterior
