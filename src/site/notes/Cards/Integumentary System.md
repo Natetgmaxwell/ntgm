@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/integumentary-system/","tags":["Uni/LFS112","flashcards/LFS112","Uni/HBIO1009","on/Science/Biology/Anatomy"]}
+{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112","Uni/HBIO1009","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/integumentary-system/","dgPassFrontmatter":true}
 ---
 
 # Integumentary System
@@ -30,9 +30,9 @@
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-04-25 Tue\|2023-04-25 Tue]]                                                                    |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                                  |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                          |
 | [[Cards/Hypodermis\|Hypodermis]]                                                                                          |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]            |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
 
 { .block-language-dataview}
 
