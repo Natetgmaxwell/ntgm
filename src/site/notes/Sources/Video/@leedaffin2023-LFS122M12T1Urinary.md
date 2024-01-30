@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m12-t1-urinary/","tags":["source/video","Uni/LFS122"]}
+{"aliases":["LFS122 M12T1 The Urinary System"],"Status":"Watched","FirstAuthor":"","tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m12-t1-urinary/","dgPassFrontmatter":true}
 ---
 
 # @leedaffin2023-LFS122M12T1Urinary
