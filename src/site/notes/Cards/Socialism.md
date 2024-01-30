@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/socialism/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/socialism/","dgPassFrontmatter":true}
 ---
 
 # Socialism
@@ -29,7 +29,6 @@
 
 | Sources                                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Articles/Lessons I Learned From Thomas Sowell’s Memoir\|Lessons I Learned From Thomas Sowell’s Memoir]]                            |
 | [[Sources/Books/Sapiens - A Brief History of Human Kind by Yuval Noah Harari\|Sapiens - A Brief History of Human Kind by Yuval Noah Harari]] |
 
 { .block-language-dataview}
