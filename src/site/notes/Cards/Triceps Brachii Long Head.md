@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/triceps-brachii-long-head/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/triceps-brachii-long-head/","dgPassFrontmatter":true}
 ---
 
 # Triceps Brachii Long Head
