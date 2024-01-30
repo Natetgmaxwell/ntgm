@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/trotter-functional-morphology-endomysium1992/","tags":["source/researchpaper"]}
+{"zotero-key":"S3SNV8QQ","zt-attachments":["2230"],"alias":", Functional morphology of the endomysium in series fibered muscles","keywords":["Animals","Female","Connective Tissue","Cats","Microscopy","Electron","Microscopy","Electron","Scanning","Muscles"],"FirstAuthor":"[[ J. A. Trotter]]","tags":["source/researchpaper"],"dg-publish":true,"permalink":"/sources/trotter-functional-morphology-endomysium1992/","dgPassFrontmatter":true}
 ---
 
 # @trotterFunctionalMorphologyEndomysium1992
