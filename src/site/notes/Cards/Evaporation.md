@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/evaporation/","tags":["School","Uni/LFS103"]}
+{"aliases":null,"tags":["School","Uni/LFS103"],"dg-publish":true,"permalink":"/cards/evaporation/","dgPassFrontmatter":true}
 ---
 
 # Evaporation
