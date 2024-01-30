@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/articular-capsule/","tags":["on/Science/Biology/Anatomy","Uni/LFS122","flashcards/LFS122"]}
+{"aliases":["joint capsule"],"tags":["on/Science/Biology/Anatomy","Uni/LFS122","flashcards/LFS122"],"date created":"2022-12-10 Sat","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/articular-capsule/","dgPassFrontmatter":true}
 ---
 
 # Articular capsule
