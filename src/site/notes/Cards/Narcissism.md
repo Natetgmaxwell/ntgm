@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/narcissism/"}
+{"aliases":["narcissists","narcissist"],"edited":"2023-04-06 Thu","date created":"2022-03-02 Wed","dg-publish":true,"permalink":"/cards/narcissism/","dgPassFrontmatter":true}
 ---
 
 # Narcissism
@@ -30,7 +30,6 @@
 
 ## Mentions
 - [[Sources/Articles/@henderson2022-WhatSocialStatus\|@henderson2022-WhatSocialStatus]]
-- [[Sources/Articles/Victim Signaling and Dark Triad Personality Traits\|Victim Signaling and Dark Triad Personality Traits]]
 - [[Sources/Podcasts/Podcast Episodes/147 Reid Hoffman  Better Decisions  Fewer Mistakes\|147 Reid Hoffman  Better Decisions  Fewer Mistakes]]
 - [[Sources/Research Papers/@ok2021SignalingVirtuousVictimhood\|@ok2021SignalingVirtuousVictimhood]]
 
