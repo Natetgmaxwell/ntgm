@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/fast-twitch-glycolytic-fibers/","tags":["on/Science/Biology/Anatomy"]}
+{"aliases":["FGF","type 2b","type IIb"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2023-02-09 Thu","dg-publish":true,"permalink":"/cards/fast-twitch-glycolytic-fibers/","dgPassFrontmatter":true}
 ---
 
 # Fast-Twitch Glycolytic Fibers
@@ -23,7 +23,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Aerobic Training Zones\|Aerobic Training Zones]]                                                                  |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]            |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
 | [[Cards/Resistance training\|Resistance training]]                                                                        |
 
 { .block-language-dataview}
