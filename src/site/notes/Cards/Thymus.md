@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/thymus/","tags":["Uni/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/thymus/","dgPassFrontmatter":true}
 ---
 
 # Thymus
@@ -16,11 +16,11 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                |
-| ------------------------------------------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                                         |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                   |
-| [[Spaces/University/Classes/Archive/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
+| Incoming Links                                                                                        |
+| ----------------------------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                         |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                   |
+| [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
 
 { .block-language-dataview}
 
