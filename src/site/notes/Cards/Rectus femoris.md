@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/rectus-femoris/","tags":["on/Science/Biology/Anatomy","Uni/OMT1","Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["on/Science/Biology/Anatomy","Uni/OMT1","Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/rectus-femoris/","dgPassFrontmatter":true}
 ---
 
 # Rectus Femoris
