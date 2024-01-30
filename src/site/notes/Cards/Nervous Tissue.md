@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/nervous-tissue/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/nervous-tissue/","dgPassFrontmatter":true}
 ---
 
 # Nervous Tissue
@@ -23,7 +23,6 @@
 
 ## Mentions
 - [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]]
-- [[Sources/Video/@2023-LFS122M4T2Gross\|@2023-LFS122M4T2Gross]]
 
 { .block-language-dataview}
 
