@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/parasitic-infections/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/parasitic-infections/","dgPassFrontmatter":true}
 ---
 
 # Parasitic infections
