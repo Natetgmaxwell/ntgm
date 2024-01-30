@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/gratitude/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/gratitude/","dgPassFrontmatter":true}
 ---
 
 # Gratitude
@@ -19,7 +19,6 @@
 - 
 
 ## Mentions
-- [[Sources/Articles/Lessons I Learned From Thomas Sowell’s Memoir\|Lessons I Learned From Thomas Sowell’s Memoir]]
 - [[Sources/Books/@robertgreene2018-LawsHumanNature\|@robertgreene2018-LawsHumanNature]]
 
 { .block-language-dataview}
