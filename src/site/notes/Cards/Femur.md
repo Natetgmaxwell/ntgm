@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/femur/","tags":["on/Science/Biology/Anatomy","Uni/OMT1","Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["on/Science/Biology/Anatomy","Uni/OMT1","Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/femur/","dgPassFrontmatter":true}
 ---
 
 # Femur
