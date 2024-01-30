@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/sodium/","tags":["on/Science/Chemistry"]}
+{"aliases":["salt","Salt"],"edited":"2023-04-06 Thu","tags":["on/Science/Chemistry"],"date created":"2023-02-21 Tue","dg-publish":true,"permalink":"/cards/sodium/","dgPassFrontmatter":true}
 ---
 
 # Sodium
