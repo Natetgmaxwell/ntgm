@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/nasopharynx/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/nasopharynx/","dgPassFrontmatter":true}
 ---
 
 # Nasopharynx
