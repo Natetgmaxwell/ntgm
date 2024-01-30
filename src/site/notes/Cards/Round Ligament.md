@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/round-ligament/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/round-ligament/","dgPassFrontmatter":true}
 ---
 
 # Round Ligament
