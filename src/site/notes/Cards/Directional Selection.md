@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/directional-selection/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/directional-selection/","dgPassFrontmatter":true}
 ---
 
 # Directional Selection
