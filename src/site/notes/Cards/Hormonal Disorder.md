@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hormonal-disorder/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/hormonal-disorder/","dgPassFrontmatter":true}
 ---
 
 # Hormonal Disorder
