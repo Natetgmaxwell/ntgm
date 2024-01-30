@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/urinary-system/","tags":["Uni/HBIO1009","Uni/LFS112"]}
+{"aliases":["Renal System"],"tags":["Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/urinary-system/","dgPassFrontmatter":true}
 ---
 
 # Urinary System
