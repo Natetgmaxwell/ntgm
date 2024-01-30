@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/water/"}
+{"aliases":["H2O"],"edited":"2023-04-06 Thu","date created":"2023-02-21 Tue","dg-publish":true,"permalink":"/cards/water/","dgPassFrontmatter":true}
 ---
 
 tags:: #on/Science/Chemistry 
