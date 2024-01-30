@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/zona-glomerulosa/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/zona-glomerulosa/","dgPassFrontmatter":true}
 ---
 
 # Zona Glomerulosa
