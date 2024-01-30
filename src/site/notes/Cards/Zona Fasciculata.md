@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/zona-fasciculata/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/zona-fasciculata/","dgPassFrontmatter":true}
 ---
 
 # Zona Fasciculata
