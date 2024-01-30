@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/kim-physiology-integument2023/","tags":["source/researchpaper"]}
+{"zotero-key":"FKS8A7GN","zt-attachments":["621"],"alias":"","keywords":[],"FirstAuthor":"[[ Joyce Y. Kim]]","tags":["source/researchpaper"],"dg-publish":true,"permalink":"/sources/kim-physiology-integument2023/","dgPassFrontmatter":true}
 ---
 
 # @kimPhysiologyIntegument2023
