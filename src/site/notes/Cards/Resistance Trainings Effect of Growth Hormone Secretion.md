@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/resistance-trainings-effect-of-growth-hormone-secretion/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/resistance-trainings-effect-of-growth-hormone-secretion/","dgPassFrontmatter":true}
 ---
 
 # Resistance Trainings Effect of Growth Hormone Secretion
