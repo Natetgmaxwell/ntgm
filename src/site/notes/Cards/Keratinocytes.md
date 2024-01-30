@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/keratinocytes/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/keratinocytes/","dgPassFrontmatter":true}
 ---
 
 # Keratinocytes
@@ -18,10 +18,10 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
-| [[Cards/Stratum Basale\|Stratum Basale]]                                                                       |
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Cards/Stratum Basale\|Stratum Basale]]                                                               |
 
 { .block-language-dataview}
 
