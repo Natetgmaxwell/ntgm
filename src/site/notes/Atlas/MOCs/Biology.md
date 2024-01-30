@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/biology/","tags":["moc","on/Science/Biology"]}
+{"tags":["moc","on/Science/Biology"],"date created":"2022-03-26 Sat","edited":"2023-04-06 Thu","banner":"https://images.unsplash.com/photo-1526930382372-67bf22c0fce2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80","banner_y":0.512,"dg-publish":true,"up":["[[🏠 Home]]"],"permalink":"/atlas/mo-cs/biology/","dgPassFrontmatter":true}
 ---
 
 # Biology
