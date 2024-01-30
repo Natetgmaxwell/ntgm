@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/synergism/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/synergism/","dgPassFrontmatter":true}
 ---
 
 # Synergism
