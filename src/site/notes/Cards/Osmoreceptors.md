@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/osmoreceptors/","tags":["Uni/LFS112"]}
+{"aliases":["hypothalamic neurons"],"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/osmoreceptors/","dgPassFrontmatter":true}
 ---
 
 # Osmoreceptors
