@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/epicranius/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/epicranius/","dgPassFrontmatter":true}
 ---
 
 # Epicranius
@@ -20,10 +20,10 @@
 - 
 
 ## Mentions
-| Incoming Links                                                        |
-| --------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
-| [[Cards/Muscles of the Head\|Muscles of the Head]]                 |
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
+| [[Cards/Muscles of the Head\|Muscles of the Head]]         |
 
 { .block-language-dataview}
 
