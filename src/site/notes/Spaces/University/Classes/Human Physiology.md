@@ -394,7 +394,7 @@ The [[Cards/Hypothalamus\|hypothalamus]] and the pituitary gland work in close c
 
 Sensory receptor adaptation is a process by which the sensitivity of sensory receptors, such as those in the skin, eyes, or ears, decreases after repeated exposure to a stimulus. This can occur due to various factors, including habituation, desensitisation, and neural adaptation.
 
-Habituation is a form of sensory adaptation that occurs when a stimulus that initially elicits a response becomes less salient over time. For example, if you hear a constant, low-level noise, such as the hum of an air conditioner, your auditory system will eventually habituate to the sound and stop responding as strongly.
+Habituation is a form of [[Cards/Sensory Adaptation\|Sensory Adaptation]] that occurs when a stimulus that initially elicits a response becomes less salient over time. For example, if you hear a constant, low-level noise, such as the hum of an air conditioner, your auditory system will eventually habituate to the sound and stop responding as strongly.
 
 Desensitisation is similar to habituation but occurs when the intensity of a stimulus decreases over time. For example, if you touch something with a mildly painful sensation, such as a piece of glass, your somatosensory system may desensitise to the sensation and become less responsive to it.
 
