@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/childbirth/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/childbirth/","dgPassFrontmatter":true}
 ---
 
 # Childbirth
