@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/external-iliac-artery/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/external-iliac-artery/","dgPassFrontmatter":true}
 ---
 
 # External Iliac Artery
