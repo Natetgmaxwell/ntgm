@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/lindagallo2023-lfs-112-m4-t4-adrenal/","tags":["source/video","Uni/LFS112"]}
+{"zotero-key":"7CTF5VFH","zt-attachments":["2547"],"aliases":["LFS112 M4T4 Adrenal glands and Pineal Gland"],"keywords":null,"FirstAuthor":"[[ Linda Gallo]]","tags":["source/video","Uni/LFS112"],"dg-publish":true,"permalink":"/sources/lindagallo2023-lfs-112-m4-t4-adrenal/","dgPassFrontmatter":true}
 ---
 
 # @lindagallo2023LFS112M4T4Adrenal
@@ -116,7 +116,7 @@
 
 > [!quote] (Page 4)
 > 
-> HPA axis
+> [[Cards/Hypothalamic-Pituitary-Adrenal Axis\|HPA axis]]
 >
 { #L5LCPIG8aWMV9XEHXp4}
 
