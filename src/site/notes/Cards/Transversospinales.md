@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/transversospinales/","tags":["Uni/OMT1"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/OMT1"],"permalink":"/cards/transversospinales/","dgPassFrontmatter":true}
 ---
 
 # Transversospinales
