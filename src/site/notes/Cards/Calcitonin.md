@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/calcitonin/","tags":["Uni/LFS112","Uni/HBIO1010","flashcards/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112","Uni/HBIO1010","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/calcitonin/","dgPassFrontmatter":true}
 ---
 
 # Calcitonin
