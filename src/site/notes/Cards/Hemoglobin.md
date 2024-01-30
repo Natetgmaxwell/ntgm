@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hemoglobin/","tags":["Uni/LFS112","Uni/LFS122"]}
+{"aliases":["hb"],"tags":["Uni/LFS112","Uni/LFS122"],"dg-publish":true,"permalink":"/cards/hemoglobin/","dgPassFrontmatter":true}
 ---
 
 # Hemoglobin
@@ -20,9 +20,9 @@
 - 
 
 ## Mentions
-| Incoming Links                                                              |
-| --------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]] |
+| Incoming Links                                                      |
+| ------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]] |
 
 { .block-language-dataview}
 
