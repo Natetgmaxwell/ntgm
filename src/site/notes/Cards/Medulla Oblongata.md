@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/medulla-oblongata/","tags":["Uni/HBIO1009","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/HBIO1009","Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/medulla-oblongata/","dgPassFrontmatter":true}
 ---
 
 # Medulla Oblongata
@@ -16,7 +16,6 @@
 - 
 
 ## Mentions
-- [[Sources/Video/@2023-LFS122M4T2Gross\|@2023-LFS122M4T2Gross]]
 
 { .block-language-dataview}
 
