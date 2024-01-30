@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/sampling/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/sampling/","dgPassFrontmatter":true}
 ---
 
 # Sampling
