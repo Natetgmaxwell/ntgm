@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/blood-vessels/","tags":["Uni/HBIO1009","Uni/LFS112"]}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/blood-vessels/","dgPassFrontmatter":true}
 ---
 
 # Blood Vessels
