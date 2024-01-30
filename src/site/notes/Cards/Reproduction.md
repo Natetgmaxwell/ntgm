@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/reproduction/"}
+{"aliases":null,"edited":"2023-04-07 Fri","dg-publish":true,"permalink":"/cards/reproduction/","dgPassFrontmatter":true}
 ---
 
 # Reproduction
@@ -14,7 +14,7 @@
 { #fbfb7d}
 
 
-> [!quote] [[@stewart-williams2018-ApeThatUnderstood\|@stewart-williams2018-ApeThatUnderstood]]
+> [!quote] [[Sources/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
 > "Reproduction is the currency of [[Cards/Evolution\|Evolution]]"
 
 
