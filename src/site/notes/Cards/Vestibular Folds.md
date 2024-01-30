@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/vestibular-folds/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/vestibular-folds/","dgPassFrontmatter":true}
 ---
 
 # Vestibular Folds
