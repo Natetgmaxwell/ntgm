@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/video/2023-lfs-112-m6-t3-platelets/","tags":["source/video","Uni/LFS112"]}
+{"aliases":["LFS112 M6T3 Platelets and haemostasis"],"tags":["source/video","Uni/LFS112"],"Status":"Watched","Priority":"High","dg-publish":true,"permalink":"/sources/video/2023-lfs-112-m6-t3-platelets/","dgPassFrontmatter":true}
 ---
 
 # @2023-LFS112M6T3Platelets
@@ -10,7 +10,7 @@
 >[!Synth]  
 >**Contribution**::  
 >  
->**Related**:: [[Spaces/University/Classes/Current/Human Physiology\|LFS112]]
+>**Related**:: [[Spaces/University/Classes/Human Physiology\|LFS112]]
 >  
   
 >[!md]  
