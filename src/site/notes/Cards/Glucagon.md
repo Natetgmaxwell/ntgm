@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/glucagon/","tags":["Uni/LFS112"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/LFS112"],"permalink":"/cards/glucagon/","dgPassFrontmatter":true}
 ---
 
 # Glucagon
@@ -16,11 +16,11 @@
 - 
 
 ## Mentions
-| Incoming Links                                                              |
-| --------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-05-17 Wed\|2023-05-17 Wed]]                   |
-| [[Cards/Amino Acid Pool\|Amino Acid Pool]]                               |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]] |
+| Incoming Links                                                      |
+| ------------------------------------------------------------------- |
+| [[Calendar/2023/Daily/2023-05-17 Wed\|2023-05-17 Wed]]           |
+| [[Cards/Amino Acid Pool\|Amino Acid Pool]]                       |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]] |
 
 { .block-language-dataview}
 
