@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/testosterone/","tags":["on/Science/Biology/Biochemistry","Uni/HBIO1010","flashcards/hbio1010"]}
+{"aliases":null,"tags":["on/Science/Biology/Biochemistry","Uni/HBIO1010","flashcards/hbio1010"],"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/testosterone/","dgPassFrontmatter":true}
 ---
 
 # Testosterone
