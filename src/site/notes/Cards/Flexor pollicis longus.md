@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/flexor-pollicis-longus/","tags":["Uni/LFS122","flashcards/LFS122","on/Science/Biology/Anatomy"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/flexor-pollicis-longus/","dgPassFrontmatter":true}
 ---
 
 # Flexor Pollicis Longus
