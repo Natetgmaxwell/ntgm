@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cholesterol/","tags":["on/Science/Biology"]}
+{"aliases":null,"tags":["on/Science/Biology"],"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/cholesterol/","dgPassFrontmatter":true}
 ---
 
 # Cholesterol
