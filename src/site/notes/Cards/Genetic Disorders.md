@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/genetic-disorders/","tags":["on/Science/Biology/Genetics","School"]}
+{"Created:":"2022-04-28","edited":"2023-04-06 Thu","tags":["on/Science/Biology/Genetics","School"],"date created":"2022-04-28 Thu","dg-publish":true,"permalink":"/cards/genetic-disorders/","dgPassFrontmatter":true}
 ---
 
 # Genetic Disorders
