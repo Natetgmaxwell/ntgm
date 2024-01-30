@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/lingual-frenulum/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/lingual-frenulum/","dgPassFrontmatter":true}
 ---
 
 # Lingual Frenulum
