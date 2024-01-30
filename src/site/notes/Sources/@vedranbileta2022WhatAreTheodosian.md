@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/vedranbileta2022-what-are-theodosian/","tags":["source/article"]}
+{"zotero-key":"6Q2U7XG4","zt-attachments":["1694"],"aliases":["What Are the Theodosian Walls (of Constantinople)?"],"keywords":null,"FirstAuthor":"[[ Vedran Bileta]]","dg-publish":true,"tags":["source/article"],"permalink":"/sources/vedranbileta2022-what-are-theodosian/","dgPassFrontmatter":true}
 ---
 
 # @vedranbileta2022WhatAreTheodosian
