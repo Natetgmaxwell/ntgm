@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/myostatin/"}
+{"aliases":["differentiation factor 8","growth factor 8","gdf11"],"dg-publish":true,"permalink":"/cards/myostatin/","dgPassFrontmatter":true}
 ---
 
 # Myostatin
