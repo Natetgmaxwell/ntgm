@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/lung-volumes-and-capacities/","tags":["Uni/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/lung-volumes-and-capacities/","dgPassFrontmatter":true}
 ---
 
 # Lung Volumes and Capacities
