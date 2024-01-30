@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/equilibrium/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/equilibrium/","dgPassFrontmatter":true}
 ---
 
 # Equilibrium
