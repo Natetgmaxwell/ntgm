@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/epiglottis/","tags":["Uni/LFS122"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/LFS122"],"permalink":"/cards/epiglottis/","dgPassFrontmatter":true}
 ---
 
 # Epiglottis
@@ -16,10 +16,10 @@
 - 
 
 ## Mentions
-| Incoming Links                                                        |
-| --------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
-| [[Cards/Larynx\|Larynx]]                                           |
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
+| [[Cards/Larynx\|Larynx]]                                   |
 
 { .block-language-dataview}
 
