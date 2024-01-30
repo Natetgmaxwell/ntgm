@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m10-t4-lymphatic/","tags":["source/video","Uni/LFS122"]}
+{"aliases":["LFS122 M10T4 Lymphatic and Endocrine Systems"],"Status":"Watched","FirstAuthor":"","tags":["source/video","Uni/LFS122"],"dg-publish":true,"Priority":"Low","permalink":"/sources/video/leedaffin2023-lfs-122-m10-t4-lymphatic/","dgPassFrontmatter":true}
 ---
 
 # @leedaffin2023-LFS122M10T4Lymphatic
@@ -10,7 +10,7 @@
 >[!Synth]  
 >**Contribution**::  
 >  
->**Related**:: [[Spaces/University/Classes/Current/Human Anatomy\|LFS122]]
+>**Related**:: [[Spaces/University/Classes/Human Anatomy\|LFS122]]
 >  
   
 >[!md]  
