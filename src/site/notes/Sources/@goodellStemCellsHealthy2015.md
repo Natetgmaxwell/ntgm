@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/goodell-stem-cells-healthy2015/","tags":["source/researchpaper"]}
+{"zotero-key":"GSMHIQ2L","zt-attachments":["1204"],"alias":", Stem cells and healthy aging","keywords":["aging","stem cells"],"FirstAuthor":"[[ Margaret A. Goodell]]","tags":["source/researchpaper"],"dg-publish":true,"permalink":"/sources/goodell-stem-cells-healthy2015/","dgPassFrontmatter":true}
 ---
 
 # @goodellStemCellsHealthy2015
