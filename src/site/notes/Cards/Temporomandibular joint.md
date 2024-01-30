@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/temporomandibular-joint/"}
+{"alias":"TMJ","aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/temporomandibular-joint/","dgPassFrontmatter":true}
 ---
 
 # Temporomandibular joint
@@ -16,9 +16,9 @@
 - 
 
 ## Mentions
-| Incoming Links                                                        |
-| --------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
 
 { .block-language-dataview}
 
