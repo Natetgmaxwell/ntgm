@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/resting-potential/","tags":["Uni/LFS112"]}
+{"aliases":["RMP","Resting Membrane Potential"],"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/resting-potential/","dgPassFrontmatter":true}
 ---
 
 # Resting Potential
