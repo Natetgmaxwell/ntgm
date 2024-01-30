@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/democracy/"}
+{"aliases":["democratic"],"dg-publish":true,"permalink":"/cards/democracy/","dgPassFrontmatter":true}
 ---
 
 # Democracy
