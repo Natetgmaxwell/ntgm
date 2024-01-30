@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/pancreas/","tags":["Uni/LFS122","flashcards/LFS122","Uni/HBIO1009","Uni/HBIO1010"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/LFS122","flashcards/LFS122","Uni/HBIO1009","Uni/HBIO1010"],"permalink":"/cards/pancreas/","dgPassFrontmatter":true}
 ---
 
 # Pancreas
