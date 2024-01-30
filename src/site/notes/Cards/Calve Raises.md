@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/calve-raises/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/calve-raises/","dgPassFrontmatter":true}
 ---
 
 # Calve Raises
