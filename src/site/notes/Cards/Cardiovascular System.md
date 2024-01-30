@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cardiovascular-system/","tags":["Uni/HBIO1010","flashcards/biology"]}
+{"aliases":["circulatory system"],"tags":["Uni/HBIO1010","flashcards/biology"],"dg-publish":true,"permalink":"/cards/cardiovascular-system/","dgPassFrontmatter":true}
 ---
 
 # Cardiovascular System
