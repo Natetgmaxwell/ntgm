@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/research-papers/green1984-alterations-blood-volume/","tags":["source/researchpaper"]}
+{"zotero-key":"CAKUJS3K","zt-attachments":["6185"],"alias":", Alterations in blood volume following short-term supramaximal exercise","keywords":["exercise","blood","plasma volume"],"FirstAuthor":"[[ H. J. Green]]","tags":["source/researchpaper"],"dg-publish":true,"permalink":"/sources/research-papers/green1984-alterations-blood-volume/","dgPassFrontmatter":true}
 ---
 
 # @green1984AlterationsBloodVolume
