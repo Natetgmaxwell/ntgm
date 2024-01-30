@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/bronchus/","tags":["Uni/HBIO1009","Uni/LFS112"]}
+{"aliases":["Bronchi"],"tags":["Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/bronchus/","dgPassFrontmatter":true}
 ---
 
 # Bronchus
@@ -22,13 +22,13 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                                             |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                       |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
-| [[Cards/Respiratory system\|Respiratory system]]                                                               |
-| [[Cards/Sympathetic Nervous System\|Sympathetic Nervous System]]                                               |
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                             |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                       |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Cards/Respiratory system\|Respiratory system]]                                                       |
+| [[Cards/Sympathetic Nervous System\|Sympathetic Nervous System]]                                       |
 
 { .block-language-dataview}
 
