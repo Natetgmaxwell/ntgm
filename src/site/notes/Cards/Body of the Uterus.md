@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/body-of-the-uterus/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/body-of-the-uterus/","dgPassFrontmatter":true}
 ---
 
 # Body of the Uterus
