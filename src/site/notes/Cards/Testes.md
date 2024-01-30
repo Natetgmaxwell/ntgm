@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/testes/"}
+{"aliases":null,"dg-publish":true,"permalink":"/cards/testes/","dgPassFrontmatter":true}
 ---
 
 tags:: #Uni/HBIO1010 
