@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/my-newsletter/the-importance-of-empathy-why-developing-this-crucial-skill-can-benefit-your-life-and-relationships/","tags":["project/newsletter"]}
+{"tags":["project/newsletter"],"date created":"2023-01-03 Tue","edited":"2023-04-06 Thu","date":"2023-04-06 Thu","Status":"Completed","dg-publish":true,"permalink":"/spaces/my-newsletter/the-importance-of-empathy-why-developing-this-crucial-skill-can-benefit-your-life-and-relationships/","dgPassFrontmatter":true}
 ---
 
 # The Importance of Empathy, Why Developing This Crucial Skill Can Benefit Your Life and Relationships
