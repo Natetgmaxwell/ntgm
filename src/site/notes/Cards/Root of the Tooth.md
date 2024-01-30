@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/root-of-the-tooth/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/root-of-the-tooth/","dgPassFrontmatter":true}
 ---
 
 # Root of the Tooth
