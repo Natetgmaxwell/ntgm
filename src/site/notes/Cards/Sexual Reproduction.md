@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/sexual-reproduction/","tags":["School","on/Science/Biology"]}
+{"date created":"2021-12-26 Sun","edited":"2023-04-06 Thu","date modified":"2023-04-07 Fri","dg-publish":true,"tags":["School","on/Science/Biology"],"permalink":"/cards/sexual-reproduction/","dgPassFrontmatter":true}
 ---
 
 # Sexual Reproduction
