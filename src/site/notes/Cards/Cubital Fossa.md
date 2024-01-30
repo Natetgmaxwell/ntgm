@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cubital-fossa/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/cubital-fossa/","dgPassFrontmatter":true}
 ---
 
 # Cubital Fossa
