@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/consciousness/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/consciousness/","dgPassFrontmatter":true}
 ---
 
 # Consciousness
@@ -21,7 +21,7 @@ Consciousness, at its simplest, is awareness of internal and external existence.
 ## Mentions
 | Incoming Links                                                              |
 | --------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]] |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]         |
 | [[Calendar/2023/Daily/2023-04-29 Sat\|2023-04-29 Sat]]                   |
 | [[Cards/Unconsciousness\|Unconsciousness]]                               |
 | [[Cards/The World of Experience\|The World of Experience]]               |
