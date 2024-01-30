@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hyaline-cartilage/"}
+{"aliases":null,"dg-publish":true,"permalink":"/cards/hyaline-cartilage/","dgPassFrontmatter":true}
 ---
 
 # Hyaline Cartilage
