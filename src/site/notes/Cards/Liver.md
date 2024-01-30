@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/liver/","tags":["Uni/HBIO1010","Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"date created":"2022-12-09 Fri","edited":"2023-04-06 Thu","dg-publish":true,"tags":["Uni/HBIO1010","Uni/LFS122","flashcards/LFS122"],"permalink":"/cards/liver/","dgPassFrontmatter":true}
 ---
 
 # Liver
