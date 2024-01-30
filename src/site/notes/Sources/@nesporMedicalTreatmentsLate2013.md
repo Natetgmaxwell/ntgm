@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/nespor-medical-treatments-late2013/","tags":["source/article"]}
+{"zotero-key":"GYXLYC7B","zt-attachments":["1754"],"aliases":["Medical treatments in the late 19th century"],"keywords":null,"FirstAuthor":"Cassie Nespor","dg-publish":true,"tags":["source/article"],"year":2013,"permalink":"/sources/nespor-medical-treatments-late2013/","dgPassFrontmatter":true}
 ---
 
 # @nesporMedicalTreatmentsLate2013
