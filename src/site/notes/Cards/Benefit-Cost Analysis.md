@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/benefit-cost-analysis/"}
+{"aliases":["Cost Benefit Analysis"],"tags":null,"dg-publish":true,"permalink":"/cards/benefit-cost-analysis/","dgPassFrontmatter":true}
 ---
 
 # Benefit-Cost Analysis
