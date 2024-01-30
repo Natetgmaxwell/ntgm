@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/neurons/","tags":["Uni/HBIO1009","Uni/LFS112"]}
+{"aliases":["nerve cells","neuron"],"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","tags":["Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/neurons/","dgPassFrontmatter":true}
 ---
 
 # Neurons
