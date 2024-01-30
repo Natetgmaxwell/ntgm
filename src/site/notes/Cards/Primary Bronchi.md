@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/primary-bronchi/"}
+{"aliases":["main bronchi"],"tags":null,"dg-publish":true,"permalink":"/cards/primary-bronchi/","dgPassFrontmatter":true}
 ---
 
 # Primary Bronchi
@@ -21,7 +21,7 @@
 | [[Extras/Excalidraw/Bronchus Diagram.excalidraw\|Bronchus Diagram.excalidraw]] |
 | [[Cards/Hilum of the Left Lung\|Hilum of the Left Lung]]                       |
 | [[Cards/Hilum of the Right Lung\|Hilum of the Right Lung]]                     |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]             |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                     |
 
 { .block-language-dataview}
 
