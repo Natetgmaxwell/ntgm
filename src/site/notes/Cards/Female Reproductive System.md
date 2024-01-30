@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/female-reproductive-system/","tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/female-reproductive-system/","dgPassFrontmatter":true}
 ---
 
 # Female Reproductive System
