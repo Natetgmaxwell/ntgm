@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/uterine-cavity/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/uterine-cavity/","dgPassFrontmatter":true}
 ---
 
 # Uterine Cavity
