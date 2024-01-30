@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/heart-rate/","tags":["on/Science/Biology","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":["HR"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology","Uni/LFS112","flashcards/LFS112"],"date created":"2023-02-21 Tue","dg-publish":true,"permalink":"/cards/heart-rate/","dgPassFrontmatter":true}
 ---
 
 # Heart Rate
