@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cumulative-intelligence/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/cumulative-intelligence/","dgPassFrontmatter":true}
 ---
 
 # Cumulative Intelligence
@@ -12,8 +12,8 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
-> "A growing contingent of scholars argues that our “superpower” as a species is not our intelligence; it’s our collective intelligence and capacity for cumulative culture: our ability to stockpile knowledge and pass it down from generation to generation, tinkering with it and improving it over time."
+> [!quote] [[Sources/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
+> Cumulative culture is the ultimate time-saver. Because of cumulative culture, we don’t need to reinvent the wheel each generation – quite literally.
 
 # Reference
 - 
