@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/head-of-the-epididymis/","tags":["Uni/LFS122"]}
+{"aliases":["head of epididymis"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/head-of-the-epididymis/","dgPassFrontmatter":true}
 ---
 
 # Head of the Epididymis
