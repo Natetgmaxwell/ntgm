@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/neurophysiology/","tags":["moc","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"tags":["moc","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/neurophysiology/","dgPassFrontmatter":true}
 ---
 
 # Neurophysiology
