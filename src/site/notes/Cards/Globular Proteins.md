@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/globular-proteins/","tags":["Uni/LFS112","on/Science/Biology/Biochemistry"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/LFS112","on/Science/Biology/Biochemistry"],"permalink":"/cards/globular-proteins/","dgPassFrontmatter":true}
 ---
 
 # Globular Proteins
