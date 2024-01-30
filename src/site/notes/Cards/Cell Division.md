@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cell-division/","tags":["Uni/LFS103","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS103","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/cell-division/","dgPassFrontmatter":true}
 ---
 
 # Cell Division
