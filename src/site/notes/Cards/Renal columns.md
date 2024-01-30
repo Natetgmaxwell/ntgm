@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/renal-columns/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/renal-columns/","dgPassFrontmatter":true}
 ---
 
 # Renal Columns
@@ -16,10 +16,10 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                |
-| ------------------------------------------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                                         |
-| [[Spaces/University/Classes/Archive/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
+| Incoming Links                                                                                        |
+| ----------------------------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                         |
 
 { .block-language-dataview}
 
