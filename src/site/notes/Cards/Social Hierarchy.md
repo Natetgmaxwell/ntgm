@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/social-hierarchy/","tags":["School","Art/MovingImage"]}
+{"Created":"2022-06-22","date created":"2022-01-05 Wed","edited":"2023-04-06 Thu","aliases":["Demographics of Social Class"],"tags":["School","Art/MovingImage"],"dg-publish":true,"permalink":"/cards/social-hierarchy/","dgPassFrontmatter":true}
 ---
 
 
