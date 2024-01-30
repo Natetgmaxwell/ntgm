@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/books/markmanson2019-everything-cked-book/"}
+{"zotero-key":"9E3J9IB6","zt-attachments":["2776"],"FirstAuthor":"[[Mark Manson]]","aliases":["Everything Is F*cked: A Book About Hope"],"citekey":"markmanson2019-EverythingCkedBook","Status":"Read","Genre":"Non-Fiction","dg-publish":true,"permalink":"/sources/books/markmanson2019-everything-cked-book/","dgPassFrontmatter":true}
 ---
 
 tags:: #source/book 
