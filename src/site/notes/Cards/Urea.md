@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/urea/","tags":["Uni/LFS112"]}
+{"aliases":["Carbamide"],"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/urea/","dgPassFrontmatter":true}
 ---
 
 # Urea
