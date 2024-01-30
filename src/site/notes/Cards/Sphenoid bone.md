@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/sphenoid-bone/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/sphenoid-bone/","dgPassFrontmatter":true}
 ---
 
 # Sphenoid Bone
@@ -16,11 +16,11 @@
 - 
 
 ## Mentions
-| Incoming Links                                                        |
-| --------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
-| [[Cards/Sella Turcica\|Sella Turcica]]                             |
-| [[Cards/Sphenoidal Sinus\|Sphenoidal Sinus]]                       |
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
+| [[Cards/Sella Turcica\|Sella Turcica]]                     |
+| [[Cards/Sphenoidal Sinus\|Sphenoidal Sinus]]               |
 
 { .block-language-dataview}
 
