@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/role-of-bdnf-in-synaptic-plasticity/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/role-of-bdnf-in-synaptic-plasticity/","dgPassFrontmatter":true}
 ---
 
 # Role of BDNF in Synaptic Plasticity
