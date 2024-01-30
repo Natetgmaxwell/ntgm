@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/video/colingavagan2023-lfs-122-m8-t6-posterior/","tags":["source/video","Uni/LFS122"]}
+{"aliases":["LFS122 M8T6  Posterior Muscle Compartments of the Antebrachium and Hand"],"Status":"Watched","FirstAuthor":"","tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/colingavagan2023-lfs-122-m8-t6-posterior/","dgPassFrontmatter":true}
 ---
 
 # @colingavagan2023-LFS122M8T6Posterior
@@ -10,7 +10,7 @@
 >[!Synth]  
 >**Contribution**::  
 >  
->**Related**:: [[Spaces/University/Classes/Current/Human Anatomy\|LFS122]]
+>**Related**:: [[Spaces/University/Classes/Human Anatomy\|LFS122]]
 >  
   
 >[!md]  
