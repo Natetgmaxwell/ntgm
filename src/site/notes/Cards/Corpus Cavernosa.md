@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/corpus-cavernosa/","tags":["Uni/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/corpus-cavernosa/","dgPassFrontmatter":true}
 ---
 
 # Corpus Cavernosa
@@ -18,7 +18,7 @@
 ## Mentions
 | Incoming Links                                                              |
 | --------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]       |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]               |
 | [[Extras/Excalidraw/Brain Diagram.excalidraw\|Brain Diagram.excalidraw]] |
 
 { .block-language-dataview}
