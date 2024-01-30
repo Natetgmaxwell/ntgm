@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/calcium/","tags":["Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"edited":"2023-04-06 Thu","date created":"2023-02-23 Thu","tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/calcium/","dgPassFrontmatter":true}
 ---
 
 # Calcium
