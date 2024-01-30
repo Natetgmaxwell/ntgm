@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/endocrine-glands/","tags":["Uni/HBIO1010","Uni/LFS112"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/HBIO1010","Uni/LFS112"],"permalink":"/cards/endocrine-glands/","dgPassFrontmatter":true}
 ---
 
 # Endocrine Glands
