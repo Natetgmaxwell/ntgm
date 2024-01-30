@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/salivary-glands/","tags":["Uni/LFS122","flashcards/LFS122","Uni/HBIO1010"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122","Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/salivary-glands/","dgPassFrontmatter":true}
 ---
 
 # Salivary glands
@@ -23,12 +23,12 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                |
-| ------------------------------------------------------------------------------------------------------------- |
-| [[Cards/Exocrine Glands\|Exocrine Glands]]                                                                 |
-| [[Cards/Gastrointestinal tract\|Gastrointestinal tract]]                                                   |
-| [[Spaces/University/Classes/Archive/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
-| [[Cards/Viral Infections\|Viral Infections]]                                                               |
+| Incoming Links                                                                                        |
+| ----------------------------------------------------------------------------------------------------- |
+| [[Cards/Exocrine Glands\|Exocrine Glands]]                                                         |
+| [[Cards/Gastrointestinal tract\|Gastrointestinal tract]]                                           |
+| [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
+| [[Cards/Viral Infections\|Viral Infections]]                                                       |
 
 { .block-language-dataview}
 
