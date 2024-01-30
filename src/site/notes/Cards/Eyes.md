@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/eyes/","tags":["on/Science/Biology/Anatomy"]}
+{"aliases":["eyes"],"edited":"2023-04-06 Thu","date created":"2023-02-03 Fri","tags":["on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/eyes/","dgPassFrontmatter":true}
 ---
 
 # Eyes
