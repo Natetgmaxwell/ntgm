@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/small-intestine/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":["small bowel"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/small-intestine/","dgPassFrontmatter":true}
 ---
 
 # Small Intestine
