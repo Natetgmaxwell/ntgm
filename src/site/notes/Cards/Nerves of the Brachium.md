@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/nerves-of-the-brachium/","tags":["Uni/LFS122"]}
+{"aliases":["brachium nerves"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/nerves-of-the-brachium/","dgPassFrontmatter":true}
 ---
 
 # Nerves of the Brachium
