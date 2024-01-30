@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/growth-hormone-release-during-deep-sleep/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/growth-hormone-release-during-deep-sleep/","dgPassFrontmatter":true}
 ---
 
 # Growth Hormone release during Deep Sleep
