@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/sebaceous-glands/","tags":["Uni/LFS112","flashcards/LFS112","Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112","Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/sebaceous-glands/","dgPassFrontmatter":true}
 ---
 
 # Sebaceous Glands
