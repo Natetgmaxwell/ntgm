@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/disorders/"}
+{"aliases":null,"dg-publish":true,"permalink":"/cards/disorders/","dgPassFrontmatter":true}
 ---
 
 # Disorders
