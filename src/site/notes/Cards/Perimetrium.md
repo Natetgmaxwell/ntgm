@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/perimetrium/"}
+{"aliases":["serous coat of uterus"],"tags":null,"dg-publish":true,"permalink":"/cards/perimetrium/","dgPassFrontmatter":true}
 ---
 
 # Perimetrium
