@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/blood/","tags":["on/Science/Biology","Uni/LFS112"]}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/Science/Biology","Uni/LFS112"],"date created":"2023-02-21 Tue","dg-publish":true,"permalink":"/cards/blood/","dgPassFrontmatter":true}
 ---
 
 # Blood
