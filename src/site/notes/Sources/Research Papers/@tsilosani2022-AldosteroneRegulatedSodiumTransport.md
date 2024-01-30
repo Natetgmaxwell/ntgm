@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/research-papers/tsilosani2022-aldosterone-regulated-sodium-transport/","tags":["source/researchpaper"]}
+{"zotero-key":"VMA9BUGZ","zt-attachments":["6412"],"FirstAuthor":"Akaki Tsilosani","aliases":["Aldosterone-Regulated Sodium Transport and Blood Pressure"],"keywords":"sodium\naldosterone\nblood pressure","dg-publish":true,"tags":["source/researchpaper"],"alias":"Aldosterone-Regulated Sodium Transport and Blood Pressure","permalink":"/sources/research-papers/tsilosani2022-aldosterone-regulated-sodium-transport/","dgPassFrontmatter":true}
 ---
 
 # @tsilosani2022-AldosteroneRegulatedSodiumTransport
