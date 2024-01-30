@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/vitamin-b12/"}
+{"aliases":["B12"],"tags":null,"dg-publish":true,"permalink":"/cards/vitamin-b12/","dgPassFrontmatter":true}
 ---
 
 # Vitamin B12
@@ -19,9 +19,9 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                |
-| ------------------------------------------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Archive/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
+| Incoming Links                                                                                        |
+| ----------------------------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
 
 { .block-language-dataview}
 
