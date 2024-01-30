@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/fissures-of-the-right-lung/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/fissures-of-the-right-lung/","dgPassFrontmatter":true}
 ---
 
 # Fissures of the Right Lung
