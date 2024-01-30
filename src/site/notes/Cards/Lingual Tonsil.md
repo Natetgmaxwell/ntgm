@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/lingual-tonsil/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/lingual-tonsil/","dgPassFrontmatter":true}
 ---
 
 # Lingual Tonsil
