@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/red-blood-cells/"}
+{"aliases":null,"edited":"2023-04-06 Thu","date created":"2023-02-21 Tue","dg-publish":true,"permalink":"/cards/red-blood-cells/","dgPassFrontmatter":true}
 ---
 
 # Red Blood Cells
