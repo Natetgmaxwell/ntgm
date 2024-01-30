@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/photosynthesis/"}
+{"edited":"2023-04-06 Thu","date created":"2022-01-04 Tue","dg-publish":true,"permalink":"/cards/photosynthesis/","dgPassFrontmatter":true}
 ---
 
 # Photosynthesis
