@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/diaphragm/","tags":["on/Science/Biology/Anatomy","Uni/LFS112"]}
+{"aliases":null,"tags":["on/Science/Biology/Anatomy","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/diaphragm/","dgPassFrontmatter":true}
 ---
 
 # Diaphragm
@@ -21,13 +21,13 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]]                                            |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                       |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
-| [[• Inbox/Physio Roger Swimming\|Physio Roger Swimming]]                                                       |
-| [[Extras/Excalidraw/Respiratory System Diagram\|Respiratory System Diagram]]                                   |
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]]                                    |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                       |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[• Inbox/Physio Roger Swimming\|Physio Roger Swimming]]                                               |
+| [[Extras/Excalidraw/Respiratory System Diagram\|Respiratory System Diagram]]                           |
 
 { .block-language-dataview}
 
