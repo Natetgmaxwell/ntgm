@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calendar/medial-supracondylar-ridge-of-the-humerus/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/calendar/medial-supracondylar-ridge-of-the-humerus/","dgPassFrontmatter":true}
 ---
 
 # Medial Supracondylar Ridge of the Humerus
