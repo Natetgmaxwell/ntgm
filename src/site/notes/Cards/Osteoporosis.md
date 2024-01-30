@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/osteoporosis/","tags":["on/Science/Biology"]}
+{"aliases":null,"tags":["on/Science/Biology"],"date created":"2022-12-03 Sat","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/osteoporosis/","dgPassFrontmatter":true}
 ---
 
 # Osteoporosis
