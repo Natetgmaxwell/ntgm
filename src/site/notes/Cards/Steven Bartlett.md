@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/steven-bartlett/","tags":["on/People"]}
+{"aliases":null,"tags":["on/People"],"dg-publish":true,"permalink":"/cards/steven-bartlett/","dgPassFrontmatter":true}
 ---
 
 # Steven Bartlett
