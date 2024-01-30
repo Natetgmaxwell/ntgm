@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/corpus-luteum/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/corpus-luteum/","dgPassFrontmatter":true}
 ---
 
 # Corpus Luteum
@@ -24,10 +24,10 @@ In summary, the corpus luteum is a crucial structure in the ovary that plays a c
 - 
 
 ## Mentions
-| Incoming Links                                                              |
-| --------------------------------------------------------------------------- |
-| [[Cards/Endocrinology of Pregnancy\|Endocrinology of Pregnancy]]         |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]] |
+| Incoming Links                                                      |
+| ------------------------------------------------------------------- |
+| [[Cards/Endocrinology of Pregnancy\|Endocrinology of Pregnancy]] |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]] |
 
 { .block-language-dataview}
 
