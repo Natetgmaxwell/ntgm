@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/long-term-memory/"}
+{"aliases":null,"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/long-term-memory/","dgPassFrontmatter":true}
 ---
 
 # Long-term Memory
