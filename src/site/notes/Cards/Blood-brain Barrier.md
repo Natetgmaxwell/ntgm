@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/blood-brain-barrier/","tags":["on/Science/Biology/Anatomy"]}
+{"aliases":["BBB"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2022-11-28 Mon","dg-publish":true,"permalink":"/cards/blood-brain-barrier/","dgPassFrontmatter":true}
 ---
 
 # Blood-brain Barrier
