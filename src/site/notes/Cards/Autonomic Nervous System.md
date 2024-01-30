@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/autonomic-nervous-system/","tags":["Uni/HBIO1009","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":["ANS"],"date created":"2022-04-06 Wed","edited":"2023-04-06 Thu","dg-publish":true,"tags":["Uni/HBIO1009","Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/autonomic-nervous-system/","dgPassFrontmatter":true}
 ---
 
 # Autonomic Nervous System
@@ -31,16 +31,16 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-04-06\|2022-04-06]]                                                                 |
-| [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                         |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                       |
-| [[Cards/Hypothalamic-Pituitary-Adrenal Axis\|Hypothalamic-Pituitary-Adrenal Axis]]                             |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
-| [[Cards/Non-Verbal Cues\|Non-Verbal Cues]]                                                                     |
-| [[Extras/Excalidraw/Stress Response.excalidraw\|Stress Response.excalidraw]]                                   |
-| [[Cards/Vagus Nerve\|Vagus Nerve]]                                                                             |
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Calendar/2022/Daily/2022-04-06\|2022-04-06]]                                                         |
+| [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                 |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                       |
+| [[Cards/Hypothalamic-Pituitary-Adrenal Axis\|Hypothalamic-Pituitary-Adrenal Axis]]                     |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Cards/Non-Verbal Cues\|Non-Verbal Cues]]                                                             |
+| [[Extras/Excalidraw/Stress Response.excalidraw\|Stress Response.excalidraw]]                           |
+| [[Cards/Vagus Nerve\|Vagus Nerve]]                                                                     |
 
 { .block-language-dataview}
 
@@ -58,6 +58,7 @@
 | [[Cards/Peripheral nervous system\|Peripheral nervous system]]           |
 | [[Cards/Pons\|Pons]]                                                     |
 | [[Cards/Pupillary Size\|Pupillary Size]]                                 |
+| [[Cards/Spinal cord\|Spinal cord]]                                       |
 | [[Cards/Sympathetic Nervous System\|Sympathetic Nervous System]]         |
 
 { .block-language-dataview}
@@ -79,6 +80,6 @@ What is the autonomic nervous system responsible for?;; The autonomic nervous sy
 What is the Autonomic Nervous System (ANS) responsible for?;; The ANS controls involuntary functions of visceral effectors like smooth and cardiac muscles, glands, and adipocytes.
 <!--SR:!2023-12-20,74,250-->
 
-How does the ANS differ from the somatic nervous system?;; The ANS has a two-neuron system with autonomic ganglia between the spinal cord and effector organs, while the somatic nervous system has a one-neuron system with direct control over skeletal muscles.
+How does the ANS differ from the somatic nervous system?;; The ANS has a two-neuron system with autonomic ganglia between the [[Cards/Spinal cord\|spinal cord]] and effector organs, while the somatic nervous system has a one-neuron system with direct control over skeletal muscles.
 <!--SR:!2023-11-04,14,180-->
 
