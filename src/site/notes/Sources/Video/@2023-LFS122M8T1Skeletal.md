@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/video/2023-lfs-122-m8-t1-skeletal/","tags":["source/video","Uni/LFS122"]}
+{"aliases":["LFS122 M8T1 Skeletal Structures and Articulations of the Pectoral Girdle and Brachium"],"tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/2023-lfs-122-m8-t1-skeletal/","dgPassFrontmatter":true}
 ---
 
 # @2023-LFS122M8T1Skeletal
@@ -10,7 +10,7 @@
 >[!Synth]  
 >**Contribution**::  
 >  
->**Related**:: [[Spaces/University/Classes/Current/Human Anatomy\|LFS122]]
+>**Related**:: [[Spaces/University/Classes/Human Anatomy\|LFS122]]
 >  
   
 >[!md]  
