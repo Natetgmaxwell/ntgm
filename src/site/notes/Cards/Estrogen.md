@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/estrogen/","tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":["Oestrogen"],"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/estrogen/","dgPassFrontmatter":true}
 ---
 
 # Estrogen
