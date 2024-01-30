@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/neural-stimulus/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/neural-stimulus/","dgPassFrontmatter":true}
 ---
 
 # Neural Stimulus
