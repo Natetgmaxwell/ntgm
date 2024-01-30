@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/thymine/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/thymine/","dgPassFrontmatter":true}
 ---
 
 # Thymine
