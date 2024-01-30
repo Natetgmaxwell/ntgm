@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/intestinal-permeability/"}
+{"aliases":["leaky gut"],"date created":"2022-12-09 Fri","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/intestinal-permeability/","dgPassFrontmatter":true}
 ---
 
 # Intestinal Permeability
