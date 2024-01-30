@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/duodenum/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/duodenum/","dgPassFrontmatter":true}
 ---
 
 # Duodenum
@@ -19,13 +19,13 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                |
-| ------------------------------------------------------------------------------------------------------------- |
-| [[Cards/Bile Duct\|Bile Duct]]                                                                             |
-| [[Extras/Excalidraw/Digestive System Diagram\|Digestive System Diagram]]                                   |
-| [[Cards/Duodenal Papilla\|Duodenal Papilla]]                                                               |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                                         |
-| [[Spaces/University/Classes/Archive/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
+| Incoming Links                                                                                        |
+| ----------------------------------------------------------------------------------------------------- |
+| [[Cards/Bile Duct\|Bile Duct]]                                                                     |
+| [[Extras/Excalidraw/Digestive System Diagram\|Digestive System Diagram]]                           |
+| [[Cards/Duodenal Papilla\|Duodenal Papilla]]                                                       |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                         |
+| [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
 
 { .block-language-dataview}
 
