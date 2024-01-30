@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/meat/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/meat/","dgPassFrontmatter":true}
 ---
 
 # Meat
