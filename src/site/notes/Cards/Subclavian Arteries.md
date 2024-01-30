@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/subclavian-arteries/","tags":["Uni/LFS122","flashcards/LFS122","on/Science/Biology/Anatomy"]}
+{"aliases":["SCA","Subclavian Artery"],"tags":["Uni/LFS122","flashcards/LFS122","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/subclavian-arteries/","dgPassFrontmatter":true}
 ---
 
 # Subclavian Arteries
