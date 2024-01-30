@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/gluconeogenesis/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/gluconeogenesis/","dgPassFrontmatter":true}
 ---
 
 # Gluconeogenesis
