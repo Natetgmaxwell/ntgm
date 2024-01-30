@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/digestion/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/digestion/","dgPassFrontmatter":true}
 ---
 
 # Digestion
