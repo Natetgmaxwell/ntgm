@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/carpal-tunnel/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/carpal-tunnel/","dgPassFrontmatter":true}
 ---
 
 # Carpal Tunnel
