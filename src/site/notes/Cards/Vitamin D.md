@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/vitamin-d/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/vitamin-d/","dgPassFrontmatter":true}
 ---
 
 # Vitamin D
@@ -18,10 +18,10 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                       |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                       |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
 
 { .block-language-dataview}
 
