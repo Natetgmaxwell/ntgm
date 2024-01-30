@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/sources/","tags":["moc/view"]}
+{"tags":["moc/view"],"cssclasses":["cards","wide"],"up":["[[🏠 Home]]"],"dg-publish":true,"permalink":"/atlas/sources/","dgPassFrontmatter":true}
 ---
 
 # Sources
 
 ## Books
-| Book                                                                                                                                | Genre       |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Sources/Books/The Roots of England by Marc Morris\|The Roots of England by Marc Morris]]                                       | Non-Fiction |
-| [[Sources/Books/The Crucible by Arthur Miller\|The Crucible by Arthur Miller]]                                                   | Non-Fiction |
-| [[Sources/Books/Respiratory Contagion by Mieczyslaw Pokorski\|Respiratory Contagion by Mieczyslaw Pokorski]]                     | Non-Fiction |
-| [[Sources/Books/Red Rising by Pierce Brown\|Red Rising by Pierce Brown]]                                                         | Fiction     |
-| [[Sources/Books/Physiological Aspects of Legged Terrestrial Locomotion\|Physiological Aspects of Legged Terrestrial Locomotion]] | Non-Fiction |
-| [[Sources/Books/NEUROENDOCRINOLOGY OF STRESS\|NEUROENDOCRINOLOGY OF STRESS]]                                                     | Non-Fiction |
+| Book                                                                                                                                                          | Genre       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Sources/@georgeorwell1949NineteenEightyfour\|@georgeorwell1949NineteenEightyfour]]                                                                       | Fiction     |
+| [[Sources/Books/Red Rising by Pierce Brown\|Red Rising by Pierce Brown]]                                                                                   | Fiction     |
+| [[Sources/Books/NEUROENDOCRINOLOGY OF STRESS\|NEUROENDOCRINOLOGY OF STRESS]]                                                                               | Non-Fiction |
+| [[Sources/Books/Genghis Khan and the Making of the Modern World By Jack Weatherford\|Genghis Khan and the Making of the Modern World By Jack Weatherford]] | Non-Fiction |
+| [[Sources/Books/Limitless by Jim Kwik\|Limitless by Jim Kwik]]                                                                                             | Non-Fiction |
+| [[Sources/Books/Physiological Aspects of Legged Terrestrial Locomotion\|Physiological Aspects of Legged Terrestrial Locomotion]]                           | Non-Fiction |
 
 { .block-language-dataview}
 
@@ -29,14 +29,14 @@
 { .block-language-dataview}
 
 ## Articles
-| Title                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------- |
-| [[Sources/@vedranbileta2022WhatAreTheodosian\|@vedranbileta2022WhatAreTheodosian]]                         |
-| [[Sources/@sasivimolahmed2018WhichProbioticsHistamine\|@sasivimolahmed2018WhichProbioticsHistamine]]       |
-| [[Sources/@kristinaackermannEffectsAlcoholBody\|@kristinaackermannEffectsAlcoholBody]]                     |
-| [[Sources/@seungguhan2018CerebrovascularAccidentSymptoms\|@seungguhan2018CerebrovascularAccidentSymptoms]] |
-| [[Sources/@nesporMedicalTreatmentsLate2013\|@nesporMedicalTreatmentsLate2013]]                             |
-| [[Sources/@bettinZoneTrainingEndurance2014\|@bettinZoneTrainingEndurance2014]]                             |
+| Title                                                                                             |
+| ------------------------------------------------------------------------------------------------- |
+| [[Sources/@henderson2022LessonsLearnedThomas\|@henderson2022LessonsLearnedThomas]]             |
+| [[Sources/@Henderson2022-SwipingDatingPreferencesa\|@Henderson2022-SwipingDatingPreferencesa]] |
+| [[Sources/@vanessavanedwards202310QuestionsAsk\|@vanessavanedwards202310QuestionsAsk]]         |
+| [[Sources/@henderson2022VictimSignalingDark\|@henderson2022VictimSignalingDark]]               |
+| [[Sources/@henderson2022HowRead\|@henderson2022HowRead]]                                       |
+| [[Sources/@henderson2022MaleWarriorHypothesis\|@henderson2022MaleWarriorHypothesis]]           |
 
 { .block-language-dataview}
 
