@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/resistance-training/"}
+{"aliases":null,"dg-publish":true,"permalink":"/cards/resistance-training/","dgPassFrontmatter":true}
 ---
 
 # Resistance Training
