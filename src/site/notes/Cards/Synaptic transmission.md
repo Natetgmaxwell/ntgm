@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/synaptic-transmission/","tags":["Uni/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/synaptic-transmission/","dgPassFrontmatter":true}
 ---
 
 # Synaptic Transmission
