@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/extensor-pollicis-brevis/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/extensor-pollicis-brevis/","dgPassFrontmatter":true}
 ---
 
 # Extensor Pollicis Brevis
@@ -18,9 +18,9 @@
 - 
 
 ## Mentions
-| Incoming Links                                                        |
-| --------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
 
 { .block-language-dataview}
 
