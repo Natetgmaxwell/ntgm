@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/nikola-tesla/","tags":["on/People"]}
+{"aliases":null,"tags":["on/People"],"dg-publish":true,"permalink":"/cards/nikola-tesla/","dgPassFrontmatter":true}
 ---
 
 # Nikola Tesla
