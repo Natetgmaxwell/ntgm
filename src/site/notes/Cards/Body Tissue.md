@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/body-tissue/","tags":["on/Science/Biology","Uni/HBIO1009"]}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/Science/Biology","Uni/HBIO1009"],"date created":"2023-04-02 Sun","dg-publish":true,"permalink":"/cards/body-tissue/","dgPassFrontmatter":true}
 ---
 
 # Body Tissue
