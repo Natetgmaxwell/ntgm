@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/fundus-of-the-stomach/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/fundus-of-the-stomach/","dgPassFrontmatter":true}
 ---
 
 # Fundus of the Stomach
@@ -21,7 +21,7 @@
 | Incoming Links                                                                                              |
 | ----------------------------------------------------------------------------------------------------------- |
 | [[Extras/Excalidraw/Fundus of the Stomach Diagram.excalidraw\|Fundus of the Stomach Diagram.excalidraw]] |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                                       |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                               |
 
 { .block-language-dataview}
 
