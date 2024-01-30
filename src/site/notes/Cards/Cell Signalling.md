@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cell-signalling/","tags":["Uni/HBIO1009"]}
+{"aliases":["cell communication","Cellular communication"],"tags":["Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/cell-signalling/","dgPassFrontmatter":true}
 ---
 
 # Cell Signalling
