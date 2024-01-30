@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/physics/","tags":["moc"]}
+{"aliases":null,"tags":["moc"],"dg-publish":true,"permalink":"/cards/physics/","dgPassFrontmatter":true}
 ---
 
 # Physics
