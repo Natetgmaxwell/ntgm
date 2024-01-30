@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/elements-of-the-human-body/","tags":["Uni/LFS103","Uni/HBIO1009","Uni/LFS112"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/LFS103","Uni/HBIO1009","Uni/LFS112"],"permalink":"/cards/elements-of-the-human-body/","dgPassFrontmatter":true}
 ---
 
 # Elements of the Human Body
