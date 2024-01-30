@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/daniel-kahneman/","tags":["on/People"]}
+{"aliases":null,"tags":["on/People"],"dg-publish":true,"permalink":"/cards/daniel-kahneman/","dgPassFrontmatter":true}
 ---
 
 # Daniel Kahneman
