@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/major-calyx/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/major-calyx/","dgPassFrontmatter":true}
 ---
 
 # Major Calyx
