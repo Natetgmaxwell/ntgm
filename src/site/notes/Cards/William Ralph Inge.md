@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/william-ralph-inge/","tags":["on/People"]}
+{"aliases":null,"tags":["on/People"],"dg-publish":true,"permalink":"/cards/william-ralph-inge/","dgPassFrontmatter":true}
 ---
 
 # William Ralph Inge
@@ -37,9 +37,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                             |
-| --------------------------------------------------------------------------------------------------- |
-| [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
