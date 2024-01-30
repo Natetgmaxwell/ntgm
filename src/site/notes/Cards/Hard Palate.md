@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hard-palate/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/hard-palate/","dgPassFrontmatter":true}
 ---
 
 # Hard Palate
@@ -16,10 +16,10 @@
 - 
 
 ## Mentions
-| Incoming Links                                                        |
-| --------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
-| [[Cards/Vomer\|Vomer]]                                             |
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
+| [[Cards/Vomer\|Vomer]]                                     |
 
 { .block-language-dataview}
 
