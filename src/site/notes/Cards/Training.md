@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/training/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/training/","dgPassFrontmatter":true}
 ---
 
 # Training
