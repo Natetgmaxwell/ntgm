@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/digestive-system/","tags":["Uni/HBIO1009","Uni/LFS122","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"date created":"2023-04-02 Sun","edited":"2023-06-16 Fri","tags":["Uni/HBIO1009","Uni/LFS122","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/digestive-system/","dgPassFrontmatter":true}
 ---
 
 # Digestive System
@@ -19,7 +19,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-$<div class="markdown-embed-title">
+<div class="markdown-embed-title">
 
 # 750
 
