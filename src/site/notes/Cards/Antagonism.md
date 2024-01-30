@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/antagonism/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/antagonism/","dgPassFrontmatter":true}
 ---
 
 # Antagonism
