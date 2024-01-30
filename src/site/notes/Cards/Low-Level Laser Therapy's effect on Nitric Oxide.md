@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/low-level-laser-therapy-s-effect-on-nitric-oxide/"}
+{"aliases":["LLLT effect on NO"],"tags":null,"dg-publish":true,"permalink":"/cards/low-level-laser-therapy-s-effect-on-nitric-oxide/","dgPassFrontmatter":true}
 ---
 
 # Low-Level Laser Therapy's Effect on Nitric Oxide
