@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/body-of-the-epididymis/","tags":["Uni/LFS122"]}
+{"aliases":["body of epididymis"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/body-of-the-epididymis/","dgPassFrontmatter":true}
 ---
 
 # Body of the Epididymis
