@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/resistance-training-for-boosting-testosterone/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/resistance-training-for-boosting-testosterone/","dgPassFrontmatter":true}
 ---
 
 # Resistance Training for Boosting Testosterone
