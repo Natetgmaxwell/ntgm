@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/nerves-of-the-antebrachium/","tags":["Uni/LFS122"]}
+{"aliases":["antebrachium nerves"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/nerves-of-the-antebrachium/","dgPassFrontmatter":true}
 ---
 
 # Nerves of the Antebrachium
