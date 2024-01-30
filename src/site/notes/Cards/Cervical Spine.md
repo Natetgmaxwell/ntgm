@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cervical-spine/","tags":["on/Science/Biology/Anatomy","Uni/OMT1"]}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy","Uni/OMT1"],"date created":"2023-03-08 Wed","dg-publish":true,"permalink":"/cards/cervical-spine/","dgPassFrontmatter":true}
 ---
 
 # Cervical Spine
@@ -32,13 +32,13 @@
 - [[Cards/Thoracic Spine\|Thoracic Spine]]
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
-| [[Spaces/University/Projects/OMT1A3 Practical Assessment\|OMT1A3 Practical Assessment]]                        |
-| [[Cards/Sacrum\|Sacrum]]                                                                                       |
-| [[Cards/Transverse Foramen\|Transverse Foramen]]                                                               |
-| [[Cards/Vertebrae\|Vertebrae]]                                                                                 |
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Spaces/University/Projects/OMT1A3 Practical Assessment\|OMT1A3 Practical Assessment]]                |
+| [[Cards/Sacrum\|Sacrum]]                                                                               |
+| [[Cards/Transverse Foramen\|Transverse Foramen]]                                                       |
+| [[Cards/Vertebrae\|Vertebrae]]                                                                         |
 
 { .block-language-dataview}
 
