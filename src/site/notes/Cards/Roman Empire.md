@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/roman-empire/","tags":["moc","on/History"]}
+{"aliases":["Ancient Rome","Rome"],"edited":"2023-04-06 Thu","tags":["moc","on/History"],"date created":"2022-03-31 Thu","dg-publish":true,"permalink":"/cards/roman-empire/","dgPassFrontmatter":true}
 ---
 
 # Roman Empire
