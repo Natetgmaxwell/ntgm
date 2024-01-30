@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/static-stretching/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/static-stretching/","dgPassFrontmatter":true}
 ---
 
 # Static Stretching
