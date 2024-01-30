@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/mutation/","tags":["moc","on/Science/Biology","School"]}
+{"tags":["moc","on/Science/Biology","School"],"date created":"2022-04-21 Thu","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/mutation/","dgPassFrontmatter":true}
 ---
 
 # Mutation
