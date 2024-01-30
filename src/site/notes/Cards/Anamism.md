@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/anamism/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/anamism/","dgPassFrontmatter":true}
 ---
 
 # Anamism
