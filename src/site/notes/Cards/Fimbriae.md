@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/fimbriae/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/fimbriae/","dgPassFrontmatter":true}
 ---
 
 # Fimbriae
@@ -16,10 +16,10 @@
 - 
 
 ## Mentions
-| Incoming Links                                                        |
-| --------------------------------------------------------------------- |
-| [[Cards/Fallopian Tube\|Fallopian Tube]]                           |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Cards/Fallopian Tube\|Fallopian Tube]]                   |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
 
 { .block-language-dataview}
 
