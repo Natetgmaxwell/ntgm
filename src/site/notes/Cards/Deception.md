@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/deception/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/deception/","dgPassFrontmatter":true}
 ---
 
 # Deception
@@ -44,8 +44,8 @@ When people are trying to distract you from the truth or “con” you, you must
 
 | Sources                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Podcasts/Podcast Episodes/270. Biology and Man   Robert Trivers and Dr Jordan B Peterson — The Jordan B. Peterson Podcast\|270. Biology and Man   Robert Trivers and Dr Jordan B Peterson — The Jordan B. Peterson Podcast]] |
 | [[Sources/Podcasts/Podcast Shows/The Jordan B. Peterson Podcast (JBP)\|The Jordan B. Peterson Podcast (JBP)]]                                                                                                                          |
+| [[Sources/Podcasts/Podcast Episodes/270. Biology and Man   Robert Trivers and Dr Jordan B Peterson — The Jordan B. Peterson Podcast\|270. Biology and Man   Robert Trivers and Dr Jordan B Peterson — The Jordan B. Peterson Podcast]] |
 | [[Sources/Books/The Crucible by Arthur Miller\|The Crucible by Arthur Miller]]                                                                                                                                                         |
 | [[Sources/@fyodordostoevskyIdiot1869\|@fyodordostoevskyIdiot1869]]                                                                                                                                                                     |
 
