@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/inferior-vena-cava/","tags":["Uni/LFS122","Uni/LFS112","Uni/HBIO1009","on/Science/Biology/Anatomy"]}
+{"aliases":null,"tags":["Uni/LFS122","Uni/LFS112","Uni/HBIO1009","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/inferior-vena-cava/","dgPassFrontmatter":true}
 ---
 
 # Inferior Vena Cava
