@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/trihybrid-cross/","tags":["on/Science/Biology/Genetics","School"]}
+{"Created:":"2022-05-25","tags":["on/Science/Biology/Genetics","School"],"date created":"2022-05-25 Wed","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/trihybrid-cross/","dgPassFrontmatter":true}
 ---
 
 # Trihybrid Cross
