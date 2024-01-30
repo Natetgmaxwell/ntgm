@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/negative-feedback-loops/","tags":["Uni/LFS112","Uni/HBIO1009"]}
+{"aliases":["Negative Feedback"],"dg-publish":true,"tags":["Uni/LFS112","Uni/HBIO1009"],"permalink":"/cards/negative-feedback-loops/","dgPassFrontmatter":true}
 ---
 
 # Negative Feedback Loops
@@ -22,19 +22,19 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-05-17 Wed\|2023-05-17 Wed]]                                                         |
-| [[Cards/Cell Signalling\|Cell Signalling]]                                                                     |
-| [[Extras/Excalidraw/Drawing 2023-07-11 12.55.09.excalidraw\|Drawing 2023-07-11 12.55.09.excalidraw]]           |
-| [[Cards/Equilibrium\|Equilibrium]]                                                                             |
-| [[Extras/Excalidraw/Homeostasis.excalidraw\|Homeostasis.excalidraw]]                                           |
-| [[Extras/Excalidraw/HPA Axis Diagram.excalidraw\|HPA Axis Diagram.excalidraw]]                                 |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                       |
-| [[Cards/Hypothalamic-Pituitary-Adrenal Axis\|Hypothalamic-Pituitary-Adrenal Axis]]                             |
-| [[Spaces/University/Classes/Archive/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]     |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
-| [[Cards/Thermoregulation\|Thermoregulation]]                                                                   |
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Calendar/2023/Daily/2023-05-17 Wed\|2023-05-17 Wed]]                                                 |
+| [[Cards/Cell Signalling\|Cell Signalling]]                                                             |
+| [[Extras/Excalidraw/Drawing 2023-07-11 12.55.09.excalidraw\|Drawing 2023-07-11 12.55.09.excalidraw]]   |
+| [[Cards/Equilibrium\|Equilibrium]]                                                                     |
+| [[Extras/Excalidraw/Homeostasis.excalidraw\|Homeostasis.excalidraw]]                                   |
+| [[Extras/Excalidraw/HPA Axis Diagram.excalidraw\|HPA Axis Diagram.excalidraw]]                         |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                       |
+| [[Cards/Hypothalamic-Pituitary-Adrenal Axis\|Hypothalamic-Pituitary-Adrenal Axis]]                     |
+| [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]     |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Cards/Thermoregulation\|Thermoregulation]]                                                           |
 
 { .block-language-dataview}
 
