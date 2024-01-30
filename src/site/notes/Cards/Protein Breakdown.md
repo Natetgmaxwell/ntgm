@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/protein-breakdown/"}
+{"aliases":null,"tags":[],"dg-publish":true,"permalink":"/cards/protein-breakdown/","dgPassFrontmatter":true}
 ---
 
 # Protein Breakdown
