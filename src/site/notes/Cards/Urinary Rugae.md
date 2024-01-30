@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/urinary-rugae/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/urinary-rugae/","dgPassFrontmatter":true}
 ---
 
 # Urinary Rugae
