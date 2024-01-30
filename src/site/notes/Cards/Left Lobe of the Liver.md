@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/left-lobe-of-the-liver/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/left-lobe-of-the-liver/","dgPassFrontmatter":true}
 ---
 
 # Left Lobe of the Liver
