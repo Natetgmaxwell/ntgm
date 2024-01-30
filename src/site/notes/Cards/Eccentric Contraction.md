@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/eccentric-contraction/","tags":["Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/eccentric-contraction/","dgPassFrontmatter":true}
 ---
 
 # Eccentric Contraction
