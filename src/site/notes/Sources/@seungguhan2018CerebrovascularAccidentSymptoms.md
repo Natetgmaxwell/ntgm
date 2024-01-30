@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/seungguhan2018-cerebrovascular-accident-symptoms/","tags":["source/article"]}
+{"zotero-key":"8NSF53CI","zt-attachments":["2026"],"aliases":["Cerebrovascular Accident: Symptoms Treatment and Prevention"],"keywords":null,"FirstAuthor":"[[ Seunggu Han]]","dg-publish":true,"tags":["source/article"],"permalink":"/sources/seungguhan2018-cerebrovascular-accident-symptoms/","dgPassFrontmatter":true}
 ---
 
 # @seungguhan2018CerebrovascularAccidentSymptoms
