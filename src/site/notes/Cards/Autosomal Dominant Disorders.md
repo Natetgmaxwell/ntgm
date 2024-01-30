@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/autosomal-dominant-disorders/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/autosomal-dominant-disorders/","dgPassFrontmatter":true}
 ---
 
 # Autosomal Dominant Disorders
