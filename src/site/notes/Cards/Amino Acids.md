@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/amino-acids/"}
+{"edited":"2023-04-06 Thu","date created":"2022-10-16 Sun","heading":"Amino acids","uri":"https://id.loc.gov/authorities/subjects/sh85004486","broader":["Organic acids","Amino compounds"],"narrower":["Ornithine","Mycosporine-like amino acids","Domoic acid"],"related":["Peptides"],"dg-publish":true,"permalink":"/cards/amino-acids/","dgPassFrontmatter":true}
 ---
 
 # Amino Acids
