@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/anatomy/","tags":["moc","on/Science/Biology"]}
+{"date created":"2022-06-26 Sun","edited":"2023-04-06 Thu","dg-publish":true,"tags":["moc","on/Science/Biology"],"up":["[[🏠 Home]]"],"permalink":"/atlas/mo-cs/anatomy/","dgPassFrontmatter":true}
 ---
 
 # Anatomy
