@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/danielkahneman-thinking-fast-slow2011/","tags":["source/book"]}
+{"zotero-key":"52J23ETB","zt-attachments":["1485"],"alias":", Thinking Fast and Slow","keywords":[],"FirstAuthor":"[[ Daniel Kahneman]]","tags":["source/book"],"dg-publish":true,"permalink":"/sources/danielkahneman-thinking-fast-slow2011/","dgPassFrontmatter":true}
 ---
 
 # @danielkahnemanThinkingFastSlow2011
