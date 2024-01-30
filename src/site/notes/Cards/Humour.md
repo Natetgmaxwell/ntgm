@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/humour/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/humour/","dgPassFrontmatter":true}
 ---
 
 # Humour
