@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/brain/","tags":["on/Science/Biology/Anatomy"]}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2023-02-13 Mon","dg-publish":true,"permalink":"/cards/brain/","dgPassFrontmatter":true}
 ---
 
 # Brain
@@ -33,27 +33,27 @@
 - [[Cards/White matter\|White matter]]
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-12-12 Mon\|2022-12-12 Mon]]                                                         |
-| [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                         |
-| [[Cards/Alcohol\|Alcohol]]                                                                                     |
-| [[Cards/Autonomic Nervous System\|Autonomic Nervous System]]                                                   |
-| [[Cards/Blood-brain Barrier\|Blood-brain Barrier]]                                                             |
-| [[Cards/Cerebrospinal Fluid\|Cerebrospinal Fluid]]                                                             |
-| [[Cards/Choline\|Choline]]                                                                                     |
-| [[Cards/Docosahexaenoic Acid\|Docosahexaenoic Acid]]                                                           |
-| [[Cards/Enteric Nervous System\|Enteric Nervous System]]                                                       |
-| [[Cards/Glutamic acid\|Glutamic acid]]                                                                         |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                                             |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                       |
-| [[Cards/Hypothalamus\|Hypothalamus]]                                                                           |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
-| [[Cards/Meninges\|Meninges]]                                                                                   |
-| [[Cards/Pain\|Pain]]                                                                                           |
-| [[Cards/Salmon\|Salmon]]                                                                                       |
-| [[Cards/Structures of the Body\|Structures of the Body]]                                                       |
-| [[Cards/Triune Brain Theory\|Triune Brain Theory]]                                                             |
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Calendar/2022/Daily/2022-12-12 Mon\|2022-12-12 Mon]]                                                 |
+| [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                 |
+| [[Cards/Alcohol\|Alcohol]]                                                                             |
+| [[Cards/Autonomic Nervous System\|Autonomic Nervous System]]                                           |
+| [[Cards/Blood-brain Barrier\|Blood-brain Barrier]]                                                     |
+| [[Cards/Cerebrospinal Fluid\|Cerebrospinal Fluid]]                                                     |
+| [[Cards/Choline\|Choline]]                                                                             |
+| [[Cards/Docosahexaenoic Acid\|Docosahexaenoic Acid]]                                                   |
+| [[Cards/Enteric Nervous System\|Enteric Nervous System]]                                               |
+| [[Cards/Glutamic acid\|Glutamic acid]]                                                                 |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                             |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                       |
+| [[Cards/Hypothalamus\|Hypothalamus]]                                                                   |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Cards/Meninges\|Meninges]]                                                                           |
+| [[Cards/Pain\|Pain]]                                                                                   |
+| [[Cards/Salmon\|Salmon]]                                                                               |
+| [[Cards/Structures of the Body\|Structures of the Body]]                                               |
+| [[Cards/Triune Brain Theory\|Triune Brain Theory]]                                                     |
 
 { .block-language-dataview}
 
