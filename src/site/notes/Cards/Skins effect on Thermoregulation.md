@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/skins-effect-on-thermoregulation/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/skins-effect-on-thermoregulation/","dgPassFrontmatter":true}
 ---
 
 # Skins Effect on Thermoregulation
