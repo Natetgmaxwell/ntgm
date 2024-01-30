@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/iliopsoas/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/iliopsoas/","dgPassFrontmatter":true}
 ---
 
 # Iliopsoas
