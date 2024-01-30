@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/egalitarianism/"}
+{"date created":"2022-03-04 Fri","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/egalitarianism/","dgPassFrontmatter":true}
 ---
 
 # Egalitarianism
