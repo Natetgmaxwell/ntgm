@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/lungs/"}
+{"aliases":null,"dg-publish":true,"permalink":"/cards/lungs/","dgPassFrontmatter":true}
 ---
 
 # Lungs
@@ -60,19 +60,19 @@
 - [[Cards/Respiration\|Respiration]]
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-07-25 Tue\|2023-07-25 Tue]]                                                         |
-| [[Calendar/2023/Daily/2023-09-11 Mon\|2023-09-11 Mon]]                                                         |
-| [[Extras/Excalidraw/Anatomy of the Heart.excalidraw\|Anatomy of the Heart.excalidraw]]                         |
-| [[Cards/Apex of the Left Lung\|Apex of the Left Lung]]                                                         |
-| [[Cards/Apex of the Right Lung\|Apex of the Right Lung]]                                                       |
-| [[Cards/Hilum of the Left Lung\|Hilum of the Left Lung]]                                                       |
-| [[Cards/Hilum of the Right Lung\|Hilum of the Right Lung]]                                                     |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                                             |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
-| [[Extras/Excalidraw/Respiratory System Diagram\|Respiratory System Diagram]]                                   |
-| [[Cards/Superior Lobe of the Right Lung\|Superior Lobe of the Right Lung]]                                     |
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Calendar/2023/Daily/2023-07-25 Tue\|2023-07-25 Tue]]                                                 |
+| [[Calendar/2023/Daily/2023-09-11 Mon\|2023-09-11 Mon]]                                                 |
+| [[Extras/Excalidraw/Anatomy of the Heart.excalidraw\|Anatomy of the Heart.excalidraw]]                 |
+| [[Cards/Apex of the Left Lung\|Apex of the Left Lung]]                                                 |
+| [[Cards/Apex of the Right Lung\|Apex of the Right Lung]]                                               |
+| [[Cards/Hilum of the Left Lung\|Hilum of the Left Lung]]                                               |
+| [[Cards/Hilum of the Right Lung\|Hilum of the Right Lung]]                                             |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                             |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Extras/Excalidraw/Respiratory System Diagram\|Respiratory System Diagram]]                           |
+| [[Cards/Superior Lobe of the Right Lung\|Superior Lobe of the Right Lung]]                             |
 
 { .block-language-dataview}
 
