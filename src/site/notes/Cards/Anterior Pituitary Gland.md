@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/anterior-pituitary-gland/","tags":["Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/anterior-pituitary-gland/","dgPassFrontmatter":true}
 ---
 
 # Anterior Pituitary Gland
