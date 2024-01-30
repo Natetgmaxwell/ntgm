@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/occipital-condyles/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/occipital-condyles/","dgPassFrontmatter":true}
 ---
 
 # Occipital Condyles
@@ -16,10 +16,10 @@
 - 
 
 ## Mentions
-| Incoming Links                                                        |
-| --------------------------------------------------------------------- |
-| [[Cards/Bone Markings\|Bone Markings]]                             |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Cards/Bone Markings\|Bone Markings]]                     |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
 
 { .block-language-dataview}
 
