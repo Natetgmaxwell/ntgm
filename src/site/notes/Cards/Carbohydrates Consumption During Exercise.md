@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/carbohydrates-consumption-during-exercise/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/carbohydrates-consumption-during-exercise/","dgPassFrontmatter":true}
 ---
 
 # Carbohydrates Consumption During Exercise
