@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/macadamia-nuts/","tags":["on/Food"]}
+{"aliases":null,"tags":["on/Food"],"dg-publish":true,"permalink":"/cards/macadamia-nuts/","dgPassFrontmatter":true}
 ---
 
 # Macadamia Nuts
