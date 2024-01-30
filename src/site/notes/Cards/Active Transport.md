@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/active-transport/","tags":["Uni/HBIO1009"]}
+{"aliases":null,"tags":["Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/active-transport/","dgPassFrontmatter":true}
 ---
 
 # Active Transport
