@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/mandible/","tags":["Uni/LFS122"]}
+{"aliases":["jaw bone"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/mandible/","dgPassFrontmatter":true}
 ---
 
 # Mandible
@@ -27,12 +27,12 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Cards/Facial Bones\|Facial Bones]]                                                                           |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]]                                             |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
-| [[Cards/Temporomandibular joint\|Temporomandibular joint]]                                                     |
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Cards/Facial Bones\|Facial Bones]]                                                                   |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                             |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Cards/Temporomandibular joint\|Temporomandibular joint]]                                             |
 
 { .block-language-dataview}
 
