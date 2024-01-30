@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/membranous-urethra/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/membranous-urethra/","dgPassFrontmatter":true}
 ---
 
 # Membranous Urethra
