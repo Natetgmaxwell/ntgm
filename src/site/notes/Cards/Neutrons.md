@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/neutrons/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/neutrons/","dgPassFrontmatter":true}
 ---
 
 # Neutrons
