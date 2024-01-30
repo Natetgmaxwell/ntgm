@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/interphalangeal-joint-of-the-hallux/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/interphalangeal-joint-of-the-hallux/","dgPassFrontmatter":true}
 ---
 
 # Interphalangeal Joint of the Hallux
