@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/glands/","tags":["Uni/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/glands/","dgPassFrontmatter":true}
 ---
 
 # Glands
