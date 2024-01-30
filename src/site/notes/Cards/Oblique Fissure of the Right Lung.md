@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/oblique-fissure-of-the-right-lung/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/oblique-fissure-of-the-right-lung/","dgPassFrontmatter":true}
 ---
 
 # Oblique Fissure of the Right Lung
