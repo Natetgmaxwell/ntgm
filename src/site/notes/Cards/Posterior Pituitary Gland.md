@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/posterior-pituitary-gland/","tags":["Uni/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/posterior-pituitary-gland/","dgPassFrontmatter":true}
 ---
 
 # Posterior Pituitary Gland
