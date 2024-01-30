@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/merkel-cell/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/merkel-cell/","dgPassFrontmatter":true}
 ---
 
 # Merkel Cell
