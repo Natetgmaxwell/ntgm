@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/chronic-resistance-training/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/chronic-resistance-training/","dgPassFrontmatter":true}
 ---
 
 # Chronic Resistance Training
