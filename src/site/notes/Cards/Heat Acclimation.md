@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/heat-acclimation/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/heat-acclimation/","dgPassFrontmatter":true}
 ---
 
 # Heat Acclimation
