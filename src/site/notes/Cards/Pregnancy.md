@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/pregnancy/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/pregnancy/","dgPassFrontmatter":true}
 ---
 
 # Pregnancy
