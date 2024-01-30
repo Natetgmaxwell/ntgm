@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/oogenesis/","tags":["on/Science/Biology/Genetics","School"]}
+{"tags":["on/Science/Biology/Genetics","School"],"date created":"2022-04-22 Fri","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/oogenesis/","dgPassFrontmatter":true}
 ---
 
 # Oogenesis
@@ -19,13 +19,13 @@
 -  
 
 ## Mentions
-| Incoming Links                                                              |
-| --------------------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-08-18\|2022-08-18]]                           |
-| [[Cards/Gametes\|Gametes]]                                               |
-| [[Cards/Haploid Number\|Haploid Number]]                                 |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]] |
-| [[Cards/Ovarian Cycle\|Ovarian Cycle]]                                   |
+| Incoming Links                                                      |
+| ------------------------------------------------------------------- |
+| [[Calendar/2022/Daily/2022-08-18\|2022-08-18]]                   |
+| [[Cards/Gametes\|Gametes]]                                       |
+| [[Cards/Haploid Number\|Haploid Number]]                         |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]] |
+| [[Cards/Ovarian Cycle\|Ovarian Cycle]]                           |
 
 { .block-language-dataview}
 
