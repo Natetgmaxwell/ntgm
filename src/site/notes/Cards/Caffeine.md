@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/caffeine/"}
+{"aliases":null,"date created":"2022-11-27 Sun","edited":"2023-04-27 Thu","dg-publish":true,"permalink":"/cards/caffeine/","dgPassFrontmatter":true}
 ---
 
 # Caffeine
