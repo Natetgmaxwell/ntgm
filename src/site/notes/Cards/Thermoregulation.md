@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/thermoregulation/","tags":["Uni/HBIO1009","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"edited":"2023-04-06 Thu","date created":"2022-04-21 Thu","dg-publish":true,"tags":["Uni/HBIO1009","Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/thermoregulation/","dgPassFrontmatter":true}
 ---
 
 # Thermoregulation
