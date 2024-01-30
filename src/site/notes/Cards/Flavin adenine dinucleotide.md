@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/flavin-adenine-dinucleotide/"}
+{"aliases":["FAD"],"tags":null,"dg-publish":true,"permalink":"/cards/flavin-adenine-dinucleotide/","dgPassFrontmatter":true}
 ---
 
 # Flavin adenine dinucleotide
@@ -16,11 +16,11 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Cards/Acetyl coenzyme A\|Acetyl coenzyme A]]                                                                 |
-| [[Spaces/University/Classes/Archive/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
-| [[Cards/Oxidative Phosphorylation\|Oxidative Phosphorylation]]                                                 |
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Cards/Acetyl coenzyme A\|Acetyl coenzyme A]]                                                         |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Cards/Oxidative Phosphorylation\|Oxidative Phosphorylation]]                                         |
 
 { .block-language-dataview}
 
