@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cranium/","tags":["Uni/LFS122"]}
+{"aliases":["cranial vault"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/cranium/","dgPassFrontmatter":true}
 ---
 
 # Cranium
@@ -24,11 +24,11 @@
 - 
 
 ## Mentions
-| Incoming Links                                                        |
-| --------------------------------------------------------------------- |
-| [[Cards/Cranial Fossas\|Cranial Fossas]]                           |
-| [[Cards/Cranial Sutures\|Cranial Sutures]]                         |
-| [[Spaces/University/Classes/Current/Human Anatomy\|Human Anatomy]] |
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Cards/Cranial Fossas\|Cranial Fossas]]                   |
+| [[Cards/Cranial Sutures\|Cranial Sutures]]                 |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
 
 { .block-language-dataview}
 
