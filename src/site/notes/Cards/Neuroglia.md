@@ -1,5 +1,5 @@
 ---
-{"aliases":["glial cells","glia"],"dg-publish":true,"permalink":"/cards/neuroglia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/neuroglia/"}
 ---
 
 # Neuroglia
