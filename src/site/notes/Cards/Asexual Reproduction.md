@@ -1,5 +1,5 @@
 ---
-{"tags":["on/Science/Biology/Genetics","School","on/Science/EarthScience/Ecology"],"date created":"2021-12-26 Sun","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/asexual-reproduction/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/asexual-reproduction/","tags":["on/Science/Biology/Genetics","School","on/Science/EarthScience/Ecology"]}
 ---
 
 # Asexual Reproduction
