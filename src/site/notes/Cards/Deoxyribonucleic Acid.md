@@ -1,5 +1,5 @@
 ---
-{"Created":"2022-03-10","date created":"2022-03-07 Mon","edited":"2023-04-06 Thu","heading":"DNA","uri":"https://id.loc.gov/authorities/subjects/sh85037008","aliases":["Desoxyribonucleic acid","Thymonucleic acid","TNA (Nucleic acid)","Deoxyribonucleic acid","DNA"],"broader":["Deoxyribose","Nucleic acids"],"narrower":["Holliday junctions","Z-DNA","Fecal DNA"],"related":["Genes"],"dg-publish":true,"permalink":"/cards/deoxyribonucleic-acid/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/deoxyribonucleic-acid/"}
 ---
 
 # Deoxyribonucleic Acid
