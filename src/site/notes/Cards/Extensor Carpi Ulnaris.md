@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/extensor-carpi-ulnaris/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/extensor-carpi-ulnaris/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Extensor Carpi Ulnaris
