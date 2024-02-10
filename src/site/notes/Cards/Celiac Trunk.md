@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/celiac-trunk/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/celiac-trunk/"}
 ---
 
 # Celiac Trunk
