@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/external-iliac-vein/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/external-iliac-vein/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # External Iliac Vein
