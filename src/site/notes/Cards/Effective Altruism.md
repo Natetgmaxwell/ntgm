@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/Philosophy"],"date created":"2022-12-03 Sat","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/effective-altruism/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/effective-altruism/","tags":["on/Philosophy"]}
 ---
 
 # Effective Altruism
