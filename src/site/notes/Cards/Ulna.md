@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/Science/Biology/Anatomy","Uni/OMT1","Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/ulna/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/ulna/","tags":["on/Science/Biology/Anatomy","Uni/OMT1","Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Ulna
