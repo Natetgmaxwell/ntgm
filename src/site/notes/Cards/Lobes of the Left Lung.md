@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/lobes-of-the-left-lung/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/lobes-of-the-left-lung/","tags":["Uni/LFS122"]}
 ---
 
 # Lobes of the Left Lung
