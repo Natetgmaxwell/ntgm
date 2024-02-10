@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"permalink":"/cards/resistance-training/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/resistance-training/"}
 ---
 
 # Resistance Training
@@ -12,20 +12,11 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]
+> [!quote] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > “Resistance training can turn [[Cards/Fast-Twitch Glycolytic Fibers\|type IIb]] fibers into [[Cards/Fast-Twitch Oxidative Fibers\|type IIa]] if the utilisation of
 the  oxidative  cycle  increases  due  to  an  improvement  in  efficiency”
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!quote] [[Sources/Articles/Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX\|Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX]]
-> "Resistance training promotes fat loss by increasing lean muscle mass."
-
-</div></div>
-
+![[Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX#^00cccd\|Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX#^00cccd]]
 
 # Reference
 - 
