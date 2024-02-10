@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/internal-jugular-vein/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/internal-jugular-vein/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Internal Jugular Vein
