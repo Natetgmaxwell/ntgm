@@ -1,5 +1,5 @@
 ---
-{"aliases":["IGF-1"],"tags":["Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/insulin-like-growth-factor-1/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/insulin-like-growth-factor-1/","tags":["Uni/HBIO1010"]}
 ---
 
 # Insulin-like growth factor 1
@@ -13,12 +13,12 @@
 > 
 
 ![Extras/Images/KG4QH6LR.png|450](/img/user/Extras/Images/KG4QH6LR.png)
-[[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]
+[[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 
-> [!quote] [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]
+> [!quote] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > "Thanks to its anabolic effects, [[Cards/Insulin-like growth factor 1\|IGF-1]] has a beneficial effect on [[Cards/Atherosclerosis\|atherosclerosis]], wound healing, muscle dystrophy, burn injuries, diabetes and [[Cards/Osteoporosis\|osteoporosis]]"
 
-> [!quote] [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]
+> [!quote] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > "IGF-1 is a hormone that promotes growth, [[Cards/Bone Density\|Bone Density]] and proliferation of cells, especially in childhood and puberty"
 
 ## 
@@ -36,7 +36,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]
+> [!quote] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > "Red meat, [[Cards/Dairy Products\|Dairy Products]] and dietary calcium are associated with higher [[Cards/Insulin-like growth factor 1\|IGF-1]]"
 
 ## List of Factors that Increase [[Cards/Insulin-like growth factor 1\|IGF-1]]
@@ -51,7 +51,6 @@
 - 
 
 ## Mentions
-- [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]
 - [[Sources/Research Papers/@bentek.pedersenMusclesExerciseObesity2012\|@bentek.pedersenMusclesExerciseObesity2012]]
 - [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]]
 
