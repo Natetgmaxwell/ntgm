@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/supramaximal-interval-training-for-increasing-blood-volume/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/supramaximal-interval-training-for-increasing-blood-volume/"}
 ---
 
 # Supramaximal Interval Training for Increasing Blood Volume
