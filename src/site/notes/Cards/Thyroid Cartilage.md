@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/thyroid-cartilage/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/thyroid-cartilage/","tags":["Uni/LFS122"]}
 ---
 
 # Thyroid Cartilage
