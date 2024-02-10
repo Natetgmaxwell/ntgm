@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/palmar-aponeurosis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/palmar-aponeurosis/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Palmar Aponeurosis
