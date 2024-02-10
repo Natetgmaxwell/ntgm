@@ -1,5 +1,5 @@
 ---
-{"aliases":["Tendon"],"tags":["on/Science/Biology/Anatomy","Uni/LFS122"],"date created":"2022-12-10 Sat","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/tendons/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/tendons/","tags":["on/Science/Biology/Anatomy","Uni/LFS122"]}
 ---
 
 # Tendons
