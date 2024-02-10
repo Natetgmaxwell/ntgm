@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/lambdoidal-suture/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/lambdoidal-suture/","tags":["Uni/LFS122"]}
 ---
 
 # Lambdoidal suture
