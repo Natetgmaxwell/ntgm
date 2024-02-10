@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/decrease-m-tor/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/decrease-m-tor/"}
 ---
 
 # Decrease mTOR
