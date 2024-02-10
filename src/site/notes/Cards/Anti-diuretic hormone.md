@@ -1,5 +1,5 @@
 ---
-{"aliases":["ADH","Vasopressin"],"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/anti-diuretic-hormone/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/anti-diuretic-hormone/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Anti-diuretic Hormone
