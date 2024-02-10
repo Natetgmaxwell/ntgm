@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"F2EBDGZK","zt-attachments":["1144"],"aliases":["LFS122 M5T2 Muscles of the Head and Neck"],"citekey":"LFS122M5T2Muscles","keywords":null,"FirstAuthor":"[[ ]]","tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/lfs-122-m5-t2-muscles/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/lfs-122-m5-t2-muscles/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @LFS122M5T2Muscles
