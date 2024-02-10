@@ -1,5 +1,5 @@
 ---
-{"aliases":["Hypercortisolism"],"tags":null,"dg-publish":true,"permalink":"/cards/cushing-s-syndrome/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cushing-s-syndrome/"}
 ---
 
 # Cushing’s Syndrome
