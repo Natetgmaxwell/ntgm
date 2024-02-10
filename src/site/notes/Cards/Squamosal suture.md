@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/squamosal-suture/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/squamosal-suture/","tags":["Uni/LFS122"]}
 ---
 
 # Squamosal suture
