@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/visual-communication/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/visual-communication/"}
 ---
 
 # Visual Communication
@@ -30,8 +30,8 @@
 ## Mentions
 | Incoming Links                                              |
 | ----------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-08-18\|2022-08-18]]           |
 | [[Cards/CRAP Design Principles\|CRAP Design Principles]] |
+| [[Calendar/2022/Daily/2022-08-18\|2022-08-18]]           |
 
 { .block-language-dataview}
 
