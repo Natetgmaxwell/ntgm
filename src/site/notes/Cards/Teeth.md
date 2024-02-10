@@ -1,5 +1,5 @@
 ---
-{"aliases":["Tooth"],"dg-publish":true,"tags":["on/Science/Biology/Anatomy","Uni/HBIO1010","Uni/LFS122","flashcards/LFS122"],"permalink":"/cards/teeth/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/teeth/","tags":["on/Science/Biology/Anatomy","Uni/HBIO1010","Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Teeth
