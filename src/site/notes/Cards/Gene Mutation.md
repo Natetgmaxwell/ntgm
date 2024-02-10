@@ -1,5 +1,5 @@
 ---
-{"Created:":"2022-04-22","tags":["on/Science/Biology/Genetics","School"],"date created":"2022-04-22 Fri","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/gene-mutation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/gene-mutation/","tags":["on/Science/Biology/Genetics","School"]}
 ---
 
 # Gene Mutation
