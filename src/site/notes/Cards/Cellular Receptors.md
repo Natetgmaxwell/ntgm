@@ -1,5 +1,5 @@
 ---
-{"aliases":["cell receptors","cell receptor"],"tags":["Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/cellular-receptors/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cellular-receptors/","tags":["Uni/HBIO1009"]}
 ---
 
 # Cellular Receptors
