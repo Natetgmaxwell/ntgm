@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/left-renal-vein/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/left-renal-vein/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Left Renal Vein
