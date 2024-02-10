@@ -1,5 +1,5 @@
 ---
-{"aliases":["ER"],"tags":["on/Science/Biology/CellBiology"],"dg-publish":true,"permalink":"/cards/endoplasmic-reticulum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/endoplasmic-reticulum/","tags":["on/Science/Biology/CellBiology"]}
 ---
 
 # Endoplasmic reticulum
