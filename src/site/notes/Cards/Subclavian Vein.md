@@ -1,5 +1,5 @@
 ---
-{"aliases":["SCV"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/subclavian-vein/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/subclavian-vein/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Subclavian Vein
