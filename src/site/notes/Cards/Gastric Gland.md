@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/gastric-gland/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/gastric-gland/","tags":["Uni/LFS112"]}
 ---
 
 # Gastric Gland
