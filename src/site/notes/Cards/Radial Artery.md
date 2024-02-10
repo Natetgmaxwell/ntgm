@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/radial-artery/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/radial-artery/","tags":["Uni/LFS122","flashcards/LFS122","on/Science/Biology/Anatomy"]}
 ---
 
 # Radial Artery
