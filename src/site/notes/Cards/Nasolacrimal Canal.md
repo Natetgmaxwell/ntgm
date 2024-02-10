@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/nasolacrimal-canal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/nasolacrimal-canal/","tags":["Uni/LFS122"]}
 ---
 
 # Nasolacrimal Canal
