@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"permalink":"/cards/condyloid-joint/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/condyloid-joint/"}
 ---
 
 # Condyloid Joint
