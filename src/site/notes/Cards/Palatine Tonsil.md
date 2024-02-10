@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/palatine-tonsil/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/palatine-tonsil/"}
 ---
 
 # Palatine Tonsil
