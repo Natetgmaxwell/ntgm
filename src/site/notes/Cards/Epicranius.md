@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/epicranius/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/epicranius/","tags":["Uni/LFS122"]}
 ---
 
 # Epicranius
