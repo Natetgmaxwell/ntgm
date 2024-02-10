@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"PHY6B4WI","zt-attachments":["5697"],"FirstAuthor":"Lynnette K. Nieman","alias":["Cushing's Syndrome: Update on signs symptoms and biochemical screening"],"citekey":"nieman2015-CushingSyndromeUpdate","keywords":["Cortisol, Cushing's Syndrome, Hypercortisolism"],"Status":"Read","year":2015,"dg-publish":true,"permalink":"/sources/research-papers/nieman2015-cushing-syndrome-update/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/research-papers/nieman2015-cushing-syndrome-update/"}
 ---
 
 tags:: #source/researchpaper 
