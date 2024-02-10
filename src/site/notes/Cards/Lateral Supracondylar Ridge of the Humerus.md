@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/lateral-supracondylar-ridge-of-the-humerus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/lateral-supracondylar-ridge-of-the-humerus/","tags":["Uni/LFS122"]}
 ---
 
 # Lateral Supracondylar Ridge of the Humerus
