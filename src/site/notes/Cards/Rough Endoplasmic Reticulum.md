@@ -1,5 +1,5 @@
 ---
-{"aliases":"Rough ER","tags":["on/Science/Biology/CellBiology"],"dg-publish":true,"permalink":"/cards/rough-endoplasmic-reticulum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/rough-endoplasmic-reticulum/","tags":["on/Science/Biology/CellBiology"]}
 ---
 
 # Rough Endoplasmic Reticulum
