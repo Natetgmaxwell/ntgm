@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/gas-exchange-efficiency/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/gas-exchange-efficiency/"}
 ---
 
 # Gas Exchange Efficiency
