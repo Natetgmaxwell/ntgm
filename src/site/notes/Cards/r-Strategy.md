@@ -1,5 +1,5 @@
 ---
-{"Created":"2022-02-07","tags":["on/Science/EarthScience/Ecology","School","flashcards/biology"],"date created":"2021-12-26 Sun","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/r-strategy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/r-strategy/","tags":["on/Science/EarthScience/Ecology","School","flashcards/biology"]}
 ---
 
 # r-Strategy
