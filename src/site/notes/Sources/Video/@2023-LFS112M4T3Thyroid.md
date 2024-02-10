@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS112 M4T3 Thyroid and Parathyroid glands"],"Status":"Watched","FirstAuthor":"","tags":["source/video","Uni/LFS112"],"Priority":"Medium","dg-publish":true,"permalink":"/sources/video/2023-lfs-112-m4-t3-thyroid/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/2023-lfs-112-m4-t3-thyroid/","tags":["source/video","Uni/LFS112"]}
 ---
 
 # @2023-LFS112M4T3Thyroid
