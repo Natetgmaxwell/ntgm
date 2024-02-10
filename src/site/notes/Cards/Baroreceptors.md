@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"tags":["Uni/LFS112"],"permalink":"/cards/baroreceptors/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/baroreceptors/","tags":["Uni/LFS112"]}
 ---
 
 # Baroreceptors
