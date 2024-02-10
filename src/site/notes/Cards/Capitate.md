@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/capitate/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/capitate/","tags":["Uni/LFS122"]}
 ---
 
 # Capitate
