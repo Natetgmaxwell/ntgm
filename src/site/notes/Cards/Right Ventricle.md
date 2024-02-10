@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/HBIO1009","Uni/LFS122"],"dg-publish":true,"permalink":"/cards/right-ventricle/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/right-ventricle/","tags":["Uni/HBIO1009","Uni/LFS122"]}
 ---
 
 # Right Ventricle
