@@ -1,5 +1,5 @@
 ---
-{"aliases":["Local potentials"],"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/graded-potentials/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/graded-potentials/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Graded Potentials
