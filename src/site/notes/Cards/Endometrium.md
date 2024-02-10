@@ -1,5 +1,5 @@
 ---
-{"aliases":["uterus lining","uterine lining"],"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/endometrium/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/endometrium/","tags":["Uni/LFS112"]}
 ---
 
 # Endometrium
