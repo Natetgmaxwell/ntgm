@@ -1,5 +1,5 @@
 ---
-{"aliases":["mesentery proper"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/mesentery-of-the-small-intestine/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/mesentery-of-the-small-intestine/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Mesentery of the Small Intestine
