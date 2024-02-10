@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/body-of-the-mandible/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/body-of-the-mandible/","tags":["Uni/LFS122"]}
 ---
 
 # Body of the Mandible
