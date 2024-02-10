@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/gonadal-arteries/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/gonadal-arteries/","tags":["Uni/LFS122"]}
 ---
 
 # Gonadal Arteries
