@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"JQ7FL43Q","zt-attachments":["5684"],"FirstAuthor":"Cynthia L. Thompson","alias":["Thyroid hormone fluctuations indicate a thermoregulatory function in both a tropical (Alouatta palliata) and seasonally cold-habitat (Macaca fuscata) primate"],"citekey":"thompson2017-ThyroidHormoneFluctuations","tags":["Animals","Body","Temperature","Regulation","temperature","thermoregulation","Alouatta","Basal","Metabolism","energetics","Macaca","Seasons","Species","Specificity","Temperature","thermal","environment","thyroid","hormone","Thyroid","Hormones"],"year":2017,"Status":"Reading","dg-publish":true,"permalink":"/sources/research-papers/thompson2017-thyroid-hormone-fluctuations/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/research-papers/thompson2017-thyroid-hormone-fluctuations/","tags":["Animals","Body","Temperature","Regulation","temperature","thermoregulation","Alouatta","Basal","Metabolism","energetics","Macaca","Seasons","Species","Specificity","Temperature","thermal","environment","thyroid","hormone","Thyroid","Hormones"]}
 ---
 
 tags:: #source/researchpaper 
