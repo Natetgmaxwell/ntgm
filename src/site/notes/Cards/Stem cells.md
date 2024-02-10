@@ -1,5 +1,5 @@
 ---
-{"edited":"2023-04-06 Thu","date created":"2022-02-24 Thu","dg-publish":true,"permalink":"/cards/stem-cells/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/stem-cells/"}
 ---
 
 # Stem cells
