@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"tags":["Uni/LFS112"],"permalink":"/cards/diffusion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/diffusion/","tags":["Uni/LFS112"]}
 ---
 
 # Diffusion
