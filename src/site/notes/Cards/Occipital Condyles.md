@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/occipital-condyles/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/occipital-condyles/","tags":["Uni/LFS122"]}
 ---
 
 # Occipital Condyles
