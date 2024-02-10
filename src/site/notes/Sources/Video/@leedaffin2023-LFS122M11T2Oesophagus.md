@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS122 M11T2 Oesophagus, Stomach, Small and  Large Intestines, Anus"],"tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m11-t2-oesophagus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m11-t2-oesophagus/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @leedaffin2023-LFS122M11T2Oesophagus
