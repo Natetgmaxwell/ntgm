@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/flexor-carpi-radialis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/flexor-carpi-radialis/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Flexor Carpi Radialis
