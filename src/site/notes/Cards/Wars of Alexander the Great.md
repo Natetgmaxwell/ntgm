@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/wars-of-alexander-the-great/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/wars-of-alexander-the-great/"}
 ---
 
 # Wars of Alexander the Great
