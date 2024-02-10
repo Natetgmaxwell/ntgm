@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/free-edge-of-nail/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/free-edge-of-nail/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Free Edge of Nail
@@ -27,9 +27,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
