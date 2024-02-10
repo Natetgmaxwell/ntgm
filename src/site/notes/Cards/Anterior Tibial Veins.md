@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/anterior-tibial-veins/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/anterior-tibial-veins/","tags":["Uni/LFS122"]}
 ---
 
 # Anterior Tibial Veins
