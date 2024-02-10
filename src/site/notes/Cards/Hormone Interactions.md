@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/hormone-interactions/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/hormone-interactions/"}
 ---
 
 # Hormone Interactions
