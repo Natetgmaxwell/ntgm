@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/deep-femoral-artery/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/deep-femoral-artery/","tags":["Uni/LFS122"]}
 ---
 
 # Deep Femoral Artery
