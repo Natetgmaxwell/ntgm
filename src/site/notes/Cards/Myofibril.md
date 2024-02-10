@@ -1,5 +1,5 @@
 ---
-{"aliases":["muscle fibre"],"tags":["Uni/LFS112","on/Science/Biology/CellBiology"],"dg-publish":true,"permalink":"/cards/myofibril/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/myofibril/","tags":["Uni/LFS112","on/Science/Biology/CellBiology"]}
 ---
 
 # Myofibril
