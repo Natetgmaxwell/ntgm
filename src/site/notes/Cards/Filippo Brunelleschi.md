@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/People"],"dg-publish":true,"permalink":"/cards/filippo-brunelleschi/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/filippo-brunelleschi/","tags":["on/People"]}
 ---
 
 # Filippo Brunelleschi
