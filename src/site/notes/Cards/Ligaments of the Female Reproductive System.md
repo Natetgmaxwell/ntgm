@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/ligaments-of-the-female-reproductive-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/ligaments-of-the-female-reproductive-system/","tags":["Uni/LFS122"]}
 ---
 
 # Ligaments of the Female Reproductive System
