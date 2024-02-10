@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/posterior-cranial-fossa/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/posterior-cranial-fossa/","tags":["Uni/LFS122"]}
 ---
 
 # Posterior Cranial Fossa
