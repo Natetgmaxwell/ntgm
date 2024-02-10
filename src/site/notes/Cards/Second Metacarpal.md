@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/second-metacarpal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/second-metacarpal/","tags":["Uni/LFS122"]}
 ---
 
 # Second Metacarpal
