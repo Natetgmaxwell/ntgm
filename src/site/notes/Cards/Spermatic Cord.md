@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/spermatic-cord/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/spermatic-cord/","tags":["Uni/LFS122"]}
 ---
 
 # Spermatic Cord
