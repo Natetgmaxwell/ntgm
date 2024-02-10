@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/diet-for-increasing-brown-adipose-tissue/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/diet-for-increasing-brown-adipose-tissue/"}
 ---
 
 # Diet for Increasing Brown Adipose Tissue
