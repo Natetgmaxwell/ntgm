@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/body-of-the-pancreas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/body-of-the-pancreas/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Body of the Pancreas
