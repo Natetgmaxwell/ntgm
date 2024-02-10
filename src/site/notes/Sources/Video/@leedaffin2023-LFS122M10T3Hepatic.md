@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS122 M10T3 The Hepatic Portal System"],"Status":"unread","FirstAuthor":"","tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m10-t3-hepatic/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m10-t3-hepatic/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @leedaffin2023-LFS122M10T3Hepatic
