@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"permalink":"/cards/radiation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/radiation/"}
 ---
 
 # Radiation
