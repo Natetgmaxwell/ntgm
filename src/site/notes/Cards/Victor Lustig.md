@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/People"],"date created":"2023-02-20 Mon","dg-publish":true,"permalink":"/cards/victor-lustig/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/victor-lustig/","tags":["on/People"]}
 ---
 
 # Victor Lustig
