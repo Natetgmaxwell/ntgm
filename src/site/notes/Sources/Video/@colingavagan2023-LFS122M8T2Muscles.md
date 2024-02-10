@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS122 M8T2 Muscles of the Pectoral Girdle"],"tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/colingavagan2023-lfs-122-m8-t2-muscles/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/colingavagan2023-lfs-122-m8-t2-muscles/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @colingavagan2023-LFS122M8T2Muscles
