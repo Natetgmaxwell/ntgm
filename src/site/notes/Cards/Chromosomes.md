@@ -1,5 +1,5 @@
 ---
-{"Created":"2022-03-07","tags":["School","on/Science/Biology/Genetics"],"date created":"2022-03-08 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/chromosomes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/chromosomes/","tags":["School","on/Science/Biology/Genetics"]}
 ---
 
 # Chromosomes
