@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/lllt-effect-on-sleep/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/lllt-effect-on-sleep/"}
 ---
 
 # LLLT Effect on Sleep
