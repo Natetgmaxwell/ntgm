@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"edited":"2023-04-06 Thu","date created":"2022-12-03 Sat","tags":["on/Science/Biology"],"dg-publish":true,"permalink":"/cards/altruism/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/altruism/","tags":["on/Science/Biology"]}
 ---
 
 # Altruism
