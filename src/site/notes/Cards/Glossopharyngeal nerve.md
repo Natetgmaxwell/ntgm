@@ -1,5 +1,5 @@
 ---
-{"aliases":["CN9","CNIX"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/glossopharyngeal-nerve/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/glossopharyngeal-nerve/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Glossopharyngeal Nerve
