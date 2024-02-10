@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/extensor-pollicis-longus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/extensor-pollicis-longus/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Extensor Pollicis Longus
