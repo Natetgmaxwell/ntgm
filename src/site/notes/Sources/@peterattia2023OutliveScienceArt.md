@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"TSG49PX8","zt-attachments":["6538"],"aliases":["Outlive: The Science and Art of Longevity"],"citekey":"peterattia2023OutliveScienceArt","keywords":null,"FirstAuthor":"[[ Peter Attia]]","tags":["source/book"],"dg-publish":true,"permalink":"/sources/peterattia2023-outlive-science-art/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/peterattia2023-outlive-science-art/","tags":["source/book"]}
 ---
 
 # @peterattia2023OutliveScienceArt
