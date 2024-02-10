@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/stimuli-for-hormonal-secretion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/stimuli-for-hormonal-secretion/","tags":["Uni/LFS112"]}
 ---
 
 # Stimuli for Hormonal Secretion
