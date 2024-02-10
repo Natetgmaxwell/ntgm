@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/mechanical-digestion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/mechanical-digestion/","tags":["Uni/LFS112","Uni/HBIO1010"]}
 ---
 
 # Mechanical Digestion
