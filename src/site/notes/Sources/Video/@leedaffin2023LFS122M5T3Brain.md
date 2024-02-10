@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"Q6C7T7YX","zt-attachments":["1143"],"aliases":["LFS122 M5T3 Brain and Cranial Nerves"],"citekey":"LFS122M5T3Brain","keywords":["Brain","Cranial Nerves"],"FirstAuthor":"[[Lee Daffin]]","tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m5-t3-brain/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m5-t3-brain/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @leedaffin2023LFS122M5T3Brain
