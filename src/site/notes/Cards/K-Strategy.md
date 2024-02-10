@@ -1,5 +1,5 @@
 ---
-{"tags":["on/Science/EarthScience/Ecology","School"],"date created":"2021-12-26 Sun","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/k-strategy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/k-strategy/","tags":["on/Science/EarthScience/Ecology","School"]}
 ---
 
 # K-Strategy
