@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/People"],"dg-publish":true,"permalink":"/cards/joseph-needham/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/joseph-needham/","tags":["on/People"]}
 ---
 
 # Joseph Needham
