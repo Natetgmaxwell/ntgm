@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/Science/Biology"],"date created":"2022-11-28 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/dopamine/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/dopamine/","tags":["on/Science/Biology"]}
 ---
 
 # Dopamine
