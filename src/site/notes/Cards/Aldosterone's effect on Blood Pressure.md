@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["note/seed"],"dg-publish":true,"permalink":"/cards/aldosterone-s-effect-on-blood-pressure/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/aldosterone-s-effect-on-blood-pressure/","tags":["note/seed"]}
 ---
 
 # Aldosterone's Effect on Blood Pressure
