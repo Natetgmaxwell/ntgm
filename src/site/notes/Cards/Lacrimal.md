@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/lacrimal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/lacrimal/","tags":["Uni/LFS122"]}
 ---
 
 # Lacrimal
