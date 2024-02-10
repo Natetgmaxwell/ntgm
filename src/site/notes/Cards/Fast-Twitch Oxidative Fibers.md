@@ -1,5 +1,5 @@
 ---
-{"aliases":["type 2a","type IIa","intermediate fibres","FO fibers"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2023-02-08 Wed","dg-publish":true,"permalink":"/cards/fast-twitch-oxidative-fibers/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/fast-twitch-oxidative-fibers/","tags":["on/Science/Biology/Anatomy"]}
 ---
 
 # Fast-Twitch Oxidative Fibers
