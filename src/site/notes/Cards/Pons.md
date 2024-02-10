@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/Science/Biology/Anatomy","Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/pons/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/pons/","tags":["on/Science/Biology/Anatomy","Uni/HBIO1009","Uni/LFS112"]}
 ---
 
 # Pons
