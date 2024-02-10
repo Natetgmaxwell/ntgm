@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112","Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/sebaceous-glands/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/sebaceous-glands/","tags":["Uni/LFS112","flashcards/LFS112","Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Sebaceous Glands
@@ -17,7 +17,6 @@
 
 ## Mentions
 - [[Sources/Video/@2023-LFS112M6T5Innate\|@2023-LFS112M6T5Innate]]
-- [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]]
 
 { .block-language-dataview}
 
