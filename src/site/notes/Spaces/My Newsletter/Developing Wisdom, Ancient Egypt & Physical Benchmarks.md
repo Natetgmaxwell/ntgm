@@ -1,5 +1,5 @@
 ---
-{"tags":["project/newsletter"],"Status":"Completed","Priority":"Medium","date_published":"2022-09-15","dg-publish":true,"permalink":"/spaces/my-newsletter/developing-wisdom-ancient-egypt-and-physical-benchmarks/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/spaces/my-newsletter/developing-wisdom-ancient-egypt-and-physical-benchmarks/","tags":["project/newsletter"]}
 ---
 
 # Developing Wisdom, Ancient Egypt & Physical Benchmarks
