@@ -1,5 +1,5 @@
 ---
-{"aliases":["smell","olfactory"],"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/olfaction/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/olfaction/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Olfaction
