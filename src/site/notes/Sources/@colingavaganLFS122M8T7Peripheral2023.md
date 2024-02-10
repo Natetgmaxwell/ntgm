@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"54RU9ULC","zt-attachments":["941"],"aliases":["LFS122 M8T7 The Peripheral Nervous System Arm Nerves"],"keywords":null,"FirstAuthor":"[[ Colin Gavagan]]","tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/colingavagan-lfs-122-m8-t7-peripheral2023/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/colingavagan-lfs-122-m8-t7-peripheral2023/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @colingavaganLFS122M8T7Peripheral2023
