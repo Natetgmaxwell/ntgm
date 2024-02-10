@@ -1,5 +1,5 @@
 ---
-{"aliases":["Metabolic hormone"],"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/thyroid-hormone/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/thyroid-hormone/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Thyroid Hormone
