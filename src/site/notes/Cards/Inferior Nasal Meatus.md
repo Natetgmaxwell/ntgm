@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/inferior-nasal-meatus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/inferior-nasal-meatus/","tags":["Uni/LFS122"]}
 ---
 
 # Inferior Nasal Meatus
