@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"tags":["Uni/LFS122","flashcards/LFS122"],"permalink":"/cards/internal-intercostals/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/internal-intercostals/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Internal Intercostals
