@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/Food"],"dg-publish":true,"permalink":"/cards/oranges/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/oranges/","tags":["on/Food"]}
 ---
 
 # Oranges
