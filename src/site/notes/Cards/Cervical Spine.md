@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy","Uni/OMT1"],"date created":"2023-03-08 Wed","dg-publish":true,"permalink":"/cards/cervical-spine/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cervical-spine/","tags":["on/Science/Biology/Anatomy","Uni/OMT1"]}
 ---
 
 # Cervical Spine
