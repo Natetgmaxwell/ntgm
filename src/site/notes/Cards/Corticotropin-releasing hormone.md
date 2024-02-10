@@ -1,5 +1,5 @@
 ---
-{"aliases":["CRH","CRF"],"dg-publish":true,"permalink":"/cards/corticotropin-releasing-hormone/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/corticotropin-releasing-hormone/"}
 ---
 
 # Corticotropin-releasing hormone
