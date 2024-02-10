@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/palmar-interossei/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/palmar-interossei/","tags":["Uni/LFS122"]}
 ---
 
 # Palmar Interossei
