@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS122 M10T1 Systemic Arteries and Veins of  the Upper and Lower Limbs"],"tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m10-t1-systemic/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m10-t1-systemic/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @leedaffin2023-LFS122M10T1Systemic
