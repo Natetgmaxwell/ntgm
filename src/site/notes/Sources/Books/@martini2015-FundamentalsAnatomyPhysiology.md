@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"NDF64E8I","zt-attachments":["2466"],"FirstAuthor":"[[Frederic Martini]]","aliases":["Fundamentals of anatomy & physiology"],"citekey":"martini2015-FundamentalsAnatomyPhysiology","dg-publish":true,"permalink":"/sources/books/martini2015-fundamentals-anatomy-physiology/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/books/martini2015-fundamentals-anatomy-physiology/"}
 ---
 
 tags:: #source/book #Uni/LFS112 
