@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/lumbar-arteries/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/lumbar-arteries/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Lumbar Arteries
