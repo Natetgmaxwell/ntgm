@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/hamate/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/hamate/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Hamate
