@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/sigmoid-colon/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/sigmoid-colon/","tags":["Uni/LFS122","Uni/HBIO1010"]}
 ---
 
 # Sigmoid Colon
