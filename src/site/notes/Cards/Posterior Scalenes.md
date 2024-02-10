@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/posterior-scalenes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/posterior-scalenes/","tags":["Uni/LFS122"]}
 ---
 
 # Posterior Scalenes
