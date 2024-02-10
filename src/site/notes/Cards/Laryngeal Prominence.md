@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/laryngeal-prominence/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/laryngeal-prominence/","tags":["Uni/LFS122"]}
 ---
 
 # Laryngeal Prominence
