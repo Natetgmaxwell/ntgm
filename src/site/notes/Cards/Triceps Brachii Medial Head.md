@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/triceps-brachii-medial-head/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/triceps-brachii-medial-head/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Triceps Brachii Medial Head
