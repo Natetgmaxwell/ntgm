@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/natural-selection-in-language/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/natural-selection-in-language/"}
 ---
 
 # Natural Selection in Language
