@@ -1,5 +1,5 @@
 ---
-{"Created":"2022-06-28","date created":"2022-06-28 Tue","edited":"2023-04-06 Thu","tags":["on/Science/Biology/Biochemistry"],"dg-publish":true,"permalink":"/cards/oxygen/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/oxygen/","tags":["on/Science/Biology/Biochemistry"]}
 ---
 
 # Oxygen
@@ -18,7 +18,6 @@ Chemical Symbol: $O_2$
 - [[Cards/Cardiovascular System\|Cardiovascular System]]
 
 ## Mentions
-- [[Sources/Articles/Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX\|Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX]]
 - [[Sources/Articles/What Chemical Elements Make up the Human Body?\|What Chemical Elements Make up the Human Body?]]
 
 { .block-language-dataview}
