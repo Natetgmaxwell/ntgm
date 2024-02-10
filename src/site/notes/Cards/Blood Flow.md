@@ -20,7 +20,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Autonomic Nervous System\|Autonomic Nervous System]]                                                              |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
-| [[Spaces/University/Classes/Current/Human Physiology\|Human Physiology]]                                                  |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                          |
 | [[Cards/Psychological sigh\|Psychological sigh]]                                                                          |
 | [[Cards/Skins effect on Thermoregulation\|Skins effect on Thermoregulation]]                                              |
 | [[Cards/Sympathetic Nervous System\|Sympathetic Nervous System]]                                                          |
