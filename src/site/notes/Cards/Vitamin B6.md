@@ -1,5 +1,5 @@
 ---
-{"aliases":["B6"],"tags":null,"dg-publish":true,"permalink":"/cards/vitamin-b6/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/vitamin-b6/"}
 ---
 
 # Vitamin B6
