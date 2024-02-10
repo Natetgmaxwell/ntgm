@@ -1,5 +1,5 @@
 ---
-{"aliases":["T2"],"dg-publish":true,"permalink":"/cards/thoracic-2/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/thoracic-2/"}
 ---
 
 # Thoracic 2
