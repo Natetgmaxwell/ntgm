@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"permalink":"/cards/loose-proper-connective-tissue/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/loose-proper-connective-tissue/"}
 ---
 
 # Loose Proper Connective Tissue
