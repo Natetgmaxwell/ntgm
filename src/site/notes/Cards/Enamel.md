@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/enamel/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/enamel/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Enamel
