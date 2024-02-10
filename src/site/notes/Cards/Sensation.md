@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"permalink":"/cards/sensation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/sensation/"}
 ---
 
 # Sensation
