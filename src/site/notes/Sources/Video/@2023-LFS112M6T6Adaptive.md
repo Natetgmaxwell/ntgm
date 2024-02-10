@@ -1,5 +1,5 @@
 ---
-{"tags":["source/video","Uni/LFS112"],"aliases":["LFS112 M6T6 Adaptive Immunity"],"dg-publish":true,"Status":"Watched","Priority":"Medium","permalink":"/sources/video/2023-lfs-112-m6-t6-adaptive/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/2023-lfs-112-m6-t6-adaptive/","tags":["source/video","Uni/LFS112"]}
 ---
 
 # @2023-LFS112M6T6Adaptive
