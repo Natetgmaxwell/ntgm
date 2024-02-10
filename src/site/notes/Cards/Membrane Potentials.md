@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/membrane-potentials/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/membrane-potentials/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Membrane Potentials
