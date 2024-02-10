@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/posterior-tibial-artery/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/posterior-tibial-artery/","tags":["Uni/LFS122"]}
 ---
 
 # Posterior Tibial Artery
