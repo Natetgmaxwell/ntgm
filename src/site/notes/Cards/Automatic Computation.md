@@ -1,5 +1,5 @@
 ---
-{"aliases":["Unconscious Computation"],"dg-publish":true,"permalink":"/cards/automatic-computation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/automatic-computation/"}
 ---
 
 # Automatic Computation
