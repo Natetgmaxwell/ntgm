@@ -1,5 +1,5 @@
 ---
-{"aliases":["RSA"],"tags":null,"dg-publish":true,"permalink":"/cards/respiratory-sinus-arrhythmia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/respiratory-sinus-arrhythmia/"}
 ---
 
 # Respiratory Sinus Arrhythmia
