@@ -1,5 +1,5 @@
 ---
-{"aliases":["Uni"],"tags":["effort"],"rank":5,"dg-publish":true,"permalink":"/atlas/university/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/atlas/university/","tags":["effort"]}
 ---
 
 # 🎓 University
@@ -14,8 +14,8 @@
 | [[Spaces/University/Classes/Foundations of Inter-professional Health Practice\|Foundations of Inter-professional Health Practice]] | <ul><li>HLTH1006</li></ul> | \-      |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                                                         | <ul><li>LFS122</li></ul>   | \-      |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                                   | <ul><li>LFS112</li></ul>   | \-      |
-| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                             | <ul><li>HBIO1009</li></ul> | \-      |
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]                                 | <ul><li>HBIO1010</li></ul> | \-      |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                             | <ul><li>HBIO1009</li></ul> | \-      |
 | [[Spaces/University/Classes/Introductory Bioscience\|Introductory Bioscience]]                                                     | <ul><li>LFS103</li></ul>   | \-      |
 | [[Spaces/University/Classes/Osteopathic Manual Therapy 1\|Osteopathic Manual Therapy 1]]                                           | <ul><li>OMT1</li></ul>     | \-      |
 | [[Spaces/University/Classes/Osteopathic Manual Therapy 2\|Osteopathic Manual Therapy 2]]                                           | <ul><li>OMT2</li></ul>     | \-      |
