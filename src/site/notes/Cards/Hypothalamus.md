@@ -1,5 +1,5 @@
 ---
-{"aliases":["paleomammalian cortex"],"edited":"2023-04-06 Thu","date created":"2022-11-30 Wed","dg-publish":true,"tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/hypothalamus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/hypothalamus/","tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Hypothalamus
