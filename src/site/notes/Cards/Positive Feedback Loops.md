@@ -1,5 +1,5 @@
 ---
-{"aliases":["Positive Feedback"],"dg-publish":true,"tags":["Uni/HBIO1009","flashcards/hbio1010","Uni/LFS112"],"permalink":"/cards/positive-feedback-loops/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/positive-feedback-loops/","tags":["Uni/HBIO1009","flashcards/hbio1010","Uni/LFS112"]}
 ---
 
 tags:: #Uni/HBIO1009 #flashcards/hbio1010 #Uni/LFS112 
