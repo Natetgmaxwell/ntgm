@@ -1,5 +1,5 @@
 ---
-{"aliases":["3rd Molars"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/third-molars/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/third-molars/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Third Molars
