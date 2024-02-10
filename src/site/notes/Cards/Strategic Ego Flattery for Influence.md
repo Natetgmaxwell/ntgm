@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/strategic-ego-flattery-for-influence/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/strategic-ego-flattery-for-influence/"}
 ---
 
 # Strategic Ego Flattery for Influence
