@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"DY437NIB","zt-attachments":["1972"],"alias":"Effects of Alcohol on the Body, Effects of Alcohol on the Body: Short & Long-Term Effects","keywords":[],"FirstAuthor":"[[ Kristina Ackermann]]","dg-publish":true,"year":null,"tags":["source/article"],"permalink":"/sources/kristinaackermann-effects-alcohol-body/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/kristinaackermann-effects-alcohol-body/","tags":["source/article"]}
 ---
 
 # @kristinaackermannEffectsAlcoholBody
