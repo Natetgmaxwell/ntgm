@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/corpus-cavernosa/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/corpus-cavernosa/","tags":["Uni/LFS112"]}
 ---
 
 # Corpus Cavernosa
