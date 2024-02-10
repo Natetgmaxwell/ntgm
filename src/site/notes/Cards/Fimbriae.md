@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/fimbriae/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/fimbriae/","tags":["Uni/LFS122"]}
 ---
 
 # Fimbriae
