@@ -1,5 +1,5 @@
 ---
-{"aliases":["FSH"],"tags":["Uni/HBIO1010","flashcards/hbio1010","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/follicle-stimulating-hormone/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/follicle-stimulating-hormone/","tags":["Uni/HBIO1010","flashcards/hbio1010","Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Follicle Stimulating Hormone
