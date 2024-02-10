@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/vertebral-foramen/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/vertebral-foramen/","tags":["Uni/LFS122"]}
 ---
 
 # Vertebral Foramen
