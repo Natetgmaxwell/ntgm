@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/atmospheric-pressure/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/atmospheric-pressure/","tags":["Uni/HBIO1009"]}
 ---
 
 # Atmospheric Pressure
