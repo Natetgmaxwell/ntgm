@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS112 M6T3 Platelets and haemostasis"],"tags":["source/video","Uni/LFS112"],"Status":"Watched","Priority":"High","dg-publish":true,"permalink":"/sources/video/2023-lfs-112-m6-t3-platelets/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/2023-lfs-112-m6-t3-platelets/","tags":["source/video","Uni/LFS112"]}
 ---
 
 # @2023-LFS112M6T3Platelets
