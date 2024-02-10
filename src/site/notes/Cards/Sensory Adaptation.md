@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/sensory-adaptation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/sensory-adaptation/","tags":["Uni/LFS112"]}
 ---
 
 # Sensory Adaptation
