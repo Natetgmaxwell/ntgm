@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/History"],"dg-publish":true,"permalink":"/cards/persian-wars/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/persian-wars/","tags":["on/History"]}
 ---
 
 # Persian Wars
