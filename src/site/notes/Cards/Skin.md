@@ -1,5 +1,5 @@
 ---
-{"aliases":["cutaneous membrane"],"date created":"2022-12-10 Sat","edited":"2023-04-06 Thu","tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/skin/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/skin/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Skin
@@ -11,6 +11,9 @@
 
 > [!Definition] Definition
 > 
+
+> [!quote] [[Sources/@skyecash-deans2023LFS122M3T1Integumentary\|@skyecash-deans2023LFS122M3T1Integumentary]]
+> "The skin is the largest organ of the body & accounts for approx. 7% of our total body weight!"
 
 ## Layers of the [[Cards/Skin\|Skin]]
 - [[Cards/Epidermis\|Epidermis]] - outmost layer
@@ -61,9 +64,8 @@
 
 | Sources                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]]                 |
+| [[Sources/@skyecash-deans2023LFS122M3T1Integumentary\|@skyecash-deans2023LFS122M3T1Integumentary]]                           |
 | [[Sources/Books/2016GreenmanPrinciplesManualMedicine-lisaa.destefano\|2016GreenmanPrinciplesManualMedicine-lisaa.destefano]] |
-| [[Sources/Articles/2023WhatCausesDimples-joannelewsley\|2023WhatCausesDimples-joannelewsley]]                                |
 | [[Sources/Articles/cdnBestSupplementsSlow2022\|cdnBestSupplementsSlow2022]]                                                  |
 
 { .block-language-dataview}
