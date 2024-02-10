@@ -1,5 +1,5 @@
 ---
-{"Created":"2022-03-07","tags":["School","on/Science/Biology/Genetics"],"date created":"2022-03-07 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/allele/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/allele/","tags":["School","on/Science/Biology/Genetics"]}
 ---
 
 # Allele
