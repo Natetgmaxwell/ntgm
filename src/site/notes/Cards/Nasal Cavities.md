@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"permalink":"/cards/nasal-cavities/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/nasal-cavities/"}
 ---
 
 # Nasal Cavities
