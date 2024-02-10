@@ -1,5 +1,5 @@
 ---
-{"aliases":["Bowman's capsule"],"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/glomerular-capsule/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/glomerular-capsule/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Glomerular Capsule
