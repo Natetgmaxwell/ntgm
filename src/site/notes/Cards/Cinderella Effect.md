@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["note/seed"],"dg-publish":true,"permalink":"/cards/cinderella-effect/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cinderella-effect/","tags":["note/seed"]}
 ---
 
 # Cinderella Effect
