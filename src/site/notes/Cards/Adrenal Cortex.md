@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/adrenal-cortex/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/adrenal-cortex/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Adrenal Cortex
