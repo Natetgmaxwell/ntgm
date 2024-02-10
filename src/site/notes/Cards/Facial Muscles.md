@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/facial-muscles/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/facial-muscles/"}
 ---
 
 # Facial Muscles
@@ -27,10 +27,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                          |
-| ------------------------------------------------------------------------------------------------ |
-| [[Sources/Research Papers/@clark2020-FacialActionCoding\|@clark2020-FacialActionCoding]]      |
-| [[Sources/Articles/2023WhatCausesDimples-joannelewsley\|2023WhatCausesDimples-joannelewsley]] |
+| Sources                                                                                     |
+| ------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@clark2020-FacialActionCoding\|@clark2020-FacialActionCoding]] |
 
 { .block-language-dataview}
 
