@@ -1,5 +1,5 @@
 ---
-{"Created":"2022-05-24","date created":"2022-05-24 Tue","edited":"2023-04-06 Thu","tags":["Uni/LFS103","School"],"dg-publish":true,"permalink":"/cards/mendel-s-law-of-independent-assortment/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/mendel-s-law-of-independent-assortment/","tags":["Uni/LFS103","School"]}
 ---
 
 
