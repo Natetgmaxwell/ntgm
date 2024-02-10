@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/deception/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/deception/"}
 ---
 
 # Deception
@@ -25,10 +25,10 @@ When people are trying to distract you from the truth or “con” you, you must
 | Incoming Links                                                                                    |
 | ------------------------------------------------------------------------------------------------- |
 | [[Spaces/School/IA1 Time has not Changed Human Nature\|IA1 Time has not Changed Human Nature]] |
-| [[Calendar/2022/Daily/2022-02-26\|2022-02-26]]                                                 |
 | [[Cards/Ministry of Truth\|Ministry of Truth]]                                                 |
 | [[Cards/Fraud\|Fraud]]                                                                         |
 | [[Cards/10 Commandments for Con Artists\|10 Commandments for Con Artists]]                     |
+| [[Calendar/2022/Daily/2022-02-26\|2022-02-26]]                                                 |
 
 { .block-language-dataview}
 
@@ -44,10 +44,10 @@ When people are trying to distract you from the truth or “con” you, you must
 
 | Sources                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Podcasts/Podcast Shows/The Jordan B. Peterson Podcast (JBP)\|The Jordan B. Peterson Podcast (JBP)]]                                                                                                                          |
 | [[Sources/Podcasts/Podcast Episodes/270. Biology and Man   Robert Trivers and Dr Jordan B Peterson — The Jordan B. Peterson Podcast\|270. Biology and Man   Robert Trivers and Dr Jordan B Peterson — The Jordan B. Peterson Podcast]] |
-| [[Sources/Books/The Crucible by Arthur Miller\|The Crucible by Arthur Miller]]                                                                                                                                                         |
+| [[Sources/Podcasts/Podcast Shows/The Jordan B. Peterson Podcast (JBP)\|The Jordan B. Peterson Podcast (JBP)]]                                                                                                                          |
 | [[Sources/@fyodordostoevskyIdiot1869\|@fyodordostoevskyIdiot1869]]                                                                                                                                                                     |
+| [[Sources/Books/The Crucible by Arthur Miller\|The Crucible by Arthur Miller]]                                                                                                                                                         |
 
 { .block-language-dataview}
 
