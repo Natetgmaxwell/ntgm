@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/veins/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/veins/","tags":["Uni/LFS112"]}
 ---
 
 # Veins
