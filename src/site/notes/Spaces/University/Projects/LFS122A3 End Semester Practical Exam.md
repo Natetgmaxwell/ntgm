@@ -1,5 +1,5 @@
 ---
-{"Status":"Completed","Priority":"High","Course":"[[Human Anatomy|LFS122]]","tags":["project"],"dg-publish":true,"permalink":"/spaces/university/projects/lfs-122-a3-end-semester-practical-exam/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/spaces/university/projects/lfs-122-a3-end-semester-practical-exam/","tags":["project"]}
 ---
 
 # LFS122A3 End Semester Practical Exam
