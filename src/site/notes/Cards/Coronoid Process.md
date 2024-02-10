@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/coronoid-process/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/coronoid-process/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Coronoid Process
