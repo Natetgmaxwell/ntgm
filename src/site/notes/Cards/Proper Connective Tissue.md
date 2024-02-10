@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS103"],"dg-publish":true,"permalink":"/cards/proper-connective-tissue/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/proper-connective-tissue/","tags":["Uni/LFS103"]}
 ---
 
 # Proper Connective Tissue
