@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"TRBLF6MZ","zt-attachments":["2551"],"aliases":["LFS112 M4T2 Hypothalamus and pituitary"],"keywords":null,"FirstAuthor":"[[ Linda Gallo]]","tags":["source/video","Uni/LFS112"],"dg-publish":true,"permalink":"/sources/lindagallo2023-lfs-112-m4-t2-hypothalamus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/lindagallo2023-lfs-112-m4-t2-hypothalamus/","tags":["source/video","Uni/LFS112"]}
 ---
 
 # @lindagallo2023LFS112M4T2Hypothalamus
