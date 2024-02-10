@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/autosomal-recessive-disorders/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/autosomal-recessive-disorders/"}
 ---
 
 # Autosomal Recessive Disorders
