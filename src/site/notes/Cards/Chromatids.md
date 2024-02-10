@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS103"],"dg-publish":true,"permalink":"/cards/chromatids/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/chromatids/","tags":["Uni/LFS103"]}
 ---
 
 # Chromatids
