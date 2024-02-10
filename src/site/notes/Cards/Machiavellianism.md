@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/machiavellianism/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/machiavellianism/"}
 ---
 
 # Machiavellianism
@@ -27,10 +27,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                               |
-| ----------------------------------------------------------------------------------------------------- |
-| [[Sources/@henderson2022VictimSignalingDark\|@henderson2022VictimSignalingDark]]                   |
-| [[Sources/Research Papers/@ok2021SignalingVirtuousVictimhood\|@ok2021SignalingVirtuousVictimhood]] |
+| Sources                                                                             |
+| ----------------------------------------------------------------------------------- |
+| [[Sources/@henderson2022VictimSignalingDark\|@henderson2022VictimSignalingDark]] |
 
 { .block-language-dataview}
 
