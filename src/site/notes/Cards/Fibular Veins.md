@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/fibular-veins/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/fibular-veins/","tags":["Uni/LFS122"]}
 ---
 
 # Fibular Veins
