@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/gonads/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/gonads/","tags":["Uni/LFS112"]}
 ---
 
 # Gonads
