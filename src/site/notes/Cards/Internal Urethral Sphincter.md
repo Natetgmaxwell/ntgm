@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/internal-urethral-sphincter/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/internal-urethral-sphincter/","tags":["Uni/LFS122"]}
 ---
 
 # Internal Urethral Sphincter
