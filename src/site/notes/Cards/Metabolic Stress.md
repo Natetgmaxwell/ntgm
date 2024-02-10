@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/metabolic-stress/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/metabolic-stress/"}
 ---
 
 # Metabolic Stress
