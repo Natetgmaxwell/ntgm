@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/sebum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/sebum/","tags":["Uni/LFS122"]}
 ---
 
 # Sebum
@@ -16,7 +16,6 @@
 - 
 
 ## Mentions
-- [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]]
 
 { .block-language-dataview}
 
