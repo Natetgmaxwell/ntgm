@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"QU6DVZC8","zt-attachments":["2550"],"aliases":["LFS112 M4T1 Overview of the Endocrine System"],"keywords":null,"FirstAuthor":"[[ Linda Gallo]]","tags":["source/video","Uni/LFS112"],"dg-publish":true,"year":2023,"authors":null,"Status":"Read","permalink":"/sources/lindagallo-lfs-112-m4-t1-overview/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/lindagallo-lfs-112-m4-t1-overview/","tags":["source/video","Uni/LFS112"]}
 ---
 
 # @lindagalloLFS112M4T1Overview
