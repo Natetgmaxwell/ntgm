@@ -1,5 +1,5 @@
 ---
-{"aliases":["SER","Smooth ER"],"dg-publish":true,"permalink":"/cards/smooth-endoplasmic-reticulum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/smooth-endoplasmic-reticulum/"}
 ---
 
 # Smooth Endoplasmic Reticulum
