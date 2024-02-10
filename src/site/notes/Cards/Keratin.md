@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"tags":["flashcards/LFS122"],"permalink":"/cards/keratin/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/keratin/","tags":["flashcards/LFS122"]}
 ---
 
 # Keratin
@@ -36,10 +36,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@2023-LFS112M6T5Innate\|@2023-LFS112M6T5Innate]]                                             |
-| [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]] |
+| Sources                                                             |
+| ------------------------------------------------------------------- |
+| [[Sources/Video/@2023-LFS112M6T5Innate\|@2023-LFS112M6T5Innate]] |
 
 { .block-language-dataview}
 
