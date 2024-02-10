@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/spermatogenesis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/spermatogenesis/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Spermatogenesis
