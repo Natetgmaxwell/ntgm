@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/medial-border-of-the-scapula/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/medial-border-of-the-scapula/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Medial Border of the Scapula
