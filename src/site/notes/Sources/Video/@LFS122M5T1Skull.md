@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"6UZV96EA","zt-attachments":["1145"],"aliases":["LFS122 M5T1 Skull"],"citekey":"LFS122M5T1Skull","keywords":null,"FirstAuthor":"[[ ]]","tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/lfs-122-m5-t1-skull/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/lfs-122-m5-t1-skull/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @LFS122M5T1Skull
