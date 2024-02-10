@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/ascending-aorta/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/ascending-aorta/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Ascending Aorta
