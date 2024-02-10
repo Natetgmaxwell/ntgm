@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/voltage-gated-ion-channels/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/voltage-gated-ion-channels/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Voltage Gated Ion Channels
