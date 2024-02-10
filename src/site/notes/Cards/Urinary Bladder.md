@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/urinary-bladder/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/urinary-bladder/","tags":["Uni/LFS122"]}
 ---
 
 # Urinary Bladder
