@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/HBIO1009","Uni/LFS122"],"dg-publish":true,"permalink":"/cards/temporal-bone/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/temporal-bone/","tags":["Uni/HBIO1009","Uni/LFS122"]}
 ---
 
 # Temporal Bone
