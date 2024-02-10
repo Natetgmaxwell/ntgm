@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/rectouterine-pouch/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/rectouterine-pouch/","tags":["Uni/LFS122"]}
 ---
 
 # Rectouterine Pouch
