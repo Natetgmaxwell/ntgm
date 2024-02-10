@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/infundibulum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/infundibulum/","tags":["Uni/LFS122"]}
 ---
 
 # Infundibulum
