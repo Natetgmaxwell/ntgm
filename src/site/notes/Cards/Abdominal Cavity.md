@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/abdominal-cavity/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/abdominal-cavity/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Abdominal Cavity
