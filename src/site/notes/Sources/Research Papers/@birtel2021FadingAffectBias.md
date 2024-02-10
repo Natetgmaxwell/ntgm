@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"25F54DEG","zt-attachments":["928"],"aliases":["Fading affect bias in intergroup relations: The role of intergroup contact in fading outgroup affect."],"citekey":"birtel2021FadingAffectBias","keywords":["fading affect bias","intergroup reelations","prejudice","memory"],"FirstAuthor":"[[ Michèle D. Birtel]]","tags":["source/researchpaper"],"dg-publish":true,"permalink":"/sources/research-papers/birtel2021-fading-affect-bias/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/research-papers/birtel2021-fading-affect-bias/","tags":["source/researchpaper"]}
 ---
 
 # @birtel2021FadingAffectBias
