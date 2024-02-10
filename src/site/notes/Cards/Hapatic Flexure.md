@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/hapatic-flexure/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/hapatic-flexure/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Hapatic Flexure
