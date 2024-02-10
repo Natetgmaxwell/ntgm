@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/visceral-peritoneum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/visceral-peritoneum/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Visceral Peritoneum
