@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/keratinocytes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/keratinocytes/"}
 ---
 
 # Keratinocytes
@@ -31,9 +31,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
