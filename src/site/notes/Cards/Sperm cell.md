@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/sperm-cell/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/sperm-cell/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Sperm Cell
