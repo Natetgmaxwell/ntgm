@@ -1,5 +1,5 @@
 ---
-{"aliases":["M-Line"],"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/m-line/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/m-line/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # M Line
