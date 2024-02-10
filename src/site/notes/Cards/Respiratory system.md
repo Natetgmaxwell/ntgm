@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"edited":"2023-04-06 Thu","date created":"2023-04-02 Sun","tags":["Uni/LFS112","Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/respiratory-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/respiratory-system/","tags":["Uni/LFS112","Uni/HBIO1010"]}
 ---
 
 # Respiratory system
