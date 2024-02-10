@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/calcium-regulation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/calcium-regulation/","tags":["Uni/LFS112"]}
 ---
 
 # Calcium Regulation
