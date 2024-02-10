@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS103"],"dg-publish":true,"permalink":"/cards/enzyme-deactivation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/enzyme-deactivation/","tags":["Uni/LFS103"]}
 ---
 
 # Enzyme Deactivation
