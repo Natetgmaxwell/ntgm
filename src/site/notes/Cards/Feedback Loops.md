@@ -1,5 +1,5 @@
 ---
-{"Created:":"2022-06-11","edited":"2023-04-06 Thu","tags":["Uni/OMT1","on/Science/Biology","Uni/HBIO1009","Uni/LFS112"],"date created":"2022-06-11 Sat","dg-publish":true,"permalink":"/cards/feedback-loops/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/feedback-loops/","tags":["Uni/OMT1","on/Science/Biology","Uni/HBIO1009","Uni/LFS112"]}
 ---
 
 # Feedback Loops
