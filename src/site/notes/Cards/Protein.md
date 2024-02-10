@@ -1,5 +1,5 @@
 ---
-{"aliases":["protein","proteins"],"date created":"2023-01-23 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/protein/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/protein/"}
 ---
 
 # Protein
@@ -15,7 +15,7 @@
 
 
 ![Extras/Images/bookimage-200-x162-y189.png|500](/img/user/Extras/Images/bookimage-200-x162-y189.png)
-[[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]
+[[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 
 # Reference
 - 
@@ -68,7 +68,7 @@
 
 | Sources                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]                                                                                                                                                 |
+| [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]                                                                                                                                                 |
 | [[Sources/Articles/37TypesHormones2018\|37TypesHormones2018]]                                                                                                                                                                              |
 | [[Sources/Podcasts/Podcast Episodes/AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More\|AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More]] |
 | [[Sources/Articles/BestBreakfastFoods\|BestBreakfastFoods]]                                                                                                                                                                                |
