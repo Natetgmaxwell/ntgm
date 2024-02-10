@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/HBIO1010","flashcards/hbio1010","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/myosin/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/myosin/","tags":["Uni/HBIO1010","flashcards/hbio1010","Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Myosin
