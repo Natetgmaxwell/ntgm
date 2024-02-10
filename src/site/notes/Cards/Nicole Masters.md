@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/People"],"dg-publish":true,"permalink":"/cards/nicole-masters/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/nicole-masters/","tags":["on/People"]}
 ---
 
 # Nicole Masters
