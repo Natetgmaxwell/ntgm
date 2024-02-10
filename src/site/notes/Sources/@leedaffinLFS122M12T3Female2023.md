@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"UL3A96R3","zt-attachments":["552"],"aliases":["LFS122 M12T3 Female Reproduction"],"citekey":"leedaffinLFS122M12T3Female2023","keywords":null,"FirstAuthor":"[[ Lee Daffin]]","tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/leedaffin-lfs-122-m12-t3-female2023/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/leedaffin-lfs-122-m12-t3-female2023/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @leedaffinLFS122M12T3Female2023
