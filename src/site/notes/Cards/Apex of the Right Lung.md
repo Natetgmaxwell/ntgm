@@ -1,5 +1,5 @@
 ---
-{"aliases":["Apex of Right Lung"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/apex-of-the-right-lung/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/apex-of-the-right-lung/","tags":["Uni/LFS122"]}
 ---
 
 # Apex of the Right Lung
