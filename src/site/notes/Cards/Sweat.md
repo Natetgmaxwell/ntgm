@@ -1,5 +1,5 @@
 ---
-{"aliases":["sweating"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology"],"date created":"2023-02-21 Tue","dg-publish":true,"permalink":"/cards/sweat/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/sweat/","tags":["on/Science/Biology"]}
 ---
 
 # Sweat
