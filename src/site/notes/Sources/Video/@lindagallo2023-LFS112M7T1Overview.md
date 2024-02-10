@@ -1,5 +1,5 @@
 ---
-{"tags":["source/video","Uni/LFS112"],"aliases":["LFS112 M7T1 Overview of the digestive system"],"dg-publish":true,"Status":"Watched","Priority":"High","permalink":"/sources/video/lindagallo2023-lfs-112-m7-t1-overview/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/lindagallo2023-lfs-112-m7-t1-overview/","tags":["source/video","Uni/LFS112"]}
 ---
 
 # @lindagallo2023-LFS112M7T1Overview
