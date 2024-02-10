@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/mammalian-glands/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/mammalian-glands/","tags":["Uni/LFS112"]}
 ---
 
 # Mammalian Glands
