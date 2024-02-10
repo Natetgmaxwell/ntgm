@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/synaptic-cleft/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/synaptic-cleft/","tags":["Uni/LFS112","Uni/HBIO1010"]}
 ---
 
 # Synaptic Cleft
