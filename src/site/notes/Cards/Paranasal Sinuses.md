@@ -1,5 +1,5 @@
 ---
-{"aliases":"Para-nasal Sinuses","tags":null,"dg-publish":true,"permalink":"/cards/paranasal-sinuses/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/paranasal-sinuses/"}
 ---
 
 # Paranasal Sinuses
