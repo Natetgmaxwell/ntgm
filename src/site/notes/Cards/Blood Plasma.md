@@ -1,5 +1,5 @@
 ---
-{"aliases":["Plasma"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology"],"date created":"2023-02-22 Wed","dg-publish":true,"permalink":"/cards/blood-plasma/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/blood-plasma/","tags":["on/Science/Biology"]}
 ---
 
 # Blood Plasma
