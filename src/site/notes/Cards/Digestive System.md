@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"date created":"2023-04-02 Sun","edited":"2023-06-16 Fri","tags":["Uni/HBIO1009","Uni/LFS122","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/digestive-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/digestive-system/","tags":["Uni/HBIO1009","Uni/LFS122","Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Digestive System
