@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/external-intercostals/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/external-intercostals/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # External Intercostals
