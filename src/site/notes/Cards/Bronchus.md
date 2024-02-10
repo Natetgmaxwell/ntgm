@@ -1,5 +1,5 @@
 ---
-{"aliases":["Bronchi"],"tags":["Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/bronchus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/bronchus/","tags":["Uni/HBIO1009","Uni/LFS112"]}
 ---
 
 # Bronchus
