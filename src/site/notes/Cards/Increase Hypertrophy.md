@@ -1,5 +1,5 @@
 ---
-{"aliases":["Increased Hypertrophy"],"tags":null,"dg-publish":true,"permalink":"/cards/increase-hypertrophy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/increase-hypertrophy/"}
 ---
 
 # Increase Hypertrophy
