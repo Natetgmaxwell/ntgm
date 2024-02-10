@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS103","flashcards/LFS103"],"dg-publish":true,"permalink":"/cards/pleiotropy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/pleiotropy/","tags":["Uni/LFS103","flashcards/LFS103"]}
 ---
 
 # Pleiotropy
