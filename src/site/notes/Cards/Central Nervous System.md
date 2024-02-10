@@ -1,5 +1,5 @@
 ---
-{"aliases":["CNS"],"tags":["on/Science/Biology/Anatomy"],"date created":"2022-11-28 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/central-nervous-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/central-nervous-system/","tags":["on/Science/Biology/Anatomy"]}
 ---
 
 # Central Nervous System
