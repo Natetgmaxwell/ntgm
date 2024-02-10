@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/intermittent-hypoxia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/intermittent-hypoxia/"}
 ---
 
 # Intermittent Hypoxia
