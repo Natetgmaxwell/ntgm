@@ -1,5 +1,5 @@
 ---
-{"aliases":["deep sleep"],"tags":["on/Health"],"date created":"2022-12-14 Wed","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/slow-wave-sleep/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/slow-wave-sleep/","tags":["on/Health"]}
 ---
 
 # Slow-wave Sleep
@@ -17,7 +17,7 @@
 
 
 
-> [!quote] [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]
+> [!quote] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > Approximately 70% of the daily pulses of growth hormone occur during slow wave sleep or [[Cards/Slow-wave Sleep\|deep sleep]].
 
 </div></div>
@@ -43,7 +43,6 @@
 
 | Sources                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]                                                                                                                                                 |
 | [[Sources/Podcasts/Podcast Episodes/AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More\|AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More]] |
 | [[Sources/Articles/Link Between Sleep Apnea, Deep Sleep Deficit, and Brain Health Risks - Neuroscience News\|Link Between Sleep Apnea, Deep Sleep Deficit, and Brain Health Risks - Neuroscience News]]                                    |
 | [[Sources/Articles/NSDR is trending - how No Sleep Deep Rest could benefit you - Marie Claire UK\|NSDR is trending - how No Sleep Deep Rest could benefit you - Marie Claire UK]]                                                          |
