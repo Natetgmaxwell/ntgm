@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/pronator-quadratus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/pronator-quadratus/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Pronator Quadratus
