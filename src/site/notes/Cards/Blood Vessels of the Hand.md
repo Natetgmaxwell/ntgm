@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/blood-vessels-of-the-hand/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/blood-vessels-of-the-hand/","tags":["Uni/LFS122"]}
 ---
 
 # Blood Vessels of the Hand
