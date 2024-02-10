@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/ampulla/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/ampulla/","tags":["Uni/LFS122"]}
 ---
 
 # Ampulla
