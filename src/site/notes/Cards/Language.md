@@ -1,5 +1,5 @@
 ---
-{"edited":"2023-04-06 Thu","tags":["moc","on/Science/Anthropology","Concept"],"date created":"2022-02-20 Sun","dg-publish":true,"permalink":"/cards/language/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/language/","tags":["moc","on/Science/Anthropology","Concept"]}
 ---
 
 # Language
