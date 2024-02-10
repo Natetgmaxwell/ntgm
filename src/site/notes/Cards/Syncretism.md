@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"permalink":"/cards/syncretism/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/syncretism/"}
 ---
 
 # Syncretism
