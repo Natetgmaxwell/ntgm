@@ -1,5 +1,5 @@
 ---
-{"aliases":["AD"],"edited":"2023-04-06 Thu","date created":"2023-04-01 Sat","dg-publish":true,"permalink":"/cards/alzheimer-s-disease/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/alzheimer-s-disease/"}
 ---
 
 # Alzheimer's disease
