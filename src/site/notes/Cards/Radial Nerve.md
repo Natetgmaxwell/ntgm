@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/radial-nerve/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/radial-nerve/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Radial Nerve
