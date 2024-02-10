@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"tags":["Uni/LFS122","Uni/OMT1","flashcards/LFS122"],"permalink":"/cards/pronator-teres/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/pronator-teres/","tags":["Uni/LFS122","Uni/OMT1","flashcards/LFS122"]}
 ---
 
 # Pronator Teres
