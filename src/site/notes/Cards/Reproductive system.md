@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"edited":"2023-04-06 Thu","date created":"2023-04-02 Sun","dg-publish":true,"tags":["Uni/HBIO1009","Uni/LFS112"],"permalink":"/cards/reproductive-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/reproductive-system/","tags":["Uni/HBIO1009","Uni/LFS112"]}
 ---
 
 # Reproductive system
