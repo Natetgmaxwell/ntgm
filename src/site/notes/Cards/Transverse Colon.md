@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/transverse-colon/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/transverse-colon/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Transverse Colon
