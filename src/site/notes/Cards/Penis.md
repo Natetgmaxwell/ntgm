@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/penis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/penis/","tags":["Uni/LFS122"]}
 ---
 
 # Penis
