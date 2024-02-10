@@ -1,12 +1,12 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"relations":["[[Cards/Anterior Pituitary Gland\|Anterior Pituitary Gland]]","[[Cards/Mammalian glands\|Mammalian glands]]","[[Hormones]]","[[Endocrine System]]","[[Reproductive System]]","[[Breastfeeding]]","[[Menstrual Cycle]]","[[Pregnancy]]","[[Lactation]]","[[Pituitary Gland]]"],"permalink":"/cards/prolactin/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/prolactin/","tags":["Uni/LFS112"]}
 ---
 
 # Prolactin
 
 > [!ontology]+
-> up:: [[Anterior Pituitary Gland]]
-> jump:: [[Mammalian glands]]
+> up:: [[Cards/Anterior Pituitary Gland\|Anterior Pituitary Gland]]
+> jump:: [[Cards/Mammalian glands\|Mammalian glands]]
 > down:: 
 
 > [!Definition] Definition
