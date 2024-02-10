@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"permalink":"/cards/medial-cuneiform/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/medial-cuneiform/"}
 ---
 
 # Medial Cuneiform
