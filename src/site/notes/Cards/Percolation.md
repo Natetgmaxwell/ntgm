@@ -1,5 +1,5 @@
 ---
-{"aliases":["run off"],"tags":null,"dg-publish":true,"permalink":"/cards/percolation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/percolation/"}
 ---
 
 # Percolation
