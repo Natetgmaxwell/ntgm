@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS122 M8T3  Skeletal Structures & Articulations of the Antebrachium & Hand"],"tags":["source/video","Uni/LFS122"],"Status":"Watched","Priority":"Medium","dg-publish":true,"permalink":"/sources/video/colingavagan2023-lfs-122-m8-t3-skeletal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/colingavagan2023-lfs-122-m8-t3-skeletal/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @colingavagan2023-LFS122M8T3Skeletal
