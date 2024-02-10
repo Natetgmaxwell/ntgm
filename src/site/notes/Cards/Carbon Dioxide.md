@@ -1,5 +1,5 @@
 ---
-{"aliases":["CO2"],"edited":"2023-04-06 Thu","tags":["on/Science/Chemistry","Uni/LFS112","flashcards/LFS112"],"date created":"2023-03-02 Thu","dg-publish":true,"permalink":"/cards/carbon-dioxide/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/carbon-dioxide/","tags":["on/Science/Chemistry","Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Carbon Dioxide
