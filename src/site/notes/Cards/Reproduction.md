@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"edited":"2023-04-07 Fri","dg-publish":true,"permalink":"/cards/reproduction/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/reproduction/"}
 ---
 
 # Reproduction
