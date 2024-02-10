@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/Health"],"dg-publish":true,"permalink":"/cards/diet/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/diet/","tags":["on/Health"]}
 ---
 
 # Diet
