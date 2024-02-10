@@ -1,5 +1,5 @@
 ---
-{"aliases":["Muscles of the Forearm"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/skeletal-muscles-of-the-antebrachium/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/skeletal-muscles-of-the-antebrachium/","tags":["Uni/LFS122"]}
 ---
 
 # Skeletal Muscles of the Antebrachium
