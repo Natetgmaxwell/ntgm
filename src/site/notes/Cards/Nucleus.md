@@ -1,5 +1,5 @@
 ---
-{"aliases":["nuclei"],"dg-publish":true,"tags":["Uni/LFS112","Uni/HBIO1009"],"permalink":"/cards/nucleus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/nucleus/","tags":["Uni/LFS112","Uni/HBIO1009"]}
 ---
 
 # Nucleus
