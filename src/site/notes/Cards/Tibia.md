@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy","Uni/OMT1","Uni/LFS122","flashcards/LFS122"],"date created":"2023-03-29 Wed","dg-publish":true,"permalink":"/cards/tibia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/tibia/","tags":["on/Science/Biology/Anatomy","Uni/OMT1","Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Tibia
