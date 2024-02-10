@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/teres-minor/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/teres-minor/","tags":["Uni/LFS122"]}
 ---
 
 # Teres Minor
