@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/cranial-sulci/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cranial-sulci/","tags":["Uni/LFS122"]}
 ---
 
 # Cranial Sulci
