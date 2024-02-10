@@ -1,5 +1,5 @@
 ---
-{"aliases":["Hormones of Pregnancy"],"tags":null,"dg-publish":true,"permalink":"/cards/endocrinology-of-pregnancy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/endocrinology-of-pregnancy/"}
 ---
 
 # Endocrinology of Pregnancy
