@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/bone-density/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/bone-density/"}
 ---
 
 # Bone Density
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-- [[Cards/Insulin-like growth factor 1\|IGF-1]] promotes [[Cards/Bone Density\|Bone Density]] [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]].
+- [[Cards/Insulin-like growth factor 1\|IGF-1]] promotes [[Cards/Bone Density\|Bone Density]] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]].
 
 # Reference
 - 
