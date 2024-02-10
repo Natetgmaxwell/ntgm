@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112","Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/cardiac-output/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cardiac-output/","tags":["Uni/LFS112","flashcards/LFS112","Uni/HBIO1009"]}
 ---
 
 # Cardiac Output
