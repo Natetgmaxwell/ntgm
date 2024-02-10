@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/Food"],"dg-publish":true,"permalink":"/cards/fish/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/fish/","tags":["on/Food"]}
 ---
 
 # Fish
