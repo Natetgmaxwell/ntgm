@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/cranial-gyri/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cranial-gyri/","tags":["Uni/LFS122"]}
 ---
 
 # Cranial Gyri
