@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/female-hip-to-waist-ratio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/female-hip-to-waist-ratio/"}
 ---
 
 # Female Hip to Waist Ratio
