@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/sternocleidomastoid/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/sternocleidomastoid/","tags":["Uni/LFS122"]}
 ---
 
 # Sternocleidomastoid
