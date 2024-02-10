@@ -1,5 +1,5 @@
 ---
-{"aliases":["MSH","Melanocyte stimulating hormone"],"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/melanocyte-stimulating-hormone/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/melanocyte-stimulating-hormone/","tags":["Uni/LFS112"]}
 ---
 
 # Melanocyte-stimulating Hormone
