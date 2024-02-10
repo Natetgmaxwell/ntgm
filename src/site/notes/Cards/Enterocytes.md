@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"tags":["Uni/HBIO1010"],"permalink":"/cards/enterocytes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/enterocytes/","tags":["Uni/HBIO1010"]}
 ---
 
 # Enterocytes
