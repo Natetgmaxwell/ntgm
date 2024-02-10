@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/heart/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/heart/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Heart
