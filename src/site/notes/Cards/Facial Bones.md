@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/facial-bones/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/facial-bones/","tags":["Uni/LFS122"]}
 ---
 
 # Facial Bones
