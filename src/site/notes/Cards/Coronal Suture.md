@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/coronal-suture/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/coronal-suture/","tags":["Uni/LFS122"]}
 ---
 
 # Coronal Suture
