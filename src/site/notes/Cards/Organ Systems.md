@@ -1,5 +1,5 @@
 ---
-{"aliases":["Body Systems"],"edited":"2023-04-06 Thu","date created":"2023-04-02 Sun","tags":["Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/organ-systems/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/organ-systems/","tags":["Uni/HBIO1009"]}
 ---
 
 # Organ Systems
