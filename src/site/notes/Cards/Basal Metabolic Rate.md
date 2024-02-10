@@ -1,5 +1,5 @@
 ---
-{"aliases":["BMR"],"tags":null,"dg-publish":true,"permalink":"/cards/basal-metabolic-rate/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/basal-metabolic-rate/"}
 ---
 
 # Basal Metabolic Rate
