@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/zygomatic-bone/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/zygomatic-bone/","tags":["Uni/LFS122"]}
 ---
 
 # Zygomatic Bone
