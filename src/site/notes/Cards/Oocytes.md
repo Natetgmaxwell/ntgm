@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/oocytes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/oocytes/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Oocytes
