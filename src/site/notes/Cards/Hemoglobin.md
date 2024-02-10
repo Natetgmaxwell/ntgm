@@ -1,5 +1,5 @@
 ---
-{"aliases":["hb"],"tags":["Uni/LFS112","Uni/LFS122"],"dg-publish":true,"permalink":"/cards/hemoglobin/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/hemoglobin/","tags":["Uni/LFS112","Uni/LFS122"]}
 ---
 
 # Hemoglobin
@@ -37,9 +37,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                         | Keywords |
-| --------------------------------------------------------------------------------------------------------------- | -------- |
-| [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]] | \-       |
+| Sources | Keywords |
+| ------- | -------- |
 
 { .block-language-dataview}
 
