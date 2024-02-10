@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/coronoid-process-of-the-mandible/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/coronoid-process-of-the-mandible/","tags":["Uni/LFS122"]}
 ---
 
 # Coronoid Process of the Mandible
