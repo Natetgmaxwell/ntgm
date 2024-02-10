@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/nasal-bone/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/nasal-bone/","tags":["Uni/LFS122"]}
 ---
 
 # Nasal Bone
