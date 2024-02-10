@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/vitamin-d/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/vitamin-d/"}
 ---
 
 # Vitamin D
@@ -40,7 +40,6 @@
 
 | Sources                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]]                              |
 | [[Sources/Articles/My Plan to Slow Down Aging - Richard Hanania's Newsletter\|My Plan to Slow Down Aging - Richard Hanania's Newsletter]] |
 
 { .block-language-dataview}
