@@ -1,5 +1,5 @@
 ---
-{"aliases":["mouth"],"tags":null,"dg-publish":true,"permalink":"/cards/buccal-cavity/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/buccal-cavity/"}
 ---
 
 # Buccal cavity
@@ -16,7 +16,6 @@
 - 
 
 ## Mentions
-- [[Sources/Articles/2023WhatCausesDimples-joannelewsley\|2023WhatCausesDimples-joannelewsley]]
 
 { .block-language-dataview}
 
