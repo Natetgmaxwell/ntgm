@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/brachiocephalic-artery/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/brachiocephalic-artery/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Brachiocephalic Artery
