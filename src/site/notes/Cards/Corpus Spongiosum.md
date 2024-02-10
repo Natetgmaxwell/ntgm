@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/corpus-spongiosum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/corpus-spongiosum/","tags":["Uni/LFS122"]}
 ---
 
 # Corpus Spongiosum
