@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/muscle-damage/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/muscle-damage/"}
 ---
 
 # Muscle Damage
