@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/chemically-gated-ion-channels/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/chemically-gated-ion-channels/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Chemically Gated Ion Channels
