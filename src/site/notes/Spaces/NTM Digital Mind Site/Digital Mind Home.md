@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["effort","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"/spaces/ntm-digital-mind-site/digital-mind-home/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/spaces/ntm-digital-mind-site/digital-mind-home/","tags":["effort","gardenEntry"]}
 ---
 
 # Digital Mind Home
@@ -16,34 +16,34 @@
 > - Flashcard format is `{question};;{answer}`
 
 ## Recently Created Cards
-| File Name                                                                             | Date Modified    |
-| ------------------------------------------------------------------------------------- | ---------------- |
-| [[Cards/Sensory Adaptation\|Sensory Adaptation]]                                   | January 30, 2024 |
-| [[Cards/Corticotropin-releasing hormone\|Corticotropin-releasing hormone]]         | January 28, 2024 |
-| [[Cards/Cumulative Intelligence\|Cumulative Intelligence]]                         | January 28, 2024 |
-| [[Cards/Emotion\|Emotion]]                                                         | January 28, 2024 |
-| [[Cards/Evolution\|Evolution]]                                                     | January 28, 2024 |
-| [[Cards/Hypothalamic-Pituitary-Adrenal Axis\|Hypothalamic-Pituitary-Adrenal Axis]] | January 28, 2024 |
-| [[Cards/Milton Friedman\|Milton Friedman]]                                         | January 28, 2024 |
-| [[Cards/Natural Selection in Business\|Natural Selection in Business]]             | January 28, 2024 |
-| [[Cards/Natural Selection in Language\|Natural Selection in Language]]             | January 28, 2024 |
-| [[Cards/Reproduction\|Reproduction]]                                               | January 28, 2024 |
+| File Name                                                                                               | Date Modified     |
+| ------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Cards/Positivity Bias in Language\|Positivity Bias in Language]]                                   | February 04, 2024 |
+| [[Cards/War\|War]]                                                                                   | February 04, 2024 |
+| [[Cards/Resistance Training Effect on Growth Hormone\|Resistance Training Effect on Growth Hormone]] | February 04, 2024 |
+| [[Cards/Conflict\|Conflict]]                                                                         | February 04, 2024 |
+| [[Cards/Evolutionary Mismatch\|Evolutionary Mismatch]]                                               | February 04, 2024 |
+| [[Cards/Elon Musk's Algorithm\|Elon Musk's Algorithm]]                                               | February 04, 2024 |
+| [[Cards/Tim Ferris\|Tim Ferris]]                                                                     | February 04, 2024 |
+| [[Cards/Amino Acids\|Amino Acids]]                                                                   | January 31, 2024  |
+| [[Cards/Bicarbonate\|Bicarbonate]]                                                                   | January 31, 2024  |
+| [[Cards/Blood Flow Restriction Training\|Blood Flow Restriction Training]]                           | January 31, 2024  |
 
 { .block-language-dataview}
 
 ## Recent Sources
-| File Name                                                                                         | Date Modified    |
-| ------------------------------------------------------------------------------------------------- | ---------------- |
-| [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]]       | January 30, 2024 |
-| [[Sources/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]     | January 29, 2024 |
-| [[Sources/@lindagallo2023LFS112M4T4Adrenal\|@lindagallo2023LFS112M4T4Adrenal]]                 | January 28, 2024 |
-| [[Sources/@henderson2022LessonsLearnedThomas\|@henderson2022LessonsLearnedThomas]]             | January 27, 2024 |
-| [[Sources/@Henderson2022-SwipingDatingPreferencesa\|@Henderson2022-SwipingDatingPreferencesa]] | January 24, 2024 |
-| [[Sources/@vanessavanedwards202310QuestionsAsk\|@vanessavanedwards202310QuestionsAsk]]         | January 23, 2024 |
-| [[Sources/@henderson2022VictimSignalingDark\|@henderson2022VictimSignalingDark]]               | January 23, 2024 |
-| [[Sources/@henderson2022HowRead\|@henderson2022HowRead]]                                       | January 23, 2024 |
-| [[Sources/@henderson2022MaleWarriorHypothesis\|@henderson2022MaleWarriorHypothesis]]           | January 21, 2024 |
-| [[Sources/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]]                                         | January 18, 2024 |
+| File Name                                                                                                 | Date Modified     |
+| --------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Sources/@Fridman2023-GeorgeHotzTiny\|@Fridman2023-GeorgeHotzTiny]]                                   | February 10, 2024 |
+| [[Sources/@manusEvolutionaryMismatch2018\|@manusEvolutionaryMismatch2018]]                             | February 04, 2024 |
+| [[Sources/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]                         | February 04, 2024 |
+| [[Sources/@ferris2023ShaneParrishWisdom\|@ferris2023ShaneParrishWisdom]]                               | February 04, 2024 |
+| [[Sources/@bilyeu2023SleepExpertReveals\|@bilyeu2023SleepExpertReveals]]                               | February 04, 2024 |
+| [[Sources/@kawano2010RelationshipTestosteroneMetabolic\|@kawano2010RelationshipTestosteroneMetabolic]] | February 01, 2024 |
+| [[Sources/@walterisaacson2023ElonMusk\|@walterisaacson2023ElonMusk]]                                   | February 01, 2024 |
+| [[Sources/@henderson2022VictimSignalingDark\|@henderson2022VictimSignalingDark]]                       | January 31, 2024  |
+| [[Sources/@ok2021SignalingVirtuousVictimhood\|@ok2021SignalingVirtuousVictimhood]]                     | January 31, 2024  |
+| [[Sources/@kataoka2021ReviewFoodsFood\|@kataoka2021ReviewFoodsFood]]                                   | January 31, 2024  |
 
 { .block-language-dataview}
 
@@ -59,5 +59,6 @@
 - [Alfred - Better Spotlight Search](https://www.alfredapp.com/) or [Raycast - Better Spotlight Search](https://www.raycast.com/)
 - [Rectangle - Window Management](https://rectangleapp.com/)
 - [Flux - Better Night Shift](https://justgetflux.com/)
+- [Arc - Browser of Choice](https://arc.net/)
 
 ##### Github Repo can be found at: https://github.com/Natetgmaxwell/ntgm
