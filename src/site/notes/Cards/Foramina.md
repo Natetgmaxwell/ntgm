@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/foramina/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/foramina/","tags":["Uni/LFS122"]}
 ---
 
 # Foramina
