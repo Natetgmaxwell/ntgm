@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/nephron-filtration/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/nephron-filtration/","tags":["Uni/LFS112"]}
 ---
 
 # Nephron Filtration
