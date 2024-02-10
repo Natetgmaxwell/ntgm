@@ -1,5 +1,5 @@
 ---
-{"aliases":["DAO","Histaminase"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Biochemistry"],"date created":"2022-12-03 Sat","dg-publish":true,"permalink":"/cards/diamine-oxidase/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/diamine-oxidase/","tags":["on/Science/Biology/Biochemistry"]}
 ---
 
 # Diamine oxidase
