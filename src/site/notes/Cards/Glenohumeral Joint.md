@@ -1,5 +1,5 @@
 ---
-{"aliases":["shoulder joint"],"tags":["on/Science/Biology/Anatomy","Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/glenohumeral-joint/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/glenohumeral-joint/","tags":["on/Science/Biology/Anatomy","Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Glenohumeral Joint
