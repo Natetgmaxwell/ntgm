@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/tonsils/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/tonsils/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Tonsils
