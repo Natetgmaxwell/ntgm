@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/extras/templates/note-template/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/extras/templates/note-template/"}
 ---
 
 # <% tp.file.title %>
