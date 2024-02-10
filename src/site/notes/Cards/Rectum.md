@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"tags":["Uni/LFS122"],"permalink":"/cards/rectum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/rectum/","tags":["Uni/LFS122"]}
 ---
 
 # Rectum
