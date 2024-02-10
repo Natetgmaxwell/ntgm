@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/cranial-nerves/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cranial-nerves/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Cranial Nerves
