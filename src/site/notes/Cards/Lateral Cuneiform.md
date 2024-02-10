@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"permalink":"/cards/lateral-cuneiform/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/lateral-cuneiform/"}
 ---
 
 # Lateral Cuneiform
