@@ -1,5 +1,5 @@
 ---
-{"aliases":["muscle fibre","Muscle Fiber"],"edited":"2023-04-06 Thu","date created":"2023-02-07 Tue","tags":["Uni/LFS112","on/Science/Biology/Anatomy","Uni/OMT1","Uni/HBIO1010","flashcards/hbio1010","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/muscle-tissue/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/muscle-tissue/","tags":["Uni/LFS112","on/Science/Biology/Anatomy","Uni/OMT1","Uni/HBIO1010","flashcards/hbio1010","flashcards/LFS112"]}
 ---
 
 # Muscle Tissue
