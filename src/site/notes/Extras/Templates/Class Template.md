@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"permalink":"/extras/templates/class-template/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/extras/templates/class-template/"}
 ---
 
 
