@@ -1,5 +1,5 @@
 ---
-{"aliases":["articulations","articulation","joint"],"edited":"2023-04-06 Thu","date created":"2022-12-12 Mon","dg-publish":true,"permalink":"/cards/joints/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/joints/"}
 ---
 
 # Joints
