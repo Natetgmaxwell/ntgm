@@ -1,5 +1,5 @@
 ---
-{"Rating":"★★★★★","Status":"Watched","Priority":"High","dg-publish":true,"tags":["source/film"],"genres":["Sci-Fi","Action","Adventure"],"permalink":"/sources/video/interstellar-2014/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/interstellar-2014/","tags":["source/film"]}
 ---
 
 # Interstellar (2014)
