@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/intracellular-transport/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/intracellular-transport/"}
 ---
 
 # Intracellular Transport
