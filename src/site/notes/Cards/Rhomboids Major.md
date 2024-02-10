@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/rhomboids-major/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/rhomboids-major/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Rhomboids Major
