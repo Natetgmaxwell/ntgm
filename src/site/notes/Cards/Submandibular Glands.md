@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/submandibular-glands/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/submandibular-glands/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Submandibular Glands
