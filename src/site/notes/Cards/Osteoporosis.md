@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/Science/Biology"],"date created":"2022-12-03 Sat","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/osteoporosis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/osteoporosis/","tags":["on/Science/Biology"]}
 ---
 
 # Osteoporosis
@@ -37,7 +37,6 @@
 
 | Sources                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]                                                         |
 | [[Sources/Research Papers/@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine]] |
 | [[Sources/Articles/Fountain of Youth discovered in bone-marrow stem cells\|Fountain of Youth discovered in bone-marrow stem cells]]                |
 
