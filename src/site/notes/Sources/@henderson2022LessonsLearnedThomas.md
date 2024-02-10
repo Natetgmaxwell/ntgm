@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"N2PQWGLB","zt-attachments":["6678"],"aliases":["Lessons I Learned From Thomas Sowell’s Memoir"],"keywords":null,"FirstAuthor":"[[ Rob Henderson]]","dg-publish":true,"tags":["source/article"],"permalink":"/sources/henderson2022-lessons-learned-thomas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/henderson2022-lessons-learned-thomas/","tags":["source/article"]}
 ---
 
 # @henderson2022LessonsLearnedThomas
