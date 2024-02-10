@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/blood-vessels-of-the-brachium/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/blood-vessels-of-the-brachium/","tags":["Uni/LFS122"]}
 ---
 
 # Blood Vessels of the Brachium
