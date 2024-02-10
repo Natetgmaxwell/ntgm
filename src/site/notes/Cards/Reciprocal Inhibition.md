@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/reciprocal-inhibition/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/reciprocal-inhibition/","tags":["Uni/HBIO1009"]}
 ---
 
 # Reciprocal Inhibition
