@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/People"],"dg-publish":true,"permalink":"/cards/william-ralph-inge/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/william-ralph-inge/","tags":["on/People"]}
 ---
 
 # William Ralph Inge
