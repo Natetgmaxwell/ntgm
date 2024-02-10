@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/unconscious-breathing/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/unconscious-breathing/","tags":["Uni/LFS112"]}
 ---
 
 # Unconscious Breathing
