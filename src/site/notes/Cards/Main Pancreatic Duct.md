@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","Uni/LFS122"],"dg-publish":true,"permalink":"/cards/main-pancreatic-duct/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/main-pancreatic-duct/","tags":["Uni/LFS112","Uni/LFS122"]}
 ---
 
 # Main Pancreatic Duct
