@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/organelles/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/organelles/","tags":["Uni/HBIO1009"]}
 ---
 
 # Organelles
