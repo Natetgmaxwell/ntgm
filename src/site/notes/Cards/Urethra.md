@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/urethra/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/urethra/","tags":["Uni/LFS122"]}
 ---
 
 # Urethra
