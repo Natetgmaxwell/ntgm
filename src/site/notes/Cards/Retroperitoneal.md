@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/retroperitoneal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/retroperitoneal/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Retroperitoneal
