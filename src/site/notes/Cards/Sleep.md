@@ -1,5 +1,5 @@
 ---
-{"aliases":["sleep","sleeping"],"edited":"2023-04-06 Thu","tags":["moc"],"date created":"2022-03-26 Sat","dg-publish":true,"permalink":"/cards/sleep/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/sleep/","tags":["moc"]}
 ---
 
 # Sleep
@@ -83,19 +83,18 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Articles/2023WhatBrainFog-jackielam\|2023WhatBrainFog-jackielam]]                                                                                                                                                                          |
-| [[Sources/Articles/3MM_ Regrets, Hookers & Fat Americans\|3MM_ Regrets, Hookers & Fat Americans]]                                                                                                                                                    |
-| [[Sources/Podcasts/Podcast Episodes/654 Dr. Matthew Walker, All Things Sleep Continued\|654 Dr. Matthew Walker, All Things Sleep Continued]]                                                                                                         |
-| [[Sources/Books/A Hunter Gatherer's Guide to the 21st Century - Bret Weinstein and Heather Heying\|A Hunter Gatherer's Guide to the 21st Century - Bret Weinstein and Heather Heying]]                                                               |
-| [[Sources/Podcasts/Podcast Episodes/AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More\|AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More]]           |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                                                                                                                                                           |
-| [[Sources/Video/Caffeine and Adenosine Receptors\|Caffeine and Adenosine Receptors]]                                                                                                                                                                 |
-| [[Sources/Podcasts/Podcast Episodes/Find Your “Temperature Minimum” to Defeat Jetlag, Shift Work & Sleeplessness\|Find Your “Temperature Minimum” to Defeat Jetlag, Shift Work & Sleeplessness]]                                                     |
-| [[Sources/Books/Limitless by Jim Kwik\|Limitless by Jim Kwik]]                                                                                                                                                                                       |
-| [[Sources/Articles/PeopleNeedTrackHRV\|PeopleNeedTrackHRV]]                                                                                                                                                                                          |
-| [[Sources/Podcasts/Podcast Episodes/Sleep Expert Reveals How You Can Optimize Your Brain with These Simple Hacks   Matthew Walker (Replay)\|Sleep Expert Reveals How You Can Optimize Your Brain with These Simple Hacks   Matthew Walker (Replay)]] |
-| [[Sources/Podcasts/Podcast Episodes/The Power of Sleep\|The Power of Sleep]]                                                                                                                                                                         |
+| Sources                                                                                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Articles/2023WhatBrainFog-jackielam\|2023WhatBrainFog-jackielam]]                                                                                                                                                                |
+| [[Sources/Articles/3MM_ Regrets, Hookers & Fat Americans\|3MM_ Regrets, Hookers & Fat Americans]]                                                                                                                                          |
+| [[Sources/Podcasts/Podcast Episodes/654 Dr. Matthew Walker, All Things Sleep Continued\|654 Dr. Matthew Walker, All Things Sleep Continued]]                                                                                               |
+| [[Sources/Books/A Hunter Gatherer's Guide to the 21st Century - Bret Weinstein and Heather Heying\|A Hunter Gatherer's Guide to the 21st Century - Bret Weinstein and Heather Heying]]                                                     |
+| [[Sources/Podcasts/Podcast Episodes/AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More\|AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More]] |
+| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                                                                                                                                                 |
+| [[Sources/Video/Caffeine and Adenosine Receptors\|Caffeine and Adenosine Receptors]]                                                                                                                                                       |
+| [[Sources/Podcasts/Podcast Episodes/Find Your “Temperature Minimum” to Defeat Jetlag, Shift Work & Sleeplessness\|Find Your “Temperature Minimum” to Defeat Jetlag, Shift Work & Sleeplessness]]                                           |
+| [[Sources/Books/Limitless by Jim Kwik\|Limitless by Jim Kwik]]                                                                                                                                                                             |
+| [[Sources/Articles/PeopleNeedTrackHRV\|PeopleNeedTrackHRV]]                                                                                                                                                                                |
+| [[Sources/Podcasts/Podcast Episodes/The Power of Sleep\|The Power of Sleep]]                                                                                                                                                               |
 
 { .block-language-dataview}
