@@ -1,5 +1,5 @@
 ---
-{"aliases":["Cerebral Hemisphere","Cerebrum"],"date created":"2022-12-03 Sat","edited":"2023-04-06 Thu","tags":["Uni/LFS122","Uni/HBIO1009","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/cerebral-cortex/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cerebral-cortex/","tags":["Uni/LFS122","Uni/HBIO1009","on/Science/Biology/Anatomy"]}
 ---
 
 # Cerebral cortex
