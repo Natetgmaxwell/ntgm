@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/extensor-carpi-radialis-brevis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/extensor-carpi-radialis-brevis/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Extensor Carpi Radialis Brevis
