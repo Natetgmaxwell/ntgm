@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/pronation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/pronation/","tags":["Uni/LFS122"]}
 ---
 
 # Pronation
