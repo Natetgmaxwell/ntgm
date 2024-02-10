@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/isthmus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/isthmus/","tags":["Uni/LFS122"]}
 ---
 
 # Isthmus
