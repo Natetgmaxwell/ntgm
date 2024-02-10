@@ -1,12 +1,12 @@
 ---
-{"tags":["project/newsletter"],"date created":"2023-01-03 Tue","edited":"2023-04-06 Thu","date":"2023-04-06 Thu","Status":"Completed","dg-publish":true,"permalink":"/spaces/my-newsletter/the-importance-of-empathy-why-developing-this-crucial-skill-can-benefit-your-life-and-relationships/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/spaces/my-newsletter/the-importance-of-empathy-why-developing-this-crucial-skill-can-benefit-your-life-and-relationships/","tags":["project/newsletter"]}
 ---
 
 # The Importance of Empathy, Why Developing This Crucial Skill Can Benefit Your Life and Relationships
 
 Empathy is the ability to understand and share the feelings of others. It involves being able to recognise and respond to the [[Cards/Emotion\|emotional]] states of others in a compassionate and understanding way.
 
-> [!quote] [[Sources/Books/@robertgreene2018-LawsHumanNature\|@robertgreene2018-LawsHumanNature]]
+> [!quote] [[Sources/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]
 > “[[Cards/Empathy\|Empathy]] is a state of mind and a different way of relating to others”
 
 ## Why is it Vital for Us to Develop [[Cards/Empathy\|Empathy]]?
