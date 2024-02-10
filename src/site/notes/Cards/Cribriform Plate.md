@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/cribriform-plate/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cribriform-plate/","tags":["Uni/LFS122"]}
 ---
 
 # Cribriform Plate
