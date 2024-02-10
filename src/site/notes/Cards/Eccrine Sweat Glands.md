@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/eccrine-sweat-glands/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/eccrine-sweat-glands/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Eccrine Sweat Glands
@@ -16,7 +16,6 @@
 - 
 
 ## Mentions
-- [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]]
 
 { .block-language-dataview}
 
