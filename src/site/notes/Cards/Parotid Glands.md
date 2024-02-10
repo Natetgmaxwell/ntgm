@@ -1,5 +1,5 @@
 ---
-{"aliases":["Parotid"],"tags":["Uni/HBIO1010","Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/parotid-glands/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/parotid-glands/","tags":["Uni/HBIO1010","Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Parotid Glands
