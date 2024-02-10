@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/biceps-brachii-short-head/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/biceps-brachii-short-head/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Biceps Brachii Short Head
