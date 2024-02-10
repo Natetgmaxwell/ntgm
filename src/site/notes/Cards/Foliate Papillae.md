@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/foliate-papillae/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/foliate-papillae/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Foliate Papillae
