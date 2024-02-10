@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/Science/Biology"],"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/cholesterol/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cholesterol/","tags":["on/Science/Biology"]}
 ---
 
 # Cholesterol
@@ -37,7 +37,6 @@
 > [!Links]+
 >  | Incoming Links                                                                                                                                                                                             |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]                                                                                                              |
 > | [[Sources/Articles/2023HealthBenefitsThatDrinkingMatcha-lorealthompsonpayton\|2023HealthBenefitsThatDrinkingMatcha-lorealthompsonpayton]]                                                               |
 > | [[Sources/Articles/2023MetabolicSyndrome-australia\|2023MetabolicSyndrome-australia]]                                                                                                                   |
 > | [[Cards/Bile acids\|Bile acids]]                                                                                                                                                                        |
@@ -203,7 +202,6 @@
 
 | Sources                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]                                                                                                              |
 | [[Sources/@peterattia2023OutliveScienceArt\|@peterattia2023OutliveScienceArt]]                                                                                                                          |
 | [[Sources/Articles/2023HealthBenefitsThatDrinkingMatcha-lorealthompsonpayton\|2023HealthBenefitsThatDrinkingMatcha-lorealthompsonpayton]]                                                               |
 | [[Sources/Articles/2023MetabolicSyndrome-australia\|2023MetabolicSyndrome-australia]]                                                                                                                   |
