@@ -1,5 +1,5 @@
 ---
-{"aliases":["CN2"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/optic-nerve/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/optic-nerve/","tags":["Uni/LFS122"]}
 ---
 
 # Optic Nerve
