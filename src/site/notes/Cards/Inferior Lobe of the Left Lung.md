@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/inferior-lobe-of-the-left-lung/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/inferior-lobe-of-the-left-lung/","tags":["Uni/LFS122"]}
 ---
 
 # Inferior Lobe of the Left Lung
