@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":[],"dg-publish":true,"permalink":"/cards/increasing-testosterone/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/increasing-testosterone/"}
 ---
 
 # Increasing Testosterone
@@ -7,7 +7,7 @@
 > [!ontology]
 > up:: [[Cards/Testosterone\|Testosterone]]
 > jump:: 
-> down:: [[Cards/Compound Movements\|Compound Lifts]], [[Cards/Resistance training\|Resistance training]], [[Cards/Resistance Training for Boosting Testosterone\|Resistance Training for Boosting Testosterone]], [[Cards/Diet for Increasing Testosterone\|Diet for Increasing Testosterone]]
+> down:: [[Cards/Compound Movements\|Compound Lifts]], [[Cards/Resistance training\|Resistance training]], [[Cards/Resistance Training Effect on Testosterone\|Resistance Training Effect on Testosterone]], [[Cards/Diet for Increasing Testosterone\|Diet for Increasing Testosterone]]
 
 > [!Definition] Definition
 > 
@@ -26,10 +26,10 @@ Lastly, testosterone is closely associated with sexual function and libido. It p
 
 There are various methods to naturally increase testosterone levels through diet and exercise regimens. Here are some expert insights into these methods:
 
-### [[Cards/Resistance Training for Boosting Testosterone\|Resistance Training]]
+### [[Cards/Resistance Training Effect on Testosterone\|Resistance Training]]
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/resistance-training-for-boosting-testosterone/#5dde27" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/resistance-training-effect-on-testosterone/#5dde27" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -54,6 +54,9 @@ Engaging in regular resistance training, particularly [[Cards/Compound Movements
 - Healthy Fats: Including healthy fats in your diet, such as those found in avocados, nuts, olive oil, and fatty fish, can support testosterone production.
 
 - Protein: Consum
+
+![Extras/Images/ZQ4UA4XA.png](/img/user/Extras/Images/ZQ4UA4XA.png)
+[[Sources/@kataoka2021ReviewFoodsFood\|@kataoka2021ReviewFoodsFood]]
 
 
 </div></div>
