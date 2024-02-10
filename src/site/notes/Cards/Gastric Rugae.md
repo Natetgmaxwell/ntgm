@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/gastric-rugae/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/gastric-rugae/","tags":["Uni/LFS122"]}
 ---
 
 # Gastric Rugae
