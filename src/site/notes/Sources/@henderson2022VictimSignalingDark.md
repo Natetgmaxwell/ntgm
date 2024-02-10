@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"9ZQMV9PJ","zt-attachments":["6647"],"aliases":["Victim Signaling and Dark Triad Personality Traits"],"keywords":null,"FirstAuthor":"[[ Rob Henderson]]","dg-publish":true,"tags":["source/article"],"permalink":"/sources/henderson2022-victim-signaling-dark/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/henderson2022-victim-signaling-dark/","tags":["source/article"]}
 ---
 
 # @henderson2022VictimSignalingDark
@@ -65,7 +65,7 @@
 
 > [!quote] (Page 5)
 > 
-> The inverse relationship between Honesty-Humility and victim signaling suggests that victim signalers may be greedier, less honest, and more exploitative than those who do not signal victimhood.
+> The inverse relationship between Honesty-Humility and [[Cards/Victim Signalling\|victim signaling]] suggests that victim signalers may be greedier, less honest, and more exploitative than those who do not signal victimhood.
 >
 { #2BUZKEF9aEL4SB755p5}
 
