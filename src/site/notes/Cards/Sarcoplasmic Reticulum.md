@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","Uni/HBIO1010","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/sarcoplasmic-reticulum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/sarcoplasmic-reticulum/","tags":["Uni/LFS112","Uni/HBIO1010","flashcards/LFS112"]}
 ---
 
 # Sarcoplasmic Reticulum
