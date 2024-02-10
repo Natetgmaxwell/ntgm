@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/extensor-digitorum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/extensor-digitorum/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Extensor Digitorum
