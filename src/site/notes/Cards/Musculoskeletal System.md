@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/musculoskeletal-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/musculoskeletal-system/","tags":["Uni/HBIO1009"]}
 ---
 
 # Musculoskeletal System
