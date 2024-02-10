@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"date created":"2022-05-28 Sat","edited":"2023-05-15 Mon","dg-publish":true,"permalink":"/cards/hippocampus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/hippocampus/"}
 ---
 
 # Hippocampus
