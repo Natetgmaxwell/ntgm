@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/red-meat/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/red-meat/"}
 ---
 
 # Red Meat
