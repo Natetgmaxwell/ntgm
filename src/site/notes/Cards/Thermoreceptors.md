@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/thermoreceptors/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/thermoreceptors/","tags":["Uni/LFS112"]}
 ---
 
 # Thermoreceptors
