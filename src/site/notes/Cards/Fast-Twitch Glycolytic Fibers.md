@@ -1,5 +1,5 @@
 ---
-{"aliases":["FGF","type 2b","type IIb"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2023-02-09 Thu","dg-publish":true,"permalink":"/cards/fast-twitch-glycolytic-fibers/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/fast-twitch-glycolytic-fibers/","tags":["on/Science/Biology/Anatomy"]}
 ---
 
 # Fast-Twitch Glycolytic Fibers
