@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/flexor-carpi-ulnaris/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/flexor-carpi-ulnaris/","tags":["Uni/LFS122","flashcards/LFS122","on/Science/Biology/Anatomy"]}
 ---
 
 # Flexor Carpi Ulnaris
