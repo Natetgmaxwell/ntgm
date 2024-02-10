@@ -1,5 +1,5 @@
 ---
-{"aliases":["LH","Luteinizing Hormone"],"dg-publish":true,"tags":["Uni/HBIO1010","flashcards/hbio1010","Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/luteinising-hormone/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/luteinising-hormone/","tags":["Uni/HBIO1010","flashcards/hbio1010","Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Luteinising Hormone
