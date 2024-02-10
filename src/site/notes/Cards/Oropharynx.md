@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/oropharynx/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/oropharynx/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Oropharynx
