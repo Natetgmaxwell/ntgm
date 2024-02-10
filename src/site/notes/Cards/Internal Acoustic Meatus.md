@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/internal-acoustic-meatus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/internal-acoustic-meatus/","tags":["Uni/LFS122"]}
 ---
 
 # Internal Acoustic Meatus
