@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"FR9TLLN2","zt-attachments":["1433"],"alias":", LFS122 M4T2 Gross Anatomy of the Spinal Cord and Spinal Nerves","keywords":[],"FirstAuthor":"[[ Honor Hugo]]","tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/honorhugo2023-lfs-122-m4-t2-gross/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/honorhugo2023-lfs-122-m4-t2-gross/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @honorhugo2023LFS122M4T2Gross
