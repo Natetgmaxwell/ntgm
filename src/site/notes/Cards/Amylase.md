@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/amylase/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/amylase/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Amylase
