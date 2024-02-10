@@ -1,5 +1,5 @@
 ---
-{"date created":"2022-03-14 Mon","edited":"2023-04-06 Thu","tags":["School","genetics","on/Science/Biology/Genetics"],"dg-publish":true,"permalink":"/cards/meiosis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/meiosis/","tags":["School","genetics","on/Science/Biology/Genetics"]}
 ---
 
 # Meiosis
