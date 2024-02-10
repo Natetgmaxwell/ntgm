@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/ethmoid-sinus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/ethmoid-sinus/","tags":["Uni/LFS122"]}
 ---
 
 # Ethmoid Sinus
