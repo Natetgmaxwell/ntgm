@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/scrotum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/scrotum/","tags":["Uni/LFS122"]}
 ---
 
 # Scrotum
