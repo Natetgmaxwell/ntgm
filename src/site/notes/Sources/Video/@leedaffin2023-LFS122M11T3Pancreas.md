@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS122 M11T3 Pancreas, Liver and the  Abdominopelvic Cavity"],"tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m11-t3-pancreas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m11-t3-pancreas/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @leedaffin2023-LFS122M11T3Pancreas
