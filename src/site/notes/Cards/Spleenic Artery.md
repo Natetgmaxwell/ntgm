@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","Uni/LFS122"],"dg-publish":true,"permalink":"/cards/spleenic-artery/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/spleenic-artery/","tags":["Uni/LFS112","Uni/LFS122"]}
 ---
 
 # Spleenic Artery
