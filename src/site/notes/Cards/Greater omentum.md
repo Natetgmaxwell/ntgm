@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122","Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/greater-omentum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/greater-omentum/","tags":["Uni/LFS122","flashcards/LFS122","Uni/HBIO1010"]}
 ---
 
 # Greater Omentum
