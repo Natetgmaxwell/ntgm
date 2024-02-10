@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS103"],"dg-publish":true,"permalink":"/cards/gastrointestinal-tract-infection/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/gastrointestinal-tract-infection/","tags":["Uni/LFS103"]}
 ---
 
 # Gastrointestinal Tract Infection
