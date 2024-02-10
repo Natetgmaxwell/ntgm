@@ -1,5 +1,5 @@
 ---
-{"aliases":["muscle cell","muscle cells"],"tags":["Uni/HBIO1010","flashcards/hbio1010"],"dg-publish":true,"permalink":"/cards/myocyte/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/myocyte/","tags":["Uni/HBIO1010","flashcards/hbio1010"]}
 ---
 
 # Myocyte
@@ -44,7 +44,6 @@
 | Sources                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Research Papers/@bentek.pedersenMusclesExerciseObesity2012\|@bentek.pedersenMusclesExerciseObesity2012]]            |
-| [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]                                    |
 | [[Sources/Articles/Enzyme reverses muscle loss due to aging and cancer\|Enzyme reverses muscle loss due to aging and cancer]] |
 | [[Sources/Other/HBIO1010 M1T1 Blackboard Site\|HBIO1010 M1T1 Blackboard Site]]                                                |
 
