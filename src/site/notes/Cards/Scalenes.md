@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/scalenes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/scalenes/","tags":["Uni/LFS122"]}
 ---
 
 # Scalenes
