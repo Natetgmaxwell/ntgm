@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/factors-for-increasing-igf-1/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/factors-for-increasing-igf-1/"}
 ---
 
 # Factors for Increasing IGF-1
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]
+> [!quote] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > "Red meat, [[Cards/Dairy Products\|Dairy Products]] and dietary calcium are associated with higher [[Cards/Insulin-like growth factor 1\|IGF-1]]"
 
 ## List of Factors that Increase [[Cards/Insulin-like growth factor 1\|IGF-1]]
