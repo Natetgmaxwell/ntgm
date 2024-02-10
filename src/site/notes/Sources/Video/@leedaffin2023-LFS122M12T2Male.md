@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS122 M12T2 Male Reproduction"],"Status":"unread","FirstAuthor":"[[Lee Daffin]]","tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m12-t2-male/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m12-t2-male/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @leedaffin2023-LFS122M12T2Male
