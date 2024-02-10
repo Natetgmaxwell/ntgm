@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/inhibin/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/inhibin/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Inhibin
