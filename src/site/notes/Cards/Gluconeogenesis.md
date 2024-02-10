@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/gluconeogenesis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/gluconeogenesis/"}
 ---
 
 # Gluconeogenesis
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > [[Cards/Gluconeogenesis\|Gluconeogenesis]] is a metabolic pathway that generates [[Cards/Glucose\|Glucose]] from certain non-carbohydrate carbon substrates.
 
-> [!quote] [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]
+> [!quote] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > Glucogenic  amino  acids  can  be  converted  into  [[Cards/Glucose\|glucose]]  through [[Cards/Gluconeogenesis\|Gluconeogenesis]],  and  they  include  [[Cards/Alanine\|Alanine]],  [[Cards/Arginine\|Arginine]],  [[Cards/Asparagine\|Asparagine]], [[Cards/Cysteine\|cysteine]], [[Cards/Glutamic acid\|Glutamic acid]],  [[Cards/Glutamine\|Glutamine]],  [[Cards/Histidine\|Histidine]],  [[Cards/Methionine\|Methionine]],  [[Cards/Proline\|Proline]],  [[Cards/Serine\|Serine]]  and [[Cards/Valine\|Valine]].
 
 # Reference
@@ -29,7 +29,7 @@
 | --------------------------------------------------------------------------------------------- |
 | [[Cards/Glucose\|Glucose]]                                                                 |
 | [[Cards/Gluconeogenesis\|Gluconeogenesis]]                                                 |
-| [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]] |
+| [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] |
 | [[Cards/Alanine\|Alanine]]                                                                 |
 | [[Cards/Arginine\|Arginine]]                                                               |
 | [[Cards/Asparagine\|Asparagine]]                                                           |
