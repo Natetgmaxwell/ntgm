@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["flashcards/LFS112","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/carbonic-anhydrase/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/carbonic-anhydrase/","tags":["flashcards/LFS112","Uni/LFS112"]}
 ---
 
 # Carbonic Anhydrase
