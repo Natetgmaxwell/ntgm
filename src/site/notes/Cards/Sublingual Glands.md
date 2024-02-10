@@ -1,5 +1,5 @@
 ---
-{"aliases":["Sublingual"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/sublingual-glands/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/sublingual-glands/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Sublingual Glands
