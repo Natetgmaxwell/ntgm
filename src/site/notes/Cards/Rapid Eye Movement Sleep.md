@@ -1,5 +1,5 @@
 ---
-{"aliases":["REM","rem sleep"],"edited":"2023-04-06 Thu","tags":["on/Health"],"date created":"2022-12-14 Wed","dg-publish":true,"permalink":"/cards/rapid-eye-movement-sleep/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/rapid-eye-movement-sleep/","tags":["on/Health"]}
 ---
 
 # Rapid Eye Movement Sleep
@@ -38,10 +38,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Articles/Link Between Sleep Apnea, Deep Sleep Deficit, and Brain Health Risks - Neuroscience News\|Link Between Sleep Apnea, Deep Sleep Deficit, and Brain Health Risks - Neuroscience News]]                                              |
-| [[Sources/Podcasts/Podcast Episodes/Sleep Expert Reveals How You Can Optimize Your Brain with These Simple Hacks   Matthew Walker (Replay)\|Sleep Expert Reveals How You Can Optimize Your Brain with These Simple Hacks   Matthew Walker (Replay)]] |
-| [[Sources/Podcasts/Podcast Episodes/The Power of Sleep\|The Power of Sleep]]                                                                                                                                                                         |
+| Sources                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Articles/Link Between Sleep Apnea, Deep Sleep Deficit, and Brain Health Risks - Neuroscience News\|Link Between Sleep Apnea, Deep Sleep Deficit, and Brain Health Risks - Neuroscience News]] |
+| [[Sources/Podcasts/Podcast Episodes/The Power of Sleep\|The Power of Sleep]]                                                                                                                            |
 
 { .block-language-dataview}
