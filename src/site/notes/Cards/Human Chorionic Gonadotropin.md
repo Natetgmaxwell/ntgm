@@ -1,5 +1,5 @@
 ---
-{"aliases":"hCG","tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/human-chorionic-gonadotropin/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/human-chorionic-gonadotropin/","tags":["Uni/LFS112"]}
 ---
 
 # Human Chorionic Gonadotropin
