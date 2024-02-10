@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/uvula/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/uvula/","tags":["Uni/LFS122"]}
 ---
 
 # Uvula
