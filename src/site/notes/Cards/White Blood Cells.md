@@ -1,5 +1,5 @@
 ---
-{"aliases":["Leukocytes"],"tags":["Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/white-blood-cells/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/white-blood-cells/","tags":["Uni/HBIO1009","Uni/LFS112"]}
 ---
 
 up:: [[Cards/Blood cells\|Blood cells]], [[Cards/Immune System\|Immune System]]
