@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/inferior-mesenteric-artery/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/inferior-mesenteric-artery/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Inferior Mesenteric Artery
