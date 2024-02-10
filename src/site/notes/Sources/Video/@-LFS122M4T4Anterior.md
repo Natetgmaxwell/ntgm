@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS122 M4T4 Anterior and Lateral Trunk Muscles"],"tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/lfs-122-m4-t4-anterior/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/lfs-122-m4-t4-anterior/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @-LFS122M4T4Anterior
