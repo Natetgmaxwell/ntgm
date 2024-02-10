@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/alveoli/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/alveoli/","tags":["Uni/HBIO1009","Uni/LFS112"]}
 ---
 
 # Alveoli
