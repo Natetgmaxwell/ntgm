@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/static-stretching/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/static-stretching/"}
 ---
 
 # Static Stretching
@@ -12,10 +12,10 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]
+> [!quote] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > "Static stretching prior to resistance training can have a negative impact on acute dynamic strength and isometric strength."
 
-> [!quote] [[Sources/@jamesdinicolantonioWinAchievePeak2021\|Win: Achieve Peak Athletic Performance]]
+> [!quote] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|Win: Achieve Peak Athletic Performance]]
 > "It is still beneficial to do passive static stretching but preferably either at the end of a workout or on rest days."
 
 - [[Cards/Static Stretching\|Static Stretching]] can help reduce [[Cards/Cramps\|Cramps]].
@@ -38,7 +38,7 @@
 
 | Sources                                                                                       |
 | --------------------------------------------------------------------------------------------- |
-| [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]] |
+| [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] |
 
 { .block-language-dataview}
 
