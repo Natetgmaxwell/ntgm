@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/ovarian-ligament/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/ovarian-ligament/","tags":["Uni/LFS122"]}
 ---
 
 # Ovarian Ligament
