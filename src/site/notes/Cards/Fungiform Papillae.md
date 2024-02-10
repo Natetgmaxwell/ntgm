@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/fungiform-papillae/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/fungiform-papillae/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Fungiform Papillae
