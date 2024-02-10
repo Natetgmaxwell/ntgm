@@ -1,5 +1,5 @@
 ---
-{"aliases":["oesophageal foramen"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/caval-hiatus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/caval-hiatus/","tags":["Uni/LFS122"]}
 ---
 
 # Caval Hiatus
