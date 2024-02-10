@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"date created":"2022-11-04 Fri","edited":"2023-05-01 Mon","dg-publish":true,"permalink":"/cards/dyslexia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/dyslexia/"}
 ---
 
 # Dyslexia
