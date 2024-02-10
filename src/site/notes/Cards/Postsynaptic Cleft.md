@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/postsynaptic-cleft/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/postsynaptic-cleft/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Postsynaptic Cleft
