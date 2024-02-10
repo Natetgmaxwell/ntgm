@@ -1,5 +1,5 @@
 ---
-{"date created":"2022-11-28 Mon","edited":"2023-04-06 Thu","tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/neurotransmitter/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/neurotransmitter/","tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Neurotransmitter
