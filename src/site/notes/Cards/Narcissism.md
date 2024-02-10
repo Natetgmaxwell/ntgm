@@ -1,5 +1,5 @@
 ---
-{"aliases":["narcissists","narcissist"],"edited":"2023-04-06 Thu","date created":"2022-03-02 Wed","dg-publish":true,"permalink":"/cards/narcissism/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/narcissism/"}
 ---
 
 # Narcissism
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/Books/@robertgreene2018-LawsHumanNature\|@robertgreene2018-LawsHumanNature]]
+> [!quote] [[Sources/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]
 > “We are all [[Cards/Narcissism\|narcissists]], some deeper on the spectrum than others”
 
 - The [[Cards/Belief\|belief]] is that others are inferior to themselves and lack [[Cards/Empathy\|empathy]].
@@ -31,6 +31,5 @@
 ## Mentions
 - [[Sources/Articles/@henderson2022-WhatSocialStatus\|@henderson2022-WhatSocialStatus]]
 - [[Sources/Podcasts/Podcast Episodes/147 Reid Hoffman  Better Decisions  Fewer Mistakes\|147 Reid Hoffman  Better Decisions  Fewer Mistakes]]
-- [[Sources/Research Papers/@ok2021SignalingVirtuousVictimhood\|@ok2021SignalingVirtuousVictimhood]]
 
 { .block-language-dataview}
