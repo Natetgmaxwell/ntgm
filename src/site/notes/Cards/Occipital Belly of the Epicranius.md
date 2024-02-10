@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/occipital-belly-of-the-epicranius/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/occipital-belly-of-the-epicranius/","tags":["Uni/LFS122"]}
 ---
 
 # Occipital Belly of the Epicranius
