@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"tags":["Uni/LFS122","flashcards/LFS122"],"permalink":"/cards/tongue/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/tongue/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Tongue
