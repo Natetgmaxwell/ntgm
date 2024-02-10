@@ -1,5 +1,5 @@
 ---
-{"aliases":["Fungal Infection"],"tags":null,"dg-publish":true,"permalink":"/cards/fungal-infections/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/fungal-infections/"}
 ---
 
 # Fungal Infections
