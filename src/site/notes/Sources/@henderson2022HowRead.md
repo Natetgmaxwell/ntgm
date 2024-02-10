@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"XL3V8EKA","zt-attachments":["6637"],"aliases":["How I Read"],"keywords":null,"FirstAuthor":"[[ Rob Henderson]]","dg-publish":true,"tags":["source/article"],"permalink":"/sources/henderson2022-how-read/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/henderson2022-how-read/","tags":["source/article"]}
 ---
 
 # @henderson2022HowRead
