@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/duodenum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/duodenum/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Duodenum
