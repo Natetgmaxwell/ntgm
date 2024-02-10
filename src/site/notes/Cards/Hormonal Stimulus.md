@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/hormonal-stimulus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/hormonal-stimulus/","tags":["Uni/LFS112"]}
 ---
 
 # Hormonal Stimulus
