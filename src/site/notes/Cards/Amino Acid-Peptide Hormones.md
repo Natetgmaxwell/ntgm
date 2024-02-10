@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/amino-acid-peptide-hormones/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/amino-acid-peptide-hormones/","tags":["Uni/HBIO1010"]}
 ---
 
 # Amino Acid-Peptide Hormones
