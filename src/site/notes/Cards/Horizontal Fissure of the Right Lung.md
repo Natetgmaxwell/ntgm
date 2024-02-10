@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/horizontal-fissure-of-the-right-lung/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/horizontal-fissure-of-the-right-lung/"}
 ---
 
 # Horizontal Fissure of the Right Lung
