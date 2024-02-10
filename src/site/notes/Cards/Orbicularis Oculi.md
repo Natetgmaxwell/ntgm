@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/orbicularis-oculi/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/orbicularis-oculi/","tags":["Uni/LFS122"]}
 ---
 
 # Orbicularis Oculi
