@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/convection/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/convection/","tags":["Uni/LFS112"]}
 ---
 
 # Convection
