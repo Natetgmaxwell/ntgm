@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/dimples/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/dimples/"}
 ---
 
 # Dimples
@@ -29,9 +29,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                          |
-| ------------------------------------------------------------------------------------------------ |
-| [[Sources/Articles/2023WhatCausesDimples-joannelewsley\|2023WhatCausesDimples-joannelewsley]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
