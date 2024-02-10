@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/flexor-digitorum-profundus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/flexor-digitorum-profundus/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Flexor Digitorum Profundus
