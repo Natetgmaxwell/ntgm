@@ -1,5 +1,5 @@
 ---
-{"aliases":["cell membranes"],"edited":"2023-04-06 Thu","date created":"2023-01-23 Mon","dg-publish":true,"permalink":"/cards/plasma-membranes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/plasma-membranes/"}
 ---
 
 # Plasma Membranes
