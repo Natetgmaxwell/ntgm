@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"7TF3N843","zt-attachments":["6643"],"aliases":null,"keywords":null,"FirstAuthor":"[[ Vanessa Van Edwards]]","dg-publish":true,"tags":["source/article"],"permalink":"/sources/vanessavanedwards202310-questions-ask/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/vanessavanedwards202310-questions-ask/","tags":["source/article"]}
 ---
 
 # @vanessavanedwards202310QuestionsAsk
