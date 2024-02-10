@@ -1,5 +1,5 @@
 ---
-{"aliases":["AC Joint"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy","Uni/OMT1","Uni/LFS122","flashcards/LFS122"],"date created":"2023-04-03 Mon","dg-publish":true,"permalink":"/cards/acromioclavicular-joint/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/acromioclavicular-joint/","tags":["on/Science/Biology/Anatomy","Uni/OMT1","Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Acromioclavicular Joint
