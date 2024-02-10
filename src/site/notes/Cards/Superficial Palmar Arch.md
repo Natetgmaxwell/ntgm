@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/superficial-palmar-arch/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/superficial-palmar-arch/","tags":["Uni/LFS122"]}
 ---
 
 # Superficial Palmar Arch
