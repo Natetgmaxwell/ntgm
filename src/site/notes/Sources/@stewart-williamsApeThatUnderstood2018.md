@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"PLVCCAGB","zt-attachments":["634"],"alias":"The Ape that Understood the Universe, The Ape that Understood the Universe: How the Mind and Culture Evolve","keywords":[],"FirstAuthor":"[[ Steve Stewart-Williams]]","tags":["source/book"],"dg-publish":true,"permalink":"/sources/stewart-williams-ape-that-understood2018/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/stewart-williams-ape-that-understood2018/","tags":["source/book"]}
 ---
 
 # @stewart-williamsApeThatUnderstood2018
