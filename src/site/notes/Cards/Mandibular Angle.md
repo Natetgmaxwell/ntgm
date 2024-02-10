@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/mandibular-angle/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/mandibular-angle/","tags":["Uni/LFS122"]}
 ---
 
 # Mandibular Angle
