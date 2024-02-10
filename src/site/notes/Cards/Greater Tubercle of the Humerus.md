@@ -1,5 +1,5 @@
 ---
-{"aliases":["Greater Tubercle"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/greater-tubercle-of-the-humerus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/greater-tubercle-of-the-humerus/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Greater Tubercle of the Humerus
