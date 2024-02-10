@@ -1,5 +1,5 @@
 ---
-{"aliases":["females"],"tags":null,"dg-publish":true,"permalink":"/cards/female/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/female/"}
 ---
 
 # Female
