@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/ulnar-nerve/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/ulnar-nerve/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Ulnar Nerve
