@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["School"],"dg-publish":true,"permalink":"/cards/germline-mutation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/germline-mutation/","tags":["School"]}
 ---
 
 # Germline Mutation
