@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112","Uni/HBIO1009","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/integumentary-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/integumentary-system/","tags":["Uni/LFS112","flashcards/LFS112","Uni/HBIO1009","on/Science/Biology/Anatomy"]}
 ---
 
 # Integumentary System
@@ -49,11 +49,10 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]]                                 |
-| [[Sources/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]                                       |
-| [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]] |
+| Sources                                                                         |
+| ------------------------------------------------------------------------------- |
+| [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]] |
+| [[Sources/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]       |
 
 { .block-language-dataview}
 
