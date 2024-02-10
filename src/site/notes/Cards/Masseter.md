@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/masseter/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/masseter/","tags":["Uni/LFS122"]}
 ---
 
 # Masseter
