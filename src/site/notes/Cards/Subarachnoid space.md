@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/HBIO1009","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/subarachnoid-space/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/subarachnoid-space/","tags":["Uni/HBIO1009","on/Science/Biology/Anatomy"]}
 ---
 
 # Subarachnoid space
