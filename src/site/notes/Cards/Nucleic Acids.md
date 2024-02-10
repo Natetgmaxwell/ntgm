@@ -1,5 +1,5 @@
 ---
-{"date created":"2022-04-21 Thu","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/nucleic-acids/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/nucleic-acids/"}
 ---
 
 # Nucleic Acids
