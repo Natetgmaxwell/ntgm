@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/male-warrior-hypothesis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/male-warrior-hypothesis/"}
 ---
 
 # Male Warrior Hypothesis
