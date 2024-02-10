@@ -1,5 +1,5 @@
 ---
-{"aliases":["type I","red fibres"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2023-02-07 Tue","dg-publish":true,"permalink":"/cards/slow-twitch-fibres/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/slow-twitch-fibres/","tags":["on/Science/Biology/Anatomy"]}
 ---
 
 # Slow Twitch Fibres
