@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"S67KB8VM","zt-attachments":["2543"],"aliases":["LFS112 M4T5 Endocrine Pancreas"],"keywords":null,"FirstAuthor":"[[ Linda Gallo]]","tags":["source/video","Uni/LFS112"],"dg-publish":true,"year":2023,"authors":null,"Status":"Read","permalink":"/sources/lindagallo2023-lfs-112-m4-t5-endocrine/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/lindagallo2023-lfs-112-m4-t5-endocrine/","tags":["source/video","Uni/LFS112"]}
 ---
 
 # @lindagallo2023LFS112M4T5Endocrine
