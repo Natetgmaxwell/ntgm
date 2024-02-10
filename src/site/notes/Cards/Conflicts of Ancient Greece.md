@@ -1,5 +1,5 @@
 ---
-{"aliases":["greek conflicts"],"tags":null,"dg-publish":true,"permalink":"/cards/conflicts-of-ancient-greece/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/conflicts-of-ancient-greece/"}
 ---
 
 # Conflicts of Ancient Greece
