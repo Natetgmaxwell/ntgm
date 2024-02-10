@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"tags":["Uni/HBIO1009","Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/medulla-oblongata/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/medulla-oblongata/","tags":["Uni/HBIO1009","Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Medulla Oblongata
