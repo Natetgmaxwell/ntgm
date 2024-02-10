@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/brachialis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/brachialis/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Brachialis
