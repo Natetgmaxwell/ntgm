@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/fundus-of-the-stomach/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/fundus-of-the-stomach/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Fundus of the Stomach
