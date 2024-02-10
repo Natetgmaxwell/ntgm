@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","dg-publish":true,"tags":["Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/hormones/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/hormones/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Hormones
