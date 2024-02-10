@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/hallux/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/hallux/","tags":["Uni/LFS122"]}
 ---
 
 # Hallux
