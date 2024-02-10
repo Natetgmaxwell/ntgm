@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/cardiac-vagal-tone/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cardiac-vagal-tone/"}
 ---
 
 # Cardiac Vagal Tone
