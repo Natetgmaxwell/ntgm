@@ -1,5 +1,5 @@
 ---
-{"aliases":["Emotions","emotions","emotional"],"edited":"2023-04-06 Thu","date created":"2022-12-20 Tue","dg-publish":true,"permalink":"/cards/emotion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/emotion/"}
 ---
 
 # Emotion
@@ -15,7 +15,7 @@
 > [!quote] [[Sources/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
 > "The function of any emotion is to motivate behaviour"
 
-> [!quote] [[Cards/Robert Greene\|Robert Greene]] on the purpose of [[Cards/Emotion\|Emotions]] [[Sources/Books/@robertgreene2018-LawsHumanNature\|@robertgreene2018-LawsHumanNature]]
+> [!quote] [[Cards/Robert Greene\|Robert Greene]] on the purpose of [[Cards/Emotion\|Emotions]] [[Sources/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]
 > "Emotions originate as physical arousal designed to capture our attention and cause us to take notice of something around us."
 
 | [[Cards/High-Grade Emotions\|High-Grade Emotions]]           | [[Cards/Low-Grade Emotions\|Low-Grade Emotions]] |
