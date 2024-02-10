@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/muscles-of-the-hand/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/muscles-of-the-hand/","tags":["Uni/LFS122"]}
 ---
 
 # Muscles of the Hand
