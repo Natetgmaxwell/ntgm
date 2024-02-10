@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/body-temperature/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/body-temperature/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Body Temperature
@@ -21,7 +21,6 @@
 - 
 
 ## Mentions
-- [[Sources/Articles/Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX\|Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX]]
 
 { .block-language-dataview}
 
