@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/HBIO1010","on/Science/Biology/Anatomy","Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/peritoneum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/peritoneum/","tags":["Uni/HBIO1010","on/Science/Biology/Anatomy","Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Peritoneum
