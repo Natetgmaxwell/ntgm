@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"date created":"2022-06-29 Wed","date modified":"2023-04-07 Fri","edited":"2023-04-07 Fri","tags":["School","on/Science/Biology/Genetics"],"dg-publish":true,"permalink":"/cards/inheritance/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/inheritance/","tags":["School","on/Science/Biology/Genetics"]}
 ---
 
 # Inheritance
@@ -22,7 +22,6 @@
 - [[Cards/Genetic Disorders\|Genetic Disorders]]
 
 ## Mentions
-- [[Sources/Articles/2023WhatCausesDimples-joannelewsley\|2023WhatCausesDimples-joannelewsley]]
 - [[Sources/Podcasts/Podcast Episodes/The Science & Treatment of Obsessive-Compulsive Disorder (OCD)\|The Science & Treatment of Obsessive-Compulsive Disorder (OCD)]]
 
 { .block-language-dataview}
