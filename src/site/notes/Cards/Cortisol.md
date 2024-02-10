@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/cortisol/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cortisol/"}
 ---
 
 # Cortisol
@@ -20,7 +20,6 @@
 ## Mentions
 - [[Sources/Articles/25 Mind-Blowing Psychological Facts About Love - YourTango\|25 Mind-Blowing Psychological Facts About Love - YourTango]]
 - [[Sources/Articles/37TypesHormones2018\|37TypesHormones2018]]
-- [[Sources/Articles/Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX\|Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX]]
 - [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 - [[Sources/Podcasts/Podcast Episodes/Understanding & Controlling Aggression   Episode 71\|Understanding & Controlling Aggression   Episode 71]]
 - [[Sources/Research Papers/@nieman2015-CushingSyndromeUpdate\|@nieman2015-CushingSyndromeUpdate]]
