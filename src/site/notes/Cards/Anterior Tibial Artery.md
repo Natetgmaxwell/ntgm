@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/anterior-tibial-artery/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/anterior-tibial-artery/","tags":["Uni/LFS122"]}
 ---
 
 # Anterior Tibial Artery
