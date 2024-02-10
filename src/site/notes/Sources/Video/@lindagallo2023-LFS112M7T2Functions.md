@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS112 M7T2 Functions of digestive organs"],"dg-publish":true,"tags":["source/video","Uni/LFS112"],"Status":"Watched","Priority":"High","permalink":"/sources/video/lindagallo2023-lfs-112-m7-t2-functions/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/lindagallo2023-lfs-112-m7-t2-functions/","tags":["source/video","Uni/LFS112"]}
 ---
 
 # @lindagallo2023-LFS112M7T2Functions
