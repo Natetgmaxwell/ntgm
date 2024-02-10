@@ -1,5 +1,5 @@
 ---
-{"Created":"2022-03-08","tags":["School","on/Science/Biology/Genetics"],"date created":"2022-03-08 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/dna-replication/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/dna-replication/","tags":["School","on/Science/Biology/Genetics"]}
 ---
 
 # DNA Replication
