@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/skeletal-muscles-of-the-brachium/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/skeletal-muscles-of-the-brachium/","tags":["Uni/LFS122"]}
 ---
 
 # Skeletal Muscles of the Brachium
