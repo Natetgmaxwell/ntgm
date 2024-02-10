@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/middle-lobe-of-the-right-lung/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/middle-lobe-of-the-right-lung/"}
 ---
 
 # Middle Lobe of the Right Lung
