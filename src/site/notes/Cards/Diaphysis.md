@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"tags":["Uni/LFS122"],"permalink":"/cards/diaphysis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/diaphysis/","tags":["Uni/LFS122"]}
 ---
 
 # Diaphysis
