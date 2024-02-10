@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/nociceptors/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/nociceptors/","tags":["Uni/LFS112"]}
 ---
 
 # Nociceptors
