@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"tags":["Uni/LFS112"],"permalink":"/cards/glucagon/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/glucagon/","tags":["Uni/LFS112"]}
 ---
 
 # Glucagon
