@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"M8PALZPZ","zt-attachments":["619"],"aliases":["LFS112 M1T1 Video Core principles in physiology"],"citekey":"georgiakaferLFS112M1T1Video","keywords":null,"FirstAuthor":"[[Georgia Kafer]]","tags":["source/video","Uni/LFS112"],"dg-publish":true,"permalink":"/sources/video/georgiakafer-lfs-112-m1-t1-video/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/georgiakafer-lfs-112-m1-t1-video/","tags":["source/video","Uni/LFS112"]}
 ---
 
 # @georgiakaferLFS112M1T1Video
