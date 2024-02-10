@@ -1,5 +1,5 @@
 ---
-{"aliases":["cranial vault"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/cranium/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cranium/","tags":["Uni/LFS122"]}
 ---
 
 # Cranium
