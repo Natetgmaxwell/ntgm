@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/progressive-overload/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/progressive-overload/"}
 ---
 
 # Progressive Overload
