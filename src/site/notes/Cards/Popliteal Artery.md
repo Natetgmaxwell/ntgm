@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/popliteal-artery/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/popliteal-artery/","tags":["Uni/LFS122"]}
 ---
 
 # Popliteal Artery
