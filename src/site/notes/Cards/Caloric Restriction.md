@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/caloric-restriction/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/caloric-restriction/"}
 ---
 
 # Caloric Restriction
@@ -17,7 +17,6 @@
 - 
 
 ## Mentions
-- [[Sources/Articles/Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX\|Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX]]
 - [[Sources/Research Papers/@thompson2017-ThyroidHormoneFluctuations\|@thompson2017-ThyroidHormoneFluctuations]]
 
 { .block-language-dataview}
