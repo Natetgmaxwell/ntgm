@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/sella-turcica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/sella-turcica/","tags":["Uni/LFS122"]}
 ---
 
 # Sella Turcica
