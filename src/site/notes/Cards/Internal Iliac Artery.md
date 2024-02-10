@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/internal-iliac-artery/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/internal-iliac-artery/","tags":["Uni/LFS122"]}
 ---
 
 # Internal Iliac Artery
