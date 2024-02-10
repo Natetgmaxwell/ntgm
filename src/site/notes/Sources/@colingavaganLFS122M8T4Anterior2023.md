@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"86WQUIQ7","zt-attachments":["943"],"aliases":["LFS122 M8T4 Anterior and Posterior Muscle Compartments of the Brachium"],"keywords":null,"FirstAuthor":"[[ Colin Gavagan]]","tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/colingavagan-lfs-122-m8-t4-anterior2023/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/colingavagan-lfs-122-m8-t4-anterior2023/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @colingavaganLFS122M8T4Anterior2023
