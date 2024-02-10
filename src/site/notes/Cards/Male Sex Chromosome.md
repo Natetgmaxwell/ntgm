@@ -1,5 +1,5 @@
 ---
-{"aliases":["Y Chromosome"],"tags":null,"dg-publish":true,"permalink":"/cards/male-sex-chromosome/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/male-sex-chromosome/"}
 ---
 
 # Male Sex Chromosome
