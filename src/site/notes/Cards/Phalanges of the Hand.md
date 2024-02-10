@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/phalanges-of-the-hand/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/phalanges-of-the-hand/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Phalanges of the Hand
