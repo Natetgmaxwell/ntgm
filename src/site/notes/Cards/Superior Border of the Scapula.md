@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/superior-border-of-the-scapula/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/superior-border-of-the-scapula/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Superior Border of the Scapula
