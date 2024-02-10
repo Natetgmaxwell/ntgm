@@ -1,5 +1,5 @@
 ---
-{"aliases":["cranial fossa"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/cranial-fossas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cranial-fossas/","tags":["Uni/LFS122"]}
 ---
 
 # Cranial Fossas
