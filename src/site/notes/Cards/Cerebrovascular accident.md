@@ -1,5 +1,5 @@
 ---
-{"aliases":["CVA","stroke"],"edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/cerebrovascular-accident/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cerebrovascular-accident/"}
 ---
 
 # Cerebrovascular accident
