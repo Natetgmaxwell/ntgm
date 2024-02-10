@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/male/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/male/"}
 ---
 
 # Male
