@@ -1,5 +1,5 @@
 ---
-{"tags":["on/Science/Biology/Evolution","moc"],"date created":"2022-01-18 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/evolution/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/evolution/","tags":["on/Science/Biology/Evolution","moc"]}
 ---
 
 # Evolution
