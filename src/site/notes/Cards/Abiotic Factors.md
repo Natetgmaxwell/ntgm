@@ -1,5 +1,5 @@
 ---
-{"Created":"2022-02-15","edited":"2023-04-06 Thu","tags":["School","on/Science/EarthScience/Ecology"],"date created":"2022-01-18 Tue","dg-publish":true,"permalink":"/cards/abiotic-factors/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/abiotic-factors/","tags":["School","on/Science/EarthScience/Ecology"]}
 ---
 
 # Abiotic Factors
