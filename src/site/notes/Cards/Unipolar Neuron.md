@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/unipolar-neuron/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/unipolar-neuron/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Unipolar Neuron
