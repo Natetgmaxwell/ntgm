@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"KMHW5FTH","zt-attachments":["1453"],"alias":", The Idiot","keywords":[],"FirstAuthor":"[[ Fyodor Dostoevsky]]","tags":["source/book"],"dg-publish":true,"permalink":"/sources/fyodordostoevsky-idiot1869/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/fyodordostoevsky-idiot1869/","tags":["source/book"]}
 ---
 
 # @fyodordostoevskyIdiot1869
