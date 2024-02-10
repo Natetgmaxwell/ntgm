@@ -1,5 +1,5 @@
 ---
-{"aliases":["CN1"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/olfactory-nerve/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/olfactory-nerve/","tags":["Uni/LFS122"]}
 ---
 
 # Olfactory Nerve
