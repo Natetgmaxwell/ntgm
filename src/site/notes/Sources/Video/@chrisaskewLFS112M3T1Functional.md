@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"4ZUZ2BML","zt-attachments":["1477"],"aliases":["LFS112 M3T1 Functional organisation of skeletal muscle fibres"],"citekey":"chrisaskewLFS112M3T1Functional","keywords":null,"FirstAuthor":"[[Chris Askew]]","tags":["source/video","Uni/LFS112"],"dg-publish":true,"permalink":"/sources/video/chrisaskew-lfs-112-m3-t1-functional/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/chrisaskew-lfs-112-m3-t1-functional/","tags":["source/video","Uni/LFS112"]}
 ---
 
 # @chrisaskewLFS112M3T1Functional
