@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/dentin/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/dentin/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Dentin
