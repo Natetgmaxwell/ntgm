@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/exercises-effect-on-memory/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/exercises-effect-on-memory/"}
 ---
 
 # Exercises' Effect on Memory
