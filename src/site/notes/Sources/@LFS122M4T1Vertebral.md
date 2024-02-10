@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"YYG4983D","zt-attachments":["1436"],"alias":", LFS122 M4T1 Vertebral Column and Ribs","keywords":[],"FirstAuthor":"[[ ]]","tags":["source/video","Uni/LFS122"],"dg-publish":true,"year":2023,"Status":"Read","aliases":["LFS122 M4T1 Vertebral Column and Ribs"],"Priority":"Medium","permalink":"/sources/lfs-122-m4-t1-vertebral/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/lfs-122-m4-t1-vertebral/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @LFS122M4T1Vertebral
