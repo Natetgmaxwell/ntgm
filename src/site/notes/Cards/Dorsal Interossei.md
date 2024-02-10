@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/dorsal-interossei/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/dorsal-interossei/","tags":["Uni/LFS122"]}
 ---
 
 # Dorsal Interossei
