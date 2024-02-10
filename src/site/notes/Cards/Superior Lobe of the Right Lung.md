@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/superior-lobe-of-the-right-lung/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/superior-lobe-of-the-right-lung/","tags":["Uni/LFS122"]}
 ---
 
 # Superior Lobe of the Right Lung
