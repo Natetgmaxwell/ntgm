@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"5R59CA4J","zt-attachments":["6796"],"aliases":["Swiping and Dating Preferences"],"keywords":null,"FirstAuthor":"[[ Rob Henderson]]","dg-publish":true,"tags":["source/article"],"permalink":"/sources/henderson2022-swiping-dating-preferencesa/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/henderson2022-swiping-dating-preferencesa/","tags":["source/article"]}
 ---
 
 # @Henderson2022-SwipingDatingPreferencesa
