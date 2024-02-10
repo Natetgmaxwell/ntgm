@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/triceps-brachii-lateral-head/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/triceps-brachii-lateral-head/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Triceps Brachii Lateral Head
