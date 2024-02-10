@@ -1,5 +1,5 @@
 ---
-{"aliases":["cell","cells"],"edited":"2023-04-06 Thu","tags":["moc","on/Science/Biology/CellBiology"],"date created":"2022-06-26 Sun","dg-publish":true,"permalink":"/cards/cells/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cells/","tags":["moc","on/Science/Biology/CellBiology"]}
 ---
 
 # Cells
