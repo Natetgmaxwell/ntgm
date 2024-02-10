@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"M6NWEBKJ","zt-attachments":["1807"],"aliases":["Zone 2 Training for Endurance Athletes","Zone 2 Training for Endurance Athletes: Build Your Aerobic Capacity"],"keywords":["aerobic","exercise"],"FirstAuthor":"[[ Allison Bettin]]","dg-publish":true,"tags":["source/article"],"permalink":"/sources/bettin-zone-training-endurance2014/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/bettin-zone-training-endurance2014/","tags":["source/article"]}
 ---
 
 # @bettinZoneTrainingEndurance2014
