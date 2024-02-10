@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/vasoconstriction/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/vasoconstriction/","tags":["Uni/LFS112"]}
 ---
 
 # Vasoconstriction
