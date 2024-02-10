@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS112 M12T1 Core principles of sensory physiology"],"Status":"Watched","tags":["source/video","Uni/LFS112"],"dg-publish":true,"permalink":"/sources/video/nicolemasters2023-lfs-112-m12-t1-core/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/nicolemasters2023-lfs-112-m12-t1-core/","tags":["source/video","Uni/LFS112"]}
 ---
 
 # @nicolemasters2023-LFS112M12T1Core
