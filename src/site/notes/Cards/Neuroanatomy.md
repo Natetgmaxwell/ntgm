@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["moc"],"dg-publish":true,"permalink":"/cards/neuroanatomy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/neuroanatomy/","tags":["moc"]}
 ---
 
 # Neuroanatomy
