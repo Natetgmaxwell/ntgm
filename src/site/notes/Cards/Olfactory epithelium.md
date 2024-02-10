@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/olfactory-epithelium/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/olfactory-epithelium/","tags":["Uni/LFS112"]}
 ---
 
 # Olfactory Epithelium
