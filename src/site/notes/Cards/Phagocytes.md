@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/phagocytes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/phagocytes/","tags":["Uni/HBIO1010"]}
 ---
 
 # Phagocytes
