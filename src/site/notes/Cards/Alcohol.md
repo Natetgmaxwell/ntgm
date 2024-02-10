@@ -1,5 +1,5 @@
 ---
-{"aliases":["alcohols","Alcohols"],"edited":"2023-04-06 Thu","tags":["on/Health"],"date created":"2022-11-28 Mon","dg-publish":true,"permalink":"/cards/alcohol/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/alcohol/","tags":["on/Health"]}
 ---
 
 # Alcohol
