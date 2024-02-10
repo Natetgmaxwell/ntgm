@@ -1,5 +1,5 @@
 ---
-{"aliases":["circulatory system"],"tags":["Uni/HBIO1010","flashcards/biology"],"dg-publish":true,"permalink":"/cards/cardiovascular-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cardiovascular-system/","tags":["Uni/HBIO1010","flashcards/biology"]}
 ---
 
 # Cardiovascular System
@@ -25,8 +25,6 @@
 - [[Cards/Cardiac Output\|Cardiac Output]]
 
 ## Mentions
-- [[Sources/@jamesdinicolantonioWinAchievePeak2021\|@jamesdinicolantonioWinAchievePeak2021]]
-- [[Sources/Video/@skyecash-deans-LFS122M3T1VideoIntegumentary\|@skyecash-deans-LFS122M3T1VideoIntegumentary]]
 
 { .block-language-dataview}
 
