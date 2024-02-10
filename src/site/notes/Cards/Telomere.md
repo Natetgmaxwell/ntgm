@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/telomere/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/telomere/"}
 ---
 
 # Telomere
