@@ -1,5 +1,5 @@
 ---
-{"aliases":["Plagiarise"],"tags":null,"dg-publish":true,"permalink":"/cards/plagiarism/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/plagiarism/"}
 ---
 
 # Plagiarism
