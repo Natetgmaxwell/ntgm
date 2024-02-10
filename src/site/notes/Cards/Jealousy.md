@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/jealousy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/jealousy/","tags":["Uni/LFS122"]}
 ---
 
 # Jealousy
