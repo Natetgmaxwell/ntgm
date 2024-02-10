@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/concentration/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/concentration/","tags":["Uni/LFS112","Uni/HBIO1009"]}
 ---
 
 # Concentration
