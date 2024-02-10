@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"49XE9PJU","zt-attachments":["1288"],"aliases":["LFS112 M5T1 Building blocks of life"],"keywords":null,"FirstAuthor":"[[ Nicole Masters]]","tags":["source/video","Uni/LFS122"],"dg-publish":true,"Priority":"High","Status":"Watched","permalink":"/sources/nicolemasters-lfs-112-m5-t1-building2023/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/nicolemasters-lfs-112-m5-t1-building2023/","tags":["source/video","Uni/LFS122"]}
 ---
 
 # @nicolemastersLFS112M5T1Building2023
