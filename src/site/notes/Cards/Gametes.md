@@ -1,5 +1,5 @@
 ---
-{"tags":["School","on/Science/Biology/Genetics","Uni/LFS103","flashcards/LFS103"],"date created":"2022-03-07 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/gametes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/gametes/","tags":["School","on/Science/Biology/Genetics","Uni/LFS103","flashcards/LFS103"]}
 ---
 
 # Gametes
