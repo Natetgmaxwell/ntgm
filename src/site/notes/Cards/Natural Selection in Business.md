@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/natural-selection-in-business/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/natural-selection-in-business/"}
 ---
 
 # Natural Selection in Business
