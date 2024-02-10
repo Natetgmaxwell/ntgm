@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/pivot-joint/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/pivot-joint/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Pivot Joint
