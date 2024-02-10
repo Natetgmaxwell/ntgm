@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"edited":"2023-04-06 Thu","date created":"2023-03-28 Tue","tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/spinal-cord/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/spinal-cord/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Spinal cord
