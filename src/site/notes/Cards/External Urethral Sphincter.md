@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/external-urethral-sphincter/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/external-urethral-sphincter/","tags":["Uni/LFS122"]}
 ---
 
 # External Urethral Sphincter
