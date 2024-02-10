@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/flexor-digitorum-superficialis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/flexor-digitorum-superficialis/","tags":["Uni/LFS122","flashcards/LFS122"]}
 ---
 
 # Flexor Digitorum Superficialis
