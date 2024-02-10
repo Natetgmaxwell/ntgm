@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/external-occipital-protuberance/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/external-occipital-protuberance/","tags":["Uni/LFS122"]}
 ---
 
 # External Occipital Protuberance
