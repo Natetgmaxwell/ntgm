@@ -1,5 +1,5 @@
 ---
-{"aliases":["Michelangelo"],"tags":["on/People"],"dg-publish":true,"permalink":"/cards/michelangelo-di-lodovico-buonarroti-simoni/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/michelangelo-di-lodovico-buonarroti-simoni/","tags":["on/People"]}
 ---
 
 # Michelangelo Di Lodovico Buonarroti Simoni
