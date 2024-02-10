@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/esophageal-hiatus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/esophageal-hiatus/","tags":["Uni/LFS122"]}
 ---
 
 # Esophageal Hiatus
