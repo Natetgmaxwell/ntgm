@@ -1,5 +1,5 @@
 ---
-{"aliases":["HPA Axis"],"tags":["on/Science/Biology"],"date created":"2022-11-28 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/hypothalamic-pituitary-adrenal-axis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/hypothalamic-pituitary-adrenal-axis/","tags":["on/Science/Biology"]}
 ---
 
 # Hypothalamic-Pituitary-Adrenal Axis
