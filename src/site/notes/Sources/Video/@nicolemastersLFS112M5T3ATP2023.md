@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"G4FY5FFA","zt-attachments":["1291"],"aliases":["LFS112 M5T3 ATP"],"citekey":"nicolemastersLFS112M5T3ATP2023","keywords":null,"FirstAuthor":"[[ Nicole Masters]]","tags":["source/video","Uni/LFS112"],"dg-publish":true,"permalink":"/sources/video/nicolemasters-lfs-112-m5-t3-atp-2023/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/video/nicolemasters-lfs-112-m5-t3-atp-2023/","tags":["source/video","Uni/LFS112"]}
 ---
 
 # @nicolemastersLFS112M5T3ATP2023
