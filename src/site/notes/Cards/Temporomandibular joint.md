@@ -1,5 +1,5 @@
 ---
-{"alias":"TMJ","aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/temporomandibular-joint/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/temporomandibular-joint/"}
 ---
 
 # Temporomandibular joint
