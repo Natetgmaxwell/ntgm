@@ -1,5 +1,5 @@
 ---
-{"aliases":["Bacterial Infection"],"date created":"2022-12-09 Fri","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/bacterial-infections/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/bacterial-infections/"}
 ---
 
 # Bacterial Infections
