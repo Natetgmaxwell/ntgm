@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/fundus-of-the-uterus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/fundus-of-the-uterus/"}
 ---
 
 # Fundus of the Uterus
