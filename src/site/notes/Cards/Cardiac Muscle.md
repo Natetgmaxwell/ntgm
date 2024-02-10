@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/cardiac-muscle/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cardiac-muscle/","tags":["Uni/LFS112","flashcards/LFS112"]}
 ---
 
 # Cardiac Muscle
