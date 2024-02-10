@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"JSCWQNGT","zt-attachments":["6623"],"aliases":["The Male-Warrior Hypothesis"],"keywords":null,"FirstAuthor":"[[ Rob Henderson]]","dg-publish":true,"tags":["source/article"],"permalink":"/sources/henderson2022-male-warrior-hypothesis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sources/henderson2022-male-warrior-hypothesis/","tags":["source/article"]}
 ---
 
 # @henderson2022MaleWarriorHypothesis
