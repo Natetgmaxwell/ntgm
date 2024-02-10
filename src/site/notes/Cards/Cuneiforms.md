@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/OMT1"],"dg-publish":true,"permalink":"/cards/cuneiforms/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/cuneiforms/","tags":["Uni/OMT1"]}
 ---
 
 # Cuneiforms
