@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","Uni/HBIO1009","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/superior-vena-cava/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/superior-vena-cava/","tags":["Uni/LFS122","Uni/HBIO1009","flashcards/LFS122"]}
 ---
 
 # Superior Vena Cava
