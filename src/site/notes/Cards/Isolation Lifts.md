@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/isolation-lifts/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/isolation-lifts/"}
 ---
 
 # Isolation Lifts
