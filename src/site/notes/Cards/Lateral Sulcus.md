@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/lateral-sulcus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/cards/lateral-sulcus/","tags":["Uni/LFS122"]}
 ---
 
 # Lateral Sulcus
