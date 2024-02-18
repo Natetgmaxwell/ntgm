@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/right-lung/","tags":["Uni/LFS122"]}
+{"aliases":[],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/right-lung/","dgPassFrontmatter":true}
 ---
 
 # Right Lung
