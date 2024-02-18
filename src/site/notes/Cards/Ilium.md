@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/ilium/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/ilium/","dgPassFrontmatter":true}
 ---
 
 # Ilium
