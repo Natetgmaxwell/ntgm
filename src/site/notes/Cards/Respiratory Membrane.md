@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/respiratory-membrane/","tags":["Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/respiratory-membrane/","dgPassFrontmatter":true}
 ---
 
 # Respiratory Membrane
