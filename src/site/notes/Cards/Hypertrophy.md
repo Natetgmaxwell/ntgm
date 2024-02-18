@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hypertrophy/"}
+{"aliases":["muscle growth"],"edited":"2023-04-06 Thu","date created":"2023-02-27 Mon","dg-publish":true,"permalink":"/cards/hypertrophy/","dgPassFrontmatter":true}
 ---
 
 # Hypertrophy
