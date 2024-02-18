@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/kin-selection/","tags":["on/Science/Biology/Evolution","on/Psychology"]}
+{"aliases":null,"tags":["on/Science/Biology/Evolution","on/Psychology"],"dg-publish":true,"permalink":"/cards/kin-selection/","dgPassFrontmatter":true}
 ---
 
 # Kin Selection
