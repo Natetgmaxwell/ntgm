@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/video/2023-lfs-112-m6-t1-blood/"}
+{"aliases":["LFS112 M6T1 Blood function + Components"],"dg-publish":true,"permalink":"/sources/video/2023-lfs-112-m6-t1-blood/","dgPassFrontmatter":true}
 ---
 
 tags:: #source/video #Uni/LFS112 
