@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/maxillary-sinus/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/maxillary-sinus/","dgPassFrontmatter":true}
 ---
 
 # Maxillary Sinus
