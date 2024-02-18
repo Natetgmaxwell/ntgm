@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/natural-selection-in-language/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/natural-selection-in-language/","dgPassFrontmatter":true}
 ---
 
 # Natural Selection in Language
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
+> [!quote] [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
 > In short, just as natural selection culls less seaworthy boats from the population of boats, and less rewarded behaviors from the individual’s population of behaviors, so too selection culls less learnable, less useful words from each language’s population of words. The inevitable result is that languages evolve to be more learnable and more useful over time.
 
 # Reference
@@ -31,9 +31,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                       |
-| --------------------------------------------------------------------------------------------- |
-| [[Sources/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]] |
+| Sources                                                                                             |
+| --------------------------------------------------------------------------------------------------- |
+| [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]] |
 
 { .block-language-dataview}
 
