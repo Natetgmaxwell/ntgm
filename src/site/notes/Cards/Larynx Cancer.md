@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/larynx-cancer/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/larynx-cancer/","dgPassFrontmatter":true}
 ---
 
 # Larynx Cancer
