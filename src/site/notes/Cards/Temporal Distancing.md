@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/temporal-distancing/"}
+{"Created":"2022-08-06","edited":"2023-04-06 Thu","date created":"2022-08-06 Sat","dg-publish":true,"permalink":"/cards/temporal-distancing/","dgPassFrontmatter":true}
 ---
 
 
