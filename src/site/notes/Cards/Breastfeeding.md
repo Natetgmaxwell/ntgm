@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/breastfeeding/","tags":["Uni/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/breastfeeding/","dgPassFrontmatter":true}
 ---
 
 # Breastfeeding
