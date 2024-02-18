@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/immune-system/"}
+{"aliases":null,"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/immune-system/","dgPassFrontmatter":true}
 ---
 
 # Immune System
