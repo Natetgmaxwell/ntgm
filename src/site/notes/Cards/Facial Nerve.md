@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/facial-nerve/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":["CNVII","CN7"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/facial-nerve/","dgPassFrontmatter":true}
 ---
 
 # Facial Nerve
