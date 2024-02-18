@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/sarcoplasmic-hypertrophy/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/sarcoplasmic-hypertrophy/","dgPassFrontmatter":true}
 ---
 
 # Sarcoplasmic Hypertrophy
