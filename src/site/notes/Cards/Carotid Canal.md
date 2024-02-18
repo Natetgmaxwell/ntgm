@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/carotid-canal/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/carotid-canal/","dgPassFrontmatter":true}
 ---
 
 # Carotid Canal
