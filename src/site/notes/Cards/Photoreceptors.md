@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/photoreceptors/","tags":["Uni/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/photoreceptors/","dgPassFrontmatter":true}
 ---
 
 # Photoreceptors
