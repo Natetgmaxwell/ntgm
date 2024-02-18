@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/research-papers/porges1995-cardiac-vagal-tone/","tags":["source/researchpaper"]}
+{"zotero-key":"3W5ZEGV6","zt-attachments":["6479"],"FirstAuthor":"Stephen W. Porges","alias":"Cardiac vagal tone: A physiological index of stress","keywords":"Autonomic nervous system\nHeart rate\nRespiratory sinus arrhythmia\nStress\nVagal tone","tags":["source/researchpaper"],"dg-publish":true,"relations":["[[Stress]]","[[Parasympathetic Nervous System]]","[[Vagus Nerve]]","[[Respiratory Sinus Arrhythmia]]"],"permalink":"/sources/research-papers/porges1995-cardiac-vagal-tone/","dgPassFrontmatter":true}
 ---
 
 # @porges1995-CardiacVagalTone
