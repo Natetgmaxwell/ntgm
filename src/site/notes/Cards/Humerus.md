@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/humerus/","tags":["on/Science/Biology/Anatomy","Uni/OMT1","Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy","Uni/OMT1","Uni/LFS122","flashcards/LFS122"],"date created":"2023-04-03 Mon","dg-publish":true,"permalink":"/cards/humerus/","dgPassFrontmatter":true}
 ---
 
 
