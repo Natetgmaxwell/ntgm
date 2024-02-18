@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/bronchus/","tags":["Uni/HBIO1009","Uni/LFS112"]}
+{"aliases":["Bronchi"],"tags":["Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/bronchus/","dgPassFrontmatter":true}
 ---
 
 # Bronchus
@@ -45,7 +45,6 @@
 | Sources                                                                                         |
 | ----------------------------------------------------------------------------------------------- |
 | [[Sources/Video/@leedaffin2023-LFS122M9T1Respiratory\|@leedaffin2023-LFS122M9T1Respiratory]] |
-| [[Sources/Books/NEUROENDOCRINOLOGY OF STRESS\|NEUROENDOCRINOLOGY OF STRESS]]                 |
 
 { .block-language-dataview}
 
