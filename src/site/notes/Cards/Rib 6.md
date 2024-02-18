@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/rib-6/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/rib-6/","dgPassFrontmatter":true}
 ---
 
 # Rib 6
