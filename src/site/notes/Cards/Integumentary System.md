@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/integumentary-system/","tags":["Uni/LFS112","flashcards/LFS112","Uni/HBIO1009","on/Science/Biology/Anatomy"]}
+{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112","Uni/HBIO1009","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/integumentary-system/","dgPassFrontmatter":true}
 ---
 
 # Integumentary System
@@ -12,12 +12,12 @@
 > [!Definition] Definition
 > The integumentary system is the body's largest organ system, consisting of skin, hair, [[Cards/Nails\|Nails]], and associated glands.
 
-## Organs of the [[Cards/Integumentary System\|Integumentary System]] [[Sources/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]
+## Organs of the [[Cards/Integumentary System\|Integumentary System]] [[Sources/Research Papers/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]
 - [[Cards/Skin\|Skin]]
 - [[Cards/Hair\|Hair]]
 - [[Cards/Nails\|Nails]]
 
-## Functions of the [[Cards/Integumentary System\|Integumentary System]] [[Sources/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]
+## Functions of the [[Cards/Integumentary System\|Integumentary System]] [[Sources/Research Papers/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]
 - [[Cards/Thermoregulation\|Thermoregulation]]
 - [[Cards/Osmoregulation\|Osmoregulation]]
 - [[Cards/Vitamin D\|Vitamin D]] Synthesis
@@ -49,10 +49,10 @@
 
 { .block-language-dataview}
 
-| Sources                                                                         |
-| ------------------------------------------------------------------------------- |
-| [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]] |
-| [[Sources/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]       |
+| Sources                                                                                   |
+| ----------------------------------------------------------------------------------------- |
+| [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]]           |
+| [[Sources/Research Papers/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]] |
 
 { .block-language-dataview}
 
