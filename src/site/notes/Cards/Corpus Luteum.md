@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/corpus-luteum/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/corpus-luteum/","dgPassFrontmatter":true}
 ---
 
 # Corpus Luteum
