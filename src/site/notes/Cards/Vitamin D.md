@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/vitamin-d/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/vitamin-d/","dgPassFrontmatter":true}
 ---
 
 # Vitamin D
