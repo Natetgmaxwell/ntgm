@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/temporalis/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/temporalis/","dgPassFrontmatter":true}
 ---
 
 # Temporalis
