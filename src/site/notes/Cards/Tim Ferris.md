@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/tim-ferris/","tags":["on/People"]}
+{"aliases":null,"tags":["on/People"],"dg-publish":true,"permalink":"/cards/tim-ferris/","dgPassFrontmatter":true}
 ---
 
 # Tim Ferris
@@ -27,9 +27,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                     |
-| --------------------------------------------------------------------------- |
-| [[Sources/@ferris2023ShaneParrishWisdom\|@ferris2023ShaneParrishWisdom]] |
+| Sources                                                                              |
+| ------------------------------------------------------------------------------------ |
+| [[Sources/Podcasts/@ferris2023ShaneParrishWisdom\|@ferris2023ShaneParrishWisdom]] |
 
 { .block-language-dataview}
 
