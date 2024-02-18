@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/eukaryote/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/eukaryote/","dgPassFrontmatter":true}
 ---
 
 # Eukaryote
