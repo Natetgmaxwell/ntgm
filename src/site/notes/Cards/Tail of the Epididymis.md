@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/tail-of-the-epididymis/","tags":["Uni/LFS122"]}
+{"aliases":["tail of epididymis"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/tail-of-the-epididymis/","dgPassFrontmatter":true}
 ---
 
 # Tail of the Epididymis
