@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/mechanical-tension/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/mechanical-tension/","dgPassFrontmatter":true}
 ---
 
 # Mechanical Tension
