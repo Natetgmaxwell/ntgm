@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/organ-systems/","tags":["Uni/HBIO1009"]}
+{"aliases":["Body Systems"],"edited":"2023-04-06 Thu","date created":"2023-04-02 Sun","tags":["Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/organ-systems/","dgPassFrontmatter":true}
 ---
 
 # Organ Systems
@@ -32,7 +32,6 @@
 - [[Sources/Articles/LevelsOrganizationHuman2019\|LevelsOrganizationHuman2019]]
 - [[Sources/Books/2016GreenmanPrinciplesManualMedicine-lisaa.destefano\|2016GreenmanPrinciplesManualMedicine-lisaa.destefano]]
 - [[Sources/Books/Anatomy Skeletal Muscle\|Anatomy Skeletal Muscle]]
-- [[Sources/Books/NEUROENDOCRINOLOGY OF STRESS\|NEUROENDOCRINOLOGY OF STRESS]]
 - [[Sources/Other/HBIO1010 M1T1 Video - Overview of cell physiology and thermodynamics\|HBIO1010 M1T1 Video - Overview of cell physiology and thermodynamics]]
 - [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]]
 
