@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/michelangelo-di-lodovico-buonarroti-simoni/","tags":["on/People"]}
+{"aliases":["Michelangelo"],"tags":["on/People"],"dg-publish":true,"permalink":"/cards/michelangelo-di-lodovico-buonarroti-simoni/","dgPassFrontmatter":true}
 ---
 
 # Michelangelo Di Lodovico Buonarroti Simoni
@@ -26,9 +26,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                             |
-| ------------------------------------------------------------------- |
-| [[Sources/Books/@greene200048LawsPower\|@greene200048LawsPower]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
