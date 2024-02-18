@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cystic-fibrosis/","tags":["on/Health"]}
+{"aliases":["CF"],"Created:":"2022-05-09","tags":["on/Health"],"date created":"2022-05-09 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/cystic-fibrosis/","dgPassFrontmatter":true}
 ---
 
 
