@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/protein-synthesis/","tags":["School","on/Science/Biology","Uni/HBIO1009"]}
+{"aliases":["MPS"],"tags":["School","on/Science/Biology","Uni/HBIO1009"],"date created":"2022-03-11 Fri","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/protein-synthesis/","dgPassFrontmatter":true}
 ---
 
 # Protein Synthesis
