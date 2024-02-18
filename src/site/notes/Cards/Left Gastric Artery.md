@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/left-gastric-artery/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/left-gastric-artery/","dgPassFrontmatter":true}
 ---
 
 # Left Gastric Artery
