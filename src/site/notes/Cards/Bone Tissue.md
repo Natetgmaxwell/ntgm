@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/bone-tissue/","tags":["on/Science/Biology/Anatomy","Uni/OMT1","Uni/HBIO1010","Uni/LFS122","flashcards/LFS122"]}
+{"aliases":"bones,bone,osseous tissue","edited":"2023-04-06 Thu","date created":"2022-12-10 Sat","tags":["on/Science/Biology/Anatomy","Uni/OMT1","Uni/HBIO1010","Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/bone-tissue/","dgPassFrontmatter":true}
 ---
 
 # Bone Tissue
