@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/language/","tags":["moc","on/Science/Anthropology","Concept"]}
+{"edited":"2023-04-06 Thu","tags":["moc","on/Science/Anthropology","Concept"],"date created":"2022-02-20 Sun","dg-publish":true,"permalink":"/cards/language/","dgPassFrontmatter":true}
 ---
 
 # Language
@@ -13,9 +13,9 @@
 - [[Cards/Language\|Language]] facilitates [[Cards/Mental Constructs\|Mental Constructs]] that don't exist in the [[Cards/Physical world\|physical world]].
 - Words are not just a means of [[Cards/Language\|Language]]; they carry [[Cards/Emotion\|Emotion]].
 - [[Cards/Language\|Language]] was created for [[Cards/Social Interaction\|Social Interaction]] rather than descriptive purposes.
-- Our language was created for the social purpose of gossiping [[Sources/Books/@yuvalnoahharariSapiensBriefHistory2015\|@yuvalnoahharariSapiensBriefHistory2015]]
+- Our language was created for the social purpose of gossiping [[@yuvalnoahharariSapiensBriefHistory2015\|@yuvalnoahharariSapiensBriefHistory2015]]
 
-> [!quote] [[Sources/Books/Sapiens - A Brief History of Human Kind by Yuval Noah Harari\|Sapiens - A Brief History of Human Kind by Yuval Noah Harari]]
+> [!quote] [[Sapiens - A Brief History of Human Kind by Yuval Noah Harari\|Sapiens - A Brief History of Human Kind by Yuval Noah Harari]]
 > "Our language was created for the social purpose of gossiping."
 
 > [!quote] [[Cards/Julie Robinson\|Julie Robinson]]
