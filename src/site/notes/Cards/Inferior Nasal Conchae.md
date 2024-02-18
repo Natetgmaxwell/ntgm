@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/inferior-nasal-conchae/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/inferior-nasal-conchae/","dgPassFrontmatter":true}
 ---
 
 # Inferior Nasal Conchae
