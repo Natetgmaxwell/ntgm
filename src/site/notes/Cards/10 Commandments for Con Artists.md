@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/10-commandments-for-con-artists/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/10-commandments-for-con-artists/","dgPassFrontmatter":true}
 ---
 
 # 10 Commandments for Con Artists
