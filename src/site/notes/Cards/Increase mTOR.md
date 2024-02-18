@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/increase-m-tor/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/increase-m-tor/","dgPassFrontmatter":true}
 ---
 
 # Increase mTOR
