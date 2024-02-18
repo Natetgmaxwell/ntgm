@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hypothalamus/","tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":["paleomammalian cortex"],"edited":"2023-04-06 Thu","date created":"2022-11-30 Wed","dg-publish":true,"tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/hypothalamus/","dgPassFrontmatter":true}
 ---
 
 # Hypothalamus
@@ -15,7 +15,7 @@
 - The [[Cards/Hypothalamus\|Hypothalamus]] also promotes the feeling of [[Cards/Satiety\|Satiety]] to reduce further consumption.
 
 
-> [!quote] [[Sources/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]
+> [!quote] [[Sources/Video/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]
 > "Link between autonomic nervous system & [[Cards/Endocrine System\|endocrine system]]"
 
 # Reference
@@ -58,7 +58,7 @@
 | Sources                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Video/@leedaffin2023-LFS122M10T4Lymphatic\|@leedaffin2023-LFS122M10T4Lymphatic]]                                                         |
-| [[Sources/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]                                                           |
+| [[Sources/Video/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]                                                     |
 | [[Sources/Research Papers/@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine]] |
 | [[Sources/Articles/25 Mind-Blowing Psychological Facts About Love - YourTango\|25 Mind-Blowing Psychological Facts About Love - YourTango]]        |
 
