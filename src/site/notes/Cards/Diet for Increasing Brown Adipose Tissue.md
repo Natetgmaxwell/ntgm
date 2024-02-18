@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/diet-for-increasing-brown-adipose-tissue/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/diet-for-increasing-brown-adipose-tissue/","dgPassFrontmatter":true}
 ---
 
 # Diet for Increasing Brown Adipose Tissue
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-![Extras/Images/347FCAG3.png](/img/user/Extras/Images/347FCAG3.png) [[Sources/@xiaomengliu2023UpdateBrownAdipose\|@xiaomengliu2023UpdateBrownAdipose]]
+![Extras/Images/347FCAG3.png](/img/user/Extras/Images/347FCAG3.png) [[Sources/Research Papers/@xiaomengliu2023UpdateBrownAdipose\|@xiaomengliu2023UpdateBrownAdipose]]
 
 # Reference
 - 
@@ -30,9 +30,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                               |
-| ------------------------------------------------------------------------------------- |
-| [[Sources/@xiaomengliu2023UpdateBrownAdipose\|@xiaomengliu2023UpdateBrownAdipose]] |
+| Sources                                                                                               |
+| ----------------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@xiaomengliu2023UpdateBrownAdipose\|@xiaomengliu2023UpdateBrownAdipose]] |
 
 { .block-language-dataview}
 
