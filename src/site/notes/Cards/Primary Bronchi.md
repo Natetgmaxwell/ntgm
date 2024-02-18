@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/primary-bronchi/"}
+{"aliases":["main bronchi"],"tags":null,"dg-publish":true,"permalink":"/cards/primary-bronchi/","dgPassFrontmatter":true}
 ---
 
 # Primary Bronchi
