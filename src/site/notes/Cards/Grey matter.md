@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/grey-matter/","tags":["on/Science/Biology/Anatomy"]}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2023-04-02 Sun","dg-publish":true,"permalink":"/cards/grey-matter/","dgPassFrontmatter":true}
 ---
 
 # Grey matter
