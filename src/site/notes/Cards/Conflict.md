@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/conflict/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/conflict/","dgPassFrontmatter":true}
 ---
 
 # Conflict
