@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hormones/","tags":["Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","dg-publish":true,"tags":["Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/hormones/","dgPassFrontmatter":true}
 ---
 
 # Hormones
@@ -16,7 +16,7 @@
 
 One hormone can have different effects on different cells. An example being [[Cards/Epinephrine\|adrenaline]], which constricts blood vessels in the digestive tract and dilates the [[Cards/Bronchioles\|bronchioles]] in the lungs.
 
-## Functions [[Cards/Hormones\|Hormones]] control [[Sources/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]
+## Functions [[Cards/Hormones\|Hormones]] control [[Sources/Video/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]
 - Growth and development
 - Reproduction
 - Cell metabolism and energy
