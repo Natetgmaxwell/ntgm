@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/mind-muscle-connection/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/mind-muscle-connection/","dgPassFrontmatter":true}
 ---
 
 # Mind Muscle Connection
