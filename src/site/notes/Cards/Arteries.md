@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/arteries/","tags":["Uni/HBIO1009","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"tags":["Uni/HBIO1009","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/arteries/","dgPassFrontmatter":true}
 ---
 
 # Arteries
