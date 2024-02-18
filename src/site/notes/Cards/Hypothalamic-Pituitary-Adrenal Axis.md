@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hypothalamic-pituitary-adrenal-axis/","tags":["on/Science/Biology"]}
+{"aliases":["HPA Axis"],"tags":["on/Science/Biology"],"date created":"2022-11-28 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/hypothalamic-pituitary-adrenal-axis/","dgPassFrontmatter":true}
 ---
 
 # Hypothalamic-Pituitary-Adrenal Axis
@@ -50,7 +50,7 @@
 
 | Sources                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/@lindagallo2023LFS112M4T4Adrenal\|@lindagallo2023LFS112M4T4Adrenal]]                                                                     |
+| [[Sources/Video/@lindagallo2023LFS112M4T4Adrenal\|@lindagallo2023LFS112M4T4Adrenal]]                                                               |
 | [[Sources/Research Papers/@russell2019-HumanStressResponse\|@russell2019-HumanStressResponse]]                                                     |
 | [[Sources/Research Papers/@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine]] |
 | [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                                                         |
