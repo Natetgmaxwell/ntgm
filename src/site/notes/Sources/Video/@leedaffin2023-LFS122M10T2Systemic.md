@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m10-t2-systemic/","tags":["source/video","Uni/LFS122"]}
+{"aliases":["LFS122 M10T2 Systemic Arteries & Veins Inferior to the Heart"],"Status":"Watched","FirstAuthor":"","tags":["source/video","Uni/LFS122"],"dg-publish":true,"Priority":"Medium","permalink":"/sources/video/leedaffin2023-lfs-122-m10-t2-systemic/","dgPassFrontmatter":true}
 ---
 
 # @leedaffin2023-LFS122M10T2Systemic
