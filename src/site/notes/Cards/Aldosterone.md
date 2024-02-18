@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/aldosterone/","tags":["on/Science/Biology","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"tags":["on/Science/Biology","Uni/LFS112","flashcards/LFS112"],"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/aldosterone/","dgPassFrontmatter":true}
 ---
 
 # Aldosterone
