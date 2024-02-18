@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/aldosterone-s-effect-on-sodium/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/aldosterone-s-effect-on-sodium/","dgPassFrontmatter":true}
 ---
 
 # Aldosterone's Effect on Sodium
