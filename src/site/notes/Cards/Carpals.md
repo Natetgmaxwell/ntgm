@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/carpals/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":["carpal"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/carpals/","dgPassFrontmatter":true}
 ---
 
 # Carpals
