@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/common-carotid-artery/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/common-carotid-artery/","dgPassFrontmatter":true}
 ---
 
 # Common Carotid Artery
