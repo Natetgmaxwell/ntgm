@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/duodenal-papilla/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/duodenal-papilla/","dgPassFrontmatter":true}
 ---
 
 # Duodenal Papilla
