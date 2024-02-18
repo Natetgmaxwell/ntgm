@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/elon-musk-s-algorithm/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/elon-musk-s-algorithm/","dgPassFrontmatter":true}
 ---
 
 # Elon Musk's Algorithm
