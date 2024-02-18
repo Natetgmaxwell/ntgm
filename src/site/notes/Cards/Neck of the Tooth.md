@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/neck-of-the-tooth/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/neck-of-the-tooth/","dgPassFrontmatter":true}
 ---
 
 # Neck of the Tooth
