@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/muscular-configuration/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/muscular-configuration/","dgPassFrontmatter":true}
 ---
 
 # Muscular Configuration
