@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m9-t1-respiratory/","tags":["source/video","Uni/LFS122"]}
+{"aliases":["LFS122 M9T1 The Respiratory System"],"Status":"Watched","FirstAuthor":"","tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m9-t1-respiratory/","dgPassFrontmatter":true}
 ---
 
 # @leedaffin2023-LFS122M9T1Respiratory
