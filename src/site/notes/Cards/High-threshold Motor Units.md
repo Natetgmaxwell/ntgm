@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/high-threshold-motor-units/","tags":["on/Science/Biology/Anatomy"]}
+{"aliases":["HTMU"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2023-02-08 Wed","dg-publish":true,"permalink":"/cards/high-threshold-motor-units/","dgPassFrontmatter":true}
 ---
 
 # High-threshold Motor Units
