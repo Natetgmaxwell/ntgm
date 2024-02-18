@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/brain/","tags":["on/Science/Biology/Anatomy"]}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2023-02-13 Mon","dg-publish":true,"permalink":"/cards/brain/","dgPassFrontmatter":true}
 ---
 
 # Brain
