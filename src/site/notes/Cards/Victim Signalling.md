@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/victim-signalling/"}
+{"aliases":["victim signaling"],"tags":null,"dg-publish":true,"permalink":"/cards/victim-signalling/","dgPassFrontmatter":true}
 ---
 
 # Victim Signalling
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@ok2021SignalingVirtuousVictimhood\|@ok2021SignalingVirtuousVictimhood]]
+> [!quote] [[Sources/Research Papers/@ok2021SignalingVirtuousVictimhood\|@ok2021SignalingVirtuousVictimhood]]
 > The obligation to alleviate others’ pain can be found in most of the world’s moral systems. It also appears to be built into the structure of the mind by evolution, as evidenced by the human tendency to feel distress at signs of suffering. It is therefore not surprising that many people are motivated to help perceived victims of misfortune or disadvantage.
 
 # Reference
@@ -29,10 +29,10 @@
 
 { .block-language-dataview}
 
-| Sources                                                                               |
-| ------------------------------------------------------------------------------------- |
-| [[Sources/@henderson2022VictimSignalingDark\|@henderson2022VictimSignalingDark]]   |
-| [[Sources/@ok2021SignalingVirtuousVictimhood\|@ok2021SignalingVirtuousVictimhood]] |
+| Sources                                                                                               |
+| ----------------------------------------------------------------------------------------------------- |
+| [[Sources/Articles/@henderson2022VictimSignalingDark\|@henderson2022VictimSignalingDark]]          |
+| [[Sources/Research Papers/@ok2021SignalingVirtuousVictimhood\|@ok2021SignalingVirtuousVictimhood]] |
 
 { .block-language-dataview}
 
