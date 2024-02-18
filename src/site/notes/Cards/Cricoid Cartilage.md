@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cricoid-cartilage/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/cricoid-cartilage/","dgPassFrontmatter":true}
 ---
 
 # Cricoid Cartilage
