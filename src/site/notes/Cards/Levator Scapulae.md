@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/levator-scapulae/","tags":["Uni/OMT1","flashcards/osteo-flashcards"]}
+{"aliases":null,"edited":"2023-04-06 Thu","date created":"2023-03-10 Fri","tags":["Uni/OMT1","flashcards/osteo-flashcards"],"dg-publish":true,"permalink":"/cards/levator-scapulae/","dgPassFrontmatter":true}
 ---
 
 # Levator Scapulae
