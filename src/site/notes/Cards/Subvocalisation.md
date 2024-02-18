@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/subvocalisation/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/subvocalisation/","dgPassFrontmatter":true}
 ---
 
 # Subvocalisation
