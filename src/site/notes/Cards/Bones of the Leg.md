@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/bones-of-the-leg/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/bones-of-the-leg/","dgPassFrontmatter":true}
 ---
 
 # Bones of the Leg
