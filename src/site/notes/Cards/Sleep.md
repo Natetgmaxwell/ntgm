@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/sleep/","tags":["moc"]}
+{"aliases":["sleep","sleeping"],"edited":"2023-04-06 Thu","tags":["moc"],"date created":"2022-03-26 Sat","dg-publish":true,"permalink":"/cards/sleep/","dgPassFrontmatter":true}
 ---
 
 # Sleep
