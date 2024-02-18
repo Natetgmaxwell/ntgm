@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/mandible/","tags":["Uni/LFS122"]}
+{"aliases":["jaw bone"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/mandible/","dgPassFrontmatter":true}
 ---
 
 # Mandible
