@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/left-hepatic-duct/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/left-hepatic-duct/","dgPassFrontmatter":true}
 ---
 
 # Left Hepatic Duct
