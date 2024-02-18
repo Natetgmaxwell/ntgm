@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/vitamin-b/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/vitamin-b/","dgPassFrontmatter":true}
 ---
 
 # Vitamin B
