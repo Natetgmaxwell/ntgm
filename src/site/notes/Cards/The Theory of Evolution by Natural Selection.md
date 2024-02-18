@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/the-theory-of-evolution-by-natural-selection/","tags":["on/Science/Biology","School"]}
+{"Created:":"2022-06-02","aliases":["Natural Selection"],"tags":["on/Science/Biology","School"],"date created":"2022-06-02 Thu","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/the-theory-of-evolution-by-natural-selection/","dgPassFrontmatter":true}
 ---
 
 # The Theory of Evolution by Natural Selection
@@ -48,7 +48,6 @@
 ## Mentions
 - [[Cards/Alfred Russel Wallace\|Alfred Russel Wallace]]
 - [[Sources/Articles/Humans may have inherited nose shape gene from Neanderthals, study suggests - Evening Standard\|Humans may have inherited nose shape gene from Neanderthals, study suggests - Evening Standard]]
-- [[Sources/Books/Sapiens - A Brief History of Human Kind by Yuval Noah Harari\|Sapiens - A Brief History of Human Kind by Yuval Noah Harari]]
 - [[Sources/Podcasts/Podcast Episodes/ 542   Dr Randy Nesse   Evolutionary Psychiatry Can Explain Human Emotions\| 542   Dr Randy Nesse   Evolutionary Psychiatry Can Explain Human Emotions]]
 
 { .block-language-dataview}
