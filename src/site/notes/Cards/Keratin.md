@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/keratin/","tags":["flashcards/LFS122"]}
+{"aliases":null,"dg-publish":true,"tags":["flashcards/LFS122"],"permalink":"/cards/keratin/","dgPassFrontmatter":true}
 ---
 
 # Keratin
