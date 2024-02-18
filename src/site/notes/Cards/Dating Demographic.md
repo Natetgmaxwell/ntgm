@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/dating-demographic/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/dating-demographic/","dgPassFrontmatter":true}
 ---
 
 # Dating Demographic
@@ -13,7 +13,7 @@
 > 
 
 ![Extras/Images/8XAF22I5.png](/img/user/Extras/Images/8XAF22I5.png)
-[[Sources/@Henderson2022-SwipingDatingPreferencesa\|@Henderson2022-SwipingDatingPreferencesa]]
+[[Sources/Articles/@Henderson2022-SwipingDatingPreferencesa\|@Henderson2022-SwipingDatingPreferencesa]]
 # Reference
 - 
 
@@ -28,9 +28,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                           |
-| ------------------------------------------------------------------------------------------------- |
-| [[Sources/@Henderson2022-SwipingDatingPreferencesa\|@Henderson2022-SwipingDatingPreferencesa]] |
+| Sources                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------- |
+| [[Sources/Articles/@Henderson2022-SwipingDatingPreferencesa\|@Henderson2022-SwipingDatingPreferencesa]] |
 
 { .block-language-dataview}
 
