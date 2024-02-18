@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/capillaries/","tags":["Uni/HBIO1010","Uni/LFS112"]}
+{"aliases":null,"tags":["Uni/HBIO1010","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/capillaries/","dgPassFrontmatter":true}
 ---
 
 # Capillaries
