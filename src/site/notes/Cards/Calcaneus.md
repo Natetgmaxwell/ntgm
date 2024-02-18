@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/calcaneus/","tags":["on/Science/Biology/Anatomy","Uni/OMT1"]}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy","Uni/OMT1"],"date created":"2023-04-04 Tue","dg-publish":true,"permalink":"/cards/calcaneus/","dgPassFrontmatter":true}
 ---
 
 # Calcaneus
