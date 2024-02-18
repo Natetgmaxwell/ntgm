@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/resistance-training/"}
+{"aliases":null,"dg-publish":true,"permalink":"/cards/resistance-training/","dgPassFrontmatter":true}
 ---
 
 # Resistance Training
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > “Resistance training can turn [[Cards/Fast-Twitch Glycolytic Fibers\|type IIb]] fibers into [[Cards/Fast-Twitch Oxidative Fibers\|type IIa]] if the utilisation of
 the  oxidative  cycle  increases  due  to  an  improvement  in  efficiency”
 
