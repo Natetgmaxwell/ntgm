@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/lipids/","tags":["on/Science/Biology/Biochemistry"]}
+{"aliases":["fat"],"date created":"2022-11-30 Wed","edited":"2023-04-06 Thu","tags":["on/Science/Biology/Biochemistry"],"dg-publish":true,"permalink":"/cards/lipids/","dgPassFrontmatter":true}
 ---
 
 # Lipids
