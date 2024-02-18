@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/ribonucleic-acid/","tags":["School","on/Science/Biology/Genetics"]}
+{"aliases":["RNA"],"tags":["School","on/Science/Biology/Genetics"],"date created":"2022-03-07 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/ribonucleic-acid/","dgPassFrontmatter":true}
 ---
 
 # Ribonucleic Acid
