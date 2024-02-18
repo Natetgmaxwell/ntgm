@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/physiology/","tags":["moc"]}
+{"aliases":null,"tags":["moc"],"dg-publish":true,"permalink":"/cards/physiology/","dgPassFrontmatter":true}
 ---
 
 # Physiology
