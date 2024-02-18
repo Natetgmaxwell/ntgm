@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/shivering/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/shivering/","dgPassFrontmatter":true}
 ---
 
 # Shivering
