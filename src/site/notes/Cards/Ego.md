@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/ego/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/ego/","dgPassFrontmatter":true}
 ---
 
 # Ego
