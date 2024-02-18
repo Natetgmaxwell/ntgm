@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/natural-selection-in-business/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/natural-selection-in-business/","dgPassFrontmatter":true}
 ---
 
 # Natural Selection in Business
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
+> [!quote] [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
 > According to [[Cards/Milton Friedman\|Friedman]], the typical business acts as if it’s trying to maximize its profits, not only because that’s what its directors are aiming at, but also because businesses that don’t make a good profit are ruthlessly culled from the business population.
 
 # Reference
@@ -32,9 +32,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                       |
-| --------------------------------------------------------------------------------------------- |
-| [[Sources/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]] |
+| Sources                                                                                             |
+| --------------------------------------------------------------------------------------------------- |
+| [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]] |
 
 { .block-language-dataview}
 
