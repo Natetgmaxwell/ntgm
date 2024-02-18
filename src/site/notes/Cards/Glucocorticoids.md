@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/glucocorticoids/","tags":["Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/glucocorticoids/","dgPassFrontmatter":true}
 ---
 
 # Glucocorticoids
@@ -16,7 +16,6 @@
 - 
 
 ## Mentions
-- [[Sources/Books/NEUROENDOCRINOLOGY OF STRESS\|NEUROENDOCRINOLOGY OF STRESS]]
 - [[Sources/Research Papers/@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine]]
 
 { .block-language-dataview}
