@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/narcissism/"}
+{"aliases":["narcissists","narcissist"],"edited":"2023-04-06 Thu","date created":"2022-03-02 Wed","dg-publish":true,"permalink":"/cards/narcissism/","dgPassFrontmatter":true}
 ---
 
 # Narcissism
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]
+> [!quote] [[Sources/Books/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]
 > “We are all [[Cards/Narcissism\|narcissists]], some deeper on the spectrum than others”
 
 - The [[Cards/Belief\|belief]] is that others are inferior to themselves and lack [[Cards/Empathy\|empathy]].
