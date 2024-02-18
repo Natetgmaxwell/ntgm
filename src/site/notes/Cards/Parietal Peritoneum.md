@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/parietal-peritoneum/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/parietal-peritoneum/","dgPassFrontmatter":true}
 ---
 
 # Parietal Peritoneum
