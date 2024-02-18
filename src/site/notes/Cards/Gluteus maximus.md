@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/gluteus-maximus/","tags":["on/Science/Biology/Anatomy","Uni/OMT1","flashcards/osteo-flashcards","Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["on/Science/Biology/Anatomy","Uni/OMT1","flashcards/osteo-flashcards","Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/gluteus-maximus/","dgPassFrontmatter":true}
 ---
 
 # Gluteus maximus
