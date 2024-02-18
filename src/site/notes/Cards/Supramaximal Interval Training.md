@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/supramaximal-interval-training/"}
+{"aliases":["SMIT"],"edited":"2023-04-06 Thu","date created":"2023-02-21 Tue","dg-publish":true,"permalink":"/cards/supramaximal-interval-training/","dgPassFrontmatter":true}
 ---
 
 # Supramaximal Interval Training
