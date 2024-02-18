@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/prostate-gland/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/prostate-gland/","dgPassFrontmatter":true}
 ---
 
 # Prostate Gland
