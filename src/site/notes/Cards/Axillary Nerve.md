@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/axillary-nerve/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/axillary-nerve/","dgPassFrontmatter":true}
 ---
 
 # Axillary Nerve
