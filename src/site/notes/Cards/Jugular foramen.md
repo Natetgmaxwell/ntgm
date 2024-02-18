@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/jugular-foramen/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/jugular-foramen/","dgPassFrontmatter":true}
 ---
 
 # Jugular Foramen
