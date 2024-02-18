@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/consciousness/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/consciousness/","dgPassFrontmatter":true}
 ---
 
 # Consciousness
