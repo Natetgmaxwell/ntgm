@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/emotion/"}
+{"aliases":["Emotions","emotions","emotional"],"edited":"2023-04-06 Thu","date created":"2022-12-20 Tue","dg-publish":true,"permalink":"/cards/emotion/","dgPassFrontmatter":true}
 ---
 
 # Emotion
@@ -12,10 +12,10 @@
 > [!Definition] Definition
 > **Emotions** are [mental states](https://en.wikipedia.org/wiki/Mental_state "Mental state") brought on by [neurophysiological](https://en.wikipedia.org/wiki/Neurophysiology "Neurophysiology") changes, variously associated with thoughts, feelings, behavioural responses, and a degree of [pleasure](https://en.wikipedia.org/wiki/Pleasure "Pleasure") or [displeasure](https://en.wikipedia.org/wiki/Suffering "Suffering").
 
-> [!quote] [[Sources/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
+> [!quote] [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
 > "The function of any emotion is to motivate behaviour"
 
-> [!quote] [[Cards/Robert Greene\|Robert Greene]] on the purpose of [[Cards/Emotion\|Emotions]] [[Sources/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]
+> [!quote] [[Cards/Robert Greene\|Robert Greene]] on the purpose of [[Cards/Emotion\|Emotions]] [[Sources/Books/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]
 > "Emotions originate as physical arousal designed to capture our attention and cause us to take notice of something around us."
 
 | [[Cards/High-Grade Emotions\|High-Grade Emotions]]           | [[Cards/Low-Grade Emotions\|Low-Grade Emotions]] |
