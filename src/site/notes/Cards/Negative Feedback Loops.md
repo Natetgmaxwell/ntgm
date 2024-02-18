@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/negative-feedback-loops/","tags":["Uni/LFS112","Uni/HBIO1009"]}
+{"aliases":["Negative Feedback"],"dg-publish":true,"tags":["Uni/LFS112","Uni/HBIO1009"],"permalink":"/cards/negative-feedback-loops/","dgPassFrontmatter":true}
 ---
 
 # Negative Feedback Loops
