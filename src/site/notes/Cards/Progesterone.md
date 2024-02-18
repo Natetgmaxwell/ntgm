@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/progesterone/","tags":["Uni/HBIO1010"]}
+{"aliases":null,"tags":["Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/progesterone/","dgPassFrontmatter":true}
 ---
 
 # Progesterone
