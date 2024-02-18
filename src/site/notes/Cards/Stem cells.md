@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/stem-cells/"}
+{"edited":"2023-04-06 Thu","date created":"2022-02-24 Thu","dg-publish":true,"permalink":"/cards/stem-cells/","dgPassFrontmatter":true}
 ---
 
 # Stem cells
@@ -13,9 +13,9 @@
 > Stem cells are a type of cell that has the ability to differentiate into specialized cells and divide to produce more stem cells. They serve as a repair system for the body, replenishing injured tissues and organs. Stem cells can be found in many multicellular organisms, including humans.
 
 ![Extras/Images/PVAGAVGV.png|550](/img/user/Extras/Images/PVAGAVGV.png)
-[[Sources/@goodellStemCellsHealthy2015\|@goodellStemCellsHealthy2015]]
+[[Sources/Research Papers/@goodellStemCellsHealthy2015\|@goodellStemCellsHealthy2015]]
 
-> [!quote] [[Sources/@goodellStemCellsHealthy2015\|@goodellStemCellsHealthy2015]]
+> [!quote] [[Sources/Research Papers/@goodellStemCellsHealthy2015\|@goodellStemCellsHealthy2015]]
 > After organismal growth ceases, stem cells effectively maintain tissues through the peak reproductive years.
 
 # Reference
