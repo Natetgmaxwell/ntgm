@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/frontal-sinus/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/frontal-sinus/","dgPassFrontmatter":true}
 ---
 
 # Frontal Sinus
