@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hepatic-portal-system/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/hepatic-portal-system/","dgPassFrontmatter":true}
 ---
 
 # Hepatic Portal System
