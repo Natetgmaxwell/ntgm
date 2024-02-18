@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/caloric-restriction/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/caloric-restriction/","dgPassFrontmatter":true}
 ---
 
 # Caloric Restriction
