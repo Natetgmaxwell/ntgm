@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/oxytocin-in-childbirth/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/oxytocin-in-childbirth/","dgPassFrontmatter":true}
 ---
 
 # Oxytocin in Childbirth
