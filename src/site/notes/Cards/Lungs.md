@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/lungs/"}
+{"aliases":null,"dg-publish":true,"permalink":"/cards/lungs/","dgPassFrontmatter":true}
 ---
 
 # Lungs
