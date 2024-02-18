@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/external-acoustic-meatus/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/external-acoustic-meatus/","dgPassFrontmatter":true}
 ---
 
 # External Acoustic Meatus
