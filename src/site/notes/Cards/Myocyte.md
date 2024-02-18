@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/myocyte/","tags":["Uni/HBIO1010","flashcards/hbio1010"]}
+{"aliases":["muscle cell","muscle cells"],"tags":["Uni/HBIO1010","flashcards/hbio1010"],"dg-publish":true,"permalink":"/cards/myocyte/","dgPassFrontmatter":true}
 ---
 
 # Myocyte
