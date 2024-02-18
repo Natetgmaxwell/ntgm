@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/education/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/education/","dgPassFrontmatter":true}
 ---
 
 # Education
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
+> [!quote] [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
 > "This means that, by learning about science and getting a good education, we become as knowledgeable as a person who spent thousands or millions of years thinking and exploring the world."
 
 # Reference
