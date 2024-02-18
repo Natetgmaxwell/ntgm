@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/alzheimer-s-disease/"}
+{"aliases":["AD"],"edited":"2023-04-06 Thu","date created":"2023-04-01 Sat","dg-publish":true,"permalink":"/cards/alzheimer-s-disease/","dgPassFrontmatter":true}
 ---
 
 # Alzheimer's disease
@@ -38,7 +38,6 @@
 | Sources                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Research Papers/@gulayan2022RapamycinBenefitsSide\|@gulayan2022RapamycinBenefitsSide]]                                                                           |
-| [[Sources/@peterattia2023OutliveScienceArt\|@peterattia2023OutliveScienceArt]]                                                                                             |
 | [[Sources/Research Papers/@sato2022-TuningAgedClock\|@sato2022-TuningAgedClock]]                                                                                           |
 | [[Sources/Podcasts/Podcast Episodes/OUTLIVE  Peter Attia’s Guide to the Science of Longevity (Part 1)\|OUTLIVE  Peter Attia’s Guide to the Science of Longevity (Part 1)]] |
 
