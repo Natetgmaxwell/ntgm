@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/sagital-suture/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/sagital-suture/","dgPassFrontmatter":true}
 ---
 
 # Sagital Suture
