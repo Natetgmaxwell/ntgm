@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/calcitonins-effect-of-the-kidneys/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/calcitonins-effect-of-the-kidneys/","dgPassFrontmatter":true}
 ---
 
 # Calcitonins Effect of the Kidneys
