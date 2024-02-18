@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/brachiocephalic-vein/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":["brachiocephalic veins"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/brachiocephalic-vein/","dgPassFrontmatter":true}
 ---
 
 # Brachiocephalic Vein
