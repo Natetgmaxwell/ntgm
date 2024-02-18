@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/pyruvate/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/pyruvate/","dgPassFrontmatter":true}
 ---
 
 # Pyruvate
