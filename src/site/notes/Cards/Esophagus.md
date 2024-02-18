@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/esophagus/","tags":["Uni/HBIO1010","Uni/HBIO1009","Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/HBIO1010","Uni/HBIO1009","Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/esophagus/","dgPassFrontmatter":true}
 ---
 
 # Esophagus
