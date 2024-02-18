@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/ramus-of-the-mandible/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/ramus-of-the-mandible/","dgPassFrontmatter":true}
 ---
 
 # Ramus of the Mandible
