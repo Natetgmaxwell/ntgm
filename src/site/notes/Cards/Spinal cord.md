@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/spinal-cord/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"edited":"2023-04-06 Thu","date created":"2023-03-28 Tue","tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/spinal-cord/","dgPassFrontmatter":true}
 ---
 
 # Spinal cord
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@honorhugo2023LFS122M4T2Gross\|@honorhugo2023LFS122M4T2Gross]]
+> [!quote] [[Sources/Video/@honorhugo2023LFS122M4T2Gross\|@honorhugo2023LFS122M4T2Gross]]
 > The spinal cord is a long, thin, tubular bundle of [[Cards/Nervous Tissue\|nervous tissue]] and support cells.
 
 # Reference
@@ -47,9 +47,9 @@
 
 | Sources                                                                                     |
 | ------------------------------------------------------------------------------------------- |
-| [[Sources/@honorhugo2023LFS122M4T2Gross\|@honorhugo2023LFS122M4T2Gross]]                 |
+| [[Sources/Video/@honorhugo2023LFS122M4T2Gross\|@honorhugo2023LFS122M4T2Gross]]           |
 | [[Sources/Video/@leedaffin2023LFS122M5T3Brain\|@leedaffin2023LFS122M5T3Brain]]           |
-| [[Sources/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]]                                   |
+| [[Sources/Video/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]]                             |
 | [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]] |
 | [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]]           |
 
