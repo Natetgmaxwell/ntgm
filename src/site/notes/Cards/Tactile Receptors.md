@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/tactile-receptors/","tags":["Uni/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/tactile-receptors/","dgPassFrontmatter":true}
 ---
 
 # Tactile Receptors
