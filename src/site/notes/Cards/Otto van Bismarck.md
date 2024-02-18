@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/otto-van-bismarck/","tags":["on/People"]}
+{"aliases":null,"tags":["on/People"],"dg-publish":true,"permalink":"/cards/otto-van-bismarck/","dgPassFrontmatter":true}
 ---
 
 # Otto Van Bismarck
