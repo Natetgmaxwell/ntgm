@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/bones-of-the-hand/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/bones-of-the-hand/","dgPassFrontmatter":true}
 ---
 
 # Bones of the Hand
