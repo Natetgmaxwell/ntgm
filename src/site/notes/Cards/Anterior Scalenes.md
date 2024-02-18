@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/anterior-scalenes/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/anterior-scalenes/","dgPassFrontmatter":true}
 ---
 
 # Anterior Scalenes
