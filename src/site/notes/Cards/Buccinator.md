@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/buccinator/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/buccinator/","dgPassFrontmatter":true}
 ---
 
 # Buccinator
