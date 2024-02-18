@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/ulnar-artery/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/ulnar-artery/","dgPassFrontmatter":true}
 ---
 
 # Ulnar Artery
