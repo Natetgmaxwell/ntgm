@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/brain-stem/","tags":["Uni/HBIO1009","Uni/LFS112"]}
+{"aliases":null,"tags":["Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/brain-stem/","dgPassFrontmatter":true}
 ---
 
 # Brain Stem
