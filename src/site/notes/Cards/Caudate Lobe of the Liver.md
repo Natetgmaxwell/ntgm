@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/caudate-lobe-of-the-liver/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/caudate-lobe-of-the-liver/","dgPassFrontmatter":true}
 ---
 
 # Caudate Lobe of the Liver
