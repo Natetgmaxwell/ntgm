@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/l-theanine/"}
+{"aliases":null,"dg-publish":true,"permalink":"/cards/l-theanine/","dgPassFrontmatter":true}
 ---
 
 # L-theanine
