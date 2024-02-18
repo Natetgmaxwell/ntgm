@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/fascia/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/fascia/","dgPassFrontmatter":true}
 ---
 
 # Fascia
