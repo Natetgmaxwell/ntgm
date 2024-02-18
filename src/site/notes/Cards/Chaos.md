@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/chaos/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/chaos/","dgPassFrontmatter":true}
 ---
 
 # Chaos
