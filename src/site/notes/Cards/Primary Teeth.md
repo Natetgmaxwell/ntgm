@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/primary-teeth/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":["milk teeth","baby teeth","Deciduous teeth"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/primary-teeth/","dgPassFrontmatter":true}
 ---
 
 # Primary Teeth
