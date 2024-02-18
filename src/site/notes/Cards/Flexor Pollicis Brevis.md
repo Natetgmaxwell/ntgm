@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/flexor-pollicis-brevis/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/flexor-pollicis-brevis/","dgPassFrontmatter":true}
 ---
 
 # Flexor Pollicis Brevis
