@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/phalanges-of-the-foot/","tags":["Uni/LFS122","flashcards/LFS122","on/Science/Biology/Anatomy"]}
+{"aliases":["Toes. toes"],"tags":["Uni/LFS122","flashcards/LFS122","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/phalanges-of-the-foot/","dgPassFrontmatter":true}
 ---
 
 # Phalanges of the Foot
