@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/gluconeogenesis/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/gluconeogenesis/","dgPassFrontmatter":true}
 ---
 
 # Gluconeogenesis
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > [[Cards/Gluconeogenesis\|Gluconeogenesis]] is a metabolic pathway that generates [[Cards/Glucose\|Glucose]] from certain non-carbohydrate carbon substrates.
 
-> [!quote] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > Glucogenic  amino  acids  can  be  converted  into  [[Cards/Glucose\|glucose]]  through [[Cards/Gluconeogenesis\|Gluconeogenesis]],  and  they  include  [[Cards/Alanine\|Alanine]],  [[Cards/Arginine\|Arginine]],  [[Cards/Asparagine\|Asparagine]], [[Cards/Cysteine\|cysteine]], [[Cards/Glutamic acid\|Glutamic acid]],  [[Cards/Glutamine\|Glutamine]],  [[Cards/Histidine\|Histidine]],  [[Cards/Methionine\|Methionine]],  [[Cards/Proline\|Proline]],  [[Cards/Serine\|Serine]]  and [[Cards/Valine\|Valine]].
 
 # Reference
@@ -25,28 +25,27 @@
 
 { .block-language-dataview}
 
-| Outgoing Links                                                                                |
-| --------------------------------------------------------------------------------------------- |
-| [[Cards/Glucose\|Glucose]]                                                                 |
-| [[Cards/Gluconeogenesis\|Gluconeogenesis]]                                                 |
-| [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] |
-| [[Cards/Alanine\|Alanine]]                                                                 |
-| [[Cards/Arginine\|Arginine]]                                                               |
-| [[Cards/Asparagine\|Asparagine]]                                                           |
-| [[Cards/Cysteine\|Cysteine]]                                                               |
-| [[Cards/Glutamic acid\|Glutamic acid]]                                                     |
-| [[Cards/Glutamine\|Glutamine]]                                                             |
-| [[Cards/Histidine\|Histidine]]                                                             |
-| [[Cards/Methionine\|Methionine]]                                                           |
-| [[Cards/Proline\|Proline]]                                                                 |
-| [[Cards/Serine\|Serine]]                                                                   |
-| [[Cards/Valine\|Valine]]                                                                   |
+| Outgoing Links                                                                                      |
+| --------------------------------------------------------------------------------------------------- |
+| [[Cards/Glucose\|Glucose]]                                                                       |
+| [[Cards/Gluconeogenesis\|Gluconeogenesis]]                                                       |
+| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] |
+| [[Cards/Alanine\|Alanine]]                                                                       |
+| [[Cards/Arginine\|Arginine]]                                                                     |
+| [[Cards/Asparagine\|Asparagine]]                                                                 |
+| [[Cards/Cysteine\|Cysteine]]                                                                     |
+| [[Cards/Glutamic acid\|Glutamic acid]]                                                           |
+| [[Cards/Glutamine\|Glutamine]]                                                                   |
+| [[Cards/Histidine\|Histidine]]                                                                   |
+| [[Cards/Methionine\|Methionine]]                                                                 |
+| [[Cards/Proline\|Proline]]                                                                       |
+| [[Cards/Serine\|Serine]]                                                                         |
+| [[Cards/Valine\|Valine]]                                                                         |
 
 { .block-language-dataview}
 
-| Sources                                                                         |
-| ------------------------------------------------------------------------------- |
-| [[Sources/Books/NEUROENDOCRINOLOGY OF STRESS\|NEUROENDOCRINOLOGY OF STRESS]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
