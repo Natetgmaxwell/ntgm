@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/sphenoid-bone/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/sphenoid-bone/","dgPassFrontmatter":true}
 ---
 
 # Sphenoid Bone
