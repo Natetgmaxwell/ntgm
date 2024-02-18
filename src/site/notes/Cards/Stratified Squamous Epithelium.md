@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/stratified-squamous-epithelium/","tags":["Uni/LFS103","flashcards/LFS103"]}
+{"aliases":null,"tags":["Uni/LFS103","flashcards/LFS103"],"dg-publish":true,"permalink":"/cards/stratified-squamous-epithelium/","dgPassFrontmatter":true}
 ---
 
 # Stratified Squamous Epithelium
