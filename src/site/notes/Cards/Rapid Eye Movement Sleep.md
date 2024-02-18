@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/rapid-eye-movement-sleep/","tags":["on/Health"]}
+{"aliases":["REM","rem sleep"],"edited":"2023-04-06 Thu","tags":["on/Health"],"date created":"2022-12-14 Wed","dg-publish":true,"permalink":"/cards/rapid-eye-movement-sleep/","dgPassFrontmatter":true}
 ---
 
 # Rapid Eye Movement Sleep
