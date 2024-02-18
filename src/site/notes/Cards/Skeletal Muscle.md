@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/skeletal-muscle/","tags":["Uni/LFS112","Uni/HBIO1010","flashcards/LFS112","Uni/HBIO1009"]}
+{"aliases":null,"date created":"2023-04-08 Sat","edited":"2023-04-08 Sat","dg-publish":true,"tags":["Uni/LFS112","Uni/HBIO1010","flashcards/LFS112","Uni/HBIO1009"],"permalink":"/cards/skeletal-muscle/","dgPassFrontmatter":true}
 ---
 
 # Skeletal Muscle
