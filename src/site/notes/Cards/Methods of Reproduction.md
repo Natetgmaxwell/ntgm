@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/methods-of-reproduction/","tags":["School","genetics"]}
+{"edited":"2023-04-06 Thu","date created":"2021-12-26 Sun","tags":["School","genetics"],"dg-publish":true,"permalink":"/cards/methods-of-reproduction/","dgPassFrontmatter":true}
 ---
 
 # Methods of Reproduction
