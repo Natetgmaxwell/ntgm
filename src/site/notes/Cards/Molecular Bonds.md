@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/molecular-bonds/"}
+{"aliases":["chemical bonds"],"dg-publish":true,"permalink":"/cards/molecular-bonds/","dgPassFrontmatter":true}
 ---
 
 # Molecular Bonds
