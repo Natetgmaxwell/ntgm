@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-1-diabetes/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/type-1-diabetes/","dgPassFrontmatter":true}
 ---
 
 # Type 1 Diabetes
