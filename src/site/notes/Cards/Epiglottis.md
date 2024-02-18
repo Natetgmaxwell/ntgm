@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/epiglottis/","tags":["Uni/LFS122"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/LFS122"],"permalink":"/cards/epiglottis/","dgPassFrontmatter":true}
 ---
 
 # Epiglottis
