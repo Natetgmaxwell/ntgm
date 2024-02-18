@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/lipid-hormones/","tags":["Uni/HBIO1010","flashcards/hbio1010","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"tags":["Uni/HBIO1010","flashcards/hbio1010","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/lipid-hormones/","dgPassFrontmatter":true}
 ---
 
 # Lipid Hormones
