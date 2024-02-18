@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/diet-for-increasing-testosterone/"}
+{"aliases":["foods for testosterone"],"tags":null,"dg-publish":true,"permalink":"/cards/diet-for-increasing-testosterone/","dgPassFrontmatter":true}
 ---
 
 # Diet for Increasing Testosterone
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
+> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
 > "Foods like egg yolks, [[Cards/Red Meat\|Red Meat]], [[Cards/Fish\|Fish]], and saturated fat help with testosterone production as they contain precursors and elements needed to make testosterone like [[Cards/Cholesterol\|cholesterol]], zinc, selenium, and other vitamins and minerals"
 
 ###### Some Key Nutrients for Testosterone Production Include:
@@ -26,7 +26,7 @@
 - Protein: Consum
 
 ![Extras/Images/ZQ4UA4XA.png](/img/user/Extras/Images/ZQ4UA4XA.png)
-[[Sources/@kataoka2021ReviewFoodsFood\|@kataoka2021ReviewFoodsFood]]
+[[Sources/Research Papers/@kataoka2021ReviewFoodsFood\|@kataoka2021ReviewFoodsFood]]
 
 # Reference
 - 
