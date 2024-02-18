@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/memory/"}
+{"heading":"Memory","uri":"https://id.loc.gov/authorities/subjects/sh85083497","aliases":["Retention (Psychology)"],"broader":["Intellect","Psychology","Thought and thinking"],"narrower":["Systemic memory hypothesis","Photographic memory","Collective memory"],"related":["Executive functions (Neuropsychology)","Comprehension","Mnemonics"],"dg-publish":true,"permalink":"/cards/memory/","dgPassFrontmatter":true}
 ---
 
 # Memory
@@ -63,7 +63,6 @@
 | [[Sources/Articles/contributorsWhatKnowPQQ\|contributorsWhatKnowPQQ]]                                                                                                                                                                  |
 | [[Sources/Podcasts/Podcast Episodes/Dr. Wendy Suzuki  Boost Attention & Memory with Science Based Tools   Episode 73 — Huberman Lab\|Dr. Wendy Suzuki  Boost Attention & Memory with Science Based Tools   Episode 73 — Huberman Lab]] |
 | [[Sources/Articles/NSDR is trending - how No Sleep Deep Rest could benefit you - Marie Claire UK\|NSDR is trending - how No Sleep Deep Rest could benefit you - Marie Claire UK]]                                                      |
-| [[Sources/Books/Sapiens - A Brief History of Human Kind by Yuval Noah Harari\|Sapiens - A Brief History of Human Kind by Yuval Noah Harari]]                                                                                           |
 
 { .block-language-dataview}
 
