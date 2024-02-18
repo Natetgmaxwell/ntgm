@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/langerhans-cells/"}
+{"aliases":["LC"],"dg-publish":true,"permalink":"/cards/langerhans-cells/","dgPassFrontmatter":true}
 ---
 
 # Langerhans cells
