@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/brachial-vein/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/brachial-vein/","dgPassFrontmatter":true}
 ---
 
 # Brachial Vein
