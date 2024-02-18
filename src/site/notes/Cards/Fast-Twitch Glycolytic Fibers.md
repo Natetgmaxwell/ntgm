@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/fast-twitch-glycolytic-fibers/","tags":["on/Science/Biology/Anatomy"]}
+{"aliases":["FGF","type 2b","type IIb"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2023-02-09 Thu","dg-publish":true,"permalink":"/cards/fast-twitch-glycolytic-fibers/","dgPassFrontmatter":true}
 ---
 
 # Fast-Twitch Glycolytic Fibers
@@ -40,7 +40,7 @@
 | Sources                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Podcasts/Podcast Episodes/ 239 ‒ The science of strength  muscle  and training for longevity   Andy Galpin  Ph.D. (PART I)\| 239 ‒ The science of strength  muscle  and training for longevity   Andy Galpin  Ph.D. (PART I)]] |
-| [[Sources/@bettinZoneTrainingEndurance2014\|@bettinZoneTrainingEndurance2014]]                                                                                                                                                           |
+| [[Sources/Articles/@bettinZoneTrainingEndurance2014\|@bettinZoneTrainingEndurance2014]]                                                                                                                                                  |
 
 { .block-language-dataview}
 
