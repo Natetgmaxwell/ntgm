@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/proprioceptors/","tags":["Uni/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/proprioceptors/","dgPassFrontmatter":true}
 ---
 
 # Proprioceptors
