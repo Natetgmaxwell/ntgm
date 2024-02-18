@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/diaphragm/","tags":["on/Science/Biology/Anatomy","Uni/LFS112"]}
+{"aliases":null,"tags":["on/Science/Biology/Anatomy","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/diaphragm/","dgPassFrontmatter":true}
 ---
 
 # Diaphragm
