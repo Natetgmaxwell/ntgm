@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/fissures-of-the-left-lung/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/fissures-of-the-left-lung/","dgPassFrontmatter":true}
 ---
 
 # Fissures of the Left Lung
