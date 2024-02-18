@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/trochlea-fossa/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":["Trochlea Notch"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/trochlea-fossa/","dgPassFrontmatter":true}
 ---
 
 # Trochlea Fossa
