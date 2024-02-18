@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/gas-exchange/","tags":["Uni/LFS112","Uni/HBIO1010"]}
+{"aliases":null,"tags":["Uni/LFS112","Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/gas-exchange/","dgPassFrontmatter":true}
 ---
 
 # Gas Exchange
