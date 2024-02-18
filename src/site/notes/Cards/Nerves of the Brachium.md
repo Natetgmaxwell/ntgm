@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/nerves-of-the-brachium/","tags":["Uni/LFS122"]}
+{"aliases":["brachium nerves"],"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/nerves-of-the-brachium/","dgPassFrontmatter":true}
 ---
 
 # Nerves of the Brachium
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-## List of the Brachium Nerves [[Sources/@colingavaganLFS122M8T7Peripheral2023\|@colingavaganLFS122M8T7Peripheral2023]]
+## List of the Brachium Nerves [[Sources/Video/@colingavaganLFS122M8T7Peripheral2023\|@colingavaganLFS122M8T7Peripheral2023]]
 
 - [[Cards/Musculocutaneous Nerve\|Musculocutaneous nerve]]
 - [[Cards/Axillary Nerve\|Axillary nerve]]
