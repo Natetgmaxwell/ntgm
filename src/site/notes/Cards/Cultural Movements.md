@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cultural-movements/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/cultural-movements/","dgPassFrontmatter":true}
 ---
 
 # Cultural Movements
