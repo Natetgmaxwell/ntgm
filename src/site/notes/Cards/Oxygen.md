@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/oxygen/","tags":["on/Science/Biology/Biochemistry"]}
+{"Created":"2022-06-28","date created":"2022-06-28 Tue","edited":"2023-04-06 Thu","tags":["on/Science/Biology/Biochemistry"],"dg-publish":true,"permalink":"/cards/oxygen/","dgPassFrontmatter":true}
 ---
 
 # Oxygen
