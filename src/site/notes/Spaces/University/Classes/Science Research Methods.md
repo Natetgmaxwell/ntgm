@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/university/classes/science-research-methods/"}
+{"aliases":["SCI110"],"up":["[[🎓 University|Uni]]"],"dg-publish":true,"permalink":"/spaces/university/classes/science-research-methods/","dgPassFrontmatter":true}
 ---
 
 # Science Research Methods
