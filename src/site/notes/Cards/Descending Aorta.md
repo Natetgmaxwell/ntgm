@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/descending-aorta/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/descending-aorta/","dgPassFrontmatter":true}
 ---
 
 # Descending Aorta
