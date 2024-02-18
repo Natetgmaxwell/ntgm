@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/pupillary-size/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/pupillary-size/","dgPassFrontmatter":true}
 ---
 
 # Pupillary Size
