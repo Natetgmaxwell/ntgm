@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/nasal-meatus/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/nasal-meatus/","dgPassFrontmatter":true}
 ---
 
 # Nasal Meatus
