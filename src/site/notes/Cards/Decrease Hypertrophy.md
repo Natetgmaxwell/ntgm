@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/decrease-hypertrophy/"}
+{"aliases":["Limit Hypertrophy","limit the hypertrophic response"],"tags":null,"dg-publish":true,"permalink":"/cards/decrease-hypertrophy/","dgPassFrontmatter":true}
 ---
 
 # Decrease Hypertrophy
