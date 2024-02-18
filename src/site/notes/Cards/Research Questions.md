@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/research-questions/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/research-questions/","dgPassFrontmatter":true}
 ---
 
 # Research Questions
