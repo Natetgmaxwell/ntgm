@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/fading-affect-bias/","tags":["note/seed","on/Psychology"]}
+{"aliases":null,"tags":["note/seed","on/Psychology"],"dg-publish":true,"permalink":"/cards/fading-affect-bias/","dgPassFrontmatter":true}
 ---
 
 # Fading Affect Bias
