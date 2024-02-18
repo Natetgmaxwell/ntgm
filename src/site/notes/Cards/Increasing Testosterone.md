@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/increasing-testosterone/"}
+{"aliases":null,"tags":[],"dg-publish":true,"permalink":"/cards/increasing-testosterone/","dgPassFrontmatter":true}
 ---
 
 # Increasing Testosterone
@@ -56,7 +56,7 @@ Engaging in regular resistance training, particularly [[Cards/Compound Movements
 - Protein: Consum
 
 ![Extras/Images/ZQ4UA4XA.png](/img/user/Extras/Images/ZQ4UA4XA.png)
-[[Sources/@kataoka2021ReviewFoodsFood\|@kataoka2021ReviewFoodsFood]]
+[[Sources/Research Papers/@kataoka2021ReviewFoodsFood\|@kataoka2021ReviewFoodsFood]]
 
 
 </div></div>
