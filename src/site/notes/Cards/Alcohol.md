@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/alcohol/","tags":["on/Health"]}
+{"aliases":["alcohols","Alcohols"],"edited":"2023-04-06 Thu","tags":["on/Health"],"date created":"2022-11-28 Mon","dg-publish":true,"permalink":"/cards/alcohol/","dgPassFrontmatter":true}
 ---
 
 # Alcohol
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@kristinaackermannEffectsAlcoholBody\|@kristinaackermannEffectsAlcoholBody]]
+> [!quote] [[Sources/Articles/@kristinaackermannEffectsAlcoholBody\|@kristinaackermannEffectsAlcoholBody]]
 > The liver can metabolize about one standard drink of alcohol per hour
 
 > [!quote] [[Sources/Podcasts/Podcast Episodes/Drink = Brain Shrink  Secret Tree Species  L.H.C. Round 3 — Curiosity Daily\|Drink = Brain Shrink  Secret Tree Species  L.H.C. Round 3 — Curiosity Daily]]
@@ -93,7 +93,7 @@
 | Sources                                                                                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Research Papers/@crowe2009AssociationDietSerum\|@crowe2009AssociationDietSerum]]                                                                                                                                           |
-| [[Sources/@kristinaackermannEffectsAlcoholBody\|@kristinaackermannEffectsAlcoholBody]]                                                                                                                                               |
+| [[Sources/Articles/@kristinaackermannEffectsAlcoholBody\|@kristinaackermannEffectsAlcoholBody]]                                                                                                                                      |
 | [[Sources/Podcasts/Podcast Episodes/18 Naval Ravikant The Angel Philosopher\|18 Naval Ravikant The Angel Philosopher]]                                                                                                               |
 | [[Sources/Articles/2022HistoryMedicineHistoryFactsBritannica-philiprhodes\|2022HistoryMedicineHistoryFactsBritannica-philiprhodes]]                                                                                                  |
 | [[Sources/Podcasts/Podcast Episodes/A Behavioral Psychologist s Tips to Identifying and Managing Stress Styles with Dr. Jemma King\|A Behavioral Psychologist s Tips to Identifying and Managing Stress Styles with Dr. Jemma King]] |
