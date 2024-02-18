@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/low-level-laser-therapy/"}
+{"aliases":["Low Level Laser Therapy","LLLT"],"tags":null,"dg-publish":true,"permalink":"/cards/low-level-laser-therapy/","dgPassFrontmatter":true}
 ---
 
 # Low-Level Laser Therapy
