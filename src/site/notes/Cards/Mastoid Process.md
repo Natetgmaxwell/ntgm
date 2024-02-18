@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/mastoid-process/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/mastoid-process/","dgPassFrontmatter":true}
 ---
 
 # Mastoid Process
