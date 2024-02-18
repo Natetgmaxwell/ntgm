@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/renal-columns/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/renal-columns/","dgPassFrontmatter":true}
 ---
 
 # Renal Columns
