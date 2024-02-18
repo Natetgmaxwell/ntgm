@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/middle-nasal-meatus/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/middle-nasal-meatus/","dgPassFrontmatter":true}
 ---
 
 # Middle Nasal Meatus
