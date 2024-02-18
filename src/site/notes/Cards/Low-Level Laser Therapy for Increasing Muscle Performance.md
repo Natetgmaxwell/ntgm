@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/low-level-laser-therapy-for-increasing-muscle-performance/"}
+{"aliases":["LLLT for Increasing Muscle Performance"],"tags":null,"dg-publish":true,"permalink":"/cards/low-level-laser-therapy-for-increasing-muscle-performance/","dgPassFrontmatter":true}
 ---
 
 # Low-Level Laser Therapy for Increasing Muscle Performance
