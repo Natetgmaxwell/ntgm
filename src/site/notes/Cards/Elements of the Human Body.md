@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/elements-of-the-human-body/","tags":["Uni/LFS103","Uni/HBIO1009","Uni/LFS112"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/LFS103","Uni/HBIO1009","Uni/LFS112"],"permalink":"/cards/elements-of-the-human-body/","dgPassFrontmatter":true}
 ---
 
 # Elements of the Human Body
@@ -15,7 +15,7 @@
 ![Pasted image 20230508104419.png](/img/user/Extras/Images/Pasted%20image%2020230508104419.png)
 
 ![Extras/Images/image-5-x53-y34.png|500](/img/user/Extras/Images/image-5-x53-y34.png)
-[[Sources/@nicolemastersLFS112M5T1Building2023\|@nicolemastersLFS112M5T1Building2023]]
+[[Sources/Video/@nicolemastersLFS112M5T1Building2023\|@nicolemastersLFS112M5T1Building2023]]
 ## List of Elements
 - [[Cards/Oxygen\|Oxygen]]
 - [[Cards/Carbon\|Carbon]]
