@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/environmental-temperature/","tags":["Uni/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/environmental-temperature/","dgPassFrontmatter":true}
 ---
 
 # Environmental Temperature
