@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/sex-chromosomes/","tags":["Uni/LFS103","flashcards/LFS103"]}
+{"aliases":null,"tags":["Uni/LFS103","flashcards/LFS103"],"dg-publish":true,"permalink":"/cards/sex-chromosomes/","dgPassFrontmatter":true}
 ---
 
 # Sex Chromosomes
