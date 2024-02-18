@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/motor-units/","tags":["on/Science/Biology/Anatomy","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy","Uni/LFS112","flashcards/LFS112"],"date created":"2023-02-08 Wed","dg-publish":true,"permalink":"/cards/motor-units/","dgPassFrontmatter":true}
 ---
 
 # Motor Units
