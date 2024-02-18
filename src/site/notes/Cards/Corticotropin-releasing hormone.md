@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/corticotropin-releasing-hormone/"}
+{"aliases":["CRH","CRF"],"dg-publish":true,"permalink":"/cards/corticotropin-releasing-hormone/","dgPassFrontmatter":true}
 ---
 
 # Corticotropin-releasing hormone
@@ -34,7 +34,6 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Research Papers/@russell2019-HumanStressResponse\|@russell2019-HumanStressResponse]]                                                     |
 | [[Sources/Research Papers/@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine]] |
-| [[Sources/Books/NEUROENDOCRINOLOGY OF STRESS\|NEUROENDOCRINOLOGY OF STRESS]]                                                                       |
 
 { .block-language-dataview}
 
