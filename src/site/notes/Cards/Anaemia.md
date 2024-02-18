@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/anaemia/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/anaemia/","dgPassFrontmatter":true}
 ---
 
 # Anaemia
