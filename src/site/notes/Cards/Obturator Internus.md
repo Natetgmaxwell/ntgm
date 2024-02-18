@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/obturator-internus/","tags":["Uni/LFS122"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/LFS122"],"permalink":"/cards/obturator-internus/","dgPassFrontmatter":true}
 ---
 
 # Obturator Internus
