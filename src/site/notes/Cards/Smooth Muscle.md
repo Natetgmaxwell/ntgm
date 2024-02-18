@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/smooth-muscle/","tags":["Uni/HBIO1010","on/Science/Biology/Anatomy"]}
+{"aliases":["involuntary muscle"],"edited":"2023-04-06 Thu","date created":"2023-04-04 Tue","tags":["Uni/HBIO1010","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/smooth-muscle/","dgPassFrontmatter":true}
 ---
 
 # Smooth Muscle
