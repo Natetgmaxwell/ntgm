@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/adrenal-cortex/","tags":["Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/adrenal-cortex/","dgPassFrontmatter":true}
 ---
 
 # Adrenal Cortex
@@ -36,7 +36,7 @@
 > [!Definition] Definition
 > 
 
-## List of Adrenal Cortex Hormones [[Sources/@lindagallo2023LFS112M4T4Adrenal\|@lindagallo2023LFS112M4T4Adrenal]]
+## List of Adrenal Cortex Hormones [[Sources/Video/@lindagallo2023LFS112M4T4Adrenal\|@lindagallo2023LFS112M4T4Adrenal]]
 - [[Cards/Mineralocorticoids\|Mineralocorticoids]]
 - [[Cards/Glucocorticoids\|Glucocorticoids]]
 - [[Cards/Gonadocorticoids\|Gonadocorticoids]]
