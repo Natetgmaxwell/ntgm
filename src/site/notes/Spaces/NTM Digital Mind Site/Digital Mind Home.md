@@ -32,18 +32,18 @@
 { .block-language-dataview}
 
 ## Recent Sources
-| File Name                                                                                                 | Date Modified     | Type           |
-| --------------------------------------------------------------------------------------------------------- | ----------------- | -------------- |
-| [[Sources/@Fridman2023-GeorgeHotzTiny\|@Fridman2023-GeorgeHotzTiny]]                                   | February 10, 2024 | Podcast        |
-| [[Sources/@ferris2023ShaneParrishWisdom\|@ferris2023ShaneParrishWisdom]]                               | February 10, 2024 | Podcast        |
-| [[Sources/@henderson2022HowRead\|@henderson2022HowRead]]                                               | February 10, 2024 | Article        |
-| [[Sources/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]                         | February 10, 2024 | Book           |
-| [[Sources/@manusEvolutionaryMismatch2018\|@manusEvolutionaryMismatch2018]]                             | February 10, 2024 | Research Paper |
-| [[Sources/@bilyeu2023SleepExpertReveals\|@bilyeu2023SleepExpertReveals]]                               | February 10, 2024 | Podcast        |
-| [[Sources/@walterisaacson2023ElonMusk\|@walterisaacson2023ElonMusk]]                                   | February 10, 2024 | Book           |
-| [[Sources/@kawano2010RelationshipTestosteroneMetabolic\|@kawano2010RelationshipTestosteroneMetabolic]] | February 10, 2024 | Research Paper |
-| [[Sources/@skyecash-deans2023LFS122M3T1Integumentary\|@skyecash-deans2023LFS122M3T1Integumentary]]     | February 10, 2024 | Video          |
-| [[Sources/@ostrowskiEvidenceThatInterleukin61998\|@ostrowskiEvidenceThatInterleukin61998]]             | February 10, 2024 | Research Paper |
+| File Name                                                                                                   | Date Modified     | Type  |
+| ----------------------------------------------------------------------------------------------------------- | ----------------- | ----- |
+| [[Sources/Video/@skyecash-deans2023LFS122M3T1Integumentary\|@skyecash-deans2023LFS122M3T1Integumentary]] | February 18, 2024 | Video |
+| [[Sources/Video/@nicolemastersLFS112M5T1Building2023\|@nicolemastersLFS112M5T1Building2023]]             | February 18, 2024 | \-    |
+| [[Sources/Video/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]           | February 18, 2024 | \-    |
+| [[Sources/Video/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]                           | February 18, 2024 | \-    |
+| [[Sources/Video/@lindagallo2023LFS112M4T5Endocrine\|@lindagallo2023LFS112M4T5Endocrine]]                 | February 18, 2024 | \-    |
+| [[Sources/Video/@lindagallo2023LFS112M4T4Adrenal\|@lindagallo2023LFS112M4T4Adrenal]]                     | February 18, 2024 | \-    |
+| [[Sources/Video/@katemounsey2023LFS112M6T2Red\|@katemounsey2023LFS112M6T2Red]]                           | February 18, 2024 | \-    |
+| [[Sources/Video/@leedaffinLFS122M4T3General\|@leedaffinLFS122M4T3General]]                               | February 18, 2024 | \-    |
+| [[Sources/Video/@leedaffinLFS122M12T3Female2023\|@leedaffinLFS122M12T3Female2023]]                       | February 18, 2024 | \-    |
+| [[Sources/Video/@colingavaganLFS122M8T4Anterior2023\|@colingavaganLFS122M8T4Anterior2023]]               | February 18, 2024 | \-    |
 
 { .block-language-dataview}
 
