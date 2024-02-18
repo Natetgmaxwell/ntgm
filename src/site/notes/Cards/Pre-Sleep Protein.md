@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/pre-sleep-protein/","tags":["note/develop","on/Performance"]}
+{"aliases":["Overnight protein"],"tags":["note/develop","on/Performance"],"dg-publish":true,"permalink":"/cards/pre-sleep-protein/","dgPassFrontmatter":true}
 ---
 
 # Pre-Sleep Protein
