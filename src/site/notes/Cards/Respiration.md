@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/respiration/","tags":["Uni/LFS103","flashcards/LFS103","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"edited":"2023-04-06 Thu","date created":"2023-02-23 Thu","tags":["Uni/LFS103","flashcards/LFS103","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/respiration/","dgPassFrontmatter":true}
 ---
 
 # Respiration
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > In order to create ATP, muscles utilise carbohydrates, fatty acids and amino acids from either food or glycogen to fuel cellular respiration.
 
 ## Types of [[Cards/Respiration\|Respiration]] 
@@ -64,9 +64,8 @@
 | Sources                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Video/@-LFS122M4T4Anterior\|@-LFS122M4T4Anterior]]                                                        |
-| [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]                          |
+| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]                    |
 | [[Sources/Video/@leedaffin2023-LFS122M10T2Systemic\|@leedaffin2023-LFS122M10T2Systemic]]                            |
-| [[Sources/Books/NEUROENDOCRINOLOGY OF STRESS\|NEUROENDOCRINOLOGY OF STRESS]]                                        |
 | [[Sources/Articles/The Harm Caused by Masks - City Journal\|The Harm Caused by Masks - City Journal]]               |
 | [[Sources/Articles/What Chemical Elements Make up the Human Body?\|What Chemical Elements Make up the Human Body?]] |
 
