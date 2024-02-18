@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/orbicularis-oris/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/orbicularis-oris/","dgPassFrontmatter":true}
 ---
 
 # Orbicularis Oris
