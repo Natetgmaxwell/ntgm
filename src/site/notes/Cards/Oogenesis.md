@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/oogenesis/","tags":["on/Science/Biology/Genetics","School"]}
+{"tags":["on/Science/Biology/Genetics","School"],"date created":"2022-04-22 Fri","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/oogenesis/","dgPassFrontmatter":true}
 ---
 
 # Oogenesis
