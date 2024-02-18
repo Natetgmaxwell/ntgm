@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/slow-twitch-fibres/","tags":["on/Science/Biology/Anatomy"]}
+{"aliases":["type I","red fibres"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2023-02-07 Tue","dg-publish":true,"permalink":"/cards/slow-twitch-fibres/","dgPassFrontmatter":true}
 ---
 
 # Slow Twitch Fibres
@@ -14,7 +14,7 @@
 { #f2ffc0}
 
 
-> [!quote] [[Sources/@bettinZoneTrainingEndurance2014\|@bettinZoneTrainingEndurance2014]]
+> [!quote] [[Sources/Articles/@bettinZoneTrainingEndurance2014\|@bettinZoneTrainingEndurance2014]]
 > ...type I muscle fibers are also responsible for lactate clearance.
 
 # Reference
@@ -45,7 +45,7 @@
 | Sources                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Podcasts/Podcast Episodes/ 239 ‒ The science of strength  muscle  and training for longevity   Andy Galpin  Ph.D. (PART I)\| 239 ‒ The science of strength  muscle  and training for longevity   Andy Galpin  Ph.D. (PART I)]] |
-| [[Sources/@bettinZoneTrainingEndurance2014\|@bettinZoneTrainingEndurance2014]]                                                                                                                                                           |
+| [[Sources/Articles/@bettinZoneTrainingEndurance2014\|@bettinZoneTrainingEndurance2014]]                                                                                                                                                  |
 
 { .block-language-dataview}
 
