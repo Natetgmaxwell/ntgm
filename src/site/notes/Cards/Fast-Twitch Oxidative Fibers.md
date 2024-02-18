@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/fast-twitch-oxidative-fibers/","tags":["on/Science/Biology/Anatomy"]}
+{"aliases":["type 2a","type IIa","intermediate fibres","FO fibers"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2023-02-08 Wed","dg-publish":true,"permalink":"/cards/fast-twitch-oxidative-fibers/","dgPassFrontmatter":true}
 ---
 
 # Fast-Twitch Oxidative Fibers
@@ -48,7 +48,7 @@
 | Sources                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Podcasts/Podcast Episodes/ 239 ‒ The science of strength  muscle  and training for longevity   Andy Galpin  Ph.D. (PART I)\| 239 ‒ The science of strength  muscle  and training for longevity   Andy Galpin  Ph.D. (PART I)]] |
-| [[Sources/@bettinZoneTrainingEndurance2014\|@bettinZoneTrainingEndurance2014]]                                                                                                                                                           |
+| [[Sources/Articles/@bettinZoneTrainingEndurance2014\|@bettinZoneTrainingEndurance2014]]                                                                                                                                                  |
 
 { .block-language-dataview}
 
