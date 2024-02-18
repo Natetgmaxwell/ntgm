@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/brown-adipose-tissue/"}
+{"aliases":["BAT","brown fat"],"date created":"2022-12-03 Sat","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/brown-adipose-tissue/","dgPassFrontmatter":true}
 ---
 
 # Brown Adipose Tissue
