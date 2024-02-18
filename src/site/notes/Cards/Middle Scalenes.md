@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/middle-scalenes/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/middle-scalenes/","dgPassFrontmatter":true}
 ---
 
 # Middle Scalenes
