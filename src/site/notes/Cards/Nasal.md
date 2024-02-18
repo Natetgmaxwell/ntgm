@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/nasal/","tags":["on/Science/Biology/Anatomy","Uni/LFS122"]}
+{"aliases":["nose"],"tags":["on/Science/Biology/Anatomy","Uni/LFS122"],"dg-publish":true,"permalink":"/cards/nasal/","dgPassFrontmatter":true}
 ---
 
 # Nasal
