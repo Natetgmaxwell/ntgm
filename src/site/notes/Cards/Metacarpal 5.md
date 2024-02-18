@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/metacarpal-5/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/metacarpal-5/","dgPassFrontmatter":true}
 ---
 
 # Metacarpal 5
