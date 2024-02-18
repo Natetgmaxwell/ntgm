@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/milton-friedman/","tags":["on/People"]}
+{"aliases":null,"tags":["on/People"],"dg-publish":true,"permalink":"/cards/milton-friedman/","dgPassFrontmatter":true}
 ---
 
 # Milton Friedman
