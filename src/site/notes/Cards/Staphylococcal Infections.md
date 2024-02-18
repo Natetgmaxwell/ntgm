@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/staphylococcal-infections/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/staphylococcal-infections/","dgPassFrontmatter":true}
 ---
 
 # Staphylococcal Infections
