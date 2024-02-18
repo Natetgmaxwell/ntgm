@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/soft-palate/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/soft-palate/","dgPassFrontmatter":true}
 ---
 
 # Soft Palate
