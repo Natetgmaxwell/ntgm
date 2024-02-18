@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/scrotal-septum/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/scrotal-septum/","dgPassFrontmatter":true}
 ---
 
 # Scrotal Septum
