@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/vertical-nasal-septum/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/vertical-nasal-septum/","dgPassFrontmatter":true}
 ---
 
 # Vertical Nasal Septum
