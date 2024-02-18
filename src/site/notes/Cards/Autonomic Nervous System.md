@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/autonomic-nervous-system/","tags":["Uni/HBIO1009","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":["ANS"],"date created":"2022-04-06 Wed","edited":"2023-04-06 Thu","dg-publish":true,"tags":["Uni/HBIO1009","Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/autonomic-nervous-system/","dgPassFrontmatter":true}
 ---
 
 # Autonomic Nervous System
