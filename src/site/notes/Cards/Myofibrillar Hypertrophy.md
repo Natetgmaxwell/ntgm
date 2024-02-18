@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/myofibrillar-hypertrophy/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/myofibrillar-hypertrophy/","dgPassFrontmatter":true}
 ---
 
 # Myofibrillar Hypertrophy
