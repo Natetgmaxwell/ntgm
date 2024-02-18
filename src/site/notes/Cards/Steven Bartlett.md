@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/steven-bartlett/","tags":["on/People"]}
+{"aliases":null,"tags":["on/People"],"dg-publish":true,"permalink":"/cards/steven-bartlett/","dgPassFrontmatter":true}
 ---
 
 # Steven Bartlett
@@ -27,9 +27,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                     |
-| --------------------------------------------------------------------------- |
-| [[Sources/@stevenbartlett2023DiaryCEO33\|@stevenbartlett2023DiaryCEO33]] |
+| Sources                                                                           |
+| --------------------------------------------------------------------------------- |
+| [[Sources/Books/@stevenbartlett2023DiaryCEO33\|@stevenbartlett2023DiaryCEO33]] |
 
 { .block-language-dataview}
 
