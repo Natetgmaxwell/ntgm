@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/large-intestine/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":["colon"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/large-intestine/","dgPassFrontmatter":true}
 ---
 
 # Large Intestine
