@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hypertonic-solution/","tags":["Uni/HBIO1009","Uni/LFS103"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/HBIO1009","Uni/LFS103"],"permalink":"/cards/hypertonic-solution/","dgPassFrontmatter":true}
 ---
 
 # Hypertonic solution
