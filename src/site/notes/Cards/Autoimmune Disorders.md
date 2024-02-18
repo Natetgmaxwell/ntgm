@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/autoimmune-disorders/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/autoimmune-disorders/","dgPassFrontmatter":true}
 ---
 
 # Autoimmune Disorders
