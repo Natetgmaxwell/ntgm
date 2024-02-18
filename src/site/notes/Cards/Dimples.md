@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/dimples/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/dimples/","dgPassFrontmatter":true}
 ---
 
 # Dimples
