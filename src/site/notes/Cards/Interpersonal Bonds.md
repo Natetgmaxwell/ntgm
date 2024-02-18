@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/interpersonal-bonds/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/interpersonal-bonds/","dgPassFrontmatter":true}
 ---
 
 # Interpersonal Bonds
