@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/ovarian-cycle/","tags":["Uni/LFS112"]}
+{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/ovarian-cycle/","dgPassFrontmatter":true}
 ---
 
 # Ovarian Cycle
