@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hemoglobin/","tags":["Uni/LFS112","Uni/LFS122"]}
+{"aliases":["hb"],"tags":["Uni/LFS112","Uni/LFS122"],"dg-publish":true,"permalink":"/cards/hemoglobin/","dgPassFrontmatter":true}
 ---
 
 # Hemoglobin
