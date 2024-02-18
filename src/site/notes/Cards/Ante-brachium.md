@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/ante-brachium/"}
+{"aliases":["Forearm","Antebrachium"],"edited":"2023-04-06 Thu","date created":"2023-03-06 Mon","dg-publish":true,"permalink":"/cards/ante-brachium/","dgPassFrontmatter":true}
 ---
 
 # Ante-brachium
@@ -62,7 +62,7 @@
 > [!Definition] Definition
 > 
 
-## List of Ante-brachium Nerves [[Sources/@colingavaganLFS122M8T7Peripheral2023\|@colingavaganLFS122M8T7Peripheral2023]]
+## List of Ante-brachium Nerves [[Sources/Video/@colingavaganLFS122M8T7Peripheral2023\|@colingavaganLFS122M8T7Peripheral2023]]
 - [[Cards/Ulnar Nerve\|Ulnar nerve]] 
 - [[Cards/Median Nerve\|Median nerve]]
 - [[Cards/Radial Nerve\|Radial nerve]]
