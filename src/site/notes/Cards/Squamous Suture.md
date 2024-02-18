@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/squamous-suture/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/squamous-suture/","dgPassFrontmatter":true}
 ---
 
 # Squamous Suture
