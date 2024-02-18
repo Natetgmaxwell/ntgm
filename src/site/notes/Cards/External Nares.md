@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/external-nares/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/external-nares/","dgPassFrontmatter":true}
 ---
 
 # External Nares
