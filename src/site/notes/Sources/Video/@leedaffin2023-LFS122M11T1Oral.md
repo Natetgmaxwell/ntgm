@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m11-t1-oral/","tags":["source/video","Uni/LFS122"]}
+{"aliases":["LFS122 M11T1 Oral Cavity, Salivary Glands and  Teeth"],"tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/video/leedaffin2023-lfs-122-m11-t1-oral/","dgPassFrontmatter":true}
 ---
 
 # @leedaffin2023-LFS122M11T1Oral
