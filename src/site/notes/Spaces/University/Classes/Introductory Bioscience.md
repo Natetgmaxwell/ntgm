@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/university/classes/introductory-bioscience/"}
+{"aliases":["LFS103"],"up":["[[🎓 University|Uni]]"],"dg-publish":true,"cssclasses":["cards","wide"],"permalink":"/spaces/university/classes/introductory-bioscience/","dgPassFrontmatter":true}
 ---
 
 # Introductory Bioscience
@@ -7,8 +7,8 @@
 ## Projects
 | Project Name                                                                             |
 | ---------------------------------------------------------------------------------------- |
-| [[Spaces/University/Projects/LFS103 Practise Exam\|LFS103 Practise Exam]]             |
 | [[Spaces/University/Projects/LFS103A2 Mid Semester Exam\|LFS103A2 Mid Semester Exam]] |
+| [[Spaces/University/Projects/LFS103 Practise Exam\|LFS103 Practise Exam]]             |
 
 { .block-language-dataview}
 
