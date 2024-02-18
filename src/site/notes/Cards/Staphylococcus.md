@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/staphylococcus/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/staphylococcus/","dgPassFrontmatter":true}
 ---
 
 # Staphylococcus
