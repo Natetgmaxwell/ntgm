@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/infection/","tags":["moc","on/Science/Biology","CertIII_Fitness"]}
+{"tags":["moc","on/Science/Biology","CertIII_Fitness"],"date created":"2022-04-07 Thu","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/infection/","dgPassFrontmatter":true}
 ---
 
 # Infection
