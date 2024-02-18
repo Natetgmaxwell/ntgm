@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/connective-tissue/","tags":["on/Science/Biology/Anatomy","Uni/OMT1"]}
+{"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy","Uni/OMT1"],"date created":"2022-12-10 Sat","dg-publish":true,"permalink":"/cards/connective-tissue/","dgPassFrontmatter":true}
 ---
 
 # Connective Tissue
