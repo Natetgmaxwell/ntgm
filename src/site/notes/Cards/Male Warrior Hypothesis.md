@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/male-warrior-hypothesis/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/male-warrior-hypothesis/","dgPassFrontmatter":true}
 ---
 
 # Male Warrior Hypothesis
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-- Males are more likely to reduce conflict within their group if they find themselves competing against an outgroup [[Sources/@henderson2022MaleWarriorHypothesis\|@henderson2022MaleWarriorHypothesis]].
+- Males are more likely to reduce conflict within their group if they find themselves competing against an outgroup [[Sources/Articles/@henderson2022MaleWarriorHypothesis\|@henderson2022MaleWarriorHypothesis]].
 
 # Reference
 - 
@@ -28,9 +28,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                 |
-| --------------------------------------------------------------------------------------- |
-| [[Sources/@henderson2022MaleWarriorHypothesis\|@henderson2022MaleWarriorHypothesis]] |
+| Sources                                                                                          |
+| ------------------------------------------------------------------------------------------------ |
+| [[Sources/Articles/@henderson2022MaleWarriorHypothesis\|@henderson2022MaleWarriorHypothesis]] |
 
 { .block-language-dataview}
 
