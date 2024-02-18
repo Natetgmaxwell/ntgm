@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/deep-inguinal-ring/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/deep-inguinal-ring/","dgPassFrontmatter":true}
 ---
 
 # Deep Inguinal Ring
