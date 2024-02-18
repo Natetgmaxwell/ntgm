@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/positivity-bias-in-language/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/positivity-bias-in-language/","dgPassFrontmatter":true}
 ---
 
 # Positivity Bias in Language
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-[[Sources/@doddsHumanLanguageReveals2014\|@doddsHumanLanguageReveals2014]]
+[[Sources/Research Papers/@doddsHumanLanguageReveals2014\|@doddsHumanLanguageReveals2014]]
 
 # Reference
 - 
@@ -30,9 +30,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                       |
-| ----------------------------------------------------------------------------- |
-| [[Sources/@doddsHumanLanguageReveals2014\|@doddsHumanLanguageReveals2014]] |
+| Sources                                                                                       |
+| --------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@doddsHumanLanguageReveals2014\|@doddsHumanLanguageReveals2014]] |
 
 { .block-language-dataview}
 
