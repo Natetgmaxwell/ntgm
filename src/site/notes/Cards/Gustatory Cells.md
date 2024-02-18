@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/gustatory-cells/","tags":["Uni/LFS112"]}
+{"aliases":["taste buds"],"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/gustatory-cells/","dgPassFrontmatter":true}
 ---
 
 # Gustatory Cells
