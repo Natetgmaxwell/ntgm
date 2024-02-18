@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/buccal-cavity/"}
+{"aliases":["mouth"],"tags":null,"dg-publish":true,"permalink":"/cards/buccal-cavity/","dgPassFrontmatter":true}
 ---
 
 # Buccal cavity
