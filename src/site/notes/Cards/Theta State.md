@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/theta-state/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/theta-state/","dgPassFrontmatter":true}
 ---
 
 # Theta State
