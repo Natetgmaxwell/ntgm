@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/flavin-adenine-dinucleotide/"}
+{"aliases":["FAD"],"tags":null,"dg-publish":true,"permalink":"/cards/flavin-adenine-dinucleotide/","dgPassFrontmatter":true}
 ---
 
 # Flavin adenine dinucleotide
