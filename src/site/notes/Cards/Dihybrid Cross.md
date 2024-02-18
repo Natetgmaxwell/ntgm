@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/dihybrid-cross/","tags":["on/Science/Biology/Genetics","School"]}
+{"Created:":"2022-05-20","tags":["on/Science/Biology/Genetics","School"],"date created":"2022-05-20 Fri","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/dihybrid-cross/","dgPassFrontmatter":true}
 ---
 
 # Dihybrid Cross
