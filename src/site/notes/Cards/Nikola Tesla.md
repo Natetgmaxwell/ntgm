@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/nikola-tesla/","tags":["on/People"]}
+{"aliases":null,"tags":["on/People"],"dg-publish":true,"permalink":"/cards/nikola-tesla/","dgPassFrontmatter":true}
 ---
 
 # Nikola Tesla
@@ -28,9 +28,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                             |
-| ------------------------------------------------------------------- |
-| [[Sources/Books/@greene200048LawsPower\|@greene200048LawsPower]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
