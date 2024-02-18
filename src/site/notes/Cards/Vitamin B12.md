@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/vitamin-b12/"}
+{"aliases":["B12"],"tags":null,"dg-publish":true,"permalink":"/cards/vitamin-b12/","dgPassFrontmatter":true}
 ---
 
 # Vitamin B12
