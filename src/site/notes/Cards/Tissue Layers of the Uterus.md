@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/tissue-layers-of-the-uterus/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/tissue-layers-of-the-uterus/","dgPassFrontmatter":true}
 ---
 
 # Tissue Layers of the Uterus
