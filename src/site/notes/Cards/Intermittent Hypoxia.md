@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/intermittent-hypoxia/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/intermittent-hypoxia/","dgPassFrontmatter":true}
 ---
 
 # Intermittent Hypoxia
@@ -14,7 +14,7 @@
 
 ## Positive Effects of [[Cards/Intermittent Hypoxia\|Intermittent Hypoxia]]
 
-> [!quote] [[Sources/@zhu2010IntermittentHypoxiaPromotes\|@zhu2010IntermittentHypoxiaPromotes]]
+> [!quote] [[Sources/Research Papers/@zhu2010IntermittentHypoxiaPromotes\|@zhu2010IntermittentHypoxiaPromotes]]
 > "First, IH enhances neurogenesis in adult [[Cards/Hippocampus\|hippocampus]]. Second, IH produces ADlike effects in multiple animal models screening for AD activity including the CMS paradigm, the FST, and the NSF test. Third, the AD-like effect of IH requires adult hippocampal neurogenesis and BDNF since it could be blocked by selective inhibitions of neurogenesis and BDNF–TrkB signaling in adult [[Cards/Hippocampus\|hippocampus]]. Together, these results identify a novel function of IH suggesting it could be developed as a potential AD therapy."
 
 # Reference
@@ -33,9 +33,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                 |
-| --------------------------------------------------------------------------------------- |
-| [[Sources/@zhu2010IntermittentHypoxiaPromotes\|@zhu2010IntermittentHypoxiaPromotes]] |
+| Sources                                                                                                 |
+| ------------------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@zhu2010IntermittentHypoxiaPromotes\|@zhu2010IntermittentHypoxiaPromotes]] |
 
 { .block-language-dataview}
 
