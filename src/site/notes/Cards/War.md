@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/war/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/war/","dgPassFrontmatter":true}
 ---
 
 # War
