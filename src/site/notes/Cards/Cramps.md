@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cramps/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/cramps/","dgPassFrontmatter":true}
 ---
 
 # Cramps
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > A painful, involuntary contraction of a muscle.
 
-> [!quote] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > ”Acutely drinking a salty solution, such as [[Cards/Pickle Juice\|Pickle Juice]],  has  been  shown  to  inhibit  muscle  cramps  in  dehydrated individuals in 85 seconds.”
 
 ## How to Reduce [[Cards/Cramps\|Cramping]]?
@@ -40,9 +40,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                       |
-| --------------------------------------------------------------------------------------------- |
-| [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] |
+| Sources                                                                                             |
+| --------------------------------------------------------------------------------------------------- |
+| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] |
 
 { .block-language-dataview}
 
