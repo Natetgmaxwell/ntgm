@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/toxins/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/toxins/","dgPassFrontmatter":true}
 ---
 
 # Toxins
