@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/thoracic-3/"}
+{"aliases":["T3"],"tags":null,"dg-publish":true,"permalink":"/cards/thoracic-3/","dgPassFrontmatter":true}
 ---
 
 # Thoracic 3
