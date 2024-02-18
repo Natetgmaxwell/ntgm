@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/compound-movements/"}
+{"aliases":["Compound Lifts"],"tags":null,"dg-publish":true,"permalink":"/cards/compound-movements/","dgPassFrontmatter":true}
 ---
 
 # Compound Movements
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
+> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
 > "The best exercises for boosting [[Cards/Testosterone\|testosterone]] are full-body [[Cards/Compound Movements\|compound lifts]]"
 # Reference
 - 
