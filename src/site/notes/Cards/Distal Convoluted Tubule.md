@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/distal-convoluted-tubule/","tags":["Uni/LFS112","Uni/HBIO1010"]}
+{"aliases":["DCT"],"dg-publish":true,"tags":["Uni/LFS112","Uni/HBIO1010"],"permalink":"/cards/distal-convoluted-tubule/","dgPassFrontmatter":true}
 ---
 
 # Distal Convoluted Tubule
