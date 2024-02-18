@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/endocrine-system/","tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"]}
+{"Created":"2022-07-08","date created":"2022-07-08 Fri","edited":"2023-04-06 Thu","dg-publish":true,"tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/endocrine-system/","dgPassFrontmatter":true}
 ---
 
 # Endocrine System
