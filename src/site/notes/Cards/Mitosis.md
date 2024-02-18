@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/mitosis/","tags":["School","on/Science/Biology/Genetics"]}
+{"date created":"2022-03-14 Mon","edited":"2023-04-06 Thu","tags":["School","on/Science/Biology/Genetics"],"dg-publish":true,"permalink":"/cards/mitosis/","dgPassFrontmatter":true}
 ---
 
 # Mitosis
