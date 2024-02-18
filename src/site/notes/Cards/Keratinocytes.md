@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/keratinocytes/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/keratinocytes/","dgPassFrontmatter":true}
 ---
 
 # Keratinocytes
