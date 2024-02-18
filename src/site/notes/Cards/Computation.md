@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/computation/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/computation/","dgPassFrontmatter":true}
 ---
 
 # Computation
