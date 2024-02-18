@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/diamine-oxidase/","tags":["on/Science/Biology/Biochemistry"]}
+{"aliases":["DAO","Histaminase"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Biochemistry"],"date created":"2022-12-03 Sat","dg-publish":true,"permalink":"/cards/diamine-oxidase/","dgPassFrontmatter":true}
 ---
 
 # Diamine oxidase
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > [[Cards/Diamine oxidase\|DAO]] is an [[Cards/Enzyme\|Enzyme]] involved in the metabolism, oxidation and inactivation of [[Cards/Histamine\|Histamine]].
 
-> [!quote] [[Sources/@sasivimolahmed2018WhichProbioticsHistamine\|@sasivimolahmed2018WhichProbioticsHistamine]]
+> [!quote] [[Sources/Articles/@sasivimolahmed2018WhichProbioticsHistamine\|@sasivimolahmed2018WhichProbioticsHistamine]]
 > "Diamine Oxidase ([[Cards/Diamine oxidase\|DAO]]) is the main enzyme for breaking down ingested histamine"
 
 # Reference
@@ -36,9 +36,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                 |
-| ------------------------------------------------------------------------------------------------------- |
-| [[Sources/@sasivimolahmed2018WhichProbioticsHistamine\|@sasivimolahmed2018WhichProbioticsHistamine]] |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                           |
+| Sources                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Articles/@sasivimolahmed2018WhichProbioticsHistamine\|@sasivimolahmed2018WhichProbioticsHistamine]] |
+| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                    |
 
 { .block-language-dataview}
