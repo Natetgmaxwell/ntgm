@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/nervous-system/","tags":["Uni/HBIO1009","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":["NS"],"edited":"2023-04-06 Thu","date created":"2022-04-06 Wed","tags":["Uni/HBIO1009","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/nervous-system/","dgPassFrontmatter":true}
 ---
 
 # Nervous System
