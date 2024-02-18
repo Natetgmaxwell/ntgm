@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/nephron/","tags":["Uni/HBIO1010","flashcards/hbio1010","Uni/LFS112","flashcards/LFS112"]}
+{"aliases":["nephrons"],"tags":["Uni/HBIO1010","flashcards/hbio1010","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/nephron/","dgPassFrontmatter":true}
 ---
 
 # Nephron
