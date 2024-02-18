@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/styloid-process-of-the-temporal-bone/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/styloid-process-of-the-temporal-bone/","dgPassFrontmatter":true}
 ---
 
 # Styloid process of the Temporal Bone
