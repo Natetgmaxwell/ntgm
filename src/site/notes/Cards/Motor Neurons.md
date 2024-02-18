@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/motor-neurons/","tags":["Uni/HBIO1009","Uni/LFS112"]}
+{"aliases":["Motor Neuron"],"tags":["Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/motor-neurons/","dgPassFrontmatter":true}
 ---
 
 # Motor Neurons
