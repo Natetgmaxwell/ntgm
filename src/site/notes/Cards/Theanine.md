@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/theanine/"}
+{"aliases":null,"edited":"2023-04-06 Thu","date created":"2022-12-14 Wed","dg-publish":true,"permalink":"/cards/theanine/","dgPassFrontmatter":true}
 ---
 
 # Theanine
