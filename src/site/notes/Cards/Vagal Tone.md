@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/vagal-tone/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/vagal-tone/","dgPassFrontmatter":true}
 ---
 
 # Vagal Tone
