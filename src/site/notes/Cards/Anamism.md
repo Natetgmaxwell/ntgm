@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/anamism/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/anamism/","dgPassFrontmatter":true}
 ---
 
 # Anamism
@@ -27,9 +27,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Books/Sapiens - A Brief History of Human Kind by Yuval Noah Harari\|Sapiens - A Brief History of Human Kind by Yuval Noah Harari]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
