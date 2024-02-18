@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/reproductive-strategies/","tags":["on/Science/EarthScience/Ecology","School"]}
+{"tags":["on/Science/EarthScience/Ecology","School"],"date created":"2021-12-26 Sun","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/reproductive-strategies/","dgPassFrontmatter":true}
 ---
 
 # Reproductive Strategies
