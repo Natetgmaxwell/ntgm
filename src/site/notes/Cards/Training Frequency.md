@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/training-frequency/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/training-frequency/","dgPassFrontmatter":true}
 ---
 
 # Training Frequency
