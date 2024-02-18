@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/gram-stains/","tags":["Uni/LFS103"]}
+{"aliases":null,"tags":["Uni/LFS103"],"dg-publish":true,"permalink":"/cards/gram-stains/","dgPassFrontmatter":true}
 ---
 
 # Gram Stains
