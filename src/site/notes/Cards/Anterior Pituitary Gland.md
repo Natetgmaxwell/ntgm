@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/anterior-pituitary-gland/","tags":["Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"dg-publish":true,"tags":["Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/anterior-pituitary-gland/","dgPassFrontmatter":true}
 ---
 
 # Anterior Pituitary Gland
@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]
+> [!quote] [[Sources/Video/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]
 > 
 > 1) GH 5) FSH 2) PRL 6) LH 3) TSH 7) MSH 4) ACTH
 > 
