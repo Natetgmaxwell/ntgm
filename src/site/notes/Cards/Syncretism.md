@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/syncretism/"}
+{"aliases":null,"dg-publish":true,"permalink":"/cards/syncretism/","dgPassFrontmatter":true}
 ---
 
 # Syncretism
@@ -16,7 +16,6 @@
 - 
 
 ## Mentions
-- [[Sources/Books/Sapiens - A Brief History of Human Kind by Yuval Noah Harari\|Sapiens - A Brief History of Human Kind by Yuval Noah Harari]]
 
 { .block-language-dataview}
 
