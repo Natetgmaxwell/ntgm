@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/vocal-cords/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/vocal-cords/","dgPassFrontmatter":true}
 ---
 
 # Vocal Cords
