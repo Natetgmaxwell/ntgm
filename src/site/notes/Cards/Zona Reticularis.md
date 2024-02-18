@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/zona-reticularis/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/zona-reticularis/","dgPassFrontmatter":true}
 ---
 
 # Zona Reticularis
