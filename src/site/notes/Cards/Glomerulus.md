@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/glomerulus/","tags":["Uni/HBIO1010"]}
+{"aliases":null,"tags":["Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/glomerulus/","dgPassFrontmatter":true}
 ---
 
 # Glomerulus
