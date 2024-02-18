@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/deep-palmar-arch/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/deep-palmar-arch/","dgPassFrontmatter":true}
 ---
 
 # Deep Palmar Arch
