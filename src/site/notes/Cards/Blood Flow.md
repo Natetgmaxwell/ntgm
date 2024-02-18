@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/blood-flow/","tags":["Uni/LFS112","flashcards/LFS112"]}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/blood-flow/","dgPassFrontmatter":true}
 ---
 
 # Blood Flow
@@ -40,9 +40,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                         |
-| ------------------------------------------------------------------------------- |
-| [[Sources/Books/NEUROENDOCRINOLOGY OF STRESS\|NEUROENDOCRINOLOGY OF STRESS]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
