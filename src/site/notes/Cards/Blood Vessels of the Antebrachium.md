@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/blood-vessels-of-the-antebrachium/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/blood-vessels-of-the-antebrachium/","dgPassFrontmatter":true}
 ---
 
 # Blood Vessels of the Antebrachium
