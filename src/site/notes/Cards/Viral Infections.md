@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/viral-infections/"}
+{"aliases":["Viral Infection"],"tags":null,"dg-publish":true,"permalink":"/cards/viral-infections/","dgPassFrontmatter":true}
 ---
 
 # Viral Infections
