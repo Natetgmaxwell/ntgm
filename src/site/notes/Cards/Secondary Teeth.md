@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/secondary-teeth/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":[],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/secondary-teeth/","dgPassFrontmatter":true}
 ---
 
 # Secondary Teeth
