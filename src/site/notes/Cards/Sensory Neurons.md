@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/sensory-neurons/","tags":["Uni/HBIO1010","Uni/LFS112","Uni/HBIO1009","flashcards/LFS112"]}
+{"aliases":null,"tags":["Uni/HBIO1010","Uni/LFS112","Uni/HBIO1009","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/sensory-neurons/","dgPassFrontmatter":true}
 ---
 
 # Sensory Neurons
