@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/gonadotropin-releasing-hormone/","tags":["Uni/LFS112","flashcards/LFS112"]}
+{"aliases":["GnRH"],"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/gonadotropin-releasing-hormone/","dgPassFrontmatter":true}
 ---
 
 # Gonadotropin-Releasing Hormone
