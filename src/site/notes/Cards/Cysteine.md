@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cysteine/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/cysteine/","dgPassFrontmatter":true}
 ---
 
 # Cysteine
