@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/pyruvate-dehydrogenase/"}
+{"aliases":"PDH","tags":null,"dg-publish":true,"permalink":"/cards/pyruvate-dehydrogenase/","dgPassFrontmatter":true}
 ---
 
 # Pyruvate Dehydrogenase
