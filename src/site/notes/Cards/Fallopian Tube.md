@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/fallopian-tube/","tags":["Uni/HBIO1010","flashcards/hbio1010"]}
+{"aliases":null,"tags":["Uni/HBIO1010","flashcards/hbio1010"],"dg-publish":true,"permalink":"/cards/fallopian-tube/","dgPassFrontmatter":true}
 ---
 
 # Fallopian Tube
