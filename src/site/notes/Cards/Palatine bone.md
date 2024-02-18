@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/palatine-bone/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/palatine-bone/","dgPassFrontmatter":true}
 ---
 
 # Palatine bone
