@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/lesser-curvature-of-the-stomach/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/lesser-curvature-of-the-stomach/","dgPassFrontmatter":true}
 ---
 
 # Lesser Curvature of the Stomach
