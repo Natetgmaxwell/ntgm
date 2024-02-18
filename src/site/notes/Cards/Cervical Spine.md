@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cervical-spine/","tags":["on/Science/Biology/Anatomy","Uni/OMT1"]}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy","Uni/OMT1"],"date created":"2023-03-08 Wed","dg-publish":true,"permalink":"/cards/cervical-spine/","dgPassFrontmatter":true}
 ---
 
 # Cervical Spine
@@ -13,7 +13,7 @@
 > 
 
 ![Extras/Images/image-5-x475-y316.png|300](/img/user/Extras/Images/image-5-x475-y316.png)
-[[Sources/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]]
+[[Sources/Video/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]]
 ## Vertebrae of the [[Cards/Cervical Spine\|Cervical Spine]]
 
 - [[Cards/Cervical 1\|Cervical 1]]
@@ -58,9 +58,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                   |
-| --------------------------------------------------------- |
-| [[Sources/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]] |
+| Sources                                                         |
+| --------------------------------------------------------------- |
+| [[Sources/Video/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]] |
 
 { .block-language-dataview}
 
