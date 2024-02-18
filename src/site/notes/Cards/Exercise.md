@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/exercise/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/exercise/","dgPassFrontmatter":true}
 ---
 
 # Exercise
