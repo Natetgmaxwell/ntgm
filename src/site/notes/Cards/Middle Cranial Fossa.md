@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/middle-cranial-fossa/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/middle-cranial-fossa/","dgPassFrontmatter":true}
 ---
 
 # Middle Cranial Fossa
