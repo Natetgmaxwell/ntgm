@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/video/colingavagan2023-lfs-122-m8-t5-anterior/","tags":["source/video","Uni/LFS122"]}
+{"aliases":["LFS122 M8T5  Anterior Muscle Compartments of the Antebrachium and Hand"],"Status":"Watched","FirstAuthor":"","tags":["source/video","Uni/LFS122"],"dg-publish":true,"Priority":"High","permalink":"/sources/video/colingavagan2023-lfs-122-m8-t5-anterior/","dgPassFrontmatter":true}
 ---
 
 # @colingavagan2023-LFS122M8T5Anterior
