@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/university/","tags":["effort"]}
+{"aliases":["Uni"],"tags":["effort"],"rank":5,"dg-publish":true,"permalink":"/atlas/university/","dgPassFrontmatter":true}
 ---
 
 # 🎓 University
@@ -16,17 +16,31 @@
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                                   | <ul><li>LFS112</li></ul>   | \-      |
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]                                 | <ul><li>HBIO1010</li></ul> | \-      |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                             | <ul><li>HBIO1009</li></ul> | \-      |
-| [[Spaces/University/Classes/Introductory Bioscience\|Introductory Bioscience]]                                                     | <ul><li>LFS103</li></ul>   | \-      |
 | [[Spaces/University/Classes/Osteopathic Manual Therapy 1\|Osteopathic Manual Therapy 1]]                                           | <ul><li>OMT1</li></ul>     | \-      |
 | [[Spaces/University/Classes/Osteopathic Manual Therapy 2\|Osteopathic Manual Therapy 2]]                                           | <ul><li>OMT2</li></ul>     | \-      |
 | [[Spaces/University/Classes/Science Research Methods\|Science Research Methods]]                                                   | <ul><li>SCI110</li></ul>   | \-      |
 | [[Spaces/University/Classes/The Reflective Learner and Health Science Scholar\|The Reflective Learner and Health Science Scholar]] | <ul><li>HLTH1004</li></ul> | \-      |
+| [[Spaces/University/Classes/Introductory Bioscience\|Introductory Bioscience]]                                                     | <ul><li>LFS103</li></ul>   | \-      |
 
 { .block-language-dataview}
 
 ## [[Atlas/🎓 University\|Uni]] Projects
-| Name | Class | Status |
-| ---- | ----- | ------ |
+| Name                                                                                                                                     | Class                                                                   | Status      |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------- |
+| [[Spaces/University/Projects/HLT140A1 Online Quiz\|HLT140A1 Online Quiz]]                                                             | [[Spaces/University/Classes/Think Health\|HLT140]]                   | Not Started |
+| [[Spaces/University/Projects/HLT140A2 Group Presentation\|HLT140A2 Group Presentation]]                                               | [[Spaces/University/Classes/Think Health\|HLT140]]                   | Not Started |
+| [[Spaces/University/Projects/HLT140A3 Structured Reflection\|HLT140A3 Structured Reflection]]                                         | [[Spaces/University/Classes/Think Health\|HLT140]]                   | Not Started |
+| [[Spaces/University/Projects/LFS261A3 Laboratory Portfolio\|LFS261A3 Laboratory Portfolio]]                                           | [[Spaces/University/Classes/Microbiology\|LFS261]]                   | Not Started |
+| [[Spaces/University/Projects/LFS261A1 Early Assessment Quiz\|LFS261A1 Early Assessment Quiz]]                                         | [[Spaces/University/Classes/Microbiology\|LFS261]]                   | Not Started |
+| [[Spaces/University/Projects/LFS261A2 Mid-term Exam\|LFS261A2 Mid-term Exam]]                                                         | [[Spaces/University/Classes/Microbiology\|LFS261]]                   | Not Started |
+| [[Spaces/University/Projects/LFS261A4 Final Exam\|LFS261A4 Final Exam]]                                                               | [[Spaces/University/Classes/Microbiology\|LFS261]]                   | Not Started |
+| [[Spaces/University/Projects/MLS101A1 Professional Skills Development Portfolio\|MLS101A1 Professional Skills Development Portfolio]] | [[Spaces/University/Classes/Foundations in Medical Science\|MLS101]] | Not Started |
+| [[Spaces/University/Projects/SCI105A2 Laboratory Quizzes\|SCI105A2 Laboratory Quizzes]]                                               | [[Spaces/University/Classes/Introductory Chemistry\|SCI105]]         | Not Started |
+| [[Spaces/University/Projects/SCI105A3 Scientific Report\|SCI105A3 Scientific Report]]                                                 | [[Spaces/University/Classes/Introductory Chemistry\|SCI105]]         | Not Started |
+| [[Spaces/University/Projects/MLS101A3 End-of-Semester Exam\|MLS101A3 End-of-Semester Exam]]                                           | [[Spaces/University/Classes/Foundations in Medical Science\|MLS101]] | Not Started |
+| [[Spaces/University/Projects/SCI105A4 Final Examination\|SCI105A4 Final Examination]]                                                 | [[Spaces/University/Classes/Introductory Chemistry\|SCI105]]         | Not Started |
+| [[Spaces/University/Projects/MLS101A2 Review Quiz\|MLS101A2 Review Quiz]]                                                             | [[Spaces/University/Classes/Foundations in Medical Science\|MLS101]] | Not Started |
+| [[Spaces/University/Projects/SCI105A1 Mid-Semester Exam\|SCI105A1 Mid-Semester Exam]]                                                 | [[Spaces/University/Classes/Introductory Chemistry\|SCI105]]         | Not Started |
 
 { .block-language-dataview}
 
