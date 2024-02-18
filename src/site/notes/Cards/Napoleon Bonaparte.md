@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/napoleon-bonaparte/","tags":["on/People"]}
+{"aliases":["Napoleon"],"tags":["on/People"],"dg-publish":true,"permalink":"/cards/napoleon-bonaparte/","dgPassFrontmatter":true}
 ---
 
 # Napoleon Bonaparte
