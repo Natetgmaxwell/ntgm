@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/salivary-glands/","tags":["Uni/LFS122","flashcards/LFS122","Uni/HBIO1010"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122","Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/salivary-glands/","dgPassFrontmatter":true}
 ---
 
 # Salivary glands
