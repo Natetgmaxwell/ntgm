@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/cell-signalling/","tags":["Uni/HBIO1009"]}
+{"aliases":["cell communication","Cellular communication"],"tags":["Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/cell-signalling/","dgPassFrontmatter":true}
 ---
 
 # Cell Signalling
@@ -20,7 +20,7 @@
 | Short Duration Response                        | Long Duration Response        |
 | [[Cards/Action Potentials\|Action Potentials]] and [[Cards/Neurotransmitter\|Neurotransmitter]] | [[Cards/Hormones\|Hormones]] in the [[Cards/Blood\|Blood]] |
 | Specific Area                                  | Broad                         | 
-[[Sources/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]
+[[Sources/Video/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]
 
 ## Types of [[Cards/Cell Signalling\|Cell Signalling]]
 
