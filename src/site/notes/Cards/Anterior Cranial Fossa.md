@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/anterior-cranial-fossa/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/anterior-cranial-fossa/","dgPassFrontmatter":true}
 ---
 
 # Anterior Cranial Fossa
