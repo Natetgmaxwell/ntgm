@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/permissiveness/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/permissiveness/","dgPassFrontmatter":true}
 ---
 
 # Permissiveness
