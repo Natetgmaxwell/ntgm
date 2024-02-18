@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/visual-communication/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/visual-communication/","dgPassFrontmatter":true}
 ---
 
 # Visual Communication
