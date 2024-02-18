@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/social-hierarchy/","tags":["School","Art/MovingImage"]}
+{"Created":"2022-06-22","date created":"2022-01-05 Wed","edited":"2023-04-06 Thu","aliases":["Demographics of Social Class"],"tags":["School","Art/MovingImage"],"dg-publish":true,"permalink":"/cards/social-hierarchy/","dgPassFrontmatter":true}
 ---
 
 
@@ -12,7 +12,7 @@ Links: [[Calendar/2022/Daily/2022-06-22\|2022-06-22]]
 > jump:: [[Cards/Egalitarianism\|Egalitarianism]]
 > down:: [[Cards/Influence\|Influence]]
 
-A stark example the [[Cards/Social Hierarchy\|Social Hierarchy]] is in [[Sources/@georgeorwell1949NineteenEightyfour\|1984]] and the obvious social class differences between the 'Inner Party', 'Outer Party' and the proles.
+A stark example the [[Cards/Social Hierarchy\|Social Hierarchy]] is in [[Sources/Books/@georgeorwell1949NineteenEightyfour\|1984]] and the obvious social class differences between the 'Inner Party', 'Outer Party' and the proles.
 
 ## A-households
 > - 2%
