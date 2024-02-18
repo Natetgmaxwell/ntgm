@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/research-papers/wu2020-effect-backward-walking/","tags":["knee"]}
+{"zotero-key":"RC5NQC3K","zt-attachments":["844"],"FirstAuthor":"Yuxuan Wu","alias":["Effect of backward walking training on knee osteoarthritis: protocol of a systematic review and meta-analysis"],"citekey":"wu2020-EffectBackwardWalking","tags":["knee"],"dg-publish":true,"permalink":"/sources/research-papers/wu2020-effect-backward-walking/","dgPassFrontmatter":true}
 ---
 
 tags:: #source/researchpaper 
