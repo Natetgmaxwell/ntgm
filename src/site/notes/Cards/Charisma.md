@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/charisma/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/charisma/","dgPassFrontmatter":true}
 ---
 
 # Charisma
