@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/pharyngeal-tonsil/","tags":["Uni/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/pharyngeal-tonsil/","dgPassFrontmatter":true}
 ---
 
 # Pharyngeal Tonsil
