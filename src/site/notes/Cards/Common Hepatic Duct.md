@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/common-hepatic-duct/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":["CHD"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/common-hepatic-duct/","dgPassFrontmatter":true}
 ---
 
 # Common Hepatic Duct
