@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/hard-palate/"}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/hard-palate/","dgPassFrontmatter":true}
 ---
 
 # Hard Palate
