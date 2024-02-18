@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/lower-esophageal-sphincter/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":["Cardiac Sphincter"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/lower-esophageal-sphincter/","dgPassFrontmatter":true}
 ---
 
 # Lower Esophageal Sphincter
