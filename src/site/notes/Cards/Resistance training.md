@@ -2,7 +2,7 @@
 {"aliases":null,"dg-publish":true,"permalink":"/cards/resistance-training/","dgPassFrontmatter":true}
 ---
 
-# Resistance Training
+# Resistance training
 
 > [!ontology]
 > up:: 
