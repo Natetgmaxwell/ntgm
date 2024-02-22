@@ -21,7 +21,6 @@
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]] |
-| [[Cards/Prolactin\|Prolactin]]                                   |
 
 { .block-language-dataview}
 
