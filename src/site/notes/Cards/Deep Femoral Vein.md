@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/deep-femoral-vein/","tags":["Uni/LFS122","flashcards/LFS122"]}
+{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/deep-femoral-vein/","dgPassFrontmatter":true}
 ---
 
 # Deep Femoral Vein
