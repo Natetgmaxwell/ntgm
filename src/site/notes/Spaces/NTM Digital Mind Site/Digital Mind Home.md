@@ -18,32 +18,32 @@
 ## Recently Created Cards
 | File Name                                                                                               | Date Modified     |
 | ------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Cards/Prolactin\|Prolactin]]                                                                       | February 22, 2024 |
+| [[Cards/Resistance training\|Resistance training]]                                                   | February 21, 2024 |
+| [[Cards/Atomic Theory\|Atomic Theory]]                                                               | February 20, 2024 |
+| [[Cards/Metalic Bonding\|Metalic Bonding]]                                                           | February 20, 2024 |
 | [[Cards/Conflict\|Conflict]]                                                                         | February 04, 2024 |
 | [[Cards/Elon Musk's Algorithm\|Elon Musk's Algorithm]]                                               | February 04, 2024 |
 | [[Cards/Evolutionary Mismatch\|Evolutionary Mismatch]]                                               | February 04, 2024 |
 | [[Cards/Positivity Bias in Language\|Positivity Bias in Language]]                                   | February 04, 2024 |
 | [[Cards/Resistance Training Effect on Growth Hormone\|Resistance Training Effect on Growth Hormone]] | February 04, 2024 |
 | [[Cards/Tim Ferris\|Tim Ferris]]                                                                     | February 04, 2024 |
-| [[Cards/War\|War]]                                                                                   | February 04, 2024 |
-| [[Cards/Amino Acids\|Amino Acids]]                                                                   | January 31, 2024  |
-| [[Cards/Bicarbonate\|Bicarbonate]]                                                                   | January 31, 2024  |
-| [[Cards/Blood Flow Restriction Training\|Blood Flow Restriction Training]]                           | January 31, 2024  |
 
 { .block-language-dataview}
 
 ## Recent Sources
-| File Name                                                                                                   | Date Modified     | Type  |
-| ----------------------------------------------------------------------------------------------------------- | ----------------- | ----- |
-| [[Sources/Video/@skyecash-deans2023LFS122M3T1Integumentary\|@skyecash-deans2023LFS122M3T1Integumentary]] | February 18, 2024 | Video |
-| [[Sources/Video/@nicolemastersLFS112M5T1Building2023\|@nicolemastersLFS112M5T1Building2023]]             | February 18, 2024 | \-    |
-| [[Sources/Video/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]           | February 18, 2024 | \-    |
-| [[Sources/Video/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]                           | February 18, 2024 | \-    |
-| [[Sources/Video/@lindagallo2023LFS112M4T5Endocrine\|@lindagallo2023LFS112M4T5Endocrine]]                 | February 18, 2024 | \-    |
-| [[Sources/Video/@lindagallo2023LFS112M4T4Adrenal\|@lindagallo2023LFS112M4T4Adrenal]]                     | February 18, 2024 | \-    |
-| [[Sources/Video/@katemounsey2023LFS112M6T2Red\|@katemounsey2023LFS112M6T2Red]]                           | February 18, 2024 | \-    |
-| [[Sources/Video/@leedaffinLFS122M4T3General\|@leedaffinLFS122M4T3General]]                               | February 18, 2024 | \-    |
-| [[Sources/Video/@leedaffinLFS122M12T3Female2023\|@leedaffinLFS122M12T3Female2023]]                       | February 18, 2024 | \-    |
-| [[Sources/Video/@colingavaganLFS122M8T4Anterior2023\|@colingavaganLFS122M8T4Anterior2023]]               | February 18, 2024 | \-    |
+| File Name                                                                                           | Date Modified     | Type  |
+| --------------------------------------------------------------------------------------------------- | ----------------- | ----- |
+| [[Sources/Video/@melindadean2024MLS101M01T01History\|@melindadean2024MLS101M01T01History]]       | February 22, 2024 | Video |
+| [[Sources/Video/@davidmckay2024SCI105M01T03Laws\|@davidmckay2024SCI105M01T03Laws]]               | February 22, 2024 | Video |
+| [[Sources/Video/@nicolemasters2023-LFS112M9T1Functions\|@nicolemasters2023-LFS112M9T1Functions]] | February 21, 2024 | \-    |
+| [[Sources/Video/@davidmckay2024SCI105M01T01Atomic\|@davidmckay2024SCI105M01T01Atomic]]           | February 21, 2024 | Video |
+| [[Sources/Video/@davidmckay2024SCI105M01T02Chemical\|@davidmckay2024SCI105M01T02Chemical]]       | February 21, 2024 | Video |
+| [[Sources/Books/@peterattia2023OutliveScienceArt\|@peterattia2023OutliveScienceArt]]             | February 20, 2024 | Book  |
+| [[Sources/Books/@kotler2021ArtImpossiblePeak\|@kotler2021ArtImpossiblePeak]]                     | February 20, 2024 | Book  |
+| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] | February 20, 2024 | \-    |
+| [[Sources/Books/@georgeorwell1949NineteenEightyfour\|@georgeorwell1949NineteenEightyfour]]       | February 20, 2024 | Book  |
+| [[Sources/Books/@fyodordostoevskyIdiot1869\|@fyodordostoevskyIdiot1869]]                         | February 20, 2024 | \-    |
 
 { .block-language-dataview}
 
