@@ -25,3 +25,31 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 { .block-language-dataview}
 
 ## Topics
+
+### 1. Fundamentals of Chemistry & [[Cards/Atomic Theory\|Atomic Theory]]
+
+###### Explain what chemistry is about?
+
+Chemistry is the study of how matter is transferred and arranged.
+
+###### Explain how matter and mass are related?
+
+The amount of matter is referred to as mass.
+
+###### Explain and identify physical and chemical transformations?
+
+- **Physical** - when the substance changes but not it's composition
+- **Chemical** - a chemical transformation where the composition changes
+
+###### Describe Atomic Theory?
+
+Atom cannot be created or destroy they mealy change configurations to form elements.
+
+###### Explain the difference between laws, theories, and hypotheses?
+
+**Law:** A summary of observations
+**Theory:** An evidence backed attempt to explain why something happens
+**Hypothesis:** An original idea seeking testing
+**Rule:** A generalisation with exceptions
+
+###### 
