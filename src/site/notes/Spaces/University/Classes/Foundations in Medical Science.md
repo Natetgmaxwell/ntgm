@@ -36,7 +36,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 - Opium poppy
 	- Treatment for relief of severe pain
 
-###### Outline critical advances in medicine that occurred in [[Cards/Ancient Greece\|Ancient Greece]] and Rome, and during the Mediaeval through to [[• Inbox/Renaissance\|Renaissance]] periods of history.
+###### Outline critical advances in medicine that occurred in [[Cards/Ancient Greece\|Ancient Greece]] and Rome, and during the Mediaeval through to [[Cards/Renaissance\|Renaissance]] periods of history.
 
 - [[Cards/Ancient Greece\|Ancient Greece]]
 	- Ethical Standards
@@ -51,6 +51,6 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 	- Lack of record keeping
 	- Development of Laboratory Equipment
 	- Eastern scholars preserved knowledge suppressed or destroyed during dark ages
-- [[• Inbox/Renaissance\|Renaissance]]
+- [[Cards/Renaissance\|Renaissance]]
 	- Major advancements in [[Atlas/MOCs/Anatomy\|Anatomy]] and [[Cards/Physiology\|Physiology]]
 	- Developed sophisticated drawings that facilitated teaching
