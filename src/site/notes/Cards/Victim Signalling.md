@@ -31,7 +31,6 @@
 
 | Sources                                                                                               |
 | ----------------------------------------------------------------------------------------------------- |
-| [[Sources/Articles/@henderson2022VictimSignalingDark\|@henderson2022VictimSignalingDark]]          |
 | [[Sources/Research Papers/@ok2021SignalingVirtuousVictimhood\|@ok2021SignalingVirtuousVictimhood]] |
 
 { .block-language-dataview}
