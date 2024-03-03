@@ -30,10 +30,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Research Papers/@russell2019-HumanStressResponse\|@russell2019-HumanStressResponse]]                                                     |
-| [[Sources/Research Papers/@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine]] |
+| Sources                                                                                           |
+| ------------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@russell2019-HumanStressResponse\|@russell2019-HumanStressResponse]] |
 
 { .block-language-dataview}
 
