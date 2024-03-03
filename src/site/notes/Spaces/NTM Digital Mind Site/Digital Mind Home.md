@@ -1,5 +1,5 @@
 ---
-{"aliases":["001"],"tags":["effort","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"/spaces/ntm-digital-mind-site/digital-mind-home/","dgPassFrontmatter":true}
+{"aliases":["001"],"tags":["effort","gardenEntry","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"/spaces/ntm-digital-mind-site/digital-mind-home/","dgPassFrontmatter":true}
 ---
 
 # Digital Mind Home
