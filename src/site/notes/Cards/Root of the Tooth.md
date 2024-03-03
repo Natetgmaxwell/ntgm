@@ -18,7 +18,6 @@
 - 
 
 ## Mentions
-- [[Sources/Video/@leedaffin2023-LFS122M11T1Oral\|@leedaffin2023-LFS122M11T1Oral]]
 
 { .block-language-dataview}
 
