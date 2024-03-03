@@ -35,9 +35,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Research Papers/@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine]] |
-| [[Sources/Articles/Fountain of Youth discovered in bone-marrow stem cells\|Fountain of Youth discovered in bone-marrow stem cells]]                |
+| Sources                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Articles/Fountain of Youth discovered in bone-marrow stem cells\|Fountain of Youth discovered in bone-marrow stem cells]] |
 
 { .block-language-dataview}
