@@ -17,7 +17,6 @@
 
 ## Mentions
 - [[Sources/Video/@lindagallo2023-LFS112M7T1Overview\|@lindagallo2023-LFS112M7T1Overview]]
-- [[Sources/Video/@lindagallo2023-LFS112M7T2Functions\|@lindagallo2023-LFS112M7T2Functions]]
 
 { .block-language-dataview}
 
