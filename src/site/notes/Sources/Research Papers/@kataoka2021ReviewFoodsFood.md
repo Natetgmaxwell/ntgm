@@ -14,6 +14,8 @@
 > Androgens are essential for male physical activity. Age-related androgen deﬁciency, known as late-onset hypogonadism (LOH), is considered a risk factor for several diseases. There are many men's health supplements on the market. Therefore, the purpose of this review is to summarize the food ingredients that have been suggested in published literature to increase testosterone levels. A review of previously reported animal studies suggested that 5 representative nutritional components, 7 food ingredients, and 25 supplements were associated with testosterone. Some food and supplements inﬂuence testosterone levels in various animals by directly increasing testosterone or suppressing the decrease in testosterone production due to testicular toxicity. There are three mechanisms by which foods or supplements increase testosterone production: 1) regulating luteinizing hormone, the hormone that stimulates testosterone production, 2) regulating testosterone synthase in the testis, and 3) regulating testosterone-degrading enzymes. In contrast, suppressing the decrease in testosterone depends on the antioxidant effect of the foods. Although detailed mechanistic studies and clinical trials are required to validate these ﬁndings, the use of food to regulate testosterone levels is a promising therapeutic option.
 
 > [!Info]
+> title: A Review of foods and food supplements increasing testosterone levels
+> type:: Research Paper 
 > date:: 2021
 > DOI:: 10.31083/jomh.2021.008
 > FirstAuthor:: Kazunori Kataoka
