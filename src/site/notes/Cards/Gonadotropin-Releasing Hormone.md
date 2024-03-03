@@ -17,7 +17,6 @@
 - 
 
 ## Mentions
-- [[Sources/Research Papers/@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine]]
 
 { .block-language-dataview}
 
