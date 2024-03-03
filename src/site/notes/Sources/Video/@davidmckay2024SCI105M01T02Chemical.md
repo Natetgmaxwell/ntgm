@@ -22,9 +22,9 @@
 > creators:: David McKay
 
 > [!Links]+
->  | Incoming Links                                |
-> | --------------------------------------------- |
-> | [[Cards/Metalic Bonding\|Metalic Bonding]] |
+>  | Incoming Links                            |
+> | ----------------------------------------- |
+> | [[Cards/Metalic Bonds\|Metalic Bonds]] |
 > 
 { .block-language-dataview}
 
@@ -40,14 +40,14 @@
 
 > [!quote-yellow] (Page 2) yellow
 > 
-> Non-metal→ non-metal e- share/covalent
+> [[Cards/Non-Metals\|Non-metal]]→ [[Cards/Non-Metals\|non-metal]] e- share/covalent
 >
 { #LKR2CTVQaGD4AQK7Xp2}
 
 
 > [!quote-yellow] (Page 2) yellow
 > 
-> Metal→ non-metal etransfer: ionic (salts) M+NM-
+> Metal→ [[Cards/Non-Metals\|non-metal]] etransfer: ionic (salts) M+NM-
 >
 { #7X23SISLaGD4AQK7Xp2}
 
