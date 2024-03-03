@@ -63,7 +63,6 @@
 
 | Sources                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@-LFS122M4T4Anterior\|@-LFS122M4T4Anterior]]                                                        |
 | [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]                    |
 | [[Sources/Video/@leedaffin2023-LFS122M10T2Systemic\|@leedaffin2023-LFS122M10T2Systemic]]                            |
 | [[Sources/Articles/The Harm Caused by Masks - City Journal\|The Harm Caused by Masks - City Journal]]               |
