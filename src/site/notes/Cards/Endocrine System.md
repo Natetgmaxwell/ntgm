@@ -5,7 +5,7 @@
 # Endocrine System
 
 > [!Ontology]
-> up:: [[Cards/Organ Systems\|Organ Systems]], [[Cards/Endocrine Signalling\|Endocrine Signalling]], [[Cards/Homeostasis\|Homeostasis]]
+> up:: [[Cards/Organ Systems\|Organ Systems]], [[Cards/Homeostasis\|Homeostasis]]
 > jump:: [[Cards/Reproductive system\|Reproductive system]], [[Cards/Body Tissue\|Body Tissue]]
 > down:: [[Cards/Hormones\|Hormones]], [[Cards/Endocrine Glands\|Endocrine Glands]]
 
