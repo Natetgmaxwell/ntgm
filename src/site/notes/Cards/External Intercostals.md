@@ -16,7 +16,6 @@
 - 
 
 ## Mentions
-- [[Sources/Video/@-LFS122M4T4Anterior\|@-LFS122M4T4Anterior]]
 
 { .block-language-dataview}
 
