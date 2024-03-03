@@ -19,7 +19,6 @@
 
 ## Mentions
 - [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
-- [[Sources/Video/@-LFS122M4T4Anterior\|@-LFS122M4T4Anterior]]
 
 { .block-language-dataview}
 
