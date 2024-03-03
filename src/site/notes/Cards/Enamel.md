@@ -17,7 +17,6 @@
 
 ## Mentions
 - [[Sources/Articles/Ancient Egyptian Inventions That Are Still Used Today\|Ancient Egyptian Inventions That Are Still Used Today]]
-- [[Sources/Video/@leedaffin2023-LFS122M11T1Oral\|@leedaffin2023-LFS122M11T1Oral]]
 - [[Spaces/My Newsletter/Developing Wisdom, Ancient Egypt & Physical Benchmarks\|Developing Wisdom, Ancient Egypt & Physical Benchmarks]]
 
 { .block-language-dataview}
