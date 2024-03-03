@@ -32,9 +32,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                                                                                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Podcasts/Podcast Episodes/272. Zeroes and Ones  Into The Depths of Computation   Jim Keller & Dr Jordan B Peterson — The Jordan B. Peterson Podcast\|272. Zeroes and Ones  Into The Depths of Computation   Jim Keller & Dr Jordan B Peterson — The Jordan B. Peterson Podcast]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
