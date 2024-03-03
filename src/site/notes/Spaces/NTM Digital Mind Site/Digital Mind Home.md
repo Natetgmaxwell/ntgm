@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["effort","gardenEntry","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"/spaces/ntm-digital-mind-site/digital-mind-home/","dgPassFrontmatter":true}
+{"aliases":["001"],"tags":["effort","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"/spaces/ntm-digital-mind-site/digital-mind-home/","dgPassFrontmatter":true}
 ---
 
 # Digital Mind Home
@@ -16,34 +16,34 @@
 > - Flashcard format is `{question};;{answer}`
 
 ## Recently Created Cards
-| File Name                                                                                               | Date Modified     |
-| ------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Cards/Prolactin\|Prolactin]]                                                                       | February 22, 2024 |
-| [[Cards/Renaissance\|Renaissance]]                                                                   | February 22, 2024 |
-| [[Cards/Resistance training\|Resistance training]]                                                   | February 21, 2024 |
-| [[Cards/Atomic Theory\|Atomic Theory]]                                                               | February 20, 2024 |
-| [[Cards/Metalic Bonding\|Metalic Bonding]]                                                           | February 20, 2024 |
-| [[Cards/Conflict\|Conflict]]                                                                         | February 04, 2024 |
-| [[Cards/Elon Musk's Algorithm\|Elon Musk's Algorithm]]                                               | February 04, 2024 |
-| [[Cards/Evolutionary Mismatch\|Evolutionary Mismatch]]                                               | February 04, 2024 |
-| [[Cards/Positivity Bias in Language\|Positivity Bias in Language]]                                   | February 04, 2024 |
-| [[Cards/Resistance Training Effect on Growth Hormone\|Resistance Training Effect on Growth Hormone]] | February 04, 2024 |
+| File Name                                                                       | Date Modified  |
+| ------------------------------------------------------------------------------- | -------------- |
+| [[Cards/Agonist\|Agonist]]                                                   | March 03, 2024 |
+| [[Cards/Atomic Theory\|Atomic Theory]]                                       | March 03, 2024 |
+| [[Cards/Diaphragm\|Diaphragm]]                                               | March 03, 2024 |
+| [[Cards/Diet for Increasing Testosterone\|Diet for Increasing Testosterone]] | March 03, 2024 |
+| [[Cards/Fibroblasts\|Fibroblasts]]                                           | March 03, 2024 |
+| [[Cards/Inter-professional Healthcare\|Inter-professional Healthcare]]       | March 03, 2024 |
+| [[Cards/Leydig cells\|Leydig cells]]                                         | March 03, 2024 |
+| [[Cards/Luteinising Hormone\|Luteinising Hormone]]                           | March 03, 2024 |
+| [[Cards/Mesentery\|Mesentery]]                                               | March 03, 2024 |
+| [[Cards/Optical Lobe\|Optical Lobe]]                                         | March 03, 2024 |
 
 { .block-language-dataview}
 
 ## Recent Sources
-| File Name                                                                                           | Date Modified     | Type  |
-| --------------------------------------------------------------------------------------------------- | ----------------- | ----- |
-| [[Sources/Video/@davidmckay2024SCI105M01T03Laws\|@davidmckay2024SCI105M01T03Laws]]               | February 22, 2024 | Video |
-| [[Sources/Video/@melindadean2024MLS101M01T01History\|@melindadean2024MLS101M01T01History]]       | February 22, 2024 | Video |
-| [[Sources/Video/@nicolemasters2023-LFS112M9T1Functions\|@nicolemasters2023-LFS112M9T1Functions]] | February 21, 2024 | \-    |
-| [[Sources/Video/@davidmckay2024SCI105M01T01Atomic\|@davidmckay2024SCI105M01T01Atomic]]           | February 21, 2024 | Video |
-| [[Sources/Video/@davidmckay2024SCI105M01T02Chemical\|@davidmckay2024SCI105M01T02Chemical]]       | February 21, 2024 | Video |
-| [[Sources/Books/@peterattia2023OutliveScienceArt\|@peterattia2023OutliveScienceArt]]             | February 20, 2024 | Book  |
-| [[Sources/Books/@kotler2021ArtImpossiblePeak\|@kotler2021ArtImpossiblePeak]]                     | February 20, 2024 | Book  |
-| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] | February 20, 2024 | \-    |
-| [[Sources/Books/@georgeorwell1949NineteenEightyfour\|@georgeorwell1949NineteenEightyfour]]       | February 20, 2024 | Book  |
-| [[Sources/Books/@fyodordostoevskyIdiot1869\|@fyodordostoevskyIdiot1869]]                         | February 20, 2024 | \-    |
+| File Name                                                                                                     | Date Modified     | Type           |
+| ------------------------------------------------------------------------------------------------------------- | ----------------- | -------------- |
+| [[Sources/@leedaffin2023LFS122M4T4Anterior\|@leedaffin2023LFS122M4T4Anterior]]                             | March 03, 2024    | Video          |
+| [[Sources/Research Papers/@ostrowskiEvidenceThatInterleukin61998\|@ostrowskiEvidenceThatInterleukin61998]] | March 03, 2024    | Research Paper |
+| [[Sources/@leedaffinLFS122M11T1Oral2023\|@leedaffinLFS122M11T1Oral2023]]                                   | March 03, 2024    | Video          |
+| [[Sources/@lindagalloLFS112M7T2Functions2023\|@lindagalloLFS112M7T2Functions2023]]                         | March 03, 2024    | Video          |
+| [[Sources/Research Papers/@kataoka2021ReviewFoodsFood\|@kataoka2021ReviewFoodsFood]]                       | March 03, 2024    | Research Paper |
+| [[Sources/Video/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]             | March 03, 2024    | Video          |
+| [[Sources/@clark2008LagsLeadsLife\|@clark2008LagsLeadsLife]]                                               | March 01, 2024    | Research Paper |
+| [[Sources/Video/@melindadean2024MLS101M01T01History\|@melindadean2024MLS101M01T01History]]                 | February 28, 2024 | Video          |
+| [[Sources/Video/@davidmckay2024SCI105M01T03Laws\|@davidmckay2024SCI105M01T03Laws]]                         | February 28, 2024 | Video          |
+| [[Sources/@davidmckay2024SCI105M01T05Periodic\|@davidmckay2024SCI105M01T05Periodic]]                       | February 28, 2024 | Video          |
 
 { .block-language-dataview}
 
