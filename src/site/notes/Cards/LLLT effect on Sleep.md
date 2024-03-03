@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/lllt-effect-on-sleep/","dgPassFrontmatter":true}
 ---
 
-# LLLT Effect on Sleep
+# LLLT effect on Sleep
 
 > [!ontology]+
 > up:: [[Cards/Low-Level Laser Therapy\|LLLT]], [[Cards/Sleep\|Sleep]]
