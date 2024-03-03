@@ -36,7 +36,6 @@
 | [[Cards/Human Sacrifice\|Human Sacrifice]]                                                   |
 | [[Atlas/MOCs/Philosophy\|Philosophy]]                                                        |
 | [[Cards/Quintus Fabius Maximus\|Quintus Fabius Maximus]]                                     |
-| [[Cards/Sparta\|Sparta]]                                                                     |
 
 { .block-language-dataview}
 
