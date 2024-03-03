@@ -5,7 +5,7 @@
 # Atomic Theory
 
 > [!ontology]-
-> up:: 
+> up:: [[Cards/Atoms\|Atoms]]
 > jump:: 
 > down:: 
 
@@ -22,8 +22,9 @@
 
 { .block-language-dataview}
 
-| Outgoing Links |
-| -------------- |
+| Outgoing Links            |
+| ------------------------- |
+| [[Cards/Atoms\|Atoms]] |
 
 { .block-language-dataview}
 
