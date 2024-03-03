@@ -17,9 +17,9 @@
 - [[Cards/Persian Wars\|Persian Wars]] (499-449 BC)
 	- A series of conflicts between the Greek city-states and the Persian Empire, including the famous battles of Marathon, Thermopylae, and Salamis.
 - [[Cards/Peloponnesian War\|Peloponnesian War]] (431-404 BC)
-	- A war fought between Athens and its allies against Sparta and its allies, resulting in the decline of Athens and the rise of Sparta as the dominant power in Greece.
+	- A war fought between Athens and its allies against [[Cards/Sparta\|Sparta]] and its allies, resulting in the decline of Athens and the rise of [[Cards/Sparta\|Sparta]] as the dominant power in Greece.
 - Theban-Spartan War (378-362 BC)
-	- A conflict between the city-state of Thebes and Sparta for control over Greece, which ended with Theban victory at the Battle of Leuctra.
+	- A conflict between the city-state of Thebes and [[Cards/Sparta\|Sparta]] for control over Greece, which ended with Theban victory at the Battle of Leuctra.
 - [[Cards/Wars of Alexander the Great\|Wars of Alexander the Great]] (336-323 BC)
 	- A series of campaigns led by Alexander the Great to conquer the Persian Empire and establish one of the largest empires in history.
 - [[Greco-Persian Wars\|Greco-Persian Wars]] (499-449 BC)
