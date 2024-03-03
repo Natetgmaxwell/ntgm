@@ -95,7 +95,7 @@
     - They are malleable (hammered into sheets) and ductile (pulled into wires).
     - High density due to tightly packed constituents.
     - Solid at room temperature with high melting points.
-    - Hydrogen is missing from Group 1A as it's a non-metal.
+    - Hydrogen is missing from Group 1A as it's a [[Cards/Non-Metals\|non-metal]].
 3. **Nonmetal Characteristics:**
     
     - Group 7A elements exemplify [[Cards/Non-Metals\|nonmetals]].
