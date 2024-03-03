@@ -27,7 +27,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 ### History of Medical Science
 
-###### Recall examples of early medical traditions from primitive societies and explain how they contributed to the development of modern medicine.
+###### Recall examples of early medical traditions from primitive societies and explain how they contributed to the development of modern medicine [[Sources/Video/@melindadean2024MLS101M01T01History\|@melindadean2024MLS101M01T01History]].
 
 - Foxglove plant
 	- Treatment for a failing heart
@@ -36,7 +36,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 - Opium poppy
 	- Treatment for relief of severe pain
 
-###### Outline critical advances in medicine that occurred in [[Cards/Ancient Greece\|Ancient Greece]] and Rome, and during the Mediaeval through to [[Cards/Renaissance\|Renaissance]] periods of history.
+###### Outline critical advances in medicine that occurred in [[Cards/Ancient Greece\|Ancient Greece]] and Rome, and during the Mediaeval through to [[Cards/Renaissance\|Renaissance]] periods of history [[Sources/Video/@melindadean2024MLS101M01T01History\|@melindadean2024MLS101M01T01History]].
 
 - [[Cards/Ancient Greece\|Ancient Greece]]
 	- Ethical Standards
@@ -54,3 +54,8 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 - [[Cards/Renaissance\|Renaissance]]
 	- Major advancements in [[Atlas/MOCs/Anatomy\|Anatomy]] and [[Cards/Physiology\|Physiology]]
 	- Developed sophisticated drawings that facilitated teaching
+
+###### How did advancements in early microscope technology contribute to the progression of medical science throughout history?
+
+###### Outline the role of key people in the development of medical science from the renaissance to the industrial revolution times
+
