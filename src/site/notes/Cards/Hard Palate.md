@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/hard-palate/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/hard-palate/","dgPassFrontmatter":true}
 ---
 
 # Hard Palate
