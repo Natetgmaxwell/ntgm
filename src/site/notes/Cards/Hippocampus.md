@@ -36,7 +36,6 @@
 | Sources                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Sources/Research Papers/@liu2022-Omega3HydroxyFatty\|@liu2022-Omega3HydroxyFatty]]                                                                                                    |
-| [[Sources/Research Papers/@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine]]                                      |
 | [[Sources/Research Papers/@zhu2010IntermittentHypoxiaPromotes\|@zhu2010IntermittentHypoxiaPromotes]]                                                                                    |
 | [[Sources/Articles/Symphony of Synapses- The Brain's Intricate Dance with Music - Neuroscience News\|Symphony of Synapses- The Brain's Intricate Dance with Music - Neuroscience News]] |
 | [[Sources/Podcasts/Podcast Episodes/Understand & Improve Memory using Science-Based Tools\|Understand & Improve Memory using Science-Based Tools]]                                      |
