@@ -63,12 +63,11 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Research Papers/@kimStressHeartRate2018\|@kimStressHeartRate2018]]                                                                       |
-| [[Sources/Research Papers/@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine]] |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                                                         |
-| [[Sources/Articles/PeopleNeedTrackHRV\|PeopleNeedTrackHRV]]                                                                                        |
+| Sources                                                                         |
+| ------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@kimStressHeartRate2018\|@kimStressHeartRate2018]] |
+| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]   |
+| [[Sources/Articles/PeopleNeedTrackHRV\|PeopleNeedTrackHRV]]                  |
 
 { .block-language-dataview}
 
