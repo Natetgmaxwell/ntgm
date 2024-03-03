@@ -47,11 +47,10 @@
 
 { .block-language-dataview}
 
-| Sources                                                                             |
-| ----------------------------------------------------------------------------------- |
-| [[Sources/Video/@leedaffin2023-LFS122M11T1Oral\|@leedaffin2023-LFS122M11T1Oral]] |
-| [[Sources/Video/@LFS122M5T1Skull\|@LFS122M5T1Skull]]                             |
-| [[Sources/Articles/2019LandmarksBody-admin\|2019LandmarksBody-admin]]            |
+| Sources                                                                  |
+| ------------------------------------------------------------------------ |
+| [[Sources/Video/@LFS122M5T1Skull\|@LFS122M5T1Skull]]                  |
+| [[Sources/Articles/2019LandmarksBody-admin\|2019LandmarksBody-admin]] |
 
 { .block-language-dataview}
 
