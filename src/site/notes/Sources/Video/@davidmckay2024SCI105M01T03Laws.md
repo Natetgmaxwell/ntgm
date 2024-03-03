@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"6E7SRWIW","zt-attachments":["11390"],"alias":", SCI105 M01T03 Laws Theories Hypotheses and Rules","keywords":[],"FirstAuthor":"[[ David McKay]]","tags":["source/video"],"dg-publish":true,"permalink":"/sources/video/davidmckay2024-sci-105-m01-t03-laws/","dgPassFrontmatter":true}
+{"zotero-key":"6E7SRWIW","zt-attachments":["11390"],"aliases":["SCI105 M01T03 Laws Theories Hypotheses and Rules"],"keywords":null,"FirstAuthor":"[[ David McKay]]","tags":["source/video","Uni/SCI105"],"dg-publish":true,"permalink":"/sources/video/davidmckay2024-sci-105-m01-t03-laws/","dgPassFrontmatter":true}
 ---
 
 # @davidmckay2024SCI105M01T03Laws
