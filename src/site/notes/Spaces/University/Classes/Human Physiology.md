@@ -31,7 +31,6 @@
 | <ul><li>LFS112 M1T1 Video Core principles in physiology</li></ul>               | [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]]                             | true      |
 | <ul><li>LFS112 M3T1 Functional organisation of skeletal muscle fibres</li></ul> | [[Sources/Video/@chrisaskewLFS112M3T1Functional\|@chrisaskewLFS112M3T1Functional]]                       | true      |
 | <ul><li>LFS112 M4T1 Overview of the Endocrine System</li></ul>                  | [[Sources/Video/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]                           | true      |
-| <ul><li>LFS112 M4T2 Hypothalamus and pituitary</li></ul>                        | [[Sources/Video/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]           | true      |
 | <ul><li>LFS112 M4T3 Thyroid and Parathyroid glands</li></ul>                    | [[Sources/Video/@2023-LFS112M4T3Thyroid\|@2023-LFS112M4T3Thyroid]]                                       | true      |
 | <ul><li>LFS112 M4T4 Adrenal glands and Pineal Gland</li></ul>                   | [[Sources/Video/@lindagallo2023LFS112M4T4Adrenal\|@lindagallo2023LFS112M4T4Adrenal]]                     | true      |
 | <ul><li>LFS112 M4T5 Endocrine Pancreas</li></ul>                                | [[Sources/Video/@lindagallo2023LFS112M4T5Endocrine\|@lindagallo2023LFS112M4T5Endocrine]]                 | true      |
@@ -44,8 +43,7 @@
 | <ul><li>LFS112 M6T5 Innate Immunity</li></ul>                                   | [[Sources/Video/@2023-LFS112M6T5Innate\|@2023-LFS112M6T5Innate]]                                         | true      |
 | <ul><li>LFS112 M6T6 Adaptive Immunity</li></ul>                                 | [[Sources/Video/@2023-LFS112M6T6Adaptive\|@2023-LFS112M6T6Adaptive]]                                     | true      |
 | <ul><li>LFS112 M7T1 Overview of the digestive system</li></ul>                  | [[Sources/Video/@lindagallo2023-LFS112M7T1Overview\|@lindagallo2023-LFS112M7T1Overview]]                 | true      |
-| <ul><li>LFS112 M7T2 Functions of digestive organs</li></ul>                     | [[Sources/Video/@lindagallo2023-LFS112M7T2Functions\|@lindagallo2023-LFS112M7T2Functions]]               | true      |
-| <ul><li>LFS112 M9T1 Functions and Structure of the Urinary System</li></ul>     | [[Sources/Video/@nicolemasters2023-LFS112M9T1Functions\|@nicolemasters2023-LFS112M9T1Functions]]         | true      |
+| <ul><li>LFS112 M7T2 Functions of digestive organs</li></ul>                     | [[Sources/@lindagalloLFS112M7T2Functions2023\|@lindagalloLFS112M7T2Functions2023]]                       | true      |
 
 { .block-language-dataview}
 
@@ -292,7 +290,7 @@ The [[Cards/Hypothalamus\|hypothalamus]] and the pituitary gland work in close c
 - [[Cards/Gonadotropin-Releasing Hormone\|Gonadotropin-Releasing Hormone]] stimulates the [[Cards/Anterior Pituitary Gland\|Anterior Pituitary Gland]] to release [[Cards/Luteinising Hormone\|LH]] and [[Cards/Follicle Stimulating Hormone\|FSH]].
 - [[Cards/Luteinising Hormone\|LH]] and [[Cards/Follicle Stimulating Hormone\|FSH]] are released from the [[Cards/Anterior Pituitary Gland\|Anterior Pituitary Gland]].
 	- [[Cards/Luteinising Hormone\|LH]] promoting the [[Cards/Nurse Cells\|Nurse Cells]] to increase ↑[[Cards/Spermatogenesis\|Spermatogenesis]] and ↑[[Cards/Spermiogenesis\|Spermiogenesis]].
-	- [[Cards/Follicle Stimulating Hormone\|FSH]] promoting [[Cards/Interstitial Cells\|Interstitial Cells]] to increases ↑[[Cards/Testosterone\|Testosterone]], which is responsible for secondary sex characteristics.
+	- [[Cards/Follicle Stimulating Hormone\|FSH]] promoting [[Cards/Leydig cells\|Leydig cells]] to increases ↑[[Cards/Testosterone\|Testosterone]], which is responsible for secondary sex characteristics.
 
 ###### Summarise the process of [[Cards/Oogenesis\|oogenesis]], which leads to the production of oocytes (egg cells).
 
