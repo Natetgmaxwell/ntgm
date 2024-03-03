@@ -15,7 +15,6 @@
 # Reference
 
 ## Mentions
-- [[Sources/Research Papers/@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine]]
 - [[Sources/Video/@leedaffin2023-LFS122M10T4Lymphatic\|@leedaffin2023-LFS122M10T4Lymphatic]]
 
 { .block-language-dataview}
