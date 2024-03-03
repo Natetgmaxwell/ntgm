@@ -28,9 +28,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                             |
-| ----------------------------------------------------------------------------------- |
-| [[Sources/Video/@leedaffin2023-LFS122M11T1Oral\|@leedaffin2023-LFS122M11T1Oral]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
