@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"S3P3VR2Z","zt-attachments":["11404"],"alias":", MLS101 M01T01 History of Medical Science (Part 1)","keywords":null,"FirstAuthor":"[[ Melinda Dean]]","tags":["source/video"],"dg-publish":true,"permalink":"/sources/video/melindadean2024-mls-101-m01-t01-history/","dgPassFrontmatter":true}
+{"zotero-key":"S3P3VR2Z","zt-attachments":["11404"],"aliases":["MLS101 M01T01 History of Medical Science (Part 1)"],"keywords":null,"FirstAuthor":"[[ Melinda Dean]]","tags":["source/video","Uni/MLS101"],"dg-publish":true,"permalink":"/sources/video/melindadean2024-mls-101-m01-t01-history/","dgPassFrontmatter":true}
 ---
 
 # @melindadean2024MLS101M01T01History
@@ -22,8 +22,9 @@
 > creators:: Melinda Dean
 
 > [!Links]+
->  | Incoming Links |
-> | -------------- |
+>  | Incoming Links                                                                                  |
+> | ----------------------------------------------------------------------------------------------- |
+> | [[Spaces/University/Classes/Foundations in Medical Science\|Foundations in Medical Science]] |
 > 
 { .block-language-dataview}
 
