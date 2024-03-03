@@ -14,7 +14,7 @@
 
 > [!quote] [[Sources/Video/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]
 > 
-> 1) GH 5) FSH 2) PRL 6) LH 3) TSH 7) MSH 4) ACTH
+> 1) GH 5) FSH 2) PRL 6) LH 3) [[Cards/Thyroid-Stimulating Hormone\|TSH]] 7) MSH 4) ACTH
 > 
 > ---
 > Hormones released into the blood from the anterior pituitary
