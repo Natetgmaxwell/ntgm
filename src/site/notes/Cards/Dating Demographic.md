@@ -13,7 +13,7 @@
 > 
 
 ![Extras/Images/8XAF22I5.png](/img/user/Extras/Images/8XAF22I5.png)
-[[Sources/Articles/@Henderson2022-SwipingDatingPreferencesa\|@Henderson2022-SwipingDatingPreferencesa]]
+[[@Henderson2022-SwipingDatingPreferencesa\|@Henderson2022-SwipingDatingPreferencesa]]
 # Reference
 - 
 
@@ -28,9 +28,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------- |
-| [[Sources/Articles/@Henderson2022-SwipingDatingPreferencesa\|@Henderson2022-SwipingDatingPreferencesa]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
