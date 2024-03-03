@@ -16,6 +16,20 @@
 - A [[Cards/Intestinal Permeability\|leaky gut]] can affect the permeability of the [[Cards/Blood-brain Barrier\|BBB]]
 
 ## Mentions
-- [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
+| Incoming Links |
+| -------------- |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                              |
+| ----------------------------------------------------------- |
+| [[Cards/Blood-brain Barrier\|Blood-brain Barrier]]       |
+| [[Cards/Gastrointestinal tract\|Gastrointestinal tract]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                       |
+| ----------------------------------------------------------------------------- |
+| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]] |
 
 { .block-language-dataview}
