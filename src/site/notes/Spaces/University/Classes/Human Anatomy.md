@@ -22,7 +22,7 @@
 | <ul><li>LFS122 M10T2 Systemic Arteries & Veins Inferior to the Heart</li></ul>                          | [[Sources/Video/@leedaffin2023-LFS122M10T2Systemic\|@leedaffin2023-LFS122M10T2Systemic]]                 | true      |
 | <ul><li>LFS122 M10T3 The Hepatic Portal System</li></ul>                                                | [[Sources/Video/@leedaffin2023-LFS122M10T3Hepatic\|@leedaffin2023-LFS122M10T3Hepatic]]                   | true      |
 | <ul><li>LFS122 M10T4 Lymphatic and Endocrine Systems</li></ul>                                          | [[Sources/Video/@leedaffin2023-LFS122M10T4Lymphatic\|@leedaffin2023-LFS122M10T4Lymphatic]]               | true      |
-| <ul><li>LFS122 M11T1 Oral Cavity, Salivary Glands and  Teeth</li></ul>                                  | [[Sources/Video/@leedaffin2023-LFS122M11T1Oral\|@leedaffin2023-LFS122M11T1Oral]]                         | true      |
+| <ul><li>LFS122 M11T1 Oral Cavity, Salivary Glands and  Teeth</li></ul>                                  | [[Sources/@leedaffinLFS122M11T1Oral2023\|@leedaffinLFS122M11T1Oral2023]]                                 | true      |
 | <ul><li>LFS122 M11T2 Oesophagus, Stomach, Small and  Large Intestines, Anus</li></ul>                   | [[Sources/Video/@leedaffin2023-LFS122M11T2Oesophagus\|@leedaffin2023-LFS122M11T2Oesophagus]]             | true      |
 | <ul><li>LFS122 M11T3 Pancreas, Liver and the  Abdominopelvic Cavity</li></ul>                           | [[Sources/Video/@leedaffin2023-LFS122M11T3Pancreas\|@leedaffin2023-LFS122M11T3Pancreas]]                 | true      |
 | <ul><li>LFS122 M12T1 The Urinary System</li></ul>                                                       | [[Sources/Video/@leedaffin2023-LFS122M12T1Urinary\|@leedaffin2023-LFS122M12T1Urinary]]                   | true      |
@@ -30,7 +30,7 @@
 | <ul><li>LFS122 M12T3 Female Reproduction</li></ul>                                                      | [[Sources/Video/@leedaffinLFS122M12T3Female2023\|@leedaffinLFS122M12T3Female2023]]                       | true      |
 | <ul><li>LFS122 M3T1 Integumentary System</li></ul>                                                      | [[Sources/Video/@skyecash-deans2023LFS122M3T1Integumentary\|@skyecash-deans2023LFS122M3T1Integumentary]] | true      |
 | <ul><li>LFS122 M4T1 Vertebral Column and Ribs</li></ul>                                                 | [[Sources/Video/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]]                                             | true      |
-| <ul><li>LFS122 M4T4 Anterior and Lateral Trunk Muscles</li></ul>                                        | [[Sources/Video/@-LFS122M4T4Anterior\|@-LFS122M4T4Anterior]]                                             | true      |
+| <ul><li>LFS122 M4T4 Anterior and Lateral Trunk Muscles</li></ul>                                        | [[Sources/@leedaffin2023LFS122M4T4Anterior\|@leedaffin2023LFS122M4T4Anterior]]                           | true      |
 | <ul><li>LFS122 M4T5 Posterior Trunk Muscles</li></ul>                                                   | [[Sources/Video/@-LFS122M4T5PosteriorTrunk\|@-LFS122M4T5PosteriorTrunk]]                                 | true      |
 | <ul><li>LFS122 M5T1 Skull</li></ul>                                                                     | [[Sources/Video/@LFS122M5T1Skull\|@LFS122M5T1Skull]]                                                     | true      |
 | <ul><li>LFS122 M5T2 Muscles of the Head and Neck</li></ul>                                              | [[Sources/Video/@LFS122M5T2Muscles\|@LFS122M5T2Muscles]]                                                 | true      |
@@ -309,7 +309,7 @@
 
 ### 11. [[Cards/Digestive System\|Digestive System]]
 
-###### Mouth [[Sources/Video/@leedaffin2023-LFS122M11T1Oral\|@leedaffin2023-LFS122M11T1Oral]]
+###### Mouth [[Sources/@leedaffinLFS122M11T1Oral2023\|@leedaffinLFS122M11T1Oral2023]]
 - [[Cards/Foliate Papillae\|Foliate Papillae]]
 - [[Cards/Vallate Papillae\|Vallate Papillae]]
 - [[Cards/Fungiform Papillae\|Fungiform Papillae]]
