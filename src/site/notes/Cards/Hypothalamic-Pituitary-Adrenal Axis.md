@@ -48,11 +48,10 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@lindagallo2023LFS112M4T4Adrenal\|@lindagallo2023LFS112M4T4Adrenal]]                                                               |
-| [[Sources/Research Papers/@russell2019-HumanStressResponse\|@russell2019-HumanStressResponse]]                                                     |
-| [[Sources/Research Papers/@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002-HypothalamicpituitaryadrenalAxisNeuroendocrine]] |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                                                         |
+| Sources                                                                                           |
+| ------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@lindagallo2023LFS112M4T4Adrenal\|@lindagallo2023LFS112M4T4Adrenal]]           |
+| [[Sources/Research Papers/@russell2019-HumanStressResponse\|@russell2019-HumanStressResponse]] |
+| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                     |
 
 { .block-language-dataview}
