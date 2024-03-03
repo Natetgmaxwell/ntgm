@@ -27,9 +27,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                      |
-| -------------------------------------------------------------------------------------------- |
-| [[Sources/Articles/@henderson2022VictimSignalingDark\|@henderson2022VictimSignalingDark]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
