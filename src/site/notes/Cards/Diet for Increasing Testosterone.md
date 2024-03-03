@@ -15,6 +15,9 @@
 > [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
 > "Foods like egg yolks, [[Cards/Red Meat\|Red Meat]], [[Cards/Fish\|Fish]], and saturated fat help with testosterone production as they contain precursors and elements needed to make testosterone like [[Cards/Cholesterol\|cholesterol]], zinc, selenium, and other vitamins and minerals"
 
+> [!quote] [[Sources/Research Papers/@kataoka2021ReviewFoodsFood\|@kataoka2021ReviewFoodsFood]]
+> There are three mechanisms by which foods or supplements increase testosterone production: 1) regulating [[Cards/Luteinising Hormone\|luteinizing hormone]], the hormone that stimulates testosterone production, 2) regulating testosterone synthase in the testis, and 3) regulating testosterone-degrading enzymes.
+
 ###### Some Key Nutrients for Testosterone Production Include:
 
 - Zinc: Found in foods like [[Cards/Oysters\|oysters]], beef, pumpkin seeds, and spinach, zinc is essential for testosterone synthesis.
