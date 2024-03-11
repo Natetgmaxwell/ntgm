@@ -33,7 +33,7 @@
 
 > [!quote-yellow] (Page 2) yellow
 > 
-> Electrons-, outer valence shell; core 1/1800 amu
+> Electrons-, outer [[Cards/Valence Shell\|Valence Shell]]; core 1/1800 amu
 >
 { #NDL224EFaGD4AQK7Xp2}
 
