@@ -1,5 +1,5 @@
 ---
-{"aliases":["atom"],"dg-publish":true,"tags":["Uni/HBIO1009","on/Science/Chemistry","Uni/LFS103","flashcards/LFS103"],"permalink":"/cards/atoms/","dgPassFrontmatter":true}
+{"aliases":["atom"],"dg-publish":true,"tags":["Uni/HBIO1009","on/Science/Chemistry","Uni/LFS103","flashcards/LFS103","Uni/SCI105","flashcards/SCI105"],"permalink":"/cards/atoms/","dgPassFrontmatter":true}
 ---
 
 # Atoms
