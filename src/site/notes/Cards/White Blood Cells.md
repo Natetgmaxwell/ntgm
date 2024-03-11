@@ -33,7 +33,6 @@ tags:: #Uni/HBIO1009 #flashcards/hbio1009
 - 
 
 ## Mentions
-- [[Sources/Video/@2023-LFS112M6T1Blood\|@2023-LFS112M6T1Blood]]
 
 { .block-language-dataview}
 
