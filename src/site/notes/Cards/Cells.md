@@ -6,7 +6,7 @@
 
 > [!Ontology]+
 > up:: [[Cards/Levels of Organisation in the Human Body\|Levels of Organisation in the Human Body]]
-> jump::
+> jump:: [[Cards/Unicellular Organisms\|Unicellular Organisms]], [[Multicellular Organisms\|Multicellular Organisms]]
 > down:: [[Cards/Organelles\|Organelles]], [[Cards/Myocyte\|Myocyte]], [[Cards/Osteocyte\|Osteocyte]], [[Cards/Cellular Receptors\|Cellular Receptors]], [[Cards/Stem cells\|Stem cells]], [[Cards/Cell Division\|Cell Division]], [[Cards/Agglutination\|Agglutination]]
 
 > [!Definition] Definition
