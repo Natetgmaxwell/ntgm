@@ -1,12 +1,12 @@
 ---
-{"aliases":["chemical bonds"],"dg-publish":true,"permalink":"/cards/molecular-bonds/","dgPassFrontmatter":true}
+{"aliases":["chemical bonds"],"dg-publish":true,"tags":["Uni/SCI105"],"permalink":"/cards/molecular-bonds/","dgPassFrontmatter":true}
 ---
 
 # Molecular Bonds
 
 > [!Ontology]-
 > up:: [[Cards/Molecules\|Molecules]]
-> jump::
+> jump:: [[Cards/Atoms\|Atoms]]
 > down:: [[Cards/Covalent Bonds\|Covalent Bonds]], [[Cards/Ionic Bonds\|Ionic Bonds]], [[Cards/Van der Waals force\|Van der Waals force]], [[Cards/Hydrogen Bonds\|Hydrogen Bonds]], [[Cards/Metalic Bonds\|Metalic Bonds]]
 
 > [!Definition] Definition
