@@ -16,10 +16,11 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 { .block-language-dataview}
 
-## Dates
-
-| Date |
-| ---- |
+## Sources
+| Name                                                                | Cite Key                                                                                      | Published |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------- |
+| <ul><li>MLS101 M01T01 History of Medical Science (Part 1)</li></ul> | [[Sources/Video/@melindadean2024MLS101M01T01History\|@melindadean2024MLS101M01T01History]] | true      |
+| <ul><li>MLS101 M01T02 History of Medical Science (Part 2)</li></ul> | [[Sources/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]       | true      |
 
 { .block-language-dataview}
 
@@ -55,7 +56,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 	- Major advancements in [[Atlas/MOCs/Anatomy\|Anatomy]] and [[Cards/Physiology\|Physiology]]
 	- Developed sophisticated drawings that facilitated teaching
 
-###### How did advancements in early microscope technology contribute to the progression of medical science throughout history?
+###### How did advancements in early [[Cards/Microscope\|Microscope]] technology contribute to the progression of medical science throughout history?
 
 ###### Outline the role of key people in the development of medical science from the renaissance to the industrial revolution times
 
