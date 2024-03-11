@@ -33,7 +33,6 @@
 - [[Sources/Articles/LevelsOrganizationHuman2019\|LevelsOrganizationHuman2019]]
 - [[Sources/Other/HBIO1010 M1T1 Blackboard Site\|HBIO1010 M1T1 Blackboard Site]]
 - [[Sources/Other/HBIO1010 M1T1 Video - Overview of cell physiology and thermodynamics\|HBIO1010 M1T1 Video - Overview of cell physiology and thermodynamics]]
-- [[Sources/Video/@2023-LFS112M6T1Blood\|@2023-LFS112M6T1Blood]]
 
 { .block-language-dataview}
 
