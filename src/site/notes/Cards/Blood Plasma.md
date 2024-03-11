@@ -37,7 +37,6 @@
 
 ## Mentions
 - [[Sources/Research Papers/@veniamakis2022-EffectsSodiumIntake\|@veniamakis2022-EffectsSodiumIntake]]
-- [[Sources/Video/@2023-LFS112M6T1Blood\|@2023-LFS112M6T1Blood]]
 
 { .block-language-dataview}
 
