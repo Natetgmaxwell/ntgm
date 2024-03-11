@@ -42,7 +42,6 @@
 - [[Sources/Articles/2002Medicine1860s19thCenturyMedicine-davidbadke\|2002Medicine1860s19thCenturyMedicine-davidbadke]]
 - [[Sources/Articles/contributorsWhatKnowPQQ\|contributorsWhatKnowPQQ]]
 - [[Sources/Podcasts/Podcast Episodes/Dirt Cheap Performance Enhancing Hacks You ve Never Heard Of  The Best Bottled Waters  Cold Thermogenesis Pre Post Exercise Tips  & Much More\|Dirt Cheap Performance Enhancing Hacks You ve Never Heard Of  The Best Bottled Waters  Cold Thermogenesis Pre Post Exercise Tips  & Much More]]
-- [[Sources/Video/@2023-LFS112M6T1Blood\|@2023-LFS112M6T1Blood]]
 
 { .block-language-dataview}
 
