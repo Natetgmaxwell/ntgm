@@ -36,7 +36,7 @@
 | <ul><li>LFS112 M4T5 Endocrine Pancreas</li></ul>                                | [[Sources/Video/@lindagallo2023LFS112M4T5Endocrine\|@lindagallo2023LFS112M4T5Endocrine]]                 | true      |
 | <ul><li>LFS112 M5T2 Chemical reactions in the body + enzymes</li></ul>          | [[Sources/Video/@2023-LFS112M5T2Chemical\|@2023-LFS112M5T2Chemical]]                                     | true      |
 | <ul><li>LFS112 M5T3 ATP</li></ul>                                               | [[Sources/Video/@nicolemastersLFS112M5T3ATP2023\|@nicolemastersLFS112M5T3ATP2023]]                       | true      |
-| <ul><li>LFS112 M6T1 Blood function + Components</li></ul>                       | [[Sources/Video/@2023-LFS112M6T1Blood\|@2023-LFS112M6T1Blood]]                                           | true      |
+| <ul><li>LFS112 M6T1 Blood function + Components</li></ul>                       | [[Sources/@katemounsey2023LFS112M6T1Blood\|@katemounsey2023LFS112M6T1Blood]]                             | true      |
 | <ul><li>LFS112 M6T2 Red blood cells + oxygen transport</li></ul>                | [[Sources/Video/@katemounsey2023LFS112M6T2Red\|@katemounsey2023LFS112M6T2Red]]                           | true      |
 | <ul><li>LFS112 M6T3 Platelets and haemostasis</li></ul>                         | [[Sources/Video/@2023-LFS112M6T3Platelets\|@2023-LFS112M6T3Platelets]]                                   | true      |
 | <ul><li>LFS112 M6T4 Overview of the lymphatic + immune systems</li></ul>        | [[Sources/Video/@2023-LFS112M6T4Overview\|@2023-LFS112M6T4Overview]]                                     | true      |
