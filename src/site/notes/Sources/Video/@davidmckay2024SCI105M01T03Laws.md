@@ -53,7 +53,7 @@
 
 > [!quote-yellow] (Page 1) yellow
 > 
-> Rules: • Generalizations simplifying complex systems by identifying common patterns. • Similar to laws, they make no theoretical claim but acknowledge exceptions. • Example: The octet rule states that atoms react to form a full octet (eight) electrons in their valence shell, applying to specific elements like carbon, nitrogen, and oxygen in biology. It has exceptions, but its usefulness lies in systematizing our understanding.
+> Rules: • Generalizations simplifying complex systems by identifying common patterns. • Similar to laws, they make no theoretical claim but acknowledge exceptions. • Example: The octet rule states that atoms react to form a full octet (eight) electrons in their [[Cards/Valence Shell\|Valence Shell]], applying to specific elements like carbon, nitrogen, and oxygen in biology. It has exceptions, but its usefulness lies in systematizing our understanding.
 >
 { #7JCLXCJFaBW8W3CRCp1}
 
