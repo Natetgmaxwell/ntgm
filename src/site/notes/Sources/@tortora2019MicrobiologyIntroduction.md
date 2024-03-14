@@ -25,6 +25,8 @@
 >  | Incoming Links                                                                  |
 > | ------------------------------------------------------------------------------- |
 > | [[Cards/Methods of Preparing Agar Plates\|Methods of Preparing Agar Plates]] |
+> | [[Cards/Micro-organisms\|Micro-organisms]]                                   |
+> | [[Cards/Microbial Growth\|Microbial Growth]]                                 |
 > 
 { .block-language-dataview}
 
@@ -43,6 +45,27 @@
 > a measure of the light bending ability of a medium
 >
 { #QGEX2SSCa6GYQR4YCp82}
+
+
+> [!quote-yellow] (Page 177) yellow
+> 
+> W hen we talk about microbial growth, we are really referring to the number of cells, not the size of the cells.
+>
+{ #T9IMARQTa6GYQR4YCp179}
+
+
+> [!quote-yellow] (Page 178) yellow
+> 
+> Microorganisms are classified into three primary groups on the basis of their preferred range of temperature: psychrophiles (cold-loving microbes), mesophiles (moderate-temperatureloving microbes), and thermophiles (heat-loving microbes).
+>
+{ #7ERXFUX9a6GYQR4YCp180}
+
+ 
+> [!quote-yellow] (Page 178) yellow
+> 
+> ![Extras/Images/JZVDBYQ9.png](/img/user/Extras/Images/JZVDBYQ9.png)
+>
+{ #JZVDBYQ9a6GYQR4YCp180}
 
 
 > [!quote-yellow] (Page 196) yellow
