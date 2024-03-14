@@ -19,8 +19,9 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 ## Dates
 
-| Date |
-| ---- |
+| Date                                                      |
+| --------------------------------------------------------- |
+| [[Calendar/2023/Daily/2024-03-12 Tue\|2024-03-12 Tue]] |
 
 { .block-language-dataview}
 
@@ -68,7 +69,7 @@ Microbiology is the study of microorganisms, or microbes, a diverse group of g
 ###### What is the current evidence for existence of first organisms on Earth and where are those located?
 
 - *Fossil Records*
-	- The earliest known fossils date back to around 3.5 billion years ago (Ga) in rock formations found in Greenland and Western Australia. These microbial mats, called stromatolites, are formed by the growth of [[• Inbox/Cyanobacteria\|Cyanobacteria]], which were one of the first life forms on Earth. These fossils provide evidence that photosynthesis occurred early in Earth's history.
+	- The earliest known fossils date back to around 3.5 billion years ago (Ga) in rock formations found in Greenland and Western Australia. These microbial mats, called stromatolites, are formed by the growth of [[Cards/Cyanobacteria\|Cyanobacteria]], which were one of the first life forms on Earth. These fossils provide evidence that photosynthesis occurred early in Earth's history.
 
 
 ###### Describe the metabolic evolution of the microorganisms following the formation of oxygen and ozone layer.
@@ -77,14 +78,14 @@ Microbiology is the study of microorganisms, or microbes, a diverse group of g
 	- Prior to the oxygenation event, most microorganisms were anaerobic.
 
 - *Formation of oxygen and ozone layer*
-	- Around 2.4 billion years ago, photosynthetic [[• Inbox/Cyanobacteria\|cyanobacteria]] started producing molecular oxygen (O₂) as a byproduct during photosynthesis. 
+	- Around 2.4 billion years ago, photosynthetic [[Cards/Cyanobacteria\|Cyanobacteria]] started producing molecular oxygen (O₂) as a byproduct during photosynthesis. 
 
 - *Aerobic respiration*
 	- As molecular oxygen accumulated, some microorganisms developed the ability to use it as more efficient energy production method. 
-	- Led to the rise of aerobic organisms like mitochondria-containing eukaryotes and bacteria such as [[• Inbox/Proteobacteria\|Proteobacteria]].
+	- Led to the rise of aerobic organisms like mitochondria-containing eukaryotes and bacteria such as [[Cards/Proteobacteria\|Proteobacteria]].
 
 - *Evolution of eukaryotes*
-	- Symbiosis between a [[• Inbox/Proteobacteria\|proteobacterium]] and an ancient prokaryote allowed eukaryotes to harness energy more efficiently through aerobic respiration.
+	- Symbiosis between a [[Cards/Proteobacteria\|proteobacterium]] and an ancient prokaryote allowed eukaryotes to harness energy more efficiently through aerobic respiration.
 
 ###### In bullet points, what are the three main lines of cellular descent?
 
