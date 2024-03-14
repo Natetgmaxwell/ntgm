@@ -102,7 +102,7 @@
 
 > [!note] Page 6
 > 
-> Trapezius
+> [[Cards/Trapezius\|Trapezius]]
 >
 { #K2BINVXBa5AIVGJSWp6}
 
