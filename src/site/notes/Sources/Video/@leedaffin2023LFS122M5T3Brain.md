@@ -144,7 +144,7 @@
 
 > [!note] Page 11
 > 
-> CN I: Smell CN II: Vision CN III: Eye Movement CN IV: Eye Movement CN V: Sensation to Face, Muscles of Mastication CN VI: Eye Movement CN VII: Taste, Muscles of Facial Expression CN VIII: Hearing and Equilibrium CN IX: Taste, Saliva, Pharyngeal Sensory and Motor Innervation CN X: Visceral Organ Sensory and Motor Innervation CN XI: Sternocleidomastoid and Trapezius Innervation CN XII: Tongue Movements
+> CN I: Smell CN II: Vision CN III: Eye Movement CN IV: Eye Movement CN V: Sensation to Face, Muscles of Mastication CN VI: Eye Movement CN VII: Taste, Muscles of Facial Expression CN VIII: Hearing and Equilibrium CN IX: Taste, Saliva, Pharyngeal Sensory and Motor Innervation CN X: Visceral Organ Sensory and Motor Innervation CN XI: Sternocleidomastoid and [[Cards/Trapezius\|Trapezius]] Innervation CN XII: Tongue Movements
 >
 { #GPZ8JM8WaUQYJCAGIp11}
 
