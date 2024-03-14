@@ -5,14 +5,14 @@
 # Sources
 
 ## Books
-| Book                                                                                          | Genre       |
-| --------------------------------------------------------------------------------------------- | ----------- |
-| [[Sources/@davidmckay2023IntroductionChemistry\|@davidmckay2023IntroductionChemistry]]     | \-          |
-| [[Sources/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]     | \-          |
-| [[Sources/Books/The 50th Law by Robert Greene\|The 50th Law by Robert Greene]]             | Non-Fiction |
-| [[Sources/@walterisaacson2023ElonMusk\|@walterisaacson2023ElonMusk]]                       | \-          |
-| [[Sources/Books/@danielkahnemanThinkingFastSlow2011\|@danielkahnemanThinkingFastSlow2011]] | Non-Fiction |
-| [[Sources/Books/@fyodordostoevskyIdiot1869\|@fyodordostoevskyIdiot1869]]                   | Fiction     |
+| Book                                                                                                | Genre       |
+| --------------------------------------------------------------------------------------------------- | ----------- |
+| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] | Non-Fiction |
+| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                       | Non-Fiction |
+| [[Sources/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]           | \-          |
+| [[Sources/@davidmckay2023IntroductionChemistry\|@davidmckay2023IntroductionChemistry]]           | \-          |
+| [[Sources/Books/The 50th Law by Robert Greene\|The 50th Law by Robert Greene]]                   | Non-Fiction |
+| [[Sources/@walterisaacson2023ElonMusk\|@walterisaacson2023ElonMusk]]                             | \-          |
 
 { .block-language-dataview}
 
@@ -31,12 +31,12 @@
 ## Articles
 | Title                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Articles/@greenfield2022-JamesDiNicolantonioDirt\|@greenfield2022-JamesDiNicolantonioDirt]]               |
 | [[Sources/@henderson2022VictimSignalingDark\|@henderson2022VictimSignalingDark]]                                    |
 | [[Sources/@henderson2022SwipingDatingPreferences\|@henderson2022SwipingDatingPreferences]]                          |
 | [[Sources/Articles/@vedranbileta2022WhatAreTheodosian\|@vedranbileta2022WhatAreTheodosian]]                         |
 | [[Sources/Articles/@vanessavanedwards202310QuestionsAsk\|@vanessavanedwards202310QuestionsAsk]]                     |
 | [[Sources/Articles/@seungguhan2018CerebrovascularAccidentSymptoms\|@seungguhan2018CerebrovascularAccidentSymptoms]] |
-| [[Sources/Articles/@sasivimolahmed2018WhichProbioticsHistamine\|@sasivimolahmed2018WhichProbioticsHistamine]]       |
 
 { .block-language-dataview}
 
