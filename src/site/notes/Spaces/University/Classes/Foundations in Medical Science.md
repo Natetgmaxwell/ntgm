@@ -17,10 +17,14 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 { .block-language-dataview}
 
 ## Sources
-| Name                                                                | Cite Key                                                                                      | Published |
-| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------- |
-| <ul><li>MLS101 M01T01 History of Medical Science (Part 1)</li></ul> | [[Sources/Video/@melindadean2024MLS101M01T01History\|@melindadean2024MLS101M01T01History]] | true      |
-| <ul><li>MLS101 M01T02 History of Medical Science (Part 2)</li></ul> | [[Sources/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]       | true      |
+| Name                                                                     | Cite Key                                                                                          | Published |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | --------- |
+| <ul><li>MLS101 M01T01 History of Medical Science (Part 1)</li></ul>      | [[Sources/Video/@melindadean2024MLS101M01T01History\|@melindadean2024MLS101M01T01History]]     | true      |
+| <ul><li>MLS101 M01T02 History of Medical Science (Part 2)</li></ul>      | [[Sources/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]           | true      |
+| <ul><li>MLS101 M01T03 History of Medical Science (Part 3)</li></ul>      | [[Sources/@MelindaDean2024MLS101M01T03History\|@MelindaDean2024MLS101M01T03History]]           | true      |
+| <ul><li>MLS101 M01T04 Measurements in Medical Science (Part 1)</li></ul> | [[Sources/@MelindaDean2024MLS101M01T04Measurements\|@MelindaDean2024MLS101M01T04Measurements]] | true      |
+| <ul><li>MLS101 M01T05 Measurements in Medical Science (Part 2)</li></ul> | [[Sources/@MelindaDean2024MLS101M01T05Measurements\|@MelindaDean2024MLS101M01T05Measurements]] | true      |
+| <ul><li>MLS101 M02T01 Safety and Hazards (Part 1)</li></ul>              | [[Sources/@melindadean2024MLS101M02T01Safety\|@melindadean2024MLS101M02T01Safety]]             | true      |
 
 { .block-language-dataview}
 
