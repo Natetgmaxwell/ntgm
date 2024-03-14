@@ -39,7 +39,7 @@
 
 > [!quote-yellow] (Page 5) yellow
 > 
-> Transporting dissolved gases, nutrients, hormones and metabolic waste
+> Transporting dissolved gases, [[Cards/Nutrients\|nutrients]], hormones and metabolic waste
 >
 { #LN5XP56JaXBHRLIHEp5}
 
