@@ -33,7 +33,7 @@
 
 > [!quote-yellow] (Page 4) yellow
 > 
-> Skin Regions • Epidermis (Superficial layer) • Dermis (Deep layer)
+> Skin Regions • Epidermis (Superficial layer) • [[Cards/Dermis\|Dermis]] (Deep layer)
 >
 { #WRJKS6RSaUJ7X7ZCPp4}
 
@@ -54,7 +54,7 @@
 
 > [!quote-yellow] (Page 6) yellow
 > 
-> Dermis • Papillary dermis Role: support and nourish the epidermis Contains capillaries (provide nutrients and O2 and remove CO2 and waste) and nerves supplying surface of the skin • Reticular dermis Role: provides support and attachment to the hypodermis
+> [[Cards/Dermis\|Dermis]] • Papillary [[Cards/Dermis\|dermis]] Role: support and nourish the epidermis Contains capillaries (provide nutrients and O2 and remove CO2 and waste) and nerves supplying surface of the skin • Reticular [[Cards/Dermis\|dermis]] Role: provides support and attachment to the hypodermis
 >
 { #HVGJVR46aUJ7X7ZCPp6}
 
@@ -246,7 +246,7 @@
 
 > [!quote-yellow] (Page 13) yellow
 > 
-> Dermis
+> [[Cards/Dermis\|Dermis]]
 >
 { #YH48HPJ7aUJ7X7ZCPp13}
 
