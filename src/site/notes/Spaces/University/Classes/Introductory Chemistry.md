@@ -18,16 +18,22 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 { .block-language-dataview}
 
 ## Sources
-| Name                                                                                      | Cite Key                                                                                      | Published |
-| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------- |
-| <ul><li>SCI105 M01T01 Atomic Theory</li></ul>                                             | [[Sources/Video/@davidmckay2024SCI105M01T01Atomic\|@davidmckay2024SCI105M01T01Atomic]]     | true      |
-| <ul><li>SCI105 M01T02 Chemical Bonding</li></ul>                                          | [[Sources/Video/@davidmckay2024SCI105M01T02Chemical\|@davidmckay2024SCI105M01T02Chemical]] | true      |
-| <ul><li>SCI105 M01T03 Laws Theories Hypotheses and Rules</li></ul>                        | [[Sources/Video/@davidmckay2024SCI105M01T03Laws\|@davidmckay2024SCI105M01T03Laws]]         | true      |
-| <ul><li>SCI105 M01T04 Chemical bonds</li></ul>                                            | [[Sources/@davidmckay2024SCI105M01T04Chemical\|@davidmckay2024SCI105M01T04Chemical]]       | true      |
-| <ul><li>SCI105 M01T05 The Periodic Table (General Comments)</li></ul>                     | [[Sources/@davidmckay2024SCI105M01T05Periodic\|@davidmckay2024SCI105M01T05Periodic]]       | true      |
-| <ul><li>SCI105 M01T06 The Periodic Table (Walkthrough)</li></ul>                          | [[Sources/@davidmckay2024SCI105M01T06Periodic\|@davidmckay2024SCI105M01T06Periodic]]       | true      |
-| <ul><li>SCI105 M02T01 Ionic compounds - Binary Formulae</li></ul>                         | [[Sources/@davidmckay2024SCI105M02T01Ionic\|@davidmckay2024SCI105M02T01Ionic]]             | true      |
-| <ul><li>SCI105 M02T02 Ionic compounds - Polyatomic Ions Nomenclature Properties</li></ul> | [[Sources/@davidmckay2024SCI105M02T02Ionic\|@davidmckay2024SCI105M02T02Ionic]]             | true      |
+| Name                                                                                      | Cite Key                                                                                                  | Published |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------- |
+| <ul><li>SCI105 M01T01 Atomic Theory</li></ul>                                             | [[Sources/Video/@davidmckay2024SCI105M01T01Atomic\|@davidmckay2024SCI105M01T01Atomic]]                 | true      |
+| <ul><li>SCI105 M01T02 Chemical Bonding</li></ul>                                          | [[Sources/Video/@davidmckay2024SCI105M01T02Chemical\|@davidmckay2024SCI105M01T02Chemical]]             | true      |
+| <ul><li>SCI105 M01T03 Laws Theories Hypotheses and Rules</li></ul>                        | [[Sources/Video/@davidmckay2024SCI105M01T03Laws\|@davidmckay2024SCI105M01T03Laws]]                     | true      |
+| <ul><li>SCI105 M01T04 Chemical bonds</li></ul>                                            | [[Sources/@davidmckay2024SCI105M01T04Chemical\|@davidmckay2024SCI105M01T04Chemical]]                   | true      |
+| <ul><li>SCI105 M01T05 The Periodic Table (General Comments)</li></ul>                     | [[Sources/@davidmckay2024SCI105M01T05Periodic\|@davidmckay2024SCI105M01T05Periodic]]                   | true      |
+| <ul><li>SCI105 M01T06 The Periodic Table (Walkthrough)</li></ul>                          | [[Sources/@davidmckay2024SCI105M01T06Periodic\|@davidmckay2024SCI105M01T06Periodic]]                   | true      |
+| <ul><li>SCI105 M02T01 Ionic compounds - Binary Formulae</li></ul>                         | [[Sources/@davidmckay2024SCI105M02T01Ionic\|@davidmckay2024SCI105M02T01Ionic]]                         | true      |
+| <ul><li>SCI105 M02T02 Ionic compounds - Polyatomic Ions Nomenclature Properties</li></ul> | [[Sources/@davidmckay2024SCI105M02T02Ionic\|@davidmckay2024SCI105M02T02Ionic]]                         | true      |
+| <ul><li>SCI105 M02T03 Covalent Bonds</li></ul>                                            | [[Sources/@davidmckay2024SCI105M02T03Covalent\|@davidmckay2024SCI105M02T03Covalent]]                   | true      |
+| <ul><li>SCI105 M02T05 Electronegativity and Polarity</li></ul>                            | [[Sources/@davidmckay2024SCI105M02T05Electronegativity\|@davidmckay2024SCI105M02T05Electronegativity]] | true      |
+| <ul><li>SCI105 M03T01 Interpreting formulae and equations</li></ul>                       | [[Sources/@DavidMcKay2024SCI105M03T01Interpreting\|@DavidMcKay2024SCI105M03T01Interpreting]]           | true      |
+| <ul><li>SCI105 M03T02 Reaction rates</li></ul>                                            | [[Sources/@DavidMcKay2024SCI105M03T02Reaction\|@DavidMcKay2024SCI105M03T02Reaction]]                   | true      |
+| <ul><li>SCI105 M03T03 Collision theory and activation energy</li></ul>                    | [[Sources/@DavidMcKay2024SCI105M03T03Collision\|@DavidMcKay2024SCI105M03T03Collision]]                 | true      |
+| <ul><li>SCI105 M03T04 Acids and bases</li></ul>                                           | [[Sources/@DavidMcKay2024SCI105M03T04Acids\|@DavidMcKay2024SCI105M03T04Acids]]                         | true      |
 
 { .block-language-dataview}
 
@@ -68,3 +74,6 @@ Atom cannot be created or destroy they mealy change configurations to form eleme
 
 ###### Describe the structure of the atom and the most important features of an atom’s main components?
 
+###### Define electronegativity?
+
+[[Cards/Electronegativity\|Electronegativity]] is the electron pulling power of elements.
