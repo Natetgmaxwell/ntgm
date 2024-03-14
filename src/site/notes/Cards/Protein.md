@@ -14,7 +14,10 @@
 { #5e830d}
 
 
-![Extras/Images/bookimage-200-x162-y189.png|500](/img/user/Extras/Images/bookimage-200-x162-y189.png)
+![Extras/Images/bookimage-200-x162-y189.png|450](/img/user/Extras/Images/bookimage-200-x162-y189.png)
+[[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+
+![Extras/Images/4BL8JCAC.png|500](/img/user/Extras/Images/4BL8JCAC.png)
 [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 
 # Reference
