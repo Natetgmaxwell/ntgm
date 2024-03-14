@@ -82,7 +82,7 @@
 > Cellular components – Neutrophils, Eosinophils, [[Cards/Basophils\|Basophils]], Mast Cells, Macrophages, Dendritic Cells, Natural Killer Cells  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> First lines of defence • Skin – [[Cards/Keratin\|Keratin]], [[Cards/Sebaceous glands\|sebaceous glands]] • Secretions – Tears, saliva, contain antimicrobial enzymes • Mucus, Cilia – E.g. in respiratory passage, trap and expel microorganisms • Changes in pH – E.g. [[Cards/Stomach\|stomach]] acid (pH 2), inhibits microbial growth • Microbiota – ‘Normal flora’ compete with pathogens  
+> First lines of defence • Skin – [[Cards/Keratin\|Keratin]], [[Cards/Sebaceous glands\|sebaceous glands]] • Secretions – Tears, saliva, contain antimicrobial enzymes • Mucus, Cilia – E.g. in respiratory passage, trap and expel microorganisms • Changes in pH – E.g. [[Cards/Stomach Acid\|Stomach Acid]] (pH 2), inhibits [[Cards/Microbial Growth\|Microbial Growth]] • Microbiota – ‘Normal flora’ compete with pathogens  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > “Apprehend the target” – By Phagocytosis (neutrophils, macrophages, dendritic cells) – By releasing toxic chemicals that destroy pathogen (eosinophils, natural killer cells, macrophages)  
