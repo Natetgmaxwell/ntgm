@@ -7,8 +7,8 @@
 ## Projects
 | Project Name                                                                             |
 | ---------------------------------------------------------------------------------------- |
-| [[Spaces/University/Projects/LFS103A2 Mid Semester Exam\|LFS103A2 Mid Semester Exam]] |
 | [[Spaces/University/Projects/LFS103 Practise Exam\|LFS103 Practise Exam]]             |
+| [[Spaces/University/Projects/LFS103A2 Mid Semester Exam\|LFS103A2 Mid Semester Exam]] |
 
 { .block-language-dataview}
 
