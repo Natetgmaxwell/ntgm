@@ -22,9 +22,9 @@
 > creators:: İpek Kurtböke
 
 > [!Links]+
->  | Incoming Links                              |
-> | ------------------------------------------- |
-> | [[• Inbox/Cyanobacteria\|Cyanobacteria]] |
+>  | Incoming Links                            |
+> | ----------------------------------------- |
+> | [[Cards/Cyanobacteria\|Cyanobacteria]] |
 > 
 { .block-language-dataview}
 
@@ -82,7 +82,7 @@
 
 > [!quote-yellow] (Page 17) yellow
 > 
-> The theory postulates that an aerobic bacterium established residency within the cytoplasm of a primitive eukaryote and supplied the larger cell with energy in exchange for a stable, protected environment and a ready supply of nutrients
+> The theory postulates that an aerobic bacterium established residency within the cytoplasm of a primitive eukaryote and supplied the larger cell with energy in exchange for a stable, protected environment and a ready supply of [[Cards/Nutrients\|nutrients]]
 >
 { #NXZJHTZPaFU6AGT2Xp17}
 
