@@ -17,7 +17,6 @@
 
 ## Mentions
 - [[Sources/Articles/Symptoms of Malnutrition with Cystic Fibrosis\|Symptoms of Malnutrition with Cystic Fibrosis]]
-- [[Sources/Video/@2023-LFS112M6T5Innate\|@2023-LFS112M6T5Innate]]
 - [[Sources/Video/@leedaffin2023-LFS122M11T2Oesophagus\|@leedaffin2023-LFS122M11T2Oesophagus]]
 
 { .block-language-dataview}
