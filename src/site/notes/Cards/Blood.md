@@ -16,7 +16,7 @@
 
 - Transportation of;
     - Dissolved gases
-    - Nutrients
+    - [[Cards/Nutrients\|Nutrients]]
     - Hormones
     - Metabolic Waste
     - Antibodies
