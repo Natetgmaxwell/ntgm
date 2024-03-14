@@ -74,7 +74,7 @@
 
 > [!quote-yellow] (Page 970) yellow
 > 
-> The prototypical member of this family, PPARα, plays a central role in the regulation of muscle fuel preferences. Specifically, PPARα drives mitochondrial fatty acid oxidation (FAO) enzyme gene expression in skeletal muscle and other oxidative tissues such as heart and liver.
+> The prototypical member of this family, PPARα, plays a central role in the regulation of muscle fuel preferences. Specifically, PPARα drives mitochondrial [[Cards/Fatty Acid Oxidation\|Fatty Acid Oxidation]] ([[Cards/Fatty Acid Oxidation\|FAO]]) enzyme gene expression in skeletal muscle and other oxidative tissues such as heart and liver.
 >
 { #HLDCZJAVaI6TSKF2Vp2}
 
