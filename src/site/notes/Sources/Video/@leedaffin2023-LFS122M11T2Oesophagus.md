@@ -64,7 +64,7 @@
 > Products of digestion (sugars, amino acids, and fatty acids) are absorbed into the bloodstream within this region.  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> The ileum is the final section of the small intestine. It is about 3m long (60% of the length). It absorbs mainly [[Cards/Vitamin B12\|vitamin B12]] and [[Cards/Bile acids\|bile acids]], as well as any other remaining nutrients. The ileum joins to the [[Cards/Cecum\|cecum]] of the [[Cards/Large Intestine\|large intestine]] at the ileocecal junction.  
+> The ileum is the final section of the small intestine. It is about 3m long (60% of the length). It absorbs mainly [[Cards/Vitamin B12\|vitamin B12]] and [[Cards/Bile acids\|bile acids]], as well as any other remaining [[Cards/Nutrients\|nutrients]]. The ileum joins to the [[Cards/Cecum\|cecum]] of the [[Cards/Large Intestine\|large intestine]] at the ileocecal junction.  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > The [[Cards/Large Intestine\|large intestine]], also known as the [[Cards/Large Intestine\|colon]], is the last part of the gastrointestinal tract and of the digestive system (approximately 1.5m in length). Water is absorbed here and the remaining waste material is stored as faeces before being removed by defecation.  
