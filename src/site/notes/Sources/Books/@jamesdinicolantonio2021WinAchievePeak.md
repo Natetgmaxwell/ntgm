@@ -65,6 +65,7 @@ And A LOT MORE!
 > | [[Cards/Factors for Increasing IGF-1\|Factors for Increasing IGF-1]]                                                                                                                                                                                                                                                               |
 > | [[Cards/Glabrous skin\|Glabrous skin]]                                                                                                                                                                                                                                                                                             |
 > | [[Cards/Gluconeogenesis\|Gluconeogenesis]]                                                                                                                                                                                                                                                                                         |
+> | [[Cards/Glycine\|Glycine]]                                                                                                                                                                                                                                                                                                         |
 > | [[Cards/Growth Hormone release during Deep Sleep\|Growth Hormone release during Deep Sleep]]                                                                                                                                                                                                                                       |
 > | [[Cards/Heat Acclimation\|Heat Acclimation]]                                                                                                                                                                                                                                                                                       |
 > | [[Cards/Heat Exposure Therapy\|Heat Exposure Therapy]]                                                                                                                                                                                                                                                                             |
@@ -73,6 +74,7 @@ And A LOT MORE!
 > | [[Cards/mTOR\|mTOR]]                                                                                                                                                                                                                                                                                                               |
 > | [[Cards/Myostatin\|Myostatin]]                                                                                                                                                                                                                                                                                                     |
 > | [[Cards/Oxidative Priority of Foods\|Oxidative Priority of Foods]]                                                                                                                                                                                                                                                                 |
+> | [[Cards/Phosphatidic acid\|Phosphatidic acid]]                                                                                                                                                                                                                                                                                     |
 > | [[Cards/Protein\|Protein]]                                                                                                                                                                                                                                                                                                         |
 > | [[Cards/Resistance training\|Resistance training]]                                                                                                                                                                                                                                                                                 |
 > | [[Cards/Resistance Training Effect on Testosterone\|Resistance Training Effect on Testosterone]]                                                                                                                                                                                                                                   |
@@ -138,7 +140,7 @@ And A LOT MORE!
 
 > [!quote-yellow] (Page 181) yellow
 > 
-> An essential nutrient is something that cannot be synthesized by the body itself and thus it needs to be derived from diet. In humans, the essential nutrients include 9 amino acids, 2 fatty acids, 13 vitamins, and 17 minerals
+> An essential nutrient is something that cannot be synthesized by the body itself and thus it needs to be derived from diet. In humans, the essential [[Cards/Nutrients\|nutrients]] include 9 amino acids, 2 fatty acids, 13 vitamins, and 17 minerals
 >
 { #ZWNUAVGYaJ3CKUZ5Vp181}
 
@@ -195,7 +197,7 @@ And A LOT MORE!
 > [!quote-yellow] (Page 198) yellow
 > 
 > Space your protein 3-5 hours apart Consume around 30-40 g of protein 1-3 hours before bed to offset the catabolic effects of the overnight fast. Casein protein has the most evidence prior to bedtime due to its slower release. 
-> When doing resistance training, consume 1.6-2.2 g/kg of protein distributed across 3-4 meals Implement glycine supplementation
+> When doing resistance training, consume 1.6-2.2 g/kg of protein distributed across 3-4 meals Implement [[Cards/Glycine\|glycine]] supplementation
 >
 { #KHKURWZIaJ3CKUZ5Vp198}
 
@@ -454,7 +456,7 @@ And A LOT MORE!
 
 > [!quote-yellow] (Page 242) yellow
 > 
-> Phosphatidic acid enhances mTOR signaling and resistance exercise-induced hypertrophy[717]. Phosphatidic acid gets regulated by exercise which activates mTORC1[718] . You can find phosphatidic acid in cabbage leaves, radish leaves, and herbs as well[719] but also in supplements.
+> [[Cards/Phosphatidic acid\|Phosphatidic acid]] enhances mTOR signaling and resistance exercise-induced hypertrophy[717]. [[Cards/Phosphatidic acid\|Phosphatidic acid]] gets regulated by exercise which activates mTORC1[718] . You can find [[Cards/Phosphatidic acid\|phosphatidic acid]] in [[Cards/Cabbage\|Cabbage]] leaves, [[Cards/Radish\|Radish]] leaves, and herbs as well[719] but also in supplements.
 >
 { #PHBVQH4NaJ3CKUZ5Vp242}
 
