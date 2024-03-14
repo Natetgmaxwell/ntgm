@@ -72,8 +72,8 @@
 
 ## Flashcards
 
-What are the two true layers of the skin?;;Epidermis and dermis.
+What are the two true layers of the skin?;;Epidermis and [[Cards/Dermis\|dermis]].
 <!--SR:!2023-12-10,96,270-->
 
-What structures strengthen the skin's integrity by interlocking dermis and epidermis?;;[[Cards/Dermal papillae\|Dermal papillae]] and [[Cards/Epidermal Ridges\|Epidermal Ridges]].
+What structures strengthen the skin's integrity by interlocking [[Cards/Dermis\|dermis]] and epidermis?;;[[Cards/Dermal papillae\|Dermal papillae]] and [[Cards/Epidermal Ridges\|Epidermal Ridges]].
 <!--SR:!2023-11-08,16,190-->
