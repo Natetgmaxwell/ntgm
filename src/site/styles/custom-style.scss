@@ -1,4 +1,22 @@
 body {
+
+    #search-results .searchresult {
+    margin-bottom: 15px;
+    list-style: none;
+    background-color: var(--background-secondary);
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.search-link {
+    display: block;
+    margin-bottom: 4px;
+    font-size: 1.2rem;
+}
+    
+    
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
