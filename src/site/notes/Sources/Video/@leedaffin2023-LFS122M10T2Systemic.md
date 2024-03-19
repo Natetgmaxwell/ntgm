@@ -143,7 +143,7 @@
 > ovarian vein in females  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> The right (1) and left (2) gonadal veins carry blood away from the gonads (testis, ovary) toward the heart.  
+> The right (1) and left (2) gonadal veins carry blood away from the gonads (testis, [[Cards/Ovaries\|ovary]]) toward the heart.  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > ovarian veins  
