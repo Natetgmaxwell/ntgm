@@ -98,7 +98,7 @@ And A LOT MORE!
 
 > [!quote-yellow] (Page 107) yellow
 > 
-> it’s really the accumulation of hydrogen ions that are harming performance and recovery. Around 30% of all the glucose we use during exercise comes from lactate “recycling” to glucose
+> it’s really the accumulation of [[Cards/Hydrogen\|hydrogen]] ions that are harming performance and recovery. Around 30% of all the glucose we use during exercise comes from lactate “recycling” to glucose
 >
 { #ER55SUBUaJ3CKUZ5Vp107}
 
@@ -386,14 +386,14 @@ And A LOT MORE!
 
 > [!quote-yellow] (Page 239) yellow
 > 
-> When activated, mTOR signals the body to increase protein synthesis and gain muscle.
+> When activated, [[Cards/mTOR\|mTOR]] signals the body to increase protein synthesis and gain muscle.
 >
 { #3Y7S3A9ZaJ3CKUZ5Vp239}
 
 
 > [!quote-yellow] (Page 239) yellow
 > 
-> There are two mTOR complexes – mTORC1 and mTORC2
+> There are two [[Cards/mTOR\|mTOR]] complexes – mTORC1 and mTORC2
 >
 { #MEU357PDaJ3CKUZ5Vp239}
 
@@ -456,7 +456,7 @@ And A LOT MORE!
 
 > [!quote-yellow] (Page 242) yellow
 > 
-> [[Cards/Phosphatidic acid\|Phosphatidic acid]] enhances mTOR signaling and resistance exercise-induced hypertrophy[717]. [[Cards/Phosphatidic acid\|Phosphatidic acid]] gets regulated by exercise which activates mTORC1[718] . You can find [[Cards/Phosphatidic acid\|phosphatidic acid]] in [[Cards/Cabbage\|Cabbage]] leaves, [[Cards/Radish\|Radish]] leaves, and herbs as well[719] but also in supplements.
+> [[Cards/Phosphatidic acid\|Phosphatidic acid]] enhances [[Cards/mTOR\|mTOR]] signaling and resistance exercise-induced hypertrophy[717]. [[Cards/Phosphatidic acid\|Phosphatidic acid]] gets regulated by exercise which activates mTORC1[718] . You can find [[Cards/Phosphatidic acid\|phosphatidic acid]] in [[Cards/Cabbage\|Cabbage]] leaves, [[Cards/Radish\|Radish]] leaves, and herbs as well[719] but also in supplements.
 >
 { #PHBVQH4NaJ3CKUZ5Vp242}
 
@@ -477,21 +477,21 @@ And A LOT MORE!
 
 > [!quote-yellow] (Page 243) yellow
 > 
-> Overexpression of mTOR or its dysfunction is often related to various cancers and genetic disorders
+> Overexpression of [[Cards/mTOR\|mTOR]] or its dysfunction is often related to various cancers and genetic disorders
 >
 { #UQVNTF5LaJ3CKUZ5Vp243}
 
 
 > [!quote-yellow] (Page 244) yellow
 > 
-> acute activation of mTOR through exercise and animal protein intake is not the same thing as chronic mTOR activation through insulin resistance (the latter being harmful).
+> acute activation of [[Cards/mTOR\|mTOR]] through exercise and animal protein intake is not the same thing as chronic [[Cards/mTOR\|mTOR]] activation through insulin resistance (the latter being harmful).
 >
 { #5VGPRSXKaJ3CKUZ5Vp244}
 
 
 > [!quote-yellow] (Page 244) yellow
 > 
-> You basically want to have mTOR activated where it’s beneficial – muscle, brain cells, nerve cells etc. and suppressed in fat tissue, liver, and in those with cancer.
+> You basically want to have [[Cards/mTOR\|mTOR]] activated where it’s beneficial – muscle, brain cells, nerve cells etc. and suppressed in fat tissue, liver, and in those with cancer.
 >
 { #MYAKANVBaJ3CKUZ5Vp244}
 
