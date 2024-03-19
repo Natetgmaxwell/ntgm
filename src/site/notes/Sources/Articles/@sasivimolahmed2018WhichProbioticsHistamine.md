@@ -11,7 +11,7 @@
 >  
 
 > [!Abstract]+
-> We explain what histamine intolerance is and how probiotics could be beneficial.
+> We explain what [[Cards/Histamine Intolerance\|histamine intolerance]] is and how probiotics could be beneficial.
 
 > [!Info]
 > date:: 2018
