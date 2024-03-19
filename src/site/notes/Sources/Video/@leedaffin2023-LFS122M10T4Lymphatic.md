@@ -118,7 +118,7 @@
 > [[Cards/Testes\|Testes]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> Ovaries  
+> [[Cards/Ovaries\|Ovaries]]  
   
   
 >   
@@ -142,7 +142,7 @@
 > pancreas  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> ovaries  
+> [[Cards/Ovaries\|ovaries]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > [[Cards/Testes\|testes]]  
