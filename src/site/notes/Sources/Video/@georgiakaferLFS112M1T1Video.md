@@ -1385,7 +1385,7 @@ that's happening by an endocrine response. The last one is synaptic and
 
 327
 00:25:25,640 --> 00:25:33,640
-And this is by synapses, which are specific cell types that we know as nerves or neurons.
+And this is by synapses, which are specific cell types that we know as [[Cards/Nerves\|nerves]] or neurons.
 
 328
 00:25:33,640 --> 00:25:40,640
