@@ -21,6 +21,7 @@ Consciousness, at its simplest, is awareness of internal and external existence.
 ## Mentions
 | Incoming Links                                                              |
 | --------------------------------------------------------------------------- |
+| [[Calendar/2023/Daily/2023-04-29 Sat\|2023-04-29 Sat]]                   |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]         |
 | [[Cards/Unconsciousness\|Unconsciousness]]                               |
 | [[Cards/The World of Experience\|The World of Experience]]               |
@@ -34,7 +35,6 @@ Consciousness, at its simplest, is awareness of internal and external existence.
 | [[Cards/Explicit Memory\|Explicit Memory]]                               |
 | [[Cards/Consciousness Engineering\|Consciousness Engineering]]           |
 | [[Cards/Conscious Breathing\|Conscious Breathing]]                       |
-| [[Calendar/2023/Daily/2023-04-29 Sat\|2023-04-29 Sat]]                   |
 | [[Atlas/MOCs/Homo\|Homo]]                                                |
 
 { .block-language-dataview}
