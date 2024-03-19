@@ -22,6 +22,7 @@
 > [!Links]+
 >  | Incoming Links                                |
 > | --------------------------------------------- |
+> | [[Cards/Insulin\|Insulin]]                 |
 > | [[Cards/Pancreas\|Pancreas]]               |
 > | [[Cards/Type 2 Diabetes\|Type 2 Diabetes]] |
 > 
@@ -46,7 +47,7 @@
 
 > [!quote] (Page 2)
 > 
-> β-cells produce insulin
+> β-cells produce [[Cards/Insulin\|insulin]]
 >
 { #46P9K2GZaU4P6W8NPp2}
 
@@ -67,7 +68,7 @@
 
 > [!quote] (Page 3)
 > 
-> insulin
+> [[Cards/Insulin\|insulin]]
 >
 { #URAU9DU5aU4P6W8NPp3}
 
@@ -77,7 +78,7 @@
 > 
 > 
 > ---
-> Insulin also has an important role in the brain
+> [[Cards/Insulin\|Insulin]] also has an important role in the brain
 >
 { #4WMWFN7HaU4P6W8NPp3}
 
@@ -122,7 +123,7 @@
 > 
 > 
 > ---
-> Insulin promotes the formation of glycogen transport molecule glut4
+> [[Cards/Insulin\|Insulin]] promotes the formation of glycogen transport molecule glut4
 >
 { #3M67KYECaU4P6W8NPp4}
 
@@ -171,14 +172,14 @@
 
 > [!quote] (Page 8)
 > 
-> Type 1 diabetes (T1D): insulin deficiency à ~10% of all diabetes cases
+> Type 1 diabetes (T1D): [[Cards/Insulin\|insulin]] deficiency à ~10% of all diabetes cases
 >
 { #LRHE5NYKaU4P6W8NPp8}
 
 
 > [!quote] (Page 8)
 > 
-> Type 2 diabetes (T2D): insulin resistance à >90% of all diabetes cases
+> Type 2 diabetes (T2D): [[Cards/Insulin\|insulin]] resistance à >90% of all diabetes cases
 >
 { #YMFYM43RaU4P6W8NPp8}
 
