@@ -20,7 +20,7 @@ One hormone can have different effects on different cells. An example being [[Ca
 - Growth and development
 - Reproduction
 - Cell metabolism and energy
-- Body water, electrolytes and nutrients
+- Body water, [[Cards/Electrolytes\|electrolytes]] and nutrients
 - Body defences
 
 ## Types of Hormones
@@ -44,8 +44,52 @@ One hormone can have different effects on different cells. An example being [[Ca
 - 
 
 ## Mentions
-- [[Sources/Articles/37TypesHormones2018\|37TypesHormones2018]]
-- [[Sources/Podcasts/Podcast Episodes/654 Dr. Matthew Walker, All Things Sleep Continued\|654 Dr. Matthew Walker, All Things Sleep Continued]]
+| Incoming Links                                                              |
+| --------------------------------------------------------------------------- |
+| [[Cards/Adrenal medulla\|Adrenal medulla]]                               |
+| [[Cards/Adrenocorticotropic hormone\|Adrenocorticotropic hormone]]       |
+| [[Cards/Cell Signalling\|Cell Signalling]]                               |
+| [[Cards/Cholesterol\|Cholesterol]]                                       |
+| [[Cards/Endocrinology of Pregnancy\|Endocrinology of Pregnancy]]         |
+| [[Cards/Ghrelin\|Ghrelin]]                                               |
+| [[Cards/Globular Proteins\|Globular Proteins]]                           |
+| [[Spaces/University/Projects/HBIO1010A1 Poster\|HBIO1010A1 Poster]]      |
+| [[Cards/Hormonal Stimulus\|Hormonal Stimulus]]                           |
+| [[Cards/Hormones of the Adrenal Cortex\|Hormones of the Adrenal Cortex]] |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]         |
+| [[Cards/Humoral Stimulus\|Humoral Stimulus]]                             |
+| [[Cards/Iodine\|Iodine]]                                                 |
+| [[Cards/Male Reproductive System\|Male Reproductive System]]             |
+| [[Cards/Osmoregulation\|Osmoregulation]]                                 |
+| [[Cards/Progesterone\|Progesterone]]                                     |
+| [[Cards/S-Adenosyl-L-methionine\|S-Adenosyl-L-methionine]]               |
+| [[Cards/Smooth Endoplasmic Reticulum\|Smooth Endoplasmic Reticulum]]     |
+| [[Cards/Sympathetic Nervous System\|Sympathetic Nervous System]]         |
+| [[Extras/Excalidraw/The cycle of stress\|The cycle of stress]]           |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                                              |
+| --------------------------------------------------------------------------- |
+| [[Cards/Amino Acid-Peptide Hormones\|Amino Acid-Peptide Hormones]]       |
+| [[Cards/Bronchioles\|Bronchioles]]                                       |
+| [[Cards/Electrolytes\|Electrolytes]]                                     |
+| [[Cards/Endocrine Glands\|Endocrine Glands]]                             |
+| [[Cards/Endocrine System\|Endocrine System]]                             |
+| [[Cards/Epinephrine\|Epinephrine]]                                       |
+| [[Cards/Hormone Interactions\|Hormone Interactions]]                     |
+| [[Cards/Lipid Hormones\|Lipid Hormones]]                                 |
+| [[Cards/Parasympathetic State\|Parasympathetic State]]                   |
+| [[Cards/Stimuli for Hormonal Secretion\|Stimuli for Hormonal Secretion]] |
+| [[Cards/Sympathetic State\|Sympathetic State]]                           |
+
+{ .block-language-dataview}
+
+| Sources                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]                                                               |
+| [[Sources/Articles/37TypesHormones2018\|37TypesHormones2018]]                                                                                |
+| [[Sources/Podcasts/Podcast Episodes/654 Dr. Matthew Walker, All Things Sleep Continued\|654 Dr. Matthew Walker, All Things Sleep Continued]] |
 
 { .block-language-dataview}
 
