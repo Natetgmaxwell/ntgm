@@ -22,8 +22,9 @@
 > creators:: Melinda Dean
 
 > [!Links]+
->  | Incoming Links |
-> | -------------- |
+>  | Incoming Links                        |
+> | ------------------------------------- |
+> | [[Cards/Measurement\|Measurement]] |
 > 
 { .block-language-dataview}
 
