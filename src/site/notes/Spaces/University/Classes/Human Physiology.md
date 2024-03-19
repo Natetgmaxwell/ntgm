@@ -44,6 +44,7 @@
 | <ul><li>LFS112 M6T6 Adaptive Immunity</li></ul>                                 | [[Sources/Video/@2023-LFS112M6T6Adaptive\|@2023-LFS112M6T6Adaptive]]                                     | true      |
 | <ul><li>LFS112 M7T1 Overview of the digestive system</li></ul>                  | [[Sources/Video/@lindagallo2023-LFS112M7T1Overview\|@lindagallo2023-LFS112M7T1Overview]]                 | true      |
 | <ul><li>LFS112 M7T2 Functions of digestive organs</li></ul>                     | [[Sources/@lindagalloLFS112M7T2Functions2023\|@lindagalloLFS112M7T2Functions2023]]                       | true      |
+| <ul><li>LFS112 M9T1 Functions and Structure of the Urinary System</li></ul>     | [[Sources/@nicolemastersLFS112M9T1Functions2023\|@nicolemastersLFS112M9T1Functions2023]]                 | true      |
 
 { .block-language-dataview}
 
@@ -183,7 +184,7 @@
 | [[Cards/Amino Acid-Peptide Hormones\|Amino Acid-Peptide Hormones]]        | [[Cards/Lipid Hormones\|Lipid Hormones]]                                         |
 | -------------------------------------- | ---------------------------------------------------------- |
 | Travels freely in the [[Cards/Blood\|Blood]]        | Must be bound to a transport protein when in the [[Cards/Blood\|Blood]] |
-| Bind to [[Cards/Plasma Membranes\|Plasma Membranes]] receptors | Bind to intracellular receptors                            | 
+| Bind to [[Cards/Plasma Membranes\|Plasma Membranes]] receptors | Bind to [[Cards/Intracellular Receptors\|intracellular receptors]]                            | 
 
 ###### How do individual hormones work together to achieve a coordinated physiological response?
 
@@ -300,7 +301,7 @@ The [[Cards/Hypothalamus\|hypothalamus]] and the pituitary gland work in close c
 
 | [[Cards/Ovarian Cycle\|Ovarian Cycle]]                                                                                                                      | [[Cards/Menstrual Cycle\|Menstrual Cycle]] |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| The [[Cards/Ovarian Cycle\|Ovarian Cycle]] takes place in the Ovaries and it's primary purpose is to regulate the maturation and release of an [[Cards/Oocytes\|Oocytes]]. | The [[Cards/Menstrual Cycle\|Menstrual Cycle]] takes place in the [[Cards/Uterus\|Uterus]], preparing the [[Cards/Endometrium\|Endometrium]] for potential implantation if fertilisation occurs.                    |
+| The [[Cards/Ovarian Cycle\|Ovarian Cycle]] takes place in the [[Cards/Ovaries\|Ovaries]] and it's primary purpose is to regulate the maturation and release of an [[Cards/Oocytes\|Oocytes]]. | The [[Cards/Menstrual Cycle\|Menstrual Cycle]] takes place in the [[Cards/Uterus\|Uterus]], preparing the [[Cards/Endometrium\|Endometrium]] for potential implantation if fertilisation occurs.                    |
 
 ###### Outline the actions of the major hormones of the [[Cards/Female Reproductive System\|female reproductive system]]
 
