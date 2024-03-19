@@ -90,7 +90,7 @@
 > 2. Platelet phase  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> • [[Cards/Platelets\|Platelets]] adhere to “sticky” endothelial cells, exposed collagen • [[Cards/Platelets\|Platelets]] become activated and release chemicals to attract more [[Cards/Platelets\|platelets]] • As more [[Cards/Platelets\|platelets]] arrive, they stick to each other • Platelet plug may close break in vessel  
+> • [[Cards/Platelets\|Platelets]] adhere to “sticky” endothelial cells, exposed [[Cards/Collagen\|collagen]] • [[Cards/Platelets\|Platelets]] become activated and release chemicals to attract more [[Cards/Platelets\|platelets]] • As more [[Cards/Platelets\|platelets]] arrive, they stick to each other • Platelet plug may close break in vessel  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > 3. [[Cards/Coagulation\|Coagulation]] phase  
