@@ -1,13 +1,14 @@
 ---
-{"aliases":["001"],"tags":["effort","gardenEntry","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"/spaces/ntm-digital-mind-site/digital-mind-home/","dgPassFrontmatter":true}
+{"aliases":["001"],"tags":["effort","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"/spaces/ntm-digital-mind-site/digital-mind-home/","dgPassFrontmatter":true}
 ---
 
 # Digital Mind Home
 
 ## Areas
 
-| [[Atlas/🎓 University\|🎓 University]] | [[Atlas/Sources\|Sources]] | [[Atlas/📚 Bookshelf\|📚 Bookshelf]] | 
-| ---------------------- | ----------- | --- |
+| [[Atlas/🎓 University\|🎓 University]] | [[Atlas/Sources\|Sources]] | [[Atlas/📚 Bookshelf\|📚 Bookshelf]] |     |
+| ----------------- | ----------- | ---------------- | --- |
+
 
 > [!key] Key
 > - '@[citekey]' = Source Notes
