@@ -7,7 +7,7 @@
 > [!Ontology]
 > up:: [[Cards/Protein\|Protein]]
 > jump::
-> down:: [[Cards/Enzyme\|Enzyme]], [[Cards/Hormones\|Hormones]], [[Cards/Cellular Receptors\|Cellular Receptors]], [[Cards/Antibodies\|Antibodies]]
+> down:: [[Cards/Enzyme\|Enzyme]], [[Cards/Hormones\|Hormones]], [[Cards/Extracellular Receptors\|Extracellular Receptors]], [[Cards/Antibodies\|Antibodies]]
 
 > [!Definition] Definition
 > Globular proteins are a class of proteins that are defined by their spherical 3D structure. They are characterised by their high *solubility in water* and are typically involved in enzymatic reactions, transport, and signalling.
@@ -20,7 +20,7 @@
 - Membrane Transporters
 - Signal Molecules
 	- [[Cards/Hormones\|Hormones]]
-- [[Cards/Cellular Receptors\|Cellular Receptors]]
+- [[Cards/Extracellular Receptors\|Extracellular Receptors]]
 - Binding proteins
 	- [[Cards/Low-density Lipoprotein Cholesterol\|LDL Cholesterol]]
 	- [[Cards/Hemoglobin\|Hemoglobin]]
