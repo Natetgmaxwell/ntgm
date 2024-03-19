@@ -7,8 +7,8 @@
 ## Books
 | Book                                                                                                | Genre       |
 | --------------------------------------------------------------------------------------------------- | ----------- |
-| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] | Non-Fiction |
 | [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                       | Non-Fiction |
+| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] | Non-Fiction |
 | [[Sources/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]           | \-          |
 | [[Sources/@davidmckay2023IntroductionChemistry\|@davidmckay2023IntroductionChemistry]]           | \-          |
 | [[Sources/Books/The 50th Law by Robert Greene\|The 50th Law by Robert Greene]]                   | Non-Fiction |
@@ -22,21 +22,21 @@
 | [[Sources/Video/Catch Me If You Can (2002)\|Catch Me If You Can (2002)]]         | ★★★★★  | <ul><li>Biography</li><li>Crime</li><li>Drama</li></ul>   |
 | [[Sources/Video/Inception (2010)\|Inception (2010)]]                             | ★★★★★  | <ul><li>Action</li><li>Adventure</li><li>Sci-Fi</li></ul> |
 | [[Sources/Video/Interstellar (2014)\|Interstellar (2014)]]                       | ★★★★★  | <ul><li>Sci-Fi</li><li>Action</li><li>Adventure</li></ul> |
-| [[Sources/Video/Oppenheimer (2023)\|Oppenheimer (2023)]]                         | ★★★★★  | <ul><li>Drama</li><li>History</li></ul>                   |
 | [[Sources/Video/The Dark Knight (2008)\|The Dark Knight (2008)]]                 | ★★★★★  | <ul><li>Crime</li><li>Action</li><li>Thriller</li></ul>   |
+| [[Sources/Video/Oppenheimer (2023)\|Oppenheimer (2023)]]                         | ★★★★★  | <ul><li>Drama</li><li>History</li></ul>                   |
 | [[Sources/Video/The Wolf of Wall Street (2013)\|The Wolf of Wall Street (2013)]] | ★★★★★  | <ul><li>Biography</li><li>Comedy</li><li>Crime</li></ul>  |
 
 { .block-language-dataview}
 
 ## Articles
-| Title                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Articles/@greenfield2022-JamesDiNicolantonioDirt\|@greenfield2022-JamesDiNicolantonioDirt]]               |
-| [[Sources/@henderson2022VictimSignalingDark\|@henderson2022VictimSignalingDark]]                                    |
-| [[Sources/@henderson2022SwipingDatingPreferences\|@henderson2022SwipingDatingPreferences]]                          |
-| [[Sources/Articles/@vedranbileta2022WhatAreTheodosian\|@vedranbileta2022WhatAreTheodosian]]                         |
-| [[Sources/Articles/@vanessavanedwards202310QuestionsAsk\|@vanessavanedwards202310QuestionsAsk]]                     |
-| [[Sources/Articles/@seungguhan2018CerebrovascularAccidentSymptoms\|@seungguhan2018CerebrovascularAccidentSymptoms]] |
+| Title                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Articles/@sasivimolahmed2018WhichProbioticsHistamine\|@sasivimolahmed2018WhichProbioticsHistamine]] |
+| [[Sources/Articles/@greenfield2022-JamesDiNicolantonioDirt\|@greenfield2022-JamesDiNicolantonioDirt]]         |
+| [[Sources/@henderson2022VictimSignalingDark\|@henderson2022VictimSignalingDark]]                              |
+| [[Sources/@henderson2022SwipingDatingPreferences\|@henderson2022SwipingDatingPreferences]]                    |
+| [[Sources/Articles/@vedranbileta2022WhatAreTheodosian\|@vedranbileta2022WhatAreTheodosian]]                   |
+| [[Sources/Articles/@henderson2022MaleWarriorHypothesis\|@henderson2022MaleWarriorHypothesis]]                 |
 
 { .block-language-dataview}
 
