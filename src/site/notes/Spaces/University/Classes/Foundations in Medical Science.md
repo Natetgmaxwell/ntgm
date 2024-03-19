@@ -17,14 +17,18 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 { .block-language-dataview}
 
 ## Sources
-| Name                                                                     | Cite Key                                                                                          | Published |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | --------- |
-| <ul><li>MLS101 M01T01 History of Medical Science (Part 1)</li></ul>      | [[Sources/Video/@melindadean2024MLS101M01T01History\|@melindadean2024MLS101M01T01History]]     | true      |
-| <ul><li>MLS101 M01T02 History of Medical Science (Part 2)</li></ul>      | [[Sources/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]           | true      |
-| <ul><li>MLS101 M01T03 History of Medical Science (Part 3)</li></ul>      | [[Sources/@MelindaDean2024MLS101M01T03History\|@MelindaDean2024MLS101M01T03History]]           | true      |
-| <ul><li>MLS101 M01T04 Measurements in Medical Science (Part 1)</li></ul> | [[Sources/@MelindaDean2024MLS101M01T04Measurements\|@MelindaDean2024MLS101M01T04Measurements]] | true      |
-| <ul><li>MLS101 M01T05 Measurements in Medical Science (Part 2)</li></ul> | [[Sources/@MelindaDean2024MLS101M01T05Measurements\|@MelindaDean2024MLS101M01T05Measurements]] | true      |
-| <ul><li>MLS101 M02T01 Safety and Hazards (Part 1)</li></ul>              | [[Sources/@melindadean2024MLS101M02T01Safety\|@melindadean2024MLS101M02T01Safety]]             | true      |
+| Name                                                                     | Cite Key                                                                                                | Published |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | --------- |
+| <ul><li>MLS101 M01T01 History of Medical Science (Part 1)</li></ul>      | [[Sources/Video/@melindadean2024MLS101M01T01History\|@melindadean2024MLS101M01T01History]]           | true      |
+| <ul><li>MLS101 M01T02 History of Medical Science (Part 2)</li></ul>      | [[Sources/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]                 | true      |
+| <ul><li>MLS101 M01T03 History of Medical Science (Part 3)</li></ul>      | [[Sources/@MelindaDean2024MLS101M01T03History\|@MelindaDean2024MLS101M01T03History]]                 | true      |
+| <ul><li>MLS101 M01T04 Measurements in Medical Science (Part 1)</li></ul> | [[Sources/@MelindaDean2024MLS101M01T04Measurements\|@MelindaDean2024MLS101M01T04Measurements]]       | true      |
+| <ul><li>MLS101 M01T05 Measurements in Medical Science (Part 2)</li></ul> | [[Sources/@MelindaDean2024MLS101M01T05Measurements\|@MelindaDean2024MLS101M01T05Measurements]]       | true      |
+| <ul><li>MLS101 M02T01 Safety and Hazards (Part 1)</li></ul>              | [[Sources/@melindadean2024MLS101M02T01Safety\|@melindadean2024MLS101M02T01Safety]]                   | true      |
+| <ul><li>MLS101 M04T01 Characteristics of Solutions</li></ul>             | [[Sources/@melindadean2024MLS101M04T01Characteristics\|@melindadean2024MLS101M04T01Characteristics]] | true      |
+| <ul><li>MLS101 M04T02 Measuring the Concentration of Solutions</li></ul> | [[Sources/@melindadean2024MLS101M04T02Measuring\|@melindadean2024MLS101M04T02Measuring]]             | true      |
+| <ul><li>MLS101 M04T03 Molar Concentrations</li></ul>                     | [[Sources/@melindadean2024MLS101M04T03Molar\|@melindadean2024MLS101M04T03Molar]]                     | true      |
+| <ul><li>MLS101 M04T04 Dilution of Solutions</li></ul>                    | [[Sources/@melindadean2024MLS101M04T04Dilution\|@melindadean2024MLS101M04T04Dilution]]               | true      |
 
 { .block-language-dataview}
 
