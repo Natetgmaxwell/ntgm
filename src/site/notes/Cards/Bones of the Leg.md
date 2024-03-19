@@ -16,8 +16,9 @@
 - 
 
 ## Mentions
-| Incoming Links |
-| -------------- |
+| Incoming Links                      |
+| ----------------------------------- |
+| [[Tibia (brain)\|Tibia (brain)]] |
 
 { .block-language-dataview}
 
