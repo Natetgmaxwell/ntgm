@@ -10,7 +10,7 @@
 > down:: [[Cards/Ovum\|Ovum]]
 
 > [!Definition] Definition
-> The [[Cards/Ovarian Cycle\|Ovarian Cycle]] takes place in the Ovaries and it's primary purpose is to regulate the maturation and release of an [[Cards/Oocytes\|Oocytes]].
+> The [[Cards/Ovarian Cycle\|Ovarian Cycle]] takes place in the [[Cards/Ovaries\|Ovaries]] and it's primary purpose is to regulate the maturation and release of an [[Cards/Oocytes\|Oocytes]].
 
 # Reference
 - 
