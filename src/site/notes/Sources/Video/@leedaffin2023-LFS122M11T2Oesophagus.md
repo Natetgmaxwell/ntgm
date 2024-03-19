@@ -67,7 +67,7 @@
 > The ileum is the final section of the small intestine. It is about 3m long (60% of the length). It absorbs mainly [[Cards/Vitamin B12\|vitamin B12]] and [[Cards/Bile acids\|bile acids]], as well as any other remaining [[Cards/Nutrients\|nutrients]]. The ileum joins to the [[Cards/Cecum\|cecum]] of the [[Cards/Large Intestine\|large intestine]] at the ileocecal junction.  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> The [[Cards/Large Intestine\|large intestine]], also known as the [[Cards/Large Intestine\|colon]], is the last part of the gastrointestinal tract and of the digestive system (approximately 1.5m in length). Water is absorbed here and the remaining waste material is stored as faeces before being removed by defecation.  
+> The [[Cards/Large Intestine\|large intestine]], also known as the [[Cards/Large Intestine\|colon]], is the last part of the [[Cards/Gastrointestinal tract\|gastrointestinal tract]] and of the digestive system (approximately 1.5m in length). Water is absorbed here and the remaining waste material is stored as faeces before being removed by defecation.  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > Most sources define the [[Cards/Large Intestine\|large intestine]] as the combination of the [[Cards/Cecum\|cecum]], [[Cards/Large Intestine\|colon]], [[Cards/Rectum\|rectum]], and [[Cards/Anal Cavity\|anal canal]].  
