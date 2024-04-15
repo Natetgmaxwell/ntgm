@@ -1,0 +1,23 @@
+---
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/equilibrium/","dgPassFrontmatter":true}
+---
+
+# Equilibrium
+
+> [!Ontology]
+> up:: [[Cards/Balance\|Balance]]
+> jump:: [[Cards/Negative Feedback Loops\|Negative Feedback Loops]], [[Cards/Homeostasis\|Homeostasis]]
+> down:: 
+
+> [!Definition] Definition
+> The restoration of balance.
+
+# Reference
+- 
+
+## Mentions
+- [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]]
+
+{ .block-language-dataview}
+
+## Flashcards
