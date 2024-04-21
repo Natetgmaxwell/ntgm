@@ -1,5 +1,5 @@
 ---
-{"aliases":["001"],"tags":["effort","gardenEntry","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"/spaces/ntm-digital-mind-site/digital-mind-home/","dgPassFrontmatter":true}
+{"aliases":["001"],"tags":["effort","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"/spaces/ntm-digital-mind-site/digital-mind-home/","dgPassFrontmatter":true}
 ---
 
 # Digital Mind Home
@@ -19,32 +19,32 @@
 ## Recently Created Cards
 | File Name                                                       | Date Modified  |
 | --------------------------------------------------------------- | -------------- |
-| [[Cards/Algae\|Algae]]                                       | April 14, 2024 |
-| [[Cards/Antimicrobial Treatments\|Antimicrobial Treatments]] | April 14, 2024 |
-| [[Cards/Antiseptic\|Antiseptic]]                             | April 14, 2024 |
-| [[Cards/Atomic Mass\|Atomic Mass]]                           | April 14, 2024 |
-| [[Cards/Bacteriostasis\|Bacteriostasis]]                     | April 14, 2024 |
-| [[Cards/Commercial Sterilisation\|Commercial Sterilisation]] | April 14, 2024 |
-| [[Cards/Edward Jenner\|Edward Jenner]]                       | April 14, 2024 |
-| [[Cards/Endospore\|Endospore]]                               | April 14, 2024 |
-| [[Cards/Fomites\|Fomites]]                                   | April 14, 2024 |
-| [[Cards/Lyophilisation\|Lyophilisation]]                     | April 14, 2024 |
+| [[Cards/Myokines\|Myokines]]                                 | April 21, 2024 |
+| [[Cards/Pre-Sleep Protein\|Pre-Sleep Protein]]               | April 21, 2024 |
+| [[Cards/Anton Chekhov\|Anton Chekhov]]                       | April 20, 2024 |
+| [[Cards/Meninges\|Meninges]]                                 | April 20, 2024 |
+| [[Cards/Antimicrobial Treatments\|Antimicrobial Treatments]] | April 16, 2024 |
+| [[Cards/Antiseptic\|Antiseptic]]                             | April 16, 2024 |
+| [[Cards/Atoms\|Atoms]]                                       | April 16, 2024 |
+| [[Cards/Bactericide\|Bactericide]]                           | April 16, 2024 |
+| [[Cards/Bacteriostasis\|Bacteriostasis]]                     | April 16, 2024 |
+| [[Cards/Binary Fission\|Binary Fission]]                     | April 16, 2024 |
 
 { .block-language-dataview}
 
 ## Recent Sources
-| File Name                                                                                           | Date Modified  | Type  |
-| --------------------------------------------------------------------------------------------------- | -------------- | ----- |
-| [[Sources/@davidmckay2024SCI105M06T01Chemical\|@davidmckay2024SCI105M06T01Chemical]]             | April 15, 2024 | Video |
-| [[Sources/Video/@davidmckay2024SCI105M01T02Chemical\|@davidmckay2024SCI105M01T02Chemical]]       | April 14, 2024 | Video |
-| [[Sources/Books/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]             | April 14, 2024 | Book  |
-| [[Sources/@davidmckay2024SCI105M05T01Atomic\|@davidmckay2024SCI105M05T01Atomic]]                 | April 14, 2024 | Video |
-| [[Sources/@basta2024BacterialSpores\|@basta2024BacterialSpores]]                                 | April 14, 2024 | \-    |
-| [[Sources/Video/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]   | April 07, 2024 | Video |
-| [[Sources/Video/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]]                                     | April 07, 2024 | \-    |
-| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] | April 07, 2024 | \-    |
-| [[Sources/@leedaffinLFS122M9T1Respiratory2023\|@leedaffinLFS122M9T1Respiratory2023]]             | April 07, 2024 | Video |
-| [[Sources/@barisoEmotionallyIntelligentPeople2022\|@barisoEmotionallyIntelligentPeople2022]]     | April 07, 2024 | \-    |
+| File Name                                                                                         | Date Modified  | Type           |
+| ------------------------------------------------------------------------------------------------- | -------------- | -------------- |
+| [[Sources/Books/@stevenbartlett2023DiaryCEO33\|@stevenbartlett2023DiaryCEO33]]                 | April 21, 2024 | Book           |
+| [[Sources/@trommelen2023PresleepProteinIngestion\|@trommelen2023PresleepProteinIngestion]]     | April 21, 2024 | Research Paper |
+| [[Sources/@bentepedersen2012MusclesExerciseObesity\|@bentepedersen2012MusclesExerciseObesity]] | April 21, 2024 | Research Paper |
+| [[Sources/@ipekkurtboke2024LFS261M01T02Evolution\|@ipekkurtboke2024LFS261M01T02Evolution]]     | April 16, 2024 | Video          |
+| [[Sources/@ipekkurtboke2024LFS261M02T01Cultural\|@ipekkurtboke2024LFS261M02T01Cultural]]       | April 16, 2024 | Video          |
+| [[Sources/@davidmckay2024SCI105M06T01Chemical\|@davidmckay2024SCI105M06T01Chemical]]           | April 15, 2024 | Video          |
+| [[Sources/Video/@davidmckay2024SCI105M01T02Chemical\|@davidmckay2024SCI105M01T02Chemical]]     | April 14, 2024 | Video          |
+| [[Sources/Books/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]           | April 14, 2024 | Book           |
+| [[Sources/@davidmckay2024SCI105M05T01Atomic\|@davidmckay2024SCI105M05T01Atomic]]               | April 14, 2024 | Video          |
+| [[Sources/@basta2024BacterialSpores\|@basta2024BacterialSpores]]                               | April 14, 2024 | \-             |
 
 { .block-language-dataview}
 
