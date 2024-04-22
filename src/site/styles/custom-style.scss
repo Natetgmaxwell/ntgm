@@ -1,14 +1,18 @@
 body {
 
-    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+@import url('https://fonts.cdnfonts.com/css/ia-writer-quattro-s');
     
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
     //  background-color: white;
+
+    --font-default: 'iA Writer Quattro S', sans-serif;
+    
     .content {
     font-size: 14px;
+                                                
     }
     
 }
