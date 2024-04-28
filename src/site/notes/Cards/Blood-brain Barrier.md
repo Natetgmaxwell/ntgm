@@ -43,7 +43,6 @@
 - [[Cards/Caffeine\|Caffeine]]
 
 ## Mentions
-- [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 - [[Sources/Podcasts/Podcast Episodes/AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More\|AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More]]
 - [[Sources/Research Papers/@gulayan2022RapamycinBenefitsSide\|@gulayan2022RapamycinBenefitsSide]]
 
