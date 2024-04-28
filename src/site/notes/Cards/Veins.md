@@ -18,7 +18,6 @@
 - [[Cards/Venous return\|Venous return]]
 
 ## Mentions
-- [[Sources/Video/@lindagallo2023-LFS112M7T1Overview\|@lindagallo2023-LFS112M7T1Overview]]
 - [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]]
 
 { .block-language-dataview}
