@@ -12,16 +12,7 @@
 > [!Definition] Definition
 > 
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!quote] [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
-> ”[[Cards/Dark Chocolate\|Dark Chocolate]], [[Cards/Magnesium\|Magnesium]], [[Cards/Potassium\|Potassium]], handgrip strength training, and even high-dose [[Cards/Garlic\|Garlic]] can all help reduce [[Cards/Blood Pressure\|blood pressure]].”
-
-</div></div>
-
+![[Boundless by Ben Greenfield#^531a05\|Boundless by Ben Greenfield#^531a05]]
 
 ## Types of Abnormal Blood Pressure
 - [[Cards/High Blood Pressure\|High Blood Pressure]]
@@ -40,7 +31,6 @@
 - [[Sources/Articles/PeopleNeedTrackHRV\|PeopleNeedTrackHRV]]
 - [[Sources/Articles/The Harm Caused by Masks - City Journal\|The Harm Caused by Masks - City Journal]]
 - [[Sources/Articles/VagusNerveEverything\|VagusNerveEverything]]
-- [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 - [[Sources/Podcasts/Podcast Episodes/A Behavioral Psychologist s Tips to Identifying and Managing Stress Styles with Dr. Jemma King\|A Behavioral Psychologist s Tips to Identifying and Managing Stress Styles with Dr. Jemma King]]
 
 { .block-language-dataview}
