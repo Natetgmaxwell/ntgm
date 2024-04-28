@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-## For Reaction to Occur [[Sources/@DavidMcKay2024SCI105M03T03Collision\|@DavidMcKay2024SCI105M03T03Collision]]:
+## For Reaction to Occur [[Sources/Video/@DavidMcKay2024SCI105M03T03Collision\|@DavidMcKay2024SCI105M03T03Collision]]:
 
 - Sufficient kinetic energy 
 - Collision
@@ -22,8 +22,9 @@
 - 
 
 ## Mentions
-| Incoming Links |
-| -------------- |
+| Incoming Links                              |
+| ------------------------------------------- |
+| [[Cards/Kinetic Energy\|Kinetic Energy]] |
 
 { .block-language-dataview}
 
@@ -32,9 +33,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                   |
-| ----------------------------------------------------------------------------------------- |
-| [[Sources/@DavidMcKay2024SCI105M03T03Collision\|@DavidMcKay2024SCI105M03T03Collision]] |
+| Sources                                                                                         |
+| ----------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@DavidMcKay2024SCI105M03T03Collision\|@DavidMcKay2024SCI105M03T03Collision]] |
 
 { .block-language-dataview}
 
