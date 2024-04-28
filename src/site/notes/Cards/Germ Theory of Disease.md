@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > The Germ Theory of Disease posits that specific microorganisms, such as bacteria and viruses, cause illnesses. 
 
-> [!quote] [[Sources/@ipekkurtboke2024LFS261M01T01Introduction\|@ipekkurtboke2024LFS261M01T01Introduction]]
+> [!quote] [[Sources/Video/@ipekkurtboke2024LFS261M01T01Introduction\|@ipekkurtboke2024LFS261M01T01Introduction]]
 > He {[[Cards/Louis Pasteur\|Louis Pasteur]]} established experimental steps for directly linking a specific [[Cards/Micro-organisms\|microorganism]] to a specific disease
 
 # Reference
@@ -33,10 +33,10 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                             |
-| --------------------------------------------------------------------------------------------------- |
-| [[Sources/@ipekkurtboke2024LFS261M01T01Introduction\|@ipekkurtboke2024LFS261M01T01Introduction]] |
-| [[Sources/Video/@nicolemasters2023LFS103M12T1Microbes\|@nicolemasters2023LFS103M12T1Microbes]]   |
+| Sources                                                                                                   |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@ipekkurtboke2024LFS261M01T01Introduction\|@ipekkurtboke2024LFS261M01T01Introduction]] |
+| [[Sources/Video/@nicolemasters2023LFS103M12T1Microbes\|@nicolemasters2023LFS103M12T1Microbes]]         |
 
 { .block-language-dataview}
 
