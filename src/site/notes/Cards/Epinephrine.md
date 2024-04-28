@@ -42,7 +42,6 @@
 | [[Sources/Articles/2019WhyWeFeelPain-thepaincenter\|2019WhyWeFeelPain-thepaincenter]]                                                                      |
 | [[Sources/Articles/25 Mind-Blowing Psychological Facts About Love - YourTango\|25 Mind-Blowing Psychological Facts About Love - YourTango]]                |
 | [[Sources/Articles/37TypesHormones2018\|37TypesHormones2018]]                                                                                              |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                                                                 |
 | [[Sources/Podcasts/Podcast Episodes/Using Deliberate Cold Exposure for Health and Performance\|Using Deliberate Cold Exposure for Health and Performance]] |
 | [[Sources/Articles/WhyAlcoholLowers\|WhyAlcoholLowers]]                                                                                                    |
 
