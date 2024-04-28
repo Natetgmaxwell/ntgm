@@ -27,9 +27,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                     |
-| ------------------------------------------------------------------------------------------- |
-| [[Sources/@melindadean2024MLS101M04T02Measuring\|@melindadean2024MLS101M04T02Measuring]] |
+| Sources                                                                                           |
+| ------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@melindadean2024MLS101M04T02Measuring\|@melindadean2024MLS101M04T02Measuring]] |
 
 { .block-language-dataview}
 
