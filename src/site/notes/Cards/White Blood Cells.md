@@ -15,7 +15,7 @@ tags:: #Uni/HBIO1009 #flashcards/hbio1009
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@MelindaDean2024MLS101M05T01Introduction\|@MelindaDean2024MLS101M05T01Introduction]]
+> [!quote] [[Sources/Video/@MelindaDean2024MLS101M05T01Introduction\|@MelindaDean2024MLS101M05T01Introduction]]
 > White blood cells (also called leukocytes) fight infection and some destroy bacteria by engulfing them.
 
 ### Types of [[Cards/White Blood Cells\|White Blood Cells]]
