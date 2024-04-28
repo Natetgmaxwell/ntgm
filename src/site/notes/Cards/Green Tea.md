@@ -36,7 +36,6 @@
 | Sources                                                                                               |
 | ----------------------------------------------------------------------------------------------------- |
 | [[Sources/Research Papers/@xiaomengliu2023UpdateBrownAdipose\|@xiaomengliu2023UpdateBrownAdipose]] |
-| [[Sources/Articles/cdnBestSupplementsSlow2022\|cdnBestSupplementsSlow2022]]                        |
 
 { .block-language-dataview}
 
