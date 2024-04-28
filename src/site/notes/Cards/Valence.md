@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@davidmckay2023IntroductionChemistry\|@davidmckay2023IntroductionChemistry]]
+> [!quote] [[Sources/Books/@davidmckay2023IntroductionChemistry\|@davidmckay2023IntroductionChemistry]]
 > Valence is the number of electrons involved in bonding.
 
 # Reference
@@ -30,9 +30,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                   |
-| ----------------------------------------------------------------------------------------- |
-| [[Sources/@davidmckay2023IntroductionChemistry\|@davidmckay2023IntroductionChemistry]] |
+| Sources                                                                                         |
+| ----------------------------------------------------------------------------------------------- |
+| [[Sources/Books/@davidmckay2023IntroductionChemistry\|@davidmckay2023IntroductionChemistry]] |
 
 { .block-language-dataview}
 
