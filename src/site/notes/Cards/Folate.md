@@ -41,9 +41,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                       |
-| ----------------------------------------------------------------------------- |
-| [[Sources/Articles/BestBreakfastFoods\|BestBreakfastFoods]]                |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]] |
+| Sources                                                        |
+| -------------------------------------------------------------- |
+| [[Sources/Articles/BestBreakfastFoods\|BestBreakfastFoods]] |
 
 { .block-language-dataview}
