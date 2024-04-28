@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
+> [!quote] [[Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 > [[Cards/Caffeine\|Caffeine]] is a known protector of [[Cards/Blood-brain Barrier\|BBB]] integrity.
 
 # Reference
@@ -36,7 +36,6 @@
 
 | Sources                                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                                                                                                                                 |
 | [[Sources/Video/Caffeine and Adenosine Receptors\|Caffeine and Adenosine Receptors]]                                                                                                                                       |
 | [[Sources/Podcasts/Podcast Episodes/GUEST SERIES Dr. Andy Galpin Optimal Nutrition & Supplementation for Fitness\|GUEST SERIES Dr. Andy Galpin Optimal Nutrition & Supplementation for Fitness]]                           |
 | [[Sources/Podcasts/Podcast Episodes/Sleep Toolkit  Tools for Optimising Sleep & Sleep Wake Timing   Episode 84 — Huberman Lab\|Sleep Toolkit  Tools for Optimising Sleep & Sleep Wake Timing   Episode 84 — Huberman Lab]] |
