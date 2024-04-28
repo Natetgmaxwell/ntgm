@@ -5,14 +5,14 @@
 # Language
 
 > [!Ontology]-
-> up:: [[Cards/Social Interaction\|Social Interaction]]
+> up:: [[Cards/Intraspecific interactions\|Intraspecific interactions]]
 > jump::
 > down:: 
 
 - Language allows us ([[Cards/Homo sapiens\|Homo sapiens]]) to live in two worlds; the [[Cards/Physical world\|Physical world]] and the [[Cards/Mental World\|Mental World]].
 - [[Cards/Language\|Language]] facilitates [[Cards/Mental Constructs\|Mental Constructs]] that don't exist in the [[Cards/Physical world\|physical world]].
 - Words are not just a means of [[Cards/Language\|Language]]; they carry [[Cards/Emotion\|Emotion]].
-- [[Cards/Language\|Language]] was created for [[Cards/Social Interaction\|Social Interaction]] rather than descriptive purposes.
+- [[Cards/Language\|Language]] was created for [[Cards/Intraspecific interactions\|Intraspecific interactions]] rather than descriptive purposes.
 - Our language was created for the social purpose of gossiping [[@yuvalnoahharariSapiensBriefHistory2015\|@yuvalnoahharariSapiensBriefHistory2015]]
 
 > [!quote] [[Sapiens - A Brief History of Human Kind by Yuval Noah Harari\|Sapiens - A Brief History of Human Kind by Yuval Noah Harari]]
