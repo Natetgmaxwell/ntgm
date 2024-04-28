@@ -16,7 +16,24 @@
 - 
 
 ## Mentions
-- [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]]
+| Incoming Links                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| [[Cards/Diffusion\|Diffusion]]                                                                                            |
+| [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
+| [[Extras/Excalidraw/Homeostasis.excalidraw\|Homeostasis.excalidraw]]                                                      |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                                |
+| ------------------------------------------------------------- |
+| [[Cards/Balance\|Balance]]                                 |
+| [[Cards/Homeostasis\|Homeostasis]]                         |
+| [[Cards/Negative Feedback Loops\|Negative Feedback Loops]] |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
