@@ -12,10 +12,10 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@ipekkurtboke2024LFS261M01T01Introduction\|@ipekkurtboke2024LFS261M01T01Introduction]]
+> [!quote] [[Sources/Video/@ipekkurtboke2024LFS261M01T01Introduction\|@ipekkurtboke2024LFS261M01T01Introduction]]
 > Before Pasteur effective treatment of diseases were discovered by trial and error, but causes of diseases were unknown.
 
-> [!quote] [[Sources/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]
+> [!quote] [[Sources/Video/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]
 > {[[Cards/Louis Pasteur\|Louis Pasteur]]} Disproved “Spontaneous generation” and contributed to the development of Germ Theory.
 
 # Reference
@@ -35,11 +35,11 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                             |
-| --------------------------------------------------------------------------------------------------- |
-| [[Sources/@ipekkurtboke2024LFS261M01T01Introduction\|@ipekkurtboke2024LFS261M01T01Introduction]] |
-| [[Sources/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]             |
-| [[Sources/Video/@nicolemasters2023LFS103M12T1Microbes\|@nicolemasters2023LFS103M12T1Microbes]]   |
+| Sources                                                                                                   |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@ipekkurtboke2024LFS261M01T01Introduction\|@ipekkurtboke2024LFS261M01T01Introduction]] |
+| [[Sources/Video/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]             |
+| [[Sources/Video/@nicolemasters2023LFS103M12T1Microbes\|@nicolemasters2023LFS103M12T1Microbes]]         |
 
 { .block-language-dataview}
 
