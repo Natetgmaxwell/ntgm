@@ -41,7 +41,6 @@
 ## Mentions
 - [[Sources/Articles/Ancient Egyptian Inventions That Are Still Used Today\|Ancient Egyptian Inventions That Are Still Used Today]]
 - [[Sources/Courses/Superbrain by Jim Kwik\|Superbrain by Jim Kwik]]
-- [[Sources/Video/@lindagallo2023-LFS112M7T1Overview\|@lindagallo2023-LFS112M7T1Overview]]
 - [[Spaces/My Newsletter/Developing Wisdom, Ancient Egypt & Physical Benchmarks\|Developing Wisdom, Ancient Egypt & Physical Benchmarks]]
 
 { .block-language-dataview}
