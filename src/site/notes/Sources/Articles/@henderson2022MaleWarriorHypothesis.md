@@ -22,7 +22,9 @@
 > [!Links]+
 >  | Incoming Links                                                |
 > | ------------------------------------------------------------- |
+> | [[Cards/Indirect Aggression\|Indirect Aggression]]         |
 > | [[Cards/Male Warrior Hypothesis\|Male Warrior Hypothesis]] |
+> | [[Cards/Psychopathy\|Psychopathy]]                         |
 > 
 { .block-language-dataview}
 
@@ -45,7 +47,7 @@
 
 > [!quote] (Page 2)
 > 
-> But when researchers expanded their definition of aggression to include verbal aggression and indirect aggression (rumor spreading, gossiping, ostracism, and friendship termination) they found that girls score higher on indirect aggression and no sex differences in verbal aggression.
+> But when researchers expanded their definition of aggression to include verbal aggression and [[Cards/Indirect Aggression\|Indirect Aggression]] (rumor spreading, gossiping, ostracism, and friendship termination) they found that girls score higher on [[Cards/Indirect Aggression\|Indirect Aggression]] and no sex differences in verbal aggression.
 >
 { #CNEJYWKXa6UT23PF9p2}
 
