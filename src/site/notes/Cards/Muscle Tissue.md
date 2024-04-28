@@ -142,7 +142,6 @@ the  oxidative  cycle  increases  due  to  an  improvement  in  efficiency”
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]                                             |
 | [[Sources/Podcasts/Podcast Episodes/654 Dr. Matthew Walker, All Things Sleep Continued\|654 Dr. Matthew Walker, All Things Sleep Continued]] |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                                                   |
 
 { .block-language-dataview}
 
