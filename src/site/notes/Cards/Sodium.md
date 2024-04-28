@@ -36,7 +36,6 @@
 
 ## Mentions
 - [[Sources/Articles/AncestralHealthWhat-robbwolf\|AncestralHealthWhat-robbwolf]]
-- [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 - [[Sources/Podcasts/Podcast Episodes/Dirt Cheap Performance Enhancing Hacks You ve Never Heard Of  The Best Bottled Waters  Cold Thermogenesis Pre Post Exercise Tips  & Much More\|Dirt Cheap Performance Enhancing Hacks You ve Never Heard Of  The Best Bottled Waters  Cold Thermogenesis Pre Post Exercise Tips  & Much More]]
 
 { .block-language-dataview}
