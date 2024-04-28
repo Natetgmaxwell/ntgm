@@ -81,7 +81,6 @@
 
 | Sources                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                        |
 | [[Sources/Articles/Symptoms of Malnutrition with Cystic Fibrosis\|Symptoms of Malnutrition with Cystic Fibrosis]] |
 
 { .block-language-dataview}
