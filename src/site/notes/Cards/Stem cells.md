@@ -51,7 +51,6 @@
 | --------------------------------------------------------------------------------------------- |
 | [[Sources/Research Papers/@ayavoo2021RolesMechanismsStem\|@ayavoo2021RolesMechanismsStem]] |
 | [[Sources/Research Papers/@goodellStemCellsHealthy2015\|@goodellStemCellsHealthy2015]]     |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                 |
 
 { .block-language-dataview}
 
