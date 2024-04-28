@@ -7,7 +7,7 @@
 > [!Ontology]+
 > up:: [[Atlas/MOCs/Ecology\|Ecology]], [[Cards/Systematics\|Systematics]]
 > jump::
-> down:: [[Cards/Linnaeus Classification\|Linnaeus Classification]], [[Cards/Reproductive Strategies\|Reproductive Strategies]], [[Cards/Interspecific Interactions\|Interspecific Interactions]]
+> down:: [[Cards/Linnaeus Classification\|Linnaeus Classification]], [[Cards/Reproductive Strategies\|Reproductive Strategies]], [[Cards/Interspecific Interactions\|Interspecific Interactions]], [[Cards/Taxonomic Hierarchy\|Taxonomic Hierarchy]]
 
 - [[Cards/Linnaeus Classification\|Linnaeus Classification]] (Based on Rank)
 - [[Cards/Reproductive Strategies\|Reproductive Strategies]] ([[Cards/r-Strategy\|r-Strategy]], [[Cards/K-Strategy\|K-Strategy]])
