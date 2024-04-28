@@ -1,12 +1,12 @@
 ---
-{"aliases":null,"tags":["note/seed"],"dg-publish":true,"permalink":"/cards/hamilton-s-rule/","dgPassFrontmatter":true}
+{"aliases":["Hamilton’s rule"],"tags":["note/seed"],"dg-publish":true,"permalink":"/cards/hamilton-s-rule/","dgPassFrontmatter":true}
 ---
 
 # Hamilton’s rule
 
 > [!ontology]+
 > up:: [[Cards/Altruism\|Altruism]]
-> jump:: 
+> jump:: [[Cards/Kin Selection\|Kin Selection]]
 > down:: 
 
 > [!Definition] Definition
@@ -22,13 +22,13 @@
 | Incoming Links                                 |
 | ---------------------------------------------- |
 | [[Calendar/2023/Weekly/2023-W42\|2023-W42]] |
-| [[Cards/Kin Selection\|Kin Selection]]      |
 
 { .block-language-dataview}
 
-| Outgoing Links                  |
-| ------------------------------- |
-| [[Cards/Altruism\|Altruism]] |
+| Outgoing Links                            |
+| ----------------------------------------- |
+| [[Cards/Altruism\|Altruism]]           |
+| [[Cards/Kin Selection\|Kin Selection]] |
 
 { .block-language-dataview}
 
