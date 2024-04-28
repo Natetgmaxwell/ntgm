@@ -15,7 +15,7 @@
 ## Parts of the [[Cards/Mandible\|Mandible]]
 
 ![Extras/Images/4BMFK6ZT.png|400](/img/user/Extras/Images/4BMFK6ZT.png)
-[[Sources/Video/@LFS122M5T1Skull\|@LFS122M5T1Skull]]
+[[@LFS122M5T1Skull\|@LFS122M5T1Skull]]
 
 - [[Cards/Coronoid Process of the Mandible\|Coronoid Process of the Mandible]]	
 - [[Cards/Condylar Process\|Condylar Process]]
@@ -49,7 +49,6 @@
 
 | Sources                                                                  |
 | ------------------------------------------------------------------------ |
-| [[Sources/Video/@LFS122M5T1Skull\|@LFS122M5T1Skull]]                  |
 | [[Sources/Articles/2019LandmarksBody-admin\|2019LandmarksBody-admin]] |
 
 { .block-language-dataview}
