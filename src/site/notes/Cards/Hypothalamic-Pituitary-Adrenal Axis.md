@@ -63,6 +63,5 @@
 | Sources                                                                                 |
 | --------------------------------------------------------------------------------------- |
 | [[Sources/Video/@lindagallo2023LFS112M4T4Adrenal\|@lindagallo2023LFS112M4T4Adrenal]] |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]           |
 
 { .block-language-dataview}
