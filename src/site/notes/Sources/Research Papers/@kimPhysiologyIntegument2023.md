@@ -11,7 +11,7 @@
 >  
 
 > [!Abstract]+
-> The [[Cards/Integumentary System\|integumentary system]] is the largest organ of the body that forms a physical barrier between the external environment and the internal environment that it serves to protect and maintain. The [[Cards/Integumentary System\|integumentary system]] includes the epidermis, [[Cards/Dermis\|dermis]], hypodermis, associated glands, hair, and nails. In addition to its barrier function, this system performs many intricate functions such as body temperature regulation, cell fluid maintenance, synthesis of Vitamin D, and detection of stimuli. The various components of this system work in conjunction to carry out these functions—for example, body temperature regulation occurs through thermoreceptors that lead to the adjustment of peripheral blood flow, degree of perspiration, and body hair.
+> The [[Cards/Integumentary System\|integumentary system]] is the largest organ of the body that forms a physical barrier between the external environment and the internal environment that it serves to protect and maintain. The [[Cards/Integumentary System\|integumentary system]] includes the [[Cards/Epidermis\|epidermis]], [[Cards/Dermis\|dermis]], hypodermis, associated glands, hair, and nails. In addition to its barrier function, this system performs many intricate functions such as body temperature regulation, cell fluid maintenance, synthesis of Vitamin D, and detection of stimuli. The various components of this system work in conjunction to carry out these functions—for example, body temperature regulation occurs through thermoreceptors that lead to the adjustment of peripheral blood flow, degree of perspiration, and body hair.
 
 > [!Info]
 > date:: 2023
@@ -30,7 +30,7 @@
 
 > [!quote] (Page 1)
 > 
-> The [[Cards/Integumentary System\|integumentary system]] includes the epidermis, [[Cards/Dermis\|dermis]], hypodermis, associated glands, hair, and nails
+> The [[Cards/Integumentary System\|integumentary system]] includes the [[Cards/Epidermis\|epidermis]], [[Cards/Dermis\|dermis]], hypodermis, associated glands, hair, and nails
 > 
 > ---
 > Tissues of the [[Cards/Integumentary System\|integumentary system]]
