@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@DavidMcKay2024SCI105M03T01Interpreting\|@DavidMcKay2024SCI105M03T01Interpreting]]
+> [!quote] [[Sources/Video/@DavidMcKay2024SCI105M03T01Interpreting\|@DavidMcKay2024SCI105M03T01Interpreting]]
 > [[Cards/Balancing Equations\|Balancing Equations]]: only adjust coefficients, never subscripts.
 
 # Reference
@@ -30,9 +30,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                         |
-| ----------------------------------------------------------------------------------------------- |
-| [[Sources/@DavidMcKay2024SCI105M03T01Interpreting\|@DavidMcKay2024SCI105M03T01Interpreting]] |
+| Sources                                                                                               |
+| ----------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@DavidMcKay2024SCI105M03T01Interpreting\|@DavidMcKay2024SCI105M03T01Interpreting]] |
 
 { .block-language-dataview}
 
