@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@ipekkurtboke2024LFS261M01T01Introduction\|@ipekkurtboke2024LFS261M01T01Introduction]]
+> [!quote] [[Sources/Video/@ipekkurtboke2024LFS261M01T01Introduction\|@ipekkurtboke2024LFS261M01T01Introduction]]
 > {[[Cards/Paramecium\|Paramecium]] is} a single-celled animal-like [[Cards/Micro-organisms\|microorganism]]
 
 # Reference
@@ -30,9 +30,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                             |
-| --------------------------------------------------------------------------------------------------- |
-| [[Sources/@ipekkurtboke2024LFS261M01T01Introduction\|@ipekkurtboke2024LFS261M01T01Introduction]] |
+| Sources                                                                                                   |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@ipekkurtboke2024LFS261M01T01Introduction\|@ipekkurtboke2024LFS261M01T01Introduction]] |
 
 { .block-language-dataview}
 
