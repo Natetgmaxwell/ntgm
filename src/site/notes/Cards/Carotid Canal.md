@@ -28,9 +28,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                 |
-| ------------------------------------------------------- |
-| [[Sources/Video/@LFS122M5T1Skull\|@LFS122M5T1Skull]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
