@@ -66,7 +66,6 @@
 | Sources                                                                         |
 | ------------------------------------------------------------------------------- |
 | [[Sources/Research Papers/@kimStressHeartRate2018\|@kimStressHeartRate2018]] |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]   |
 | [[Sources/Articles/PeopleNeedTrackHRV\|PeopleNeedTrackHRV]]                  |
 
 { .block-language-dataview}
