@@ -12,10 +12,10 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@DavidMcKay2024SCI105M03T02Reaction\|@DavidMcKay2024SCI105M03T02Reaction]]
+> [!quote] [[Sources/Video/@DavidMcKay2024SCI105M03T02Reaction\|@DavidMcKay2024SCI105M03T02Reaction]]
 > A rate is a change in something per unit time. Rates in chemistry refer to a change in the amount of matter per unit time.
 
-- Reaction Rates are measured in moles per hour [[Sources/@DavidMcKay2024SCI105M03T02Reaction\|@DavidMcKay2024SCI105M03T02Reaction]].
+- Reaction Rates are measured in moles per hour [[Sources/Video/@DavidMcKay2024SCI105M03T02Reaction\|@DavidMcKay2024SCI105M03T02Reaction]].
 
 # Reference
 - 
@@ -31,9 +31,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                 |
-| --------------------------------------------------------------------------------------- |
-| [[Sources/@DavidMcKay2024SCI105M03T02Reaction\|@DavidMcKay2024SCI105M03T02Reaction]] |
+| Sources                                                                                       |
+| --------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@DavidMcKay2024SCI105M03T02Reaction\|@DavidMcKay2024SCI105M03T02Reaction]] |
 
 { .block-language-dataview}
 
