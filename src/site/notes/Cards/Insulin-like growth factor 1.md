@@ -51,7 +51,6 @@
 - 
 
 ## Mentions
-- [[Sources/Research Papers/@bentek.pedersenMusclesExerciseObesity2012\|@bentek.pedersenMusclesExerciseObesity2012]]
 - [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]]
 
 { .block-language-dataview}
