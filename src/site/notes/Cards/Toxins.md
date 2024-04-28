@@ -16,11 +16,9 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Articles/What Chemical Elements Make up the Human Body?\|What Chemical Elements Make up the Human Body?]] |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                          |
-| [[Sources/Video/@2023-LFS112M6T6Adaptive\|@2023-LFS112M6T6Adaptive]]                                                |
+| Incoming Links                                                          |
+| ----------------------------------------------------------------------- |
+| [[Sources/Video/@2023-LFS112M6T6Adaptive\|@2023-LFS112M6T6Adaptive]] |
 
 { .block-language-dataview}
 
