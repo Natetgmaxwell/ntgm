@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/aldosterone-s-effect-on-sodium/","dgPassFrontmatter":true}
 ---
 
-# Aldosterone's Effect on Sodium
+# Aldosterone's effect on Sodium
 
 > [!ontology]+
 > up:: [[Cards/Sodium Regulation\|Sodium Regulation]], [[Cards/Sodium\|Sodium]], [[Cards/Aldosterone\|Aldosterone]]
