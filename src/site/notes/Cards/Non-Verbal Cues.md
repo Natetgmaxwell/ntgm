@@ -82,17 +82,17 @@
 - 
 
 ## Mentions
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-01-25 Wed\|2023-01-25 Wed]] |
-| [[Cards/Bill Clinton\|Bill Clinton]]                   |
-| [[Cards/Facial Expressions\|Facial Expressions]]       |
-| [[Cards/Nicolas Sarkozy\|Nicolas Sarkozy]]             |
-| [[Cards/Observing People\|Observing People]]           |
-| [[Cards/Paul Ekman\|Paul Ekman]]                       |
-| [[Cards/Social Interaction\|Social Interaction]]       |
-| [[Cards/The Smolder\|The Smolder]]                     |
-| [[Cards/The Steeple\|The Steeple]]                     |
+| Incoming Links                                                      |
+| ------------------------------------------------------------------- |
+| [[Calendar/2023/Daily/2023-01-25 Wed\|2023-01-25 Wed]]           |
+| [[Cards/Bill Clinton\|Bill Clinton]]                             |
+| [[Cards/Facial Expressions\|Facial Expressions]]                 |
+| [[Cards/Intraspecific interactions\|Intraspecific interactions]] |
+| [[Cards/Nicolas Sarkozy\|Nicolas Sarkozy]]                       |
+| [[Cards/Observing People\|Observing People]]                     |
+| [[Cards/Paul Ekman\|Paul Ekman]]                                 |
+| [[Cards/The Smolder\|The Smolder]]                               |
+| [[Cards/The Steeple\|The Steeple]]                               |
 
 { .block-language-dataview}
 
