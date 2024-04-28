@@ -35,5 +35,7 @@
 ## Flashcards 
 
 What is [[Cards/Bacteriostasis\|Bacteriostasis]]?;;Inhibition of growth and reproduction of bacteria by a chemical agent without destruction.
+<!--SR:!2024-04-19,3,250-->
 
 Bacteriostatic agent temporarily stops?;;growth of an organism, without destruction
+<!--SR:!2024-04-19,3,250-->
