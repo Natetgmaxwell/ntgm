@@ -27,9 +27,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                 |
-| --------------------------------------------------------------------------------------- |
-| [[Sources/@ganSkeletalMuscleMitochondrial2018\|@ganSkeletalMuscleMitochondrial2018]] |
+| Sources                                                                                                 |
+| ------------------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@ganSkeletalMuscleMitochondrial2018\|@ganSkeletalMuscleMitochondrial2018]] |
 
 { .block-language-dataview}
 
