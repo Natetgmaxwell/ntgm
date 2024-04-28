@@ -12,8 +12,14 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
+> [!quote] [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]
 > According to [[Cards/Milton Friedman\|Friedman]], the typical business acts as if it’s trying to maximize its profits, not only because that’s what its directors are aiming at, but also because businesses that don’t make a good profit are ruthlessly culled from the business population.
+
+> [!quote] [[Cards/Edward Burnett Tylor\|Edward Burnett Tylor]]
+> “The institutions which can best hold their own in the world gradually supersede the less fit ones, and … this incessant conflict determines the general resultant course of culture.”
+
+> [!quote] [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]
+> Any time you or anyone else buys anything, you’re helping to guide the evolution of culture.
 
 # Reference
 - 
@@ -27,6 +33,7 @@
 | Outgoing Links                                                                                          |
 | ------------------------------------------------------------------------------------------------------- |
 | [[Atlas/MOCs/Business\|Business]]                                                                    |
+| [[Cards/Edward Burnett Tylor\|Edward Burnett Tylor]]                                                 |
 | [[Cards/Milton Friedman\|Milton Friedman]]                                                           |
 | [[Cards/The Theory of Evolution by Natural Selection\|The Theory of Evolution by Natural Selection]] |
 
@@ -34,7 +41,7 @@
 
 | Sources                                                                                             |
 | --------------------------------------------------------------------------------------------------- |
-| [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]] |
+| [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]] |
 
 { .block-language-dataview}
 
