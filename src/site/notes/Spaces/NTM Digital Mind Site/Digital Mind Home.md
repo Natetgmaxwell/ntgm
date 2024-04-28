@@ -17,34 +17,34 @@
 > - Flashcard format is `{question};;{answer}`
 
 ## Recently Created Cards
-| File Name                                                       | Date Modified  |
-| --------------------------------------------------------------- | -------------- |
-| [[Cards/Myokines\|Myokines]]                                 | April 21, 2024 |
-| [[Cards/Pre-Sleep Protein\|Pre-Sleep Protein]]               | April 21, 2024 |
-| [[Cards/Anton Chekhov\|Anton Chekhov]]                       | April 20, 2024 |
-| [[Cards/Meninges\|Meninges]]                                 | April 20, 2024 |
-| [[Cards/Antimicrobial Treatments\|Antimicrobial Treatments]] | April 16, 2024 |
-| [[Cards/Antiseptic\|Antiseptic]]                             | April 16, 2024 |
-| [[Cards/Atoms\|Atoms]]                                       | April 16, 2024 |
-| [[Cards/Bactericide\|Bactericide]]                           | April 16, 2024 |
-| [[Cards/Bacteriostasis\|Bacteriostasis]]                     | April 16, 2024 |
-| [[Cards/Binary Fission\|Binary Fission]]                     | April 16, 2024 |
+| File Name                                                                                                                       | Date Modified  |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [[Cards/Acids\|Acids]]                                                                                                       | April 28, 2024 |
+| [[Cards/Aldosterone's effect on Sodium\|Aldosterone's effect on Sodium]]                                                     | April 28, 2024 |
+| [[Cards/Antisemitism\|Antisemitism]]                                                                                         | April 28, 2024 |
+| [[Cards/Bicarbonate\|Bicarbonate]]                                                                                           | April 28, 2024 |
+| [[Cards/Condyloid Joint\|Condyloid Joint]]                                                                                   | April 28, 2024 |
+| [[Cards/Conjugate acid\|Conjugate acid]]                                                                                     | April 28, 2024 |
+| [[Cards/Conjugate base\|Conjugate base]]                                                                                     | April 28, 2024 |
+| [[Cards/Contractions of Smooth Muscle within the Digestive Tract\|Contractions of Smooth Muscle within the Digestive Tract]] | April 28, 2024 |
+| [[Cards/Dependence\|Dependence]]                                                                                             | April 28, 2024 |
+| [[Cards/Digestion\|Digestion]]                                                                                               | April 28, 2024 |
 
 { .block-language-dataview}
 
 ## Recent Sources
-| File Name                                                                                         | Date Modified  | Type           |
-| ------------------------------------------------------------------------------------------------- | -------------- | -------------- |
-| [[Sources/Books/@stevenbartlett2023DiaryCEO33\|@stevenbartlett2023DiaryCEO33]]                 | April 21, 2024 | Book           |
-| [[Sources/@trommelen2023PresleepProteinIngestion\|@trommelen2023PresleepProteinIngestion]]     | April 21, 2024 | Research Paper |
-| [[Sources/@bentepedersen2012MusclesExerciseObesity\|@bentepedersen2012MusclesExerciseObesity]] | April 21, 2024 | Research Paper |
-| [[Sources/@ipekkurtboke2024LFS261M01T02Evolution\|@ipekkurtboke2024LFS261M01T02Evolution]]     | April 16, 2024 | Video          |
-| [[Sources/@ipekkurtboke2024LFS261M02T01Cultural\|@ipekkurtboke2024LFS261M02T01Cultural]]       | April 16, 2024 | Video          |
-| [[Sources/@davidmckay2024SCI105M06T01Chemical\|@davidmckay2024SCI105M06T01Chemical]]           | April 15, 2024 | Video          |
-| [[Sources/Video/@davidmckay2024SCI105M01T02Chemical\|@davidmckay2024SCI105M01T02Chemical]]     | April 14, 2024 | Video          |
-| [[Sources/Books/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]           | April 14, 2024 | Book           |
-| [[Sources/@davidmckay2024SCI105M05T01Atomic\|@davidmckay2024SCI105M05T01Atomic]]               | April 14, 2024 | Video          |
-| [[Sources/@basta2024BacterialSpores\|@basta2024BacterialSpores]]                               | April 14, 2024 | \-             |
+| File Name                                                                                        | Date Modified  | Type    |
+| ------------------------------------------------------------------------------------------------ | -------------- | ------- |
+| [[Sources/Video/@DavidMcKay2024SCI105M03T04Acids\|@DavidMcKay2024SCI105M03T04Acids]]          | April 28, 2024 | Video   |
+| [[Sources/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]              | April 28, 2024 | Video   |
+| [[Sources/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]                      | April 28, 2024 | Video   |
+| [[Sources/@LeeDaffin2023LFS122M4T3General\|@LeeDaffin2023LFS122M4T3General]]                  | April 28, 2024 | Video   |
+| [[Sources/@DavidMcKay2024SCI105M06T04Water\|@DavidMcKay2024SCI105M06T04Water]]                | April 28, 2024 | Video   |
+| [[Sources/@DavidMcKay2024SCI105M06T03Acids\|@DavidMcKay2024SCI105M06T03Acids]]                | April 28, 2024 | Video   |
+| [[Sources/@DavidMcKay2024SCI105M06T02Shifting\|@DavidMcKay2024SCI105M06T02Shifting]]          | April 28, 2024 | Video   |
+| [[Sources/@DavidMcKay2024SCI105M06T05PH\|@DavidMcKay2024SCI105M06T05PH]]                      | April 28, 2024 | Video   |
+| [[Sources/Articles/@henderson2022MaleWarriorHypothesis\|@henderson2022MaleWarriorHypothesis]] | April 28, 2024 | \-      |
+| [[Sources/Podcasts/@williamson202316Lessons700\|@williamson202316Lessons700]]                 | April 28, 2024 | Podcast |
 
 { .block-language-dataview}
 
