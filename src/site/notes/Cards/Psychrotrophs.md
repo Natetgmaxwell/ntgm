@@ -43,3 +43,4 @@
 ## Flashcards 
 
 What is the growth temperature range for psychrotrophs?;;0ºC to 20ºC
+<!--SR:!2024-04-17,1,230-->
