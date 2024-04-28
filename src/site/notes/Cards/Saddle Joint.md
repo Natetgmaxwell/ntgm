@@ -35,4 +35,4 @@
 { .block-language-dataview}
 
 ## Flashcards 
-Identify an example of a true saddle-shaped synovial joint.;;carpometacarpal joint of the pollex
+Identify an example of a true saddle-shaped [[Cards/Synovial joints\|synovial joint]].;;carpometacarpal joint of the pollex
