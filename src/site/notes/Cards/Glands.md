@@ -20,7 +20,6 @@
 - 
 
 ## Mentions
-- [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 
 { .block-language-dataview}
 
