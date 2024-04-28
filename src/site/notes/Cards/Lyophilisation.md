@@ -16,9 +16,8 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                              |
-| ------------------------------------------------------------------------------------------- |
-| [[Sources/@ipekkurtboke2024LFS261TutorialManual\|@ipekkurtboke2024LFS261TutorialManual]] |
+| Incoming Links |
+| -------------- |
 
 { .block-language-dataview}
 
