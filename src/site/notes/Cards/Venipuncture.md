@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-## Methods of [[Cards/Venipuncture\|Venipuncture]] [[Sources/@MelindaDean2024MLS101M05T03Introduction\|@MelindaDean2024MLS101M05T03Introduction]]
+## Methods of [[Cards/Venipuncture\|Venipuncture]] [[Sources/Video/@MelindaDean2024MLS101M05T03Introduction\|@MelindaDean2024MLS101M05T03Introduction]]
 
 - [[Evacuated Tube System\|Evacuated Tube System]]
 	- Minimises contamination
@@ -23,7 +23,7 @@
 	- Can be used with ETS and Syringe
 	- Used to draw blood from infants and children
 
-## Common [[Cards/Veins\|Veins]] for [[Cards/Venipuncture\|Venipuncture]] [[Sources/@MelindaDean2024MLS101M05T03Introduction\|@MelindaDean2024MLS101M05T03Introduction]]
+## Common [[Cards/Veins\|Veins]] for [[Cards/Venipuncture\|Venipuncture]] [[Sources/Video/@MelindaDean2024MLS101M05T03Introduction\|@MelindaDean2024MLS101M05T03Introduction]]
 
 - [[Cards/Median Cubital Vein\|Median Cubital Vein]]
 - [[Cards/Basilic Vein\|Basilic Vein]]
@@ -48,9 +48,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                           |
-| ------------------------------------------------------------------------------------------------- |
-| [[Sources/@MelindaDean2024MLS101M05T03Introduction\|@MelindaDean2024MLS101M05T03Introduction]] |
+| Sources                                                                                                 |
+| ------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@MelindaDean2024MLS101M05T03Introduction\|@MelindaDean2024MLS101M05T03Introduction]] |
 
 { .block-language-dataview}
 
