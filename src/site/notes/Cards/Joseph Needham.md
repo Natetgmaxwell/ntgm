@@ -19,7 +19,19 @@
 - 
 
 ## Mentions
-- [[Cards/Joseph Needham\|Joseph Needham]]
+| Incoming Links                                                        |
+| --------------------------------------------------------------------- |
+| [[Cards/Myth of the Heroic Inventor\|Myth of the Heroic Inventor]] |
+
+{ .block-language-dataview}
+
+| Outgoing Links |
+| -------------- |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
