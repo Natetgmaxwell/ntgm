@@ -16,7 +16,6 @@
 - 
 
 ## Mentions
-- [[Sources/Articles/cdnBestSupplementsSlow2022\|cdnBestSupplementsSlow2022]]
 - [[Sources/Books/Anatomy Skeletal Muscle\|Anatomy Skeletal Muscle]]
 
 { .block-language-dataview}
