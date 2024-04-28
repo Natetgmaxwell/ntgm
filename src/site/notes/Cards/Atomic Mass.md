@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@davidmckay2024SCI105M05T01Atomic\|@davidmckay2024SCI105M05T01Atomic]]
+> [!quote] [[Sources/Video/@davidmckay2024SCI105M05T01Atomic\|@davidmckay2024SCI105M05T01Atomic]]
 > The atomic mass is the mass of an atom relative to an atom of hydrogen (amu).
 
 # Reference
@@ -32,7 +32,7 @@
 | Sources                                                                                       |
 | --------------------------------------------------------------------------------------------- |
 | [[Sources/Video/@davidmckay2024SCI105M01T02Chemical\|@davidmckay2024SCI105M01T02Chemical]] |
-| [[Sources/@davidmckay2024SCI105M05T01Atomic\|@davidmckay2024SCI105M05T01Atomic]]           |
+| [[Sources/Video/@davidmckay2024SCI105M05T01Atomic\|@davidmckay2024SCI105M05T01Atomic]]     |
 
 { .block-language-dataview}
 
