@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-## List of [[Cards/Facial Bones\|Facial Bones]] [[Sources/Video/@LFS122M5T1Skull\|@LFS122M5T1Skull]]
+## List of [[Cards/Facial Bones\|Facial Bones]] [[@LFS122M5T1Skull\|@LFS122M5T1Skull]]
 - [[Cards/Lacrimal\|Lacrimal]]
 - [[Cards/Zygomatic bone\|Zygomatic bone]]
 - [[Cards/Maxilla\|Maxilla]]
@@ -43,9 +43,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                 |
-| ------------------------------------------------------- |
-| [[Sources/Video/@LFS122M5T1Skull\|@LFS122M5T1Skull]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
