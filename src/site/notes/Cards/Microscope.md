@@ -29,10 +29,10 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                 |
-| --------------------------------------------------------------------------------------- |
-| [[Sources/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]] |
-| [[Sources/Other/HBIO1010 M1T1 Blackboard Site\|HBIO1010 M1T1 Blackboard Site]]       |
+| Sources                                                                                       |
+| --------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]] |
+| [[Sources/Other/HBIO1010 M1T1 Blackboard Site\|HBIO1010 M1T1 Blackboard Site]]             |
 
 { .block-language-dataview}
 
