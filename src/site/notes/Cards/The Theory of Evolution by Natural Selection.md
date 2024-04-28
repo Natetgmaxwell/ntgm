@@ -49,7 +49,6 @@
 - [[Cards/Alfred Russel Wallace\|Alfred Russel Wallace]]
 - [[Cards/Charles Darwin\|Charles Darwin]]
 - [[Sources/Articles/Humans may have inherited nose shape gene from Neanderthals, study suggests - Evening Standard\|Humans may have inherited nose shape gene from Neanderthals, study suggests - Evening Standard]]
-- [[Sources/Podcasts/Podcast Episodes/ 542   Dr Randy Nesse   Evolutionary Psychiatry Can Explain Human Emotions\| 542   Dr Randy Nesse   Evolutionary Psychiatry Can Explain Human Emotions]]
 
 { .block-language-dataview}
 
