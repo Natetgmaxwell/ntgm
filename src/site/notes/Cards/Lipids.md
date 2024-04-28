@@ -23,7 +23,6 @@ The structure of a lipid consists of three parts: a glycerol backbone, two fatty
 - 
 
 ## Mentions
-- [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 - [[Sources/Research Papers/@leal2018-PhysicalExerciseInducedMyokines\|@leal2018-PhysicalExerciseInducedMyokines]]
 - [[Sources/Research Papers/@liu2022-Omega3HydroxyFatty\|@liu2022-Omega3HydroxyFatty]]
 
