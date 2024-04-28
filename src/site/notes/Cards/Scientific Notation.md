@@ -26,9 +26,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                           |
-| --------------------------------------------------------------------------------- |
-| [[Sources/@davidmckay2024SCI105M04T01Units\|@davidmckay2024SCI105M04T01Units]] |
+| Sources                                                                                 |
+| --------------------------------------------------------------------------------------- |
+| [[Sources/Video/@davidmckay2024SCI105M04T01Units\|@davidmckay2024SCI105M04T01Units]] |
 
 { .block-language-dataview}
 
