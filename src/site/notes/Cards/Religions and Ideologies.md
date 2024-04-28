@@ -5,7 +5,7 @@
 # Religions and Ideologies
 
 > [!Ontology]-
-> up:: [[Cards/Belief\|Belief]]
+> up:: [[Cards/Belief\|Belief]], [[Cards/Culture\|Culture]]
 > jump:: [[Cards/The Tree of Knowledge Mutation\|The Tree of Knowledge Mutation]]
 > down:: [[Cards/Monotheism\|Monotheism]], [[Cards/Polytheism\|Polytheism]], [[Cards/Capitalism\|Capitalism]], [[Cards/Communism\|Communism]], [[Cards/Duotheism\|Duotheism]], [[Cards/Cognitive Revolution\|Cognitive Revolution]], [[Cards/Judaism\|Judaism]], [[Cards/Christianity\|Christianity]], [[Cards/Egalitarianism\|Egalitarianism]]
 
@@ -13,6 +13,9 @@ A group of people with a video particular faith.
 
 - A form of [[Cards/Subjective Truth\|Subjective Truth]]
 - Came to being during the [[Cards/Cognitive Revolution\|Cognitive Revolution]]
+
+> [!quote] [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]
+> So, one way a meme can spread itself in the culture is by boosting its owners’ longevity. Another is by boosting its owners’ reproductive success.  Any meme that encourages its bearers to have lots of children inevitably upgrades its chances of spreading.78 This is because children tend to inherit the belief systems of their parents and the parents’ community, and therefore fertility-promoting memes automatically build lots of new homes for themselves.
 
 ## Fields of Belief
 
@@ -56,6 +59,7 @@ A group of people with a video particular faith.
 | [[Cards/Christianity\|Christianity]]                                     |
 | [[Cards/Cognitive Revolution\|Cognitive Revolution]]                     |
 | [[Cards/Communism\|Communism]]                                           |
+| [[Cards/Culture\|Culture]]                                               |
 | [[Cards/Duotheism\|Duotheism]]                                           |
 | [[Cards/Egalitarianism\|Egalitarianism]]                                 |
 | [[Cards/Humanism\|Humanism]]                                             |
@@ -68,11 +72,11 @@ A group of people with a video particular faith.
 
 { .block-language-dataview}
 
-| Sources                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Sources/Articles/2022HistoryMedicineHistoryFactsBritannica-philiprhodes\|2022HistoryMedicineHistoryFactsBritannica-philiprhodes]]           |
-| [[Sources/Articles/Paul McCartney and his strange age-defying exercise routine\|Paul McCartney and his strange age-defying exercise routine]] |
-| [[Sources/Articles/The Mysterious Origins of Human Sacrifice\|The Mysterious Origins of Human Sacrifice]]                                     |
+| Sources                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]                                    |
+| [[Sources/Articles/2022HistoryMedicineHistoryFactsBritannica-philiprhodes\|2022HistoryMedicineHistoryFactsBritannica-philiprhodes]] |
+| [[Sources/Articles/The Mysterious Origins of Human Sacrifice\|The Mysterious Origins of Human Sacrifice]]                           |
 
 { .block-language-dataview}
 
