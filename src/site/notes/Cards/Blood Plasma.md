@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@MelindaDean2024MLS101M05T01Introduction\|@MelindaDean2024MLS101M05T01Introduction]]
+> [!quote] [[Sources/Video/@MelindaDean2024MLS101M05T01Introduction\|@MelindaDean2024MLS101M05T01Introduction]]
 > Plasma (a yellow liquid) makes up 55-60% of the blood and the blood cells make up the remaining 40-45%.
 
 ## Components of [[Cards/Blood Plasma\|Blood Plasma]]
