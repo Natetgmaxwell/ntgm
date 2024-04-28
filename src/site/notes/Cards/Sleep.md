@@ -9,16 +9,7 @@
 > jump:: [[Cards/Endocrine System\|Endocrine System]], [[Cards/Circadian rhythm\|Circadian rhythm]], [[Cards/Fatigue\|Fatigue]], [[Cards/Magnesium\|Magnesium]], [[Cards/Theanine\|Theanine]], [[Cards/Coffee\|Coffee]], [[Cards/Pre-Sleep Protein\|Pre-Sleep Protein]]
 > down:: [[Cards/Insomnia\|Insomnia]], [[Cards/Slow-wave Sleep\|Slow-wave Sleep]], [[Cards/Rapid Eye Movement Sleep\|Rapid Eye Movement Sleep]]
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!quote] [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
-> ”Sleep loss also increases [[Cards/Sympathetic Nervous System\|Sympathetic]], “fight-or-flight” nervous system activity”
-
-</div></div>
-
+![[Boundless by Ben Greenfield#^348c76\|Boundless by Ben Greenfield#^348c76]]
 
 ## The Influence of Sleep
 - Regulates the [[Cards/Endocrine System\|Endocrine System]]
@@ -86,15 +77,12 @@
 | Sources                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Articles/2023WhatBrainFog-jackielam\|2023WhatBrainFog-jackielam]]                                                                                                                                                                |
-| [[Sources/Articles/3MM_ Regrets, Hookers & Fat Americans\|3MM_ Regrets, Hookers & Fat Americans]]                                                                                                                                          |
 | [[Sources/Podcasts/Podcast Episodes/654 Dr. Matthew Walker, All Things Sleep Continued\|654 Dr. Matthew Walker, All Things Sleep Continued]]                                                                                               |
 | [[Sources/Books/A Hunter Gatherer's Guide to the 21st Century - Bret Weinstein and Heather Heying\|A Hunter Gatherer's Guide to the 21st Century - Bret Weinstein and Heather Heying]]                                                     |
 | [[Sources/Podcasts/Podcast Episodes/AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More\|AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More]] |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                                                                                                                                                 |
 | [[Sources/Video/Caffeine and Adenosine Receptors\|Caffeine and Adenosine Receptors]]                                                                                                                                                       |
 | [[Sources/Podcasts/Podcast Episodes/Find Your “Temperature Minimum” to Defeat Jetlag, Shift Work & Sleeplessness\|Find Your “Temperature Minimum” to Defeat Jetlag, Shift Work & Sleeplessness]]                                           |
 | [[Sources/Books/Limitless by Jim Kwik\|Limitless by Jim Kwik]]                                                                                                                                                                             |
 | [[Sources/Articles/PeopleNeedTrackHRV\|PeopleNeedTrackHRV]]                                                                                                                                                                                |
-| [[Sources/Podcasts/Podcast Episodes/The Power of Sleep\|The Power of Sleep]]                                                                                                                                                               |
 
 { .block-language-dataview}
