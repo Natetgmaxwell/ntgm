@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@MelindaDean2024MLS101M05T01Introduction\|@MelindaDean2024MLS101M05T01Introduction]]
+> [!quote] [[Sources/Video/@MelindaDean2024MLS101M05T01Introduction\|@MelindaDean2024MLS101M05T01Introduction]]
 > Red blood cells (also called erythrocytes) are ovoid cells which contain haemoglobin, a complex protein that carries oxygen to the tissues and waste carbon dioxide to the lungs.
 
 - [[Cards/Red Blood Cells\|Red Blood Cells]] live for about 120 days
