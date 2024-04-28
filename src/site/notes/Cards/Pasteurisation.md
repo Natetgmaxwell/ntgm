@@ -37,5 +37,7 @@
 ## Flashcards 
 
 What is Pasteurization?;;A heat treatment at a controlled temperature for a fixed amount of time to kill bacteria.
+<!--SR:!2024-04-19,3,250-->
 
 Mild heating, which was sufficient to kill the organisms that caused the particular spoilage problem, was used in the last century to prevent the spoilage in beer and wine. The same principle was later applied to milk. The name of this technique is called?;;[[Cards/Pasteurisation\|Pasteurisation]]
+<!--SR:!2024-04-19,3,250-->
