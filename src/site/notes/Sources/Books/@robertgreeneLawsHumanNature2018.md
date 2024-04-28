@@ -30,6 +30,7 @@
 > | [[Calendar/2022/Daily/2022-09-20 Tue\|2022-09-20 Tue]]                                                                                                                                                                              |
 > | [[Calendar/2022/Weekly/2022-W32\|2022-W32]]                                                                                                                                                                                         |
 > | [[Calendar/2023/Daily/2023-04-03 Mon\|2023-04-03 Mon]]                                                                                                                                                                              |
+> | [[Cards/Anton Chekhov\|Anton Chekhov]]                                                                                                                                                                                              |
 > | [[Cards/Athena\|Athena]]                                                                                                                                                                                                            |
 > | [[Cards/Belief\|Belief]]                                                                                                                                                                                                            |
 > | [[Cards/Character\|Character]]                                                                                                                                                                                                      |
@@ -149,7 +150,7 @@
 > [!quote-yellow] (Page 157) yellow
 > 
 > At last I have what I wanted. Am I happy? Not really. But what’s missing? My soul no longer has that piquant activity conferred by desire. . . . Oh, we shouldn’t delude ourselves—pleasure isn’t in the fulfillment, but in the pursuit. 
-> —Pierre-Augustin Caron de Beaumarchais
+> —[[Cards/Pierre-Augustin Caron de Beaumarchais\|Pierre-Augustin Caron de Beaumarchais]]
 > 
 > ---
 > [[Cards/Grass is Always Greener Syndrome\|Grass is always greener syndrome]]
@@ -624,7 +625,7 @@
 
 > [!quote-green] (Page 215) green
 > 
-> Pierre-Augustin Caron de Beaumarchais
+> [[Cards/Pierre-Augustin Caron de Beaumarchais\|Pierre-Augustin Caron de Beaumarchais]]
 >
 { #KZJ3HPKRaMTKQ4SA3p215}
 
