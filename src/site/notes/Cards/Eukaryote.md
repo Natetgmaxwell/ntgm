@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/eukaryote/","dgPassFrontmatter":true}
+{"aliases":["Eukarya","Eukaryota"],"tags":null,"dg-publish":true,"permalink":"/cards/eukaryote/","dgPassFrontmatter":true}
 ---
 
 # Eukaryote
@@ -18,9 +18,10 @@ The first [[Cards/Eukaryote\|Eukaryote]] organism was created by one [[Cards/Pro
 - 
 
 ## Mentions
-| Incoming Links                                                                   |
-| -------------------------------------------------------------------------------- |
-| [[Spaces/University/Projects/LFS261A2 Mid-term Exam\|LFS261A2 Mid-term Exam]] |
+| Incoming Links                                                                                      |
+| --------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@ipekkurtboke2024LFS261M01T02Evolution\|@ipekkurtboke2024LFS261M01T02Evolution]] |
+| [[Spaces/University/Projects/LFS261A2 Mid-term Exam\|LFS261A2 Mid-term Exam]]                    |
 
 { .block-language-dataview}
 
