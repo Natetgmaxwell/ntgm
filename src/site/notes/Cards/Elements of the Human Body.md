@@ -33,7 +33,6 @@
 - 
 
 ## Mentions
-- [[Sources/Articles/What Chemical Elements Make up the Human Body?\|What Chemical Elements Make up the Human Body?]]
 
 { .block-language-dataview}
 
