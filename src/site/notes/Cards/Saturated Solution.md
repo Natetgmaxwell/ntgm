@@ -28,9 +28,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                 |
-| ------------------------------------------------------------------------------------------------------- |
-| [[Sources/@melindadean2024MLS101M04T01Characteristics\|@melindadean2024MLS101M04T01Characteristics]] |
+| Sources                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@melindadean2024MLS101M04T01Characteristics\|@melindadean2024MLS101M04T01Characteristics]] |
 
 { .block-language-dataview}
 
