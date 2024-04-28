@@ -24,4 +24,4 @@
 ## Flashcards
 
 Which types of elements form covalent bonds when they have similar electronegativities?;;Two Non-metal elements
-<!--SR:!2024-03-25,2,170-->
+<!--SR:!2024-04-22,6,190-->
