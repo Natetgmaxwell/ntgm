@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > **Emotions** are [mental states](https://en.wikipedia.org/wiki/Mental_state "Mental state") brought on by [neurophysiological](https://en.wikipedia.org/wiki/Neurophysiology "Neurophysiology") changes, variously associated with thoughts, feelings, behavioural responses, and a degree of [pleasure](https://en.wikipedia.org/wiki/Pleasure "Pleasure") or [displeasure](https://en.wikipedia.org/wiki/Suffering "Suffering").
 
-> [!quote] [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
+> [!quote] [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]
 > "The function of any emotion is to motivate behaviour"
 
 > [!quote] [[Cards/Robert Greene\|Robert Greene]] on the purpose of [[Cards/Emotion\|Emotions]] [[Sources/Books/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]
@@ -27,7 +27,6 @@
 ## Mentions
 - [[Sources/Articles/2023WhatBrainFog-jackielam\|2023WhatBrainFog-jackielam]]
 - [[Sources/Articles/Real-World Study Shows The Risk of Getting 'Hangry' Is Very Real, David Nield\|Real-World Study Shows The Risk of Getting 'Hangry' Is Very Real, David Nield]]
-- [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 - [[Sources/Podcasts/Podcast Episodes/366 Shannon Curry  Johnny Depp & Amber Heard Trial  Marriage  Dating & Love\|366 Shannon Curry  Johnny Depp & Amber Heard Trial  Marriage  Dating & Love]]
 - [[Sources/Podcasts/Podcast Episodes/Decoding Emotions\|Decoding Emotions]]
 - [[Sources/Podcasts/Podcast Episodes/You 2.0  Befriending Your Inner Voice\|You 2.0  Befriending Your Inner Voice]]
