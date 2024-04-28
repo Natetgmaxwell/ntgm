@@ -4,7 +4,7 @@
 
 # Digestive System
 
-> [!ontology]
+> [!ontology]-
 > up:: [[Cards/Organ Systems\|Organ Systems]]
 > jump:: 
 > down:: [[Cards/Buccal cavity\|Buccal cavity]], [[Cards/Esophagus\|Esophagus]], [[Cards/Stomach\|Stomach]], [[Cards/Small Intestine\|Small Intestine]], [[Cards/Gallbladder\|Gallbladder]], [[Cards/Large Intestine\|Large Intestine]], [[Cards/Digestion\|Digestion]]
@@ -68,6 +68,10 @@ Takes food ≈6hrs to pass through the Digestive System.
 
 
 ## Structures
+
+![Extras/Images/TGDX5NDN.png](/img/user/Extras/Images/TGDX5NDN.png)
+> [!cite]-
+> [[Sources/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]
 
 ### Food Channel
 - [[Buccal cavity]]
