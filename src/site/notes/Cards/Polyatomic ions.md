@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@davidmckay2024SCI105M02T02Ionic\|@davidmckay2024SCI105M02T02Ionic]]
+> [!quote] [[Sources/Video/@davidmckay2024SCI105M02T02Ionic\|@davidmckay2024SCI105M02T02Ionic]]
 > Polyatomic ions— “charged molecules”
 
 # Reference
@@ -29,9 +29,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                           |
-| --------------------------------------------------------------------------------- |
-| [[Sources/@davidmckay2024SCI105M02T02Ionic\|@davidmckay2024SCI105M02T02Ionic]] |
+| Sources                                                                                 |
+| --------------------------------------------------------------------------------------- |
+| [[Sources/Video/@davidmckay2024SCI105M02T02Ionic\|@davidmckay2024SCI105M02T02Ionic]] |
 
 { .block-language-dataview}
 
