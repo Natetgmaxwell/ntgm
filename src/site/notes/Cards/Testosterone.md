@@ -16,10 +16,10 @@
 > "Testosterone has an anabolic effect on muscle tissue by increasing protein synthesis and [[Cards/Insulin-like growth factor 1\|IGF-1]] levels, while reducing [[Cards/Protein Breakdown\|Protein Breakdown]]"
 
 ![Extras/Images/JNV9JVI8.png|500](/img/user/Extras/Images/JNV9JVI8.png)
-[@jamesdinicolantonio2021-WinAchievePeak]
+[[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
 
 ![Extras/Images/E4A7PK44.png|400](/img/user/Extras/Images/E4A7PK44.png)
-[@jamesdinicolantonio2021-WinAchievePeak]
+[[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 # Reference
 - 
 
