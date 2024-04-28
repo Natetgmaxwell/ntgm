@@ -51,7 +51,6 @@
 | Sources                                                                         |
 | ------------------------------------------------------------------------------- |
 | [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]] |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]   |
 
 { .block-language-dataview}
 
