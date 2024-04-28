@@ -20,7 +20,6 @@
 - [[Cards/Rapamycin\|Rapamycin]]
 
 ## Mentions
-- [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 - [[Sources/Other/HBIO1010 M1T1 Video - Overview of cell physiology and thermodynamics\|HBIO1010 M1T1 Video - Overview of cell physiology and thermodynamics]]
 - [[Sources/Podcasts/Podcast Episodes/Using Deliberate Cold Exposure for Health and Performance\|Using Deliberate Cold Exposure for Health and Performance]]
 - [[Sources/Research Papers/@sato2022-TuningAgedClock\|@sato2022-TuningAgedClock]]
