@@ -26,7 +26,6 @@
 - 
 
 ## Mentions
-- [[Sources/Video/@-LFS122M4T5PosteriorTrunk\|@-LFS122M4T5PosteriorTrunk]]
 - [[Sources/Video/@LFS122M5T2Muscles\|@LFS122M5T2Muscles]]
 - [[Sources/Video/@leedaffin2023LFS122M5T3Brain\|@leedaffin2023LFS122M5T3Brain]]
 
