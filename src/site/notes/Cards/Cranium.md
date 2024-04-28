@@ -46,7 +46,6 @@
 | Sources                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Video/@leedaffin2023-LFS122M10T4Lymphatic\|@leedaffin2023-LFS122M10T4Lymphatic]]                                                                                |
-| [[Sources/Video/@LFS122M5T1Skull\|@LFS122M5T1Skull]]                                                                                                                      |
 | [[Sources/Articles/Neanderthal Skeleton Discovery Changes What We Know About Human Evolution\|Neanderthal Skeleton Discovery Changes What We Know About Human Evolution]] |
 
 { .block-language-dataview}
