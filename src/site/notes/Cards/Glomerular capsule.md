@@ -2,7 +2,7 @@
 {"aliases":["Bowman's capsule"],"tags":["Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/glomerular-capsule/","dgPassFrontmatter":true}
 ---
 
-# Glomerular Capsule
+# Glomerular capsule
 
 > [!ontology]
 > up:: [[Cards/Nephron\|Nephron]]
