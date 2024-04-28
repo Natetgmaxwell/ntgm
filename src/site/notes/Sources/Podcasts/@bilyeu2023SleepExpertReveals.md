@@ -22,8 +22,9 @@
 > creators:: Tom Bilyeu
 
 > [!Links]+
->  | Incoming Links |
-> | -------------- |
+>  | Incoming Links                      |
+> | ----------------------------------- |
+> | [[Cards/Sleep Debt\|Sleep Debt]] |
 > 
 { .block-language-dataview}
 
