@@ -86,22 +86,22 @@ Microbiology is the study of microorganisms, or microbes, a diverse group of g
 	- Led to the rise of aerobic organisms like mitochondria-containing eukaryotes and bacteria such as [[Cards/Proteobacteria\|Proteobacteria]].
 
 - *Evolution of eukaryotes*
-	- Symbiosis between a [[Cards/Proteobacteria\|proteobacterium]] and an ancient prokaryote allowed eukaryotes to harness energy more efficiently through aerobic respiration.
+	- [[Cards/Symbiosis\|Symbiosis]] between a [[Cards/Proteobacteria\|proteobacterium]] and an ancient prokaryote allowed eukaryotes to harness energy more efficiently through aerobic respiration.
 
 ###### In bullet points, what are the three main lines of cellular descent?
 
 - *Prokaryotes*
 	- The first and earliest line includes single-celled organisms without a nucleus or membrane-bound organelles (e.g., bacteria and [[Cards/Archaea\|Archaea]]). They lack complex structures like mitochondria and chloroplasts but can perform photosynthesis in some cases.
-- *Eukaryotes with endosymbiosis*
-	- This line includes cells with a nucleus and membrane-bound organelles, developed through the process of endosymbiosis (e.g., eukaryotic [[Cards/Algae\|Algae]] and protists). They have complex structures like mitochondria for energy production and chloroplasts for photosynthesis in some cases.
-- *Eukaryotes without endosymbiosis*
+- *Eukaryotes with [[Cards/Endosymbiotic theory\|endosymbiosis]]*
+	- This line includes cells with a nucleus and membrane-bound organelles, developed through the process of [[Cards/Endosymbiotic theory\|endosymbiosis]] (e.g., eukaryotic [[Cards/Algae\|Algae]] and protists). They have complex structures like mitochondria for energy production and chloroplasts for photosynthesis in some cases.
+- *Eukaryotes without [[Cards/Endosymbiotic theory\|endosymbiosis]]*
 	- This line includes cells with a nucleus but no membrane-bound organelles (e.g., [[Cards/Fungi\|Fungi]], animals, and plants). They lack the specialized structures found in eukaryotic [[Cards/Algae\|Algae]] and protists but have complex multicellular forms like plants and animals.
 
 
-###### Using a bullet list, What is endosymbiotic theory? Describe the formation of early Eukaryotes?
+###### Using a bullet list, What is [[Cards/Endosymbiotic theory\|Endosymbiotic theory]]? Describe the formation of early Eukaryotes?
 
-- *Endosymbiotic Theory*
-	- The endosymbiotic theory suggests that eukaryotic cells evolved from prokaryotic cells through a symbiotic relationship between two or more organisms. 
+- *[[Cards/Endosymbiotic theory\|Endosymbiotic theory]]*
+	- The [[Cards/Endosymbiotic theory\|Endosymbiotic theory]] suggests that eukaryotic cells evolved from prokaryotic cells through a symbiotic relationship between two or more organisms. 
 
 - Formation of Early Eukaryotes:
   * Merger of prokaryotic cells: It is believed that early eukaryotes formed through the merging of two or more prokaryotic cells, most likely [[Cards/Archaea\|Archaea]] and/or bacteria. This fusion allowed for the exchange of genetic material between the cells and led to the development of a more complex cellular structure.
