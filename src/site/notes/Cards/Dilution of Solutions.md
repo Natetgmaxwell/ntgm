@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@melindadean2024MLS101M04T04Dilution\|@melindadean2024MLS101M04T04Dilution]]
+> [!quote] [[Sources/Video/@melindadean2024MLS101M04T04Dilution\|@melindadean2024MLS101M04T04Dilution]]
 > Dilution is the process in which more solvent (the diluent) is added to a [[Cards/Stock Solution\|stock solution]] in order to lower its concentration.
 
 ## Dilution Formula
@@ -36,9 +36,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                   |
-| ----------------------------------------------------------------------------------------- |
-| [[Sources/@melindadean2024MLS101M04T04Dilution\|@melindadean2024MLS101M04T04Dilution]] |
+| Sources                                                                                         |
+| ----------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@melindadean2024MLS101M04T04Dilution\|@melindadean2024MLS101M04T04Dilution]] |
 
 { .block-language-dataview}
 
