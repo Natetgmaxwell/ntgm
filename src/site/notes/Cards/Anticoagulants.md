@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@MelindaDean2024MLS101M05T02Blood\|@MelindaDean2024MLS101M05T02Blood]]
+> [!quote] [[Sources/Video/@MelindaDean2024MLS101M05T02Blood\|@MelindaDean2024MLS101M05T02Blood]]
 > [[Cards/Anticoagulants\|Anticoagulants]] are substances which interfere with the activity of these factors and prevent blood from clotting.
 
 # Reference
@@ -30,10 +30,10 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                           |
-| ------------------------------------------------------------------------------------------------- |
-| [[Sources/@MelindaDean2024MLS101M05T01Introduction\|@MelindaDean2024MLS101M05T01Introduction]] |
-| [[Sources/@MelindaDean2024MLS101M05T02Blood\|@MelindaDean2024MLS101M05T02Blood]]               |
+| Sources                                                                                                 |
+| ------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@MelindaDean2024MLS101M05T01Introduction\|@MelindaDean2024MLS101M05T01Introduction]] |
+| [[Sources/Video/@MelindaDean2024MLS101M05T02Blood\|@MelindaDean2024MLS101M05T02Blood]]               |
 
 { .block-language-dataview}
 
