@@ -50,9 +50,9 @@
 
 | Sources                                                                                             |
 | --------------------------------------------------------------------------------------------------- |
-| [[Sources/@ipekkurtboke2024LFS261M01T02Evolution\|@ipekkurtboke2024LFS261M01T02Evolution]]       |
+| [[Sources/Video/@ipekkurtboke2024LFS261M01T02Evolution\|@ipekkurtboke2024LFS261M01T02Evolution]] |
 | [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] |
-| [[Sources/@katemounsey2023LFS112M6T1Blood\|@katemounsey2023LFS112M6T1Blood]]                     |
+| [[Sources/Video/@katemounsey2023LFS112M6T1Blood\|@katemounsey2023LFS112M6T1Blood]]               |
 | [[Sources/Video/@leedaffin2023-LFS122M11T2Oesophagus\|@leedaffin2023-LFS122M11T2Oesophagus]]     |
 
 { .block-language-dataview}
