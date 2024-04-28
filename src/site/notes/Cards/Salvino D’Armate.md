@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]
+> [!quote] [[Sources/Video/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]
 > [[Cards/Salvino D’Armate\|Salvino D’Armate]] is credited with inventing the first wearable eye glasses
 
 # Reference
@@ -29,9 +29,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                 |
-| --------------------------------------------------------------------------------------- |
-| [[Sources/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]] |
+| Sources                                                                                       |
+| --------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]] |
 
 { .block-language-dataview}
 
