@@ -19,10 +19,11 @@
 > FirstAuthor:: Kristina AckermannKristina Ackermann
 
 > [!Links]+
->  | Incoming Links                |
-> | ----------------------------- |
-> | [[Cards/Alcohol\|Alcohol]] |
-> | [[Cards/Liver\|Liver]]     |
+>  | Incoming Links                          |
+> | --------------------------------------- |
+> | [[Cards/Alcohol\|Alcohol]]           |
+> | [[Cards/Liver\|Liver]]               |
+> | [[Cards/White matter\|White matter]] |
 > 
 { .block-language-dataview}
 
