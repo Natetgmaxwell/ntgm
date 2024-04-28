@@ -16,10 +16,9 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                              |
-| ------------------------------------------------------------------------------------------- |
-| [[Sources/@ipekkurtboke2024LFS261TutorialManual\|@ipekkurtboke2024LFS261TutorialManual]] |
-| [[Spaces/University/Classes/Microbiology\|Microbiology]]                                 |
+| Incoming Links                                              |
+| ----------------------------------------------------------- |
+| [[Spaces/University/Classes/Microbiology\|Microbiology]] |
 
 { .block-language-dataview}
 
@@ -36,3 +35,4 @@
 ## Flashcards 
 
 When disinfection treatment is directed at a living tissue, it is called?;;[[Cards/Antiseptic\|Antiseptic]]
+<!--SR:!2024-04-17,1,230-->
