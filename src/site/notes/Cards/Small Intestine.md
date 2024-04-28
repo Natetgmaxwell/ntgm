@@ -19,13 +19,64 @@
 - [[Cards/Jejunum\|Jejunum]]
 - [[Cards/Ileum\|Ileum]]
 
+## Layers of the [[Cards/Small Intestine\|Small Intestine]]
+
+> [!cite]
+> [[Sources/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]
+
+1. Mucosa
+    
+    1. Mucosal epithellum
+    2. Lamina propria
+    3. Muscularis muscosae
+2. Submucosa
+    
+    1. [[Cards/Veins\|Veins]]
+    2. Artery
+    3. Submucosal neural plexus
+3. Muscular Layer
+    
+    1. Circular Muscle layer
+    2. Longitudinal Muscle layer
+4. Serosa
+
 # Reference
 - [[Cards/Large Intestine\|Large Intestine]]
 
 ## Mentions
-- [[Sources/Video/@leedaffin2023-LFS122M11T2Oesophagus\|@leedaffin2023-LFS122M11T2Oesophagus]]
-- [[Sources/Video/@lindagallo2023-LFS112M7T1Overview\|@lindagallo2023-LFS112M7T1Overview]]
-- [[Spaces/School/IA3 Research Investigation\|IA3 Research Investigation]]
+| Incoming Links                                                                                        |
+| ----------------------------------------------------------------------------------------------------- |
+| [[Cards/Ascending Colon\|Ascending Colon]]                                                         |
+| [[Cards/Bile acids\|Bile acids]]                                                                   |
+| [[Extras/Excalidraw/Digestive System Diagram\|Digestive System Diagram]]                           |
+| [[Cards/Duodenal Papilla\|Duodenal Papilla]]                                                       |
+| [[Cards/Enterocytes\|Enterocytes]]                                                                 |
+| [[Cards/Gastrointestinal tract\|Gastrointestinal tract]]                                           |
+| [[Cards/Hapatic Flexure\|Hapatic Flexure]]                                                         |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                         |
+| [[Spaces/School/IA3 Research Investigation\|IA3 Research Investigation]]                           |
+| [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
+| [[Cards/Mesentery of the Small Intestine\|Mesentery of the Small Intestine]]                       |
+| [[Cards/Stomach\|Stomach]]                                                                         |
+| [[Cards/Villi\|Villi]]                                                                             |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                  |
+| ----------------------------------------------- |
+| [[Cards/Digestive System\|Digestive System]] |
+| [[Cards/Duodenum\|Duodenum]]                 |
+| [[Cards/Ileum\|Ileum]]                       |
+| [[Cards/Jejunum\|Jejunum]]                   |
+| [[Cards/Large Intestine\|Large Intestine]]   |
+| [[Cards/Veins\|Veins]]                       |
+
+{ .block-language-dataview}
+
+| Sources                                                                                         |
+| ----------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffin2023-LFS122M11T2Oesophagus\|@leedaffin2023-LFS122M11T2Oesophagus]] |
+| [[Sources/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]             |
 
 { .block-language-dataview}
 
