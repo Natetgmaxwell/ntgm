@@ -41,6 +41,5 @@
 | Sources                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Articles/Link Between Sleep Apnea, Deep Sleep Deficit, and Brain Health Risks - Neuroscience News\|Link Between Sleep Apnea, Deep Sleep Deficit, and Brain Health Risks - Neuroscience News]] |
-| [[Sources/Podcasts/Podcast Episodes/The Power of Sleep\|The Power of Sleep]]                                                                                                                            |
 
 { .block-language-dataview}
