@@ -9,10 +9,10 @@
 > jump:: [[Cards/Adaptation\|Adaptation]]
 > down:: [[Cards/Microevolution\|Microevolution]], [[Cards/Speciation\|Speciation]]
 
-> [!quote] [[Sources/Articles/@henderson2022-WhatSocialStatus\|@henderson2022-WhatSocialStatus]]]
+> [!quote] [[Sources/@Henderson2022WhatSocialStatus\|@Henderson2022WhatSocialStatus]]
 > "Evolution doesn’t “care” that much about survival. It “cares” mostly about reproduction. A trait that damages survival can still spread if it aids in reproduction."
 
-> [!quote] [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
+> [!quote] [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]
 > "Reproduction is the currency of [[Cards/Evolution\|Evolution]]"
 ## Types of Evolution
 - [[Cards/Microevolution\|Microevolution]]
