@@ -12,10 +12,10 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@walterisaacson2023ElonMusk\|@walterisaacson2023ElonMusk]]
+> [!quote] [[Sources/Books/@walterisaacson2023ElonMusk\|@walterisaacson2023ElonMusk]]
 > At any given production meeting, whether at Tesla or SpaceX, there is a nontrivial chance that Musk will intone, like a mantra, what he calls “the algorithm.”
 
-## 5 Step of [[Cards/Elon Musk\|Musk's]] Algorithm [[Sources/@walterisaacson2023ElonMusk\|@walterisaacson2023ElonMusk]]
+## 5 Step of [[Cards/Elon Musk\|Musk's]] Algorithm [[Sources/Books/@walterisaacson2023ElonMusk\|@walterisaacson2023ElonMusk]]
 
 1. Question Every Requirement
 2. Delete any part or process you can
@@ -38,9 +38,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                 |
-| ----------------------------------------------------------------------- |
-| [[Sources/@walterisaacson2023ElonMusk\|@walterisaacson2023ElonMusk]] |
+| Sources                                                                       |
+| ----------------------------------------------------------------------------- |
+| [[Sources/Books/@walterisaacson2023ElonMusk\|@walterisaacson2023ElonMusk]] |
 
 { .block-language-dataview}
 
