@@ -16,7 +16,7 @@
 - 
 
 ## Mentions
-- [[Sources/@leedaffin2023LFS122M4T4Anterior\|@leedaffin2023LFS122M4T4Anterior]]
+- [[Sources/Video/@leedaffin2023LFS122M4T4Anterior\|@leedaffin2023LFS122M4T4Anterior]]
 
 { .block-language-dataview}
 
