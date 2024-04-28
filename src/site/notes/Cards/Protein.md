@@ -75,8 +75,6 @@
 | [[Sources/Podcasts/Podcast Episodes/AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More\|AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More]] |
 | [[Sources/Articles/BestBreakfastFoods\|BestBreakfastFoods]]                                                                                                                                                                                |
 | [[Sources/Articles/BetaAlanineBeginnerGuide2018\|BetaAlanineBeginnerGuide2018]]                                                                                                                                                            |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                                                                                                                                                 |
-| [[Sources/Articles/cdnBestSupplementsSlow2022\|cdnBestSupplementsSlow2022]]                                                                                                                                                                |
 | [[Sources/Articles/Why is Monkeypox Evolving So Fast_, \|Why is Monkeypox Evolving So Fast_, ]]                                                                                                                                            |
 
 { .block-language-dataview}dg
