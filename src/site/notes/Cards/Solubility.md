@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@melindadean2024MLS101M04T01Characteristics\|@melindadean2024MLS101M04T01Characteristics]]
+> [!quote] [[Sources/Video/@melindadean2024MLS101M04T01Characteristics\|@melindadean2024MLS101M04T01Characteristics]]
 > The solubility of a [[Cards/Solute\|solute]] is the maximum amount of [[Cards/Solute\|solute]] that will dissolve in a given amount of solvent.
 
 # Reference
@@ -30,9 +30,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                 |
-| ------------------------------------------------------------------------------------------------------- |
-| [[Sources/@melindadean2024MLS101M04T01Characteristics\|@melindadean2024MLS101M04T01Characteristics]] |
+| Sources                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@melindadean2024MLS101M04T01Characteristics\|@melindadean2024MLS101M04T01Characteristics]] |
 
 { .block-language-dataview}
 
