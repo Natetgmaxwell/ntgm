@@ -1,5 +1,5 @@
 ---
-{"date created":"2022-12-16 Fri","edited":"2023-04-06 Thu","heading":"Collagen","uri":"https://id.loc.gov/authorities/subjects/sh85027969","lcc":"QP552.C6","aliases":["Collogen"],"broader":["Extracellular matrix proteins"],"narrower":["Hide powder","Collectins"],"related":["Connective tissues"],"dg-publish":true,"permalink":"/cards/collagen/","dgPassFrontmatter":true}
+{"date created":"2022-12-16 Fri","edited":"2023-04-06 Thu","aliases":null,"dg-publish":true,"permalink":"/cards/collagen/","dgPassFrontmatter":true}
 ---
 
 # Collagen
@@ -44,12 +44,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                                |
-| ---------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@2023-LFS112M6T3Platelets\|@2023-LFS112M6T3Platelets]]                                              |
-| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]                    |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                          |
-| [[Sources/Articles/cdnBestSupplementsSlow2022\|cdnBestSupplementsSlow2022]]                                         |
-| [[Sources/Articles/What Chemical Elements Make up the Human Body?\|What Chemical Elements Make up the Human Body?]] |
+| Sources                                                                                             |
+| --------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@2023-LFS112M6T3Platelets\|@2023-LFS112M6T3Platelets]]                           |
+| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] |
 
 { .block-language-dataview}
