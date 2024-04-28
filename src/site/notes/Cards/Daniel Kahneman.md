@@ -33,7 +33,6 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Podcasts/Podcast Episodes/ 626   Richard Shotton   8 Psychology Hacks Behind The World’s Biggest Businesses\| 626   Richard Shotton   8 Psychology Hacks Behind The World’s Biggest Businesses]] |
 | [[Sources/Books/@danielkahnemanThinkingFastSlow2011\|@danielkahnemanThinkingFastSlow2011]]                                                                                                                 |
-| [[Sources/Books/@stevenbartlett2023DiaryCEO33\|@stevenbartlett2023DiaryCEO33]]                                                                                                                             |
 
 { .block-language-dataview}
 
