@@ -14,7 +14,10 @@
 { #fbfb7d}
 
 
-> [!quote] [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
+> [!quote] [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]
+> Whatever you choose to do with your life – you are still a machine designed to propagate your genes.
+
+> [!quote] [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]
 > "Reproduction is the currency of [[Cards/Evolution\|Evolution]]"
 
 
@@ -48,7 +51,6 @@
 - 
 
 ## Mentions
-- [[Sources/Podcasts/Podcast Episodes/ 542   Dr Randy Nesse   Evolutionary Psychiatry Can Explain Human Emotions\| 542   Dr Randy Nesse   Evolutionary Psychiatry Can Explain Human Emotions]]
 
 { .block-language-dataview}
 
