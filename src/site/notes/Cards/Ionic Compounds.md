@@ -15,7 +15,7 @@
 ## Naming Conventions for [[Cards/Ionic Compounds\|Ionic Compounds]]
 
 ![Extras/Images/ZB8M5UU9.png|300](/img/user/Extras/Images/ZB8M5UU9.png)
-[[Sources/@davidmckay2024SCI105M02T02Ionic\|@davidmckay2024SCI105M02T02Ionic]]
+[[Sources/Video/@davidmckay2024SCI105M02T02Ionic\|@davidmckay2024SCI105M02T02Ionic]]
 
 ## Formula of [[Cards/Ionic Compounds\|Ionic Compounds]]
 
