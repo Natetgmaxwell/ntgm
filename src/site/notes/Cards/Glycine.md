@@ -53,6 +53,5 @@
 | -------------------------------------------------------------------------------------------------------- |
 | [[Sources/Articles/@greenfield2022-JamesDiNicolantonioDirt\|@greenfield2022-JamesDiNicolantonioDirt]] |
 | [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]      |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                            |
 
 { .block-language-dataview}
