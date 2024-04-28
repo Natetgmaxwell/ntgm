@@ -19,7 +19,6 @@
 
 ## Mentions
 - [[Sources/Articles/The Harm Caused by Masks - City Journal\|The Harm Caused by Masks - City Journal]]
-- [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 
 { .block-language-dataview}
 
