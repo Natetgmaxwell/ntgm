@@ -45,6 +45,5 @@
 | Sources                                                                                       |
 | --------------------------------------------------------------------------------------------- |
 | [[Sources/Video/@leedaffin2023-LFS122M10T4Lymphatic\|@leedaffin2023-LFS122M10T4Lymphatic]] |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                 |
 
 { .block-language-dataview}
