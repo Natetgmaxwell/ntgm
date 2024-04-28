@@ -30,9 +30,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                     |
-| ------------------------------------------------------------------------------------------- |
-| [[Sources/@ipekkurtboke2024LFS261M02T01Cultural\|@ipekkurtboke2024LFS261M02T01Cultural]] |
+| Sources                                                                                           |
+| ------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@ipekkurtboke2024LFS261M02T01Cultural\|@ipekkurtboke2024LFS261M02T01Cultural]] |
 
 { .block-language-dataview}
 
