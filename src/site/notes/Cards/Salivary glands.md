@@ -44,9 +44,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                     |
-| ------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@lindagallo2023-LFS112M7T1Overview\|@lindagallo2023-LFS112M7T1Overview]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
