@@ -15,7 +15,7 @@
 ## Nomenclature for [[Cards/Covalent Compounds\|Covalent Compounds]] 
 
 ![Extras/Images/L5CXBM6Z.png|300](/img/user/Extras/Images/L5CXBM6Z.png)
-[[Sources/@davidmckay2024SCI105M02T04Covalent\|@davidmckay2024SCI105M02T04Covalent]]
+[[Sources/Video/@davidmckay2024SCI105M02T04Covalent\|@davidmckay2024SCI105M02T04Covalent]]
 
 # Reference
 - 
@@ -32,9 +32,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                 |
-| --------------------------------------------------------------------------------------- |
-| [[Sources/@davidmckay2024SCI105M02T04Covalent\|@davidmckay2024SCI105M02T04Covalent]] |
+| Sources                                                                                       |
+| --------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@davidmckay2024SCI105M02T04Covalent\|@davidmckay2024SCI105M02T04Covalent]] |
 
 { .block-language-dataview}
 
