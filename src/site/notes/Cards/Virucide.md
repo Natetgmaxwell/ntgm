@@ -16,9 +16,8 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                              |
-| ------------------------------------------------------------------------------------------- |
-| [[Sources/@ipekkurtboke2024LFS261TutorialManual\|@ipekkurtboke2024LFS261TutorialManual]] |
+| Incoming Links |
+| -------------- |
 
 { .block-language-dataview}
 
@@ -36,3 +35,4 @@
 ## Flashcards 
 
 [[Cards/Virucide\|Virucide]] is a chemical, which inactivates?;;[[Cards/Virus\|Virus]]
+<!--SR:!2024-04-17,1,230-->
