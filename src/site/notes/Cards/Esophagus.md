@@ -16,7 +16,6 @@
 - 
 
 ## Mentions
-- [[Sources/Video/@lindagallo2023-LFS112M7T1Overview\|@lindagallo2023-LFS112M7T1Overview]]
 
 { .block-language-dataview}
 
