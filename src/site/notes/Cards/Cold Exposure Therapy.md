@@ -58,7 +58,6 @@
 - [[Cards/Hormesis\|Hormesis]]
 
 ## Mentions
-- [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 - [[Sources/Courses/Superbrain by Jim Kwik\|Superbrain by Jim Kwik]]
 - [[Sources/Podcasts/Podcast Episodes/Sleep Toolkit  Tools for Optimising Sleep & Sleep Wake Timing   Episode 84 — Huberman Lab\|Sleep Toolkit  Tools for Optimising Sleep & Sleep Wake Timing   Episode 84 — Huberman Lab]]
 - [[Sources/Podcasts/Podcast Episodes/Using Deliberate Cold Exposure for Health and Performance\|Using Deliberate Cold Exposure for Health and Performance]]
