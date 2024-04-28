@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]
+> [!quote] [[Sources/Video/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]
 > By insisting that everything be kept clean and disinfected, he {[[Cards/Joseph Lister\|Joseph Lister]]} lowered the death rate in his surgeries.
 
 # Reference
@@ -29,9 +29,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                 |
-| --------------------------------------------------------------------------------------- |
-| [[Sources/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]] |
+| Sources                                                                                       |
+| --------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]] |
 
 { .block-language-dataview}
 
