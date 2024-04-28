@@ -2,7 +2,7 @@
 {"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/flexor-carpi-radialis/","dgPassFrontmatter":true}
 ---
 
-# Flexor Carpi Radialis
+# Flexor carpi radialis
 
 > [!ontology]
 > up:: [[Cards/Skeletal Muscle\|Skeletal Muscle]]
