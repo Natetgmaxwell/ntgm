@@ -19,6 +19,5 @@
 - [[Sources/Articles/REALITY CHECK - Sarkin Makka's Newsletter\|REALITY CHECK - Sarkin Makka's Newsletter]]
 - [[Sources/Articles/Symphony of Synapses- The Brain's Intricate Dance with Music - Neuroscience News\|Symphony of Synapses- The Brain's Intricate Dance with Music - Neuroscience News]]
 - [[Sources/Articles/WhyAlcoholLowers\|WhyAlcoholLowers]]
-- [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 
 { .block-language-dataview}
