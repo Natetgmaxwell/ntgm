@@ -7,7 +7,7 @@
 > [!ontology]+
 > up:: 
 > jump:: 
-> down:: [[Cards/Strategic Ego Flattery for Influence\|Strategic Ego Flattery for Influence]]
+> down:: [[Cards/Ego Flattery for Influence\|Ego Flattery for Influence]]
 
 > [!Definition] Definition
 > 
