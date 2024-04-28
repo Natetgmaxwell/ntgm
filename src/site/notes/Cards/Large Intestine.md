@@ -68,7 +68,6 @@ Takes food ≈6hrs to pass through the Digestive System.
 ## Mentions
 - [[Sources/Articles/VagusNerveEverything\|VagusNerveEverything]]
 - [[Sources/Video/@leedaffin2023-LFS122M11T2Oesophagus\|@leedaffin2023-LFS122M11T2Oesophagus]]
-- [[Sources/Video/@lindagallo2023-LFS112M7T1Overview\|@lindagallo2023-LFS112M7T1Overview]]
 
 { .block-language-dataview}
 
