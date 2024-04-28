@@ -12,14 +12,14 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@davidmckay2024SCI105M02T05Electronegativity\|@davidmckay2024SCI105M02T05Electronegativity]]
+> [!quote] [[Sources/Video/@davidmckay2024SCI105M02T05Electronegativity\|@davidmckay2024SCI105M02T05Electronegativity]]
 > [[Cards/Electronegativity\|Electronegativity]] ([[Cards/Electronegativity\|EN]]) is electron pulling power.
 
-> [!quote] [[Sources/@davidmckay2024SCI105M02T05Electronegativity\|@davidmckay2024SCI105M02T05Electronegativity]]
+> [!quote] [[Sources/Video/@davidmckay2024SCI105M02T05Electronegativity\|@davidmckay2024SCI105M02T05Electronegativity]]
 > [[Cards/Electronegativity\|EN]] increases towards the top right of the Periodic Table.
 
 ![Extras/Images/CWVIS8R3.png|300](/img/user/Extras/Images/CWVIS8R3.png)
-[[Sources/@davidmckay2024SCI105M02T05Electronegativity\|@davidmckay2024SCI105M02T05Electronegativity]]
+[[Sources/Video/@davidmckay2024SCI105M02T05Electronegativity\|@davidmckay2024SCI105M02T05Electronegativity]]
 
 # Reference
 - 
@@ -36,9 +36,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                   |
-| --------------------------------------------------------------------------------------------------------- |
-| [[Sources/@davidmckay2024SCI105M02T05Electronegativity\|@davidmckay2024SCI105M02T05Electronegativity]] |
+| Sources                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@davidmckay2024SCI105M02T05Electronegativity\|@davidmckay2024SCI105M02T05Electronegativity]] |
 
 { .block-language-dataview}
 
