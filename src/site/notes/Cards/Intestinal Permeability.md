@@ -28,8 +28,7 @@
 
 { .block-language-dataview}
 
-| Sources                                                                       |
-| ----------------------------------------------------------------------------- |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
