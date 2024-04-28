@@ -15,7 +15,7 @@
 ## List of [[Cards/Cranial Fossas\|Cranial Fossas]]
 
 ![Extras/Images/JTJV3BBS.png|400](/img/user/Extras/Images/JTJV3BBS.png)
-[[Sources/Video/@LFS122M5T1Skull\|@LFS122M5T1Skull]]
+[[@LFS122M5T1Skull\|@LFS122M5T1Skull]]
 
 - [[Cards/Anterior Cranial Fossa\|Anterior Cranial Fossa]]
 - [[Cards/Middle Cranial Fossa\|Middle Cranial Fossa]]
@@ -39,9 +39,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                 |
-| ------------------------------------------------------- |
-| [[Sources/Video/@LFS122M5T1Skull\|@LFS122M5T1Skull]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
