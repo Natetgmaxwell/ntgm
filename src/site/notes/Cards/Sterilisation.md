@@ -16,10 +16,9 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                              |
-| ------------------------------------------------------------------------------------------- |
-| [[Sources/@ipekkurtboke2024LFS261TutorialManual\|@ipekkurtboke2024LFS261TutorialManual]] |
-| [[Cards/Sanitisation\|Sanitisation]]                                                     |
+| Incoming Links                          |
+| --------------------------------------- |
+| [[Cards/Sanitisation\|Sanitisation]] |
 
 { .block-language-dataview}
 
@@ -36,3 +35,4 @@
 ## Flashcards 
 
 Which method is the most commonly used one for sterilization? a. Incineration b. Heating c. Freezing d. Lyophilization e. Centrifugation;;Heating
+<!--SR:!2024-04-19,3,250-->
