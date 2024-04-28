@@ -31,7 +31,6 @@
 
 | Sources                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Books/@stevenbartlett2023DiaryCEO33\|@stevenbartlett2023DiaryCEO33]]                                         |
 | [[Sources/Podcasts/Podcast Episodes/18 Naval Ravikant The Angel Philosopher\|18 Naval Ravikant The Angel Philosopher]] |
 
 { .block-language-dataview}
