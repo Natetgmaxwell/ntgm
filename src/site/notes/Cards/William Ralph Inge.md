@@ -37,9 +37,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                             |
-| --------------------------------------------------------------------------------------------------- |
-| [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
