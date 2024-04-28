@@ -19,7 +19,6 @@
 - 
 
 ## Mentions
-- [[Sources/Articles/3MM_ Regrets, Hookers & Fat Americans\|3MM_ Regrets, Hookers & Fat Americans]]
 - [[Sources/Research Papers/@birtel2021FadingAffectBias\|@birtel2021FadingAffectBias]]
 
 { .block-language-dataview}
