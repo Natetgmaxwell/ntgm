@@ -16,9 +16,8 @@
 - 
 
 ## Mentions
-| Incoming Links                                                                              |
-| ------------------------------------------------------------------------------------------- |
-| [[Sources/@ipekkurtboke2024LFS261TutorialManual\|@ipekkurtboke2024LFS261TutorialManual]] |
+| Incoming Links |
+| -------------- |
 
 { .block-language-dataview}
 
@@ -35,3 +34,4 @@
 ## Flashcards 
 
 What are fomites?;;Inanimate objects that may be contaminated with infectious organisms.
+<!--SR:!2024-04-19,3,250-->
