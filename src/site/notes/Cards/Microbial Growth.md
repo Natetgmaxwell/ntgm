@@ -12,14 +12,14 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]
+> [!quote] [[Sources/Books/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]
 > When we talk about microbial growth, we are really referring to the number of cells, not the size of the cells.
 
 ## Requirements for [[Cards/Microbial Growth\|Microbial Growth]]
 
 ### Physical
 - [[Cards/Environmental Temperature\|Environmental Temperature]]
-	- ![Extras/Images/JZVDBYQ9.png](/img/user/Extras/Images/JZVDBYQ9.png) [[Sources/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]
+	- ![Extras/Images/JZVDBYQ9.png](/img/user/Extras/Images/JZVDBYQ9.png) [[Sources/Books/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]
 - [[Cards/Power of Hydrogen\|pH]]
 - [[Cards/Osmotic Pressure\|Osmotic Pressure]]
 
@@ -54,10 +54,10 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                   |
-| ----------------------------------------------------------------------------------------- |
-| [[Sources/Video/@2023-LFS112M6T5Innate\|@2023-LFS112M6T5Innate]]                       |
-| [[Sources/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]] |
+| Sources                                                                                         |
+| ----------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@2023-LFS112M6T5Innate\|@2023-LFS112M6T5Innate]]                             |
+| [[Sources/Books/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]] |
 
 { .block-language-dataview}
 
