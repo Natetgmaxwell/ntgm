@@ -24,6 +24,7 @@
 > | --------------------------------------------------------- |
 > | [[Calendar/2023/Daily/2023-08-19 Sat\|2023-08-19 Sat]] |
 > | [[Cards/Cell Signalling\|Cell Signalling]]             |
+> | [[Cards/Digestion\|Digestion]]                         |
 > | [[Cards/Hormones\|Hormones]]                           |
 > 
 { .block-language-dataview}
