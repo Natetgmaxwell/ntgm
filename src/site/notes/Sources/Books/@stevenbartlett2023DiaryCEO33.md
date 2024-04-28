@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"9RJQSJWF","zt-attachments":["6419"],"alias":", The Diary of a CEO: The 33 Laws of Business and Life","keywords":[],"FirstAuthor":"[[ Steven Bartlett]]","tags":["source/book"],"dg-publish":true,"Status":"Reading","permalink":"/sources/books/stevenbartlett2023-diary-ceo-33/","dgPassFrontmatter":true}
+{"zotero-key":"9RJQSJWF","zt-attachments":["6419"],"alias":", @The Diary of a CEO: The 33 Laws of Business and Life","keywords":[],"FirstAuthor":"[[ Steven Bartlett]]","tags":["source/book"],"dg-publish":true,"permalink":"/sources/books/stevenbartlett2023-diary-ceo-33/","dgPassFrontmatter":true}
 ---
 
 # @stevenbartlett2023DiaryCEO33
@@ -74,7 +74,7 @@ These laws will work now or in 100 years from now. Are you ready to get started?
 
 > [!quote-yellow] (Page 27) yellow
 > 
-> ‘I couldn’t reduce it to the freshman level. That means we really don’t understand it.’ [[Cards/Richard Feynman\|Richard Feynman]]
+> ‘I couldn’t reduce it to the freshman level. That means we really don ’tunderstand it.’ Richard Feynman
 >
 { #4HJ34GQ4aW8D3YCQYp27}
 
@@ -88,7 +88,7 @@ These laws will work now or in 100 years from now. Are you ready to get started?
 
 > [!quote-green] (Page 32) green
 > 
-> [[Cards/Tali Sharot\|Tali Sharot]]
+> Tali Sharot
 >
 { #IP9P3KVSaW8D3YCQYp32}
 
@@ -116,7 +116,7 @@ These laws will work now or in 100 years from now. Are you ready to get started?
 
 > [!quote-yellow] (Page 40) yellow
 > 
-> ‘For some of our most important beliefs we have no evidence at all, except that people we love and trust hold these beliefs. Considering how little we know, the condence we have in our beliefs is preposterous - and it is also essential.’ 2002 Nobel Prize laureate [[Cards/Daniel Kahneman\|Daniel Kahneman]]
+> ‘For some of our most important beliefs we have no evidence at all, except that people we love and trust hold these beliefs. Considering how little we know, the condence we have in our beliefs is preposterous - and it is also essential.’ 2002 Nobel Prize laureate Daniel Kahneman
 >
 { #8U3PK3C9aW8D3YCQYp40}
 
@@ -133,4 +133,11 @@ These laws will work now or in 100 years from now. Are you ready to get started?
 > Don’t try and break or argue with someone’s existing evidence; instead focus on implanting completely new evidence
 >
 { #QH97LRMXaW8D3YCQYp43}
+
+
+> [!quote-yellow] (Page 45) yellow
+> 
+> If someone is struggling with their self-belief and believes they’re worthless, having them explain in as much detail as they can, why they feel that way, and questioning their responses, is an effective way to get them to relinquish that belief.
+>
+{ #GN9EF2BPaW8D3YCQYp45}
 
