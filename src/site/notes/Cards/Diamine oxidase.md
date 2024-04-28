@@ -39,6 +39,5 @@
 | Sources                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Articles/@sasivimolahmed2018WhichProbioticsHistamine\|@sasivimolahmed2018WhichProbioticsHistamine]] |
-| [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]                                    |
 
 { .block-language-dataview}
