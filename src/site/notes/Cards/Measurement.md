@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@MelindaDean2024MLS101M01T04Measurements\|@MelindaDean2024MLS101M01T04Measurements]]
+> [!quote] [[Sources/Video/@MelindaDean2024MLS101M01T04Measurements\|@MelindaDean2024MLS101M01T04Measurements]]
 > Measurement is the determination of the dimensions, capacity, quantity, or extent of something.
 
 ## Components of a Measurement
@@ -40,9 +40,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                           |
-| ------------------------------------------------------------------------------------------------- |
-| [[Sources/@MelindaDean2024MLS101M01T04Measurements\|@MelindaDean2024MLS101M01T04Measurements]] |
+| Sources                                                                                                 |
+| ------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@MelindaDean2024MLS101M01T04Measurements\|@MelindaDean2024MLS101M01T04Measurements]] |
 
 { .block-language-dataview}
 
