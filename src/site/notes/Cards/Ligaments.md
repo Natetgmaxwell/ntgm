@@ -50,6 +50,7 @@
 | ------------------------------------------------------- |
 | [[Cards/Connective Tissue\|Connective Tissue]]       |
 | [[Cards/Ileofemoral ligament\|Ileofemoral ligament]] |
+| [[Cards/Synovial joints\|Synovial joints]]           |
 
 { .block-language-dataview}
 
@@ -64,7 +65,7 @@
 How are ligaments connecting bone to bone classified?;;[[capsular ligaments\|capsular ligaments]], [[Extra-capsular ligaments\|Extra-capsular ligaments]], [[Intra-capsular ligaments\|Intra-capsular ligaments]]
 <!--SR:!2023-10-27,4,170-->
 
-What are specialised structures found in synovial joints?;;[[Intra-articular discs\|Intra-articular discs]], [[Labrum\|Labrum]]
+What are specialised structures found in [[Cards/Synovial joints\|synovial joints]]?;;[[Intra-articular discs\|Intra-articular discs]], [[Labrum\|Labrum]]
 <!--SR:!2023-10-24,1,130-->
 
 Which ligament connects the ileum to the femur?;;The [[Cards/Ileofemoral ligament\|Ileofemoral ligament]] connects the ileum to the femur.
