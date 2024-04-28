@@ -20,6 +20,5 @@
 
 ## Mentions
 - [[Sources/Articles/BestBreakfastFoods\|BestBreakfastFoods]]
-- [[Sources/Books/Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 
 { .block-language-dataview}
