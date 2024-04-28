@@ -51,7 +51,7 @@
 
 ## Flashcards
 
-What are the functional classifications of joints?;;Synarthrosis (no movement), amphiarthrosis (slight movement), and diarthrosis (freely movable)
+What are the functional classifications of joints?;;Synarthrosis (no movement), amphiarthrosis (slight movement), and [[Cards/Synovial joints\|diarthrosis]] (freely movable)
 <!--SR:!2023-10-24,1,130-->
 
 What are the structural classifications of joints?;;Gliding, hinge, pivot, condylar/ellipsoid, saddle, and ball-and-socket joints
