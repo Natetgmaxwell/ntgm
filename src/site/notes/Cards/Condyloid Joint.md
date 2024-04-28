@@ -10,7 +10,7 @@
 > down:: 
 
 > [!Definition] Definition
-> A condyloid joint is a type of synovial joint that allows for movement in two planes: flexion and extension. It has an incomplete fusion of the articular surfaces, which creates a large space between them.
+> A condyloid joint is a type of [[Cards/Synovial joints\|synovial joint]] that allows for movement in two planes: flexion and extension. It has an incomplete fusion of the articular surfaces, which creates a large space between them.
 
 ## [[Cards/Condyloid Joint\|Condyloid Joints]] In the Human Body
 - [[Cards/Radiocarpal joint\|Radiocarpal joint]]
@@ -25,7 +25,7 @@
 { .block-language-dataview}
 
 ## Flashcards
-What is the term used to describe a synovial joint that allows for movement in two planes?;; [[Cards/Condyloid Joint\|Condyloid Joint]]
+What is the term used to describe a [[Cards/Synovial joints\|synovial joint]] that allows for movement in two planes?;; [[Cards/Condyloid Joint\|Condyloid Joint]]
 
 What kind of fusion occurs between the articular surfaces of a condyloid joint?;; Incomplete
 
