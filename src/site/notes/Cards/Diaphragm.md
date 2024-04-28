@@ -13,7 +13,7 @@
 > 
 
 ![Extras/Images/image-4-x505-y139.png|250](/img/user/Extras/Images/image-4-x505-y139.png)
-[[Sources/@leedaffin2023LFS122M4T4Anterior\|@leedaffin2023LFS122M4T4Anterior]]
+[[Sources/Video/@leedaffin2023LFS122M4T4Anterior\|@leedaffin2023LFS122M4T4Anterior]]
 
 - The [[Cards/Esophageal Hiatus\|Esophageal Hiatus]] is a protrusion in the [[Cards/Diaphragm\|Diaphragm]] that allows the passage of the [[Cards/Esophagus\|Esophagus]].
 - The [[Cards/Esophageal Hiatus\|Esophageal Hiatus]] is the lower bound for the [[Cards/Thoracic Aorta\|Thoracic Aorta]].
@@ -43,9 +43,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                           |
-| --------------------------------------------------------------------------------- |
-| [[Sources/@leedaffin2023LFS122M4T4Anterior\|@leedaffin2023LFS122M4T4Anterior]] |
+| Sources                                                                                 |
+| --------------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffin2023LFS122M4T4Anterior\|@leedaffin2023LFS122M4T4Anterior]] |
 
 { .block-language-dataview}
 
