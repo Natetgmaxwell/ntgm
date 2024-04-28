@@ -27,9 +27,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                   |
-| ----------------------------------------------------------------------------------------- |
-| [[Sources/@melindadean2024MLS101M04T04Dilution\|@melindadean2024MLS101M04T04Dilution]] |
+| Sources                                                                                         |
+| ----------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@melindadean2024MLS101M04T04Dilution\|@melindadean2024MLS101M04T04Dilution]] |
 
 { .block-language-dataview}
 
