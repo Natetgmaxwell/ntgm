@@ -21,7 +21,6 @@
 ## Mentions
 - [[Sources/Articles/2019WhyWeFeelPain-thepaincenter\|2019WhyWeFeelPain-thepaincenter]]
 - [[Sources/Articles/Symptoms of Malnutrition with Cystic Fibrosis\|Symptoms of Malnutrition with Cystic Fibrosis]]
-- [[Sources/Articles/cdnBestSupplementsSlow2022\|cdnBestSupplementsSlow2022]]
 - [[Sources/Podcasts/Podcast Episodes/Future Proof Your Body by Practicing Good Posture\|Future Proof Your Body by Practicing Good Posture]]
 - [[Sources/Podcasts/Podcast Episodes/Jeff Cavaliere Optimise Your Exercise Program with Science-Based Tools Episode 79\|Jeff Cavaliere Optimise Your Exercise Program with Science-Based Tools Episode 79]]
 
