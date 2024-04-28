@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]]
+> [!quote] [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]
 > In short, just as natural selection culls less seaworthy boats from the population of boats, and less rewarded behaviors from the individual’s population of behaviors, so too selection culls less learnable, less useful words from each language’s population of words. The inevitable result is that languages evolve to be more learnable and more useful over time.
 
 # Reference
@@ -33,7 +33,7 @@
 
 | Sources                                                                                             |
 | --------------------------------------------------------------------------------------------------- |
-| [[Sources/Books/@stewart-williamsApeThatUnderstood2018\|@stewart-williamsApeThatUnderstood2018]] |
+| [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]] |
 
 { .block-language-dataview}
 
