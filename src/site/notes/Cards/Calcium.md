@@ -56,7 +56,6 @@
 | [[Sources/Research Papers/@avigailerlich2019MitophagyRegulationSkeletal\|@avigailerlich2019MitophagyRegulationSkeletal]] |
 | [[Sources/Research Papers/@crowe2009AssociationDietSerum\|@crowe2009AssociationDietSerum]]                               |
 | [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]                         |
-| [[Sources/Articles/What Chemical Elements Make up the Human Body?\|What Chemical Elements Make up the Human Body?]]      |
 
 { .block-language-dataview}
 
