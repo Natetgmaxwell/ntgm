@@ -10,7 +10,7 @@
 > down:: 
 
 > [!info] Info
-> Anti-Semitism is a form of discrimination or prejudice against Jewish people. It has existed for centuries and has taken many forms, including violence, hate speech, and discriminatory laws and policies.
+> Anti-Semitism is a form of discrimination or prejudice against Jewish people. It has existed for centuries and has taken many forms, including [[Cards/Violence\|Violence]], hate speech, and discriminatory laws and policies.
 
 # Reference
 
