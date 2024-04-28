@@ -16,7 +16,6 @@
 - 
 
 ## Mentions
-- [[Sources/Video/@-LFS122M4T5PosteriorTrunk\|@-LFS122M4T5PosteriorTrunk]]
 
 { .block-language-dataview}
 
