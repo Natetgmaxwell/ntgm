@@ -45,6 +45,5 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Podcasts/Podcast Episodes/AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More\|AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More]] |
 | [[Sources/Articles/Link Between Sleep Apnea, Deep Sleep Deficit, and Brain Health Risks - Neuroscience News\|Link Between Sleep Apnea, Deep Sleep Deficit, and Brain Health Risks - Neuroscience News]]                                    |
-| [[Sources/Articles/NSDR is trending - how No Sleep Deep Rest could benefit you - Marie Claire UK\|NSDR is trending - how No Sleep Deep Rest could benefit you - Marie Claire UK]]                                                          |
 
 { .block-language-dataview}
