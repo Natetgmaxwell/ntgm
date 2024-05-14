@@ -10,14 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/image-12-x39-y124.png|300](/img/user/Extras/Images/image-12-x39-y124.png)
 [[Sources/Video/@leedaffin2023LFS122M4T4Anterior\|@leedaffin2023LFS122M4T4Anterior]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
