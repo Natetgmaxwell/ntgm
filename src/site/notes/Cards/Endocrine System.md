@@ -36,12 +36,13 @@
 
 
 # Reference
+
 - [[Cards/Hormones\|Hormones]]
 
 ## Flashcards
 
 What is the endocrine system's role in the body?;;To release hormones that travel through the blood and regulate the activities of various tissues and organs.
-<!--SR:!2023-10-23,8,170-->
+<!--SR:!2024-05-21,15,170-->
 
 What are the organs of the [[Cards/Endocrine System\|Endocrine System]]?;;[[Cards/Hypothalamus\|Hypothalamus]], [[Cards/Pituitary gland\|Pituitary gland]], [[Cards/Thyroid Gland\|Thyroid Gland]], [[Cards/Adrenal gland\|Adrenal gland]] and [[Cards/Pancreas\|Pancreas]].
-<!--SR:!2023-10-28,7,150-->
+<!--SR:!2024-05-19,13,150-->
