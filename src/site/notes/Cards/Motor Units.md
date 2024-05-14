@@ -18,16 +18,18 @@
 2. [[Cards/High-threshold Motor Units\|High-threshold Motor Units]] ([[Cards/High-threshold Motor Units\|HTMU]])
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
 ## Flashcards
 
 What is the size principle in motor unit recruitment?;;Motor units are recruited in order of size, from small to large units.
-<!--SR:!2023-10-30,9,150-->
+<!--SR:!2024-05-27,21,170-->
 
 What does the all-or-none principle mean for motor units?;;All muscle fibers in a motor unit fire together when the [[Cards/Motor Neurons\|motor neuron]] is stimulated.
 <!--SR:!2023-10-24,3,150-->
