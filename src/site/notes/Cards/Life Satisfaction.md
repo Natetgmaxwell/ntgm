@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## [[Cards/Life Satisfaction\|Life Satisfaction]] Fluctuation Based on Life Events [[Sources/Research Papers/@clark2008LagsLeadsLife\|@clark2008LagsLeadsLife]]
 
@@ -21,9 +20,11 @@
 ![Extras/Images/64BH3EE3.png|500](/img/user/Extras/Images/64BH3EE3.png)
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -40,4 +41,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
