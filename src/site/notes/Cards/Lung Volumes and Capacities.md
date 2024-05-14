@@ -10,16 +10,17 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ![Pasted image 20230602200029.png](/img/user/Extras/Images/Pasted%20image%2020230602200029.png)
 { #e9f29c}
 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
