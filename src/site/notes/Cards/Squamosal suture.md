@@ -2,7 +2,7 @@
 {"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/squamosal-suture/","dgPassFrontmatter":true}
 ---
 
-# Squamosal suture
+# Squamosal Suture
 
 > [!ontology]+
 > up:: [[Cards/Cranial Sutures\|Cranial Sutures]]
@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
@@ -33,4 +34,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
