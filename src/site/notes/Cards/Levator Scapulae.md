@@ -15,13 +15,16 @@
 ![Levator Scapula Image.png|400](/img/user/Extras/Images/Levator%20Scapula%20Image.png)
 
 ## Attachments
+
 - [[Cards/Cervical 1\|Cervical 1]], [[Cards/Cervical 2\|C2]], [[Cards/Cervical 3\|C3]] [[Cards/Cervical 4\|C4]]
 - [[Cards/Superior Angle of the Scapula\|Superior Angle of the Scapula]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Cards/Cervical Spine\|Cervical Spine]]                   |
@@ -49,5 +52,6 @@
 { .block-language-dataview}
 
 ## Flashcards
+
 What are the attachments for the [[Cards/Levator Scapulae\|Levator Scapulae]]?;;[[Cards/Cervical 1\|C1]]-[[Cards/Cervical 4\|C4]] and the medial [[Cards/Superior Border of the Scapula\|Superior Border of the Scapula]]
 <!--SR:!2023-04-19,3,250-->
