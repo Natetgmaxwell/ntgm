@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -31,4 +32,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
