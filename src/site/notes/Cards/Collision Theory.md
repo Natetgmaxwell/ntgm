@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## For Reaction to Occur [[Sources/Video/@DavidMcKay2024SCI105M03T03Collision\|@DavidMcKay2024SCI105M03T03Collision]]:
 
@@ -19,9 +18,11 @@
 - Correct orientation
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                              |
 | ------------------------------------------- |
 | [[Cards/Kinetic Energy\|Kinetic Energy]] |
@@ -39,4 +40,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
