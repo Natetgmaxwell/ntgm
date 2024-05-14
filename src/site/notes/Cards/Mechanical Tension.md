@@ -10,12 +10,13 @@
 > down:: [[Cards/Progressive Overload\|Progressive Overload]], [[Cards/Mind Muscle Connection\|Mind Muscle Connection]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
