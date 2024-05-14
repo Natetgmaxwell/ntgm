@@ -20,10 +20,13 @@
 
 ![Extras/Images/E4A7PK44.png|400](/img/user/Extras/Images/E4A7PK44.png)
 [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Articles/25 Mind-Blowing Psychological Facts About Love - YourTango\|25 Mind-Blowing Psychological Facts About Love - YourTango]]
 - [[Sources/Articles/37TypesHormones2018\|37TypesHormones2018]]
 - [[Sources/Podcasts/Podcast Episodes/Understanding & Controlling Aggression   Episode 71\|Understanding & Controlling Aggression   Episode 71]]
@@ -31,5 +34,6 @@
 { .block-language-dataview}
 
 ## Flashcards
+
 Which cells produce testosterone?;;[[Cards/Leydig cells\|Leydig cells]]
 <!--SR:!2023-08-17,1,230-->
