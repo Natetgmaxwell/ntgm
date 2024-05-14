@@ -10,24 +10,25 @@
 > down:: [[Cards/Cellular Respiration\|Cellular Respiration]], [[Cards/Inhale\|Inhale]], [[Cards/Exhale\|Exhale]], [[Cards/Gas Exchange\|Gas Exchange]]
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > In order to create ATP, muscles utilise carbohydrates, fatty acids and amino acids from either food or glycogen to fuel cellular respiration.
 
-## Types of [[Cards/Respiration\|Respiration]] 
+## Types of [[Cards/Respiration\|Respiration]]
 
 - [[Cards/Cellular Respiration\|Cellular Respiration]]
 - [[Cards/Aerobic Respiration\|Aerobic Respiration]]
 - [[Cards/Anaerobic Respiration\|Anaerobic Respiration]]
 
 # Reference
+
 - [[Cards/Inhale\|Inhale]]
 - [[Cards/Exhale\|Exhale]]
 - [[Cards/Breath work\|Breath work]]
 - [[Cards/Mitochondria\|Mitochondria]]
 
 ## Mentions
+
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Alveoli\|Alveoli]]                                                                                                |
@@ -72,7 +73,7 @@
 ## Flashcards
 
 Describe Boyle's law and its application to mathematical problems and principles of respiration (inhalation and exhalation).;;Boyle's law states that pressure and volume are inversely proportional at constant temperature. It explains lung expansion during inhalation and compression during exhalation in respiration.
-<!--SR:!2023-10-15,3,150-->
+<!--SR:!2024-05-12,6,170-->
 
 What area of the brain control [[Cards/Unconsciousness\|unconscious]] breathing?;;[[Cards/Medulla Oblongata\|Medulla Oblongata]] and [[Cards/Pons\|Pons]]
-<!--SR:!2023-10-15,3,150-->
+<!--SR:!2024-05-08,2,130-->
