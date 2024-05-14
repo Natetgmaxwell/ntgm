@@ -16,9 +16,11 @@
 > Glucogenic  amino  acids  can  be  converted  into  [[Cards/Glucose\|glucose]]  through [[Cards/Gluconeogenesis\|Gluconeogenesis]],  and  they  include  [[Cards/Alanine\|Alanine]],  [[Cards/Arginine\|Arginine]],  [[Cards/Asparagine\|Asparagine]], [[Cards/Cysteine\|cysteine]], [[Cards/Glutamic acid\|Glutamic acid]],  [[Cards/Glutamine\|Glutamine]],  [[Cards/Histidine\|Histidine]],  [[Cards/Methionine\|Methionine]],  [[Cards/Proline\|Proline]],  [[Cards/Serine\|Serine]]  and [[Cards/Valine\|Valine]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                |
 | --------------------------------------------- |
 | [[Cards/Amino Acid Pool\|Amino Acid Pool]] |
