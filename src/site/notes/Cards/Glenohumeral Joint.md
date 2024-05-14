@@ -10,23 +10,26 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Tissues in the Area
+
 - [[Cards/Deltoid\|Deltoid]]
 - [[Cards/Trapezius\|Trapezius]]
 - [[Cards/Pectoralis\|Pectoralis]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@2023-LFS122M8T1Skeletal\|@2023-LFS122M8T1Skeletal]]
 - [[Sources/Video/@colingavagan2023-LFS122M8T2Muscles\|@colingavagan2023-LFS122M8T2Muscles]]
 
 { .block-language-dataview}
 
 ## Flashcards
+
 What are the tissues around the [[Cards/Glenohumeral Joint\|Glenohumeral Joint]]?;;[[Cards/Deltoid\|Deltoid]], [[Cards/Trapezius\|Trapezius]] and [[Cards/Pectoralis\|Pectoralis]]
 <!--SR:!2024-04-27,298,290-->
 What is the anatomical name for the shoulder joint?;;[[Cards/Glenohumeral Joint\|Glenohumeral Joint]]
