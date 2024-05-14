@@ -10,7 +10,6 @@
 > down:: [[Cards/Vestibulocochlear Nerve\|Vestibulocochlear Nerve]], [[Cards/Vagus Nerve\|Vagus Nerve]], [[Cards/Facial Nerve\|Facial Nerve]]
 
 > [!Definition] Definition
-> 
 
 ## List of [[Cards/Cranial Nerves\|Cranial Nerves]]
 
@@ -31,9 +30,11 @@
 - [[Hypoglossal Nerve\|Hypoglossal Nerve]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
