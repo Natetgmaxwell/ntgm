@@ -25,6 +25,7 @@
 > “But if thought corrupts language, language can also corrupt thought.”
 
 # Reference
+
 - [[Cards/Homo sapiens\|Homo sapiens]]
 - [[Cards/Overshadowing Effect\|Overshadowing Effect]]
 - [[Cards/Verbal Ticks\|Verbal Ticks]]
