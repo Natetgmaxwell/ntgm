@@ -13,6 +13,7 @@
 > Neurotransmitters are **chemical messengers that your body can't function without**. Their job is to carry chemical signals (“messages”) from one [[Cards/Neurons\|Neurons]] (nerve cell) to the next target cell.
 
 ## Neurotransmitters
+
 - [[Cards/Serotonin\|Serotonin]]
 - [[Cards/Dopamine\|Dopamine]], synthesised by;
 	- [[Cards/Norepinephrine\|Norepinephrine]]
@@ -21,12 +22,15 @@
 - [[Cards/Acetylcholine\|Acetylcholine]]
 
 ## Check [[Cards/Neurotransmitter\|Neurotransmitter]] Levels
+
 - [Braverman Personality Type Assessment](https://www.bravermantest.com)
 
 # Reference
+
 - [[Cards/Neurons\|Neurons]]
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-11-27 Sun\|2022-11-27 Sun]]                                                 |
@@ -74,13 +78,13 @@
 ## Flashcards
 
 The structure in which neurotransmitters are stored in is called?;;[[Cards/Synaptic Vesicles\|Synaptic Vesicles]]
-<!--SR:!2023-11-14,24,270-->
+<!--SR:!2024-07-09,64,270-->
 
 What are neurotransmitters?;;Chemicals stored in [[Cards/Synaptic Vesicles\|synaptic vesicles]] for communication between cells.
 <!--SR:!2023-10-30,9,230-->
 
 What neurotransmitter is used in excitatory synapses?;;[[Cards/Glutamate\|Glutamate]].
-<!--SR:!2023-11-05,15,230-->
+<!--SR:!2024-05-14,8,210-->
 
 How are neurotransmitters removed after transmission?;;Enzymes like acetylcholinesterase degrade them or they are reabsorbed and recycled.
-<!--SR:!2023-11-06,16,230-->
+<!--SR:!2024-06-11,36,230-->
