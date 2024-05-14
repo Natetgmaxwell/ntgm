@@ -10,7 +10,6 @@
 > down:: [[Cards/Osmoreceptors\|Osmoreceptors]], [[Cards/Mechanoreceptors\|Mechanoreceptors]], [[Cards/Chemoreceptors\|Chemoreceptors]]
 
 > [!Definition] Definition
-> 
 
 | Receptor                  | Sensory Information                                       |
 | ------------------------- | --------------------------------------------------------- |
@@ -26,12 +25,15 @@
 | [[Cards/Gustatory Cells\|Gustatory Cells]]       | Taste of foods                                            | 
 
 # Reference
+
 - 
 
 ## Mentions
 
+
 { .block-language-dataview}
 
 ## Flashcards
+
 Component of a homeostatic mechanism that sense the value of a variable and sends data on it to the control centre;;[[Cards/Sensory Neurons\|Sensory Neurons]]
-<!--SR:!2024-01-19,101,290-->
+<!--SR:!2025-02-22,292,290-->
