@@ -10,13 +10,14 @@
 > down:: [[Cards/Thoracic Aorta\|Thoracic Aorta]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - [[Cards/Veins\|Veins]]
 - [[Cards/Atherosclerosis\|Atherosclerosis]]
 
 ## Mentions
+
 - [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]]
 
 { .block-language-dataview}
@@ -24,4 +25,4 @@
 ## Flashcards
 
 Which blood vessels have the thickest walls?;;[[Cards/Arteries\|Arteries]]
-<!--SR:!2023-10-24,3,170-->
+<!--SR:!2024-05-10,4,170-->
