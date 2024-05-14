@@ -10,12 +10,13 @@
 > down:: [[Cards/Internal os\|Internal os]], [[External os\|External os]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]       |
