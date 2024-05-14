@@ -10,9 +10,9 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Bones of the Cranium
+
 - [[Cards/Frontal bone\|Frontal bone]]
 - [[Cards/Parietal bone\|Parietal bone]]
 - [[Cards/Ethmoid Bone\|Ethmoid Bone]]
@@ -21,9 +21,11 @@
 - [[Cards/Occipital bone\|Occipital bone]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Cards/Cranial Fossas\|Cranial Fossas]]                   |
