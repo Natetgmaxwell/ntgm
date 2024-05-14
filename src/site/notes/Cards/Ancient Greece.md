@@ -2,7 +2,6 @@
 {"tags":["moc","on/History"],"date created":"2022-04-08 Fri","edited":"2023-04-06 Thu","relations":["[[Greek Philosophy]]","[[Greek Mythology]]","[[Ancient Civilizations]]","[[Democracy]]"],"dg-publish":true,"permalink":"/cards/ancient-greece/","dgPassFrontmatter":true}
 ---
 
-
 # Ancient Greece
 
 ## Figures of Ancient Greece
@@ -43,9 +42,9 @@
 	- A series of conflicts between the Roman Republic and various Greek city-states and kingdoms, leading to the ultimate Roman conquest of Greece.In markdown bullet list format, list the prominent ancient greek conflicts
 
 
-
 </div></div>
 
 
 # Reference
+
 - [[Cards/Roman Empire\|Roman Empire]]
