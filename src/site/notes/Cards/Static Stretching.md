@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > "Static stretching prior to resistance training can have a negative impact on acute dynamic strength and isometric strength."
@@ -21,9 +20,11 @@
 - [[Cards/Static Stretching\|Static Stretching]] can help reduce [[Cards/Cramps\|Cramps]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                      |
 | ----------------------------------- |
 | [[Cards/Stretching\|Stretching]] |
@@ -42,4 +43,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
