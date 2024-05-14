@@ -17,13 +17,17 @@
 ## Parts of the [[Cards/Spinalis\|Spinalis]]
 
 ### [[Cards/Spinalis capitis\|Spinalis capitis]]
+
 ### [[Cards/Spinalis cervicis\|Spinalis cervicis]]
+
 ### [[Cards/Spinalis thoracis\|Spinalis thoracis]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                          |
 | --------------------------------------- |
 | [[Cards/Iliocostalis\|Iliocostalis]] |
