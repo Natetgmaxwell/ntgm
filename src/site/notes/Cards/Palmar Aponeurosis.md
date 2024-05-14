@@ -12,8 +12,7 @@
 > [!Definition] Definition
 > Palmar aponeurosis is a thin layer of connective tissue that covers the bones and muscles of the hand. It helps to stabilize the wrist and fingers, and allows some flexibility and movement.
 
-## Muscles and bones that are encased in the [[Cards/Palmar Aponeurosis\|Palmar Aponeurosis]]?
-
+## Muscles and Bones that Are Encased in the [[Cards/Palmar Aponeurosis\|Palmar Aponeurosis]]?
 
 - The long flexor muscles, which extend the fingers and help with fine motor skills. They are innervated by the radial nerve and branch into three heads: superficial, intermediate, and deep.
 - The opponens pollicis, which opposes the thumb to the palm and assists in pinching. It is also innervated by the radial nerve and has a tendon that crosses the wrist crease.
@@ -22,11 +21,12 @@
 - The extensor pollicis brevis, which extends the thumb against resistance and helps with gripping. It is innervated by the [[Cards/Median Nerve\|median nerve]] and has a tendon that crosses the wrist crease near the base of the thumb.
 - The extensor pollicis longus, which extends the thumb away from the palm and assists in writing. It is innervated by the [[Cards/Median Nerve\|median nerve]] and has a tendon that runs along the back of the forearm.
 
-
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
