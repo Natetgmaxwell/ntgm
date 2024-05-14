@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Methods of [[Cards/Venipuncture\|Venipuncture]] [[Sources/Video/@MelindaDean2024MLS101M05T03Introduction\|@MelindaDean2024MLS101M05T03Introduction]]
 
@@ -30,9 +29,11 @@
 - [[Cards/Cephalic Vein\|Cephalic Vein]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -54,4 +55,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
