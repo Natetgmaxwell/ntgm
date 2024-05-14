@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                    |
 | ----------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-03-04\|2022-03-04]]                 |
@@ -36,4 +37,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
