@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]
 > Progress and technology have not rewired us; they have merely altered the forms of our emotions and the type of irrationality that comes with them"
@@ -20,9 +19,11 @@
 > This re- sults in [[Cards/Evolutionary Mismatch\|Evolutionary Mismatch]], defined here as the phenomenon by which previously adaptive alleles are no longer favoured in a new environment (Fig. 1).
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -40,4 +41,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
