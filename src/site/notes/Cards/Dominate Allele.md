@@ -12,4 +12,5 @@
 - When one [[Cards/Genotype\|Genotype]] masks another, the [[Cards/Recessive Allele\|Recessive Allele]]
 
 # Reference
+
 - [[Cards/Recessive Allele\|Recessive Allele]]
