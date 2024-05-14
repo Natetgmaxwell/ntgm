@@ -13,12 +13,14 @@
 > The Germ Theory of Disease posits that specific microorganisms, such as bacteria and viruses, cause illnesses. 
 
 > [!quote] [[Sources/Video/@ipekkurtboke2024LFS261M01T01Introduction\|@ipekkurtboke2024LFS261M01T01Introduction]]
-> He {[[Cards/Louis Pasteur\|Louis Pasteur]]} established experimental steps for directly linking a specific [[Cards/Micro-organisms\|microorganism]] to a specific disease
+> He ([[Cards/Louis Pasteur\|Louis Pasteur]]) established experimental steps for directly linking a specific [[Cards/Micro-organisms\|microorganism]] to a specific disease
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                              |
 | ----------------------------------------------------------- |
 | [[Cards/Bacteria\|Bacteria]]                             |
@@ -40,4 +42,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
