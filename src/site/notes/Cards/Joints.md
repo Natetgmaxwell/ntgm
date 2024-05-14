@@ -10,13 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > Different types of [[Cards/Joints\|joints]] allow for an emphasis on stability and others on mobility.
 
 ![Pasted image 20230509183922.png|550](/img/user/Extras/Images/Pasted%20image%2020230509183922.png)
 
 ## Types of [[Cards/Joints\|Joints]]
+
 - [[Cards/Fibrous joints\|Fibrous joints]]
 - [[Cards/Cartilaginous joints\|Cartilaginous joints]]
 - [[Cards/Synovial joints\|Synovial joints]]
@@ -28,6 +28,7 @@
 	- [[Cards/Saddle Joint\|Saddle Joint]]
 
 #### What Gives [[Cards/Joints\|Joints]] Stability (Joint stability)
+
 - [[Cards/Bone Tissue\|Bone Tissue]] (Shape)
 - [[Cards/Ligaments\|Ligaments]]
 - [[Cards/Muscle Tissue\|Muscle Tissue]]
@@ -43,9 +44,11 @@
 { .block-language-dataview}
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
