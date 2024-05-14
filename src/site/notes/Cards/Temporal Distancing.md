@@ -2,7 +2,6 @@
 {"Created":"2022-08-06","edited":"2023-04-06 Thu","date created":"2022-08-06 Sat","dg-publish":true,"permalink":"/cards/temporal-distancing/","dgPassFrontmatter":true}
 ---
 
-
 # Temporal Distancing
 
 > [!Definition] Definition
@@ -12,5 +11,7 @@
 > “The years teach much which the days never know.”
 
 - [[Cards/Temporal Distancing\|Temporal Distancing]] is a strategy to deal with [[Cards/Stress\|Stress]]
+
 # Reference
+
 - 
