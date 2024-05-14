@@ -2,7 +2,7 @@
 {"aliases":["Lymph"],"dg-publish":true,"permalink":"/cards/lymphatic-fluid/","dgPassFrontmatter":true}
 ---
 
-# Lymphatic fluid
+# Lymphatic Fluid
 
 > [!Ontology]-
 > up:: [[Cards/Fluid Connective Tissue\|Fluid Connective Tissue]], [[Cards/Lymphatic System\|Lymphatic System]]
@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
