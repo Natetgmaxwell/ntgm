@@ -15,9 +15,11 @@
 - [[Cards/Sexual Reproduction\|Sexual Reproduction]] allows for [[Cards/Genetic Variation\|Genetic Variation]] as the offspring are not clones and [[Cards/Inheritance\|inherit]] genetic makeup from both parents (hence having a [[Cards/Diploid Number\|Diploid Number]]).
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                    |
 | --------------------------------------------------------------------------------- |
 | [[Cards/Fecundity\|Fecundity]]                                                 |
