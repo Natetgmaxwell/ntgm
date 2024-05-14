@@ -10,10 +10,12 @@
 > down:: [[Cards/Cervical 1\|C1]], [[Cards/Cervical 2\|C2]], [[Cards/Cervical 3\|C3]], [[Cards/Cervical 4\|C4]], [[Cards/Cervical 5\|C5]], [[Cards/Cervical 6\|C6]], [[Cards/Cervical 7\|C7]]
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/image-5-x475-y316.png|300](/img/user/Extras/Images/image-5-x475-y316.png)
-[[Sources/Video/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]]
+
+> [!cite]-
+> [[Sources/Video/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]]
+
 ## Vertebrae of the [[Cards/Cervical Spine\|Cervical Spine]]
 
 - [[Cards/Cervical 1\|Cervical 1]]
@@ -25,13 +27,16 @@
 - [[Cards/Cervical 7\|Cervical 7]]
 
 ## Tissues in the Area
+
 - [[Cards/Levator Scapulae\|Levator Scapulae]]
 - [[Cards/Trapezius\|Trapezius]]
 
 # Reference
+
 - [[Cards/Thoracic Spine\|Thoracic Spine]]
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
@@ -65,5 +70,6 @@
 { .block-language-dataview}
 
 ## Flashcards
+
 What tissues surrounds the [[Cards/Cervical Spine\|Cervical Spine]]?;; [[Cards/Levator Scapulae\|Levator Scapulae]] and [[Cards/Trapezius\|Trapezius]]
 <!--SR:!2023-04-20,4,270-->
