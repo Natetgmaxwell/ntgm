@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Video/@davidmckay2024SCI105M02T05Electronegativity\|@davidmckay2024SCI105M02T05Electronegativity]]
 > [[Cards/Electronegativity\|Electronegativity]] ([[Cards/Electronegativity\|EN]]) is electron pulling power.
@@ -22,9 +21,11 @@
 [[Sources/Video/@davidmckay2024SCI105M02T05Electronegativity\|@davidmckay2024SCI105M02T05Electronegativity]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                  |
 | ------------------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Introductory Chemistry\|Introductory Chemistry]] |
@@ -42,4 +43,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
