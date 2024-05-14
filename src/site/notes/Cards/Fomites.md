@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -31,7 +32,7 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 What are fomites?;;Inanimate objects that may be contaminated with infectious organisms.
-<!--SR:!2024-04-19,3,250-->
+<!--SR:!2024-05-15,9,250-->
