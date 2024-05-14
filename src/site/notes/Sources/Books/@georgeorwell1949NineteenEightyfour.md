@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"CSRWR8UX","zt-attachments":["6577"],"alias":"1984, Nineteen Eighty-four","keywords":[],"FirstAuthor":"[[ George Orwell]]","tags":["source/book"],"dg-publish":true,"Genre":"Fiction","Status":"ToRead","permalink":"/sources/books/georgeorwell1949-nineteen-eightyfour/","dgPassFrontmatter":true}
+{"zotero-key":"CSRWR8UX","zt-attachments":["6577"],"aliases":["1984","Nineteen Eighty-four","@1984"],"keywords":null,"FirstAuthor":"[[ George Orwell]]","tags":["source/book"],"dg-publish":true,"Genre":"Fiction","Status":"ToRead","permalink":"/sources/books/georgeorwell1949-nineteen-eightyfour/","dgPassFrontmatter":true}
 ---
 
 # @georgeorwell1949NineteenEightyfour
@@ -37,6 +37,7 @@
 > | [[Sources/Books/Red Rising by Pierce Brown\|Red Rising by Pierce Brown]] |
 > | [[Cards/Self-deception\|Self-deception]]                                 |
 > | [[Cards/Social Hierarchy\|Social Hierarchy]]                             |
+> | [[Cards/Unconsciousness\|Unconsciousness]]                               |
 > | [[Spaces/School/Week 7 EA Practise English\|Week 7 EA Practise English]] |
 > 
 { .block-language-dataview}
