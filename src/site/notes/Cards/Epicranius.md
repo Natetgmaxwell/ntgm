@@ -10,16 +10,18 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Parts of the [[Cards/Epicranius\|Epicranius]]
+
 - [[Cards/Front Belly of the Epicranius\|Front Belly of the Epicranius]]
 - [[Cards/Occipital Belly of the Epicranius\|Occipital Belly of the Epicranius]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
@@ -39,4 +41,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
