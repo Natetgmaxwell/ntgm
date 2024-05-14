@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                    |
 | --------------------------------- |
 | [[Cards/Vitamin C\|Vitamin C]] |
@@ -32,4 +33,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
