@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/@brighton2023NSDRSleepHack\|@brighton2023NSDRSleepHack]]
 > NSDR works by inducing a state of deep relaxation that mimics the brainwave patterns of deep sleep, explains Dr Varsani.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -35,4 +36,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
