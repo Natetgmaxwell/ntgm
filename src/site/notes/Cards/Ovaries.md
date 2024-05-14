@@ -10,12 +10,13 @@
 > down:: [[Cards/Ovarian Cycle\|Ovarian Cycle]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                          |
 | ----------------------------------------------------------------------- |
 | [[Cards/Broad Ligament\|Broad Ligament]]                             |
@@ -51,5 +52,6 @@
 { .block-language-dataview}
 
 ## Flashcards
+
 Which hormones are made in the ovaries?;;[[Cards/Estrogen\|Estrogen]] and [[Cards/Progesterone\|Progesterone]]
 <!--SR:!2023-08-22,6,250-->
