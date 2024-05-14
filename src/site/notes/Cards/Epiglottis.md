@@ -13,9 +13,11 @@
 > The [[Cards/Cartilage\|Cartilage]] in the back of the throat the separated the [[Cards/Digestive System\|Digestive System]] and the [[Extras/Excalidraw/Respiratory System Diagram\|Respiratory System Diagram]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
