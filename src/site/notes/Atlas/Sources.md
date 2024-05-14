@@ -7,12 +7,12 @@
 ## Books
 | Book                                                                                                | Genre       |
 | --------------------------------------------------------------------------------------------------- | ----------- |
+| [[Sources/Books/@georgeorwell1949NineteenEightyfour\|@georgeorwell1949NineteenEightyfour]]       | Fiction     |
 | [[Sources/Books/@davidmckay2023IntroductionChemistry\|@davidmckay2023IntroductionChemistry]]     | Non-Fiction |
 | [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]] | \-          |
-| [[Sources/Books/@tomasello2009CulturalOriginsHuman\|@tomasello2009CulturalOriginsHuman]]         | \-          |
 | [[Sources/Books/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]     | \-          |
 | [[Sources/Books/@walterisaacson2023ElonMusk\|@walterisaacson2023ElonMusk]]                       | \-          |
-| [[Sources/Books/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]             | \-          |
+| [[Sources/Books/@tomasello2009CulturalOriginsHuman\|@tomasello2009CulturalOriginsHuman]]         | \-          |
 
 { .block-language-dataview}
 
@@ -22,21 +22,21 @@
 | [[Sources/Video/Catch Me If You Can (2002)\|Catch Me If You Can (2002)]]         | ★★★★★  | <ul><li>Biography</li><li>Crime</li><li>Drama</li></ul>   |
 | [[Sources/Video/Inception (2010)\|Inception (2010)]]                             | ★★★★★  | <ul><li>Action</li><li>Adventure</li><li>Sci-Fi</li></ul> |
 | [[Sources/Video/Interstellar (2014)\|Interstellar (2014)]]                       | ★★★★★  | <ul><li>Sci-Fi</li><li>Action</li><li>Adventure</li></ul> |
-| [[Sources/Video/Oppenheimer (2023)\|Oppenheimer (2023)]]                         | ★★★★★  | <ul><li>Drama</li><li>History</li></ul>                   |
 | [[Sources/Video/The Dark Knight (2008)\|The Dark Knight (2008)]]                 | ★★★★★  | <ul><li>Crime</li><li>Action</li><li>Thriller</li></ul>   |
+| [[Sources/Video/Oppenheimer (2023)\|Oppenheimer (2023)]]                         | ★★★★★  | <ul><li>Drama</li><li>History</li></ul>                   |
 | [[Sources/Video/The Wolf of Wall Street (2013)\|The Wolf of Wall Street (2013)]] | ★★★★★  | <ul><li>Biography</li><li>Comedy</li><li>Crime</li></ul>  |
 
 { .block-language-dataview}
 
 ## Articles
-| Title                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Articles/@henderson2022MaleWarriorHypothesis\|@henderson2022MaleWarriorHypothesis]]                                   |
-| [[Sources/@Henderson2022WhatSocialStatus\|@Henderson2022WhatSocialStatus]]                                                      |
-| [[Sources/Articles/TypesJointMovement\|TypesJointMovement]]                                                                     |
-| [[Sources/Articles/2021SodiumBicarbonateSupplementsExercisePerformance-\|2021SodiumBicarbonateSupplementsExercisePerformance-]] |
-| [[Sources/Articles/@magazineStoryAmerica19thCentury\|@magazineStoryAmerica19thCentury]]                                         |
-| [[Sources/Articles/@henderson2022VictimSignalingDark\|@henderson2022VictimSignalingDark]]                                       |
+| Title                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Articles/Electrolytes and fasting- Benefits and best sources\|Electrolytes and fasting- Benefits and best sources]] |
+| [[Sources/Articles/@henderson2022-DawnEverythingNew\|@henderson2022-DawnEverythingNew]]                                       |
+| [[Sources/@hawkinsGenghisKhanWas2022\|@hawkinsGenghisKhanWas2022]]                                                            |
+| [[Sources/@Henderson2022LuxuryBeliefsAre\|@Henderson2022LuxuryBeliefsAre]]                                                    |
+| [[Sources/Articles/@henderson2022MaleWarriorHypothesis\|@henderson2022MaleWarriorHypothesis]]                                 |
+| [[Sources/@Henderson2022WhatSocialStatus\|@Henderson2022WhatSocialStatus]]                                                    |
 
 { .block-language-dataview}
 
@@ -51,13 +51,13 @@
 { .block-language-dataview}
 
 ## Research Papers
-| File                                                                                                                | Keywords                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [[Sources/Research Papers/@vale2013ValueAskingQuestions\|@vale2013ValueAskingQuestions]]                         | <ul><li>Learning</li><li>Communication</li><li>Education</li></ul>                       |
-| [[Sources/Research Papers/@gross2009ReligiosityAmericanCollege\|@gross2009ReligiosityAmericanCollege]]           | <ul></ul>                                                                                |
-| [[Sources/Research Papers/@trommelen2023PresleepProteinIngestion\|@trommelen2023PresleepProteinIngestion]]       | <ul><li>performance</li><li>recovery</li><li>sleep</li><li>protein</li></ul>             |
-| [[Sources/Research Papers/@bentepedersen2012MusclesExerciseObesity\|@bentepedersen2012MusclesExerciseObesity]]   | <ul><li>Muscle</li><li>Skeletal</li><li>Myokine</li></ul>                                |
-| [[Sources/Research Papers/@basta2024BacterialSpores\|@basta2024BacterialSpores]]                                 | <ul><li>Microbiology</li><li>Bacteria</li></ul>                                          |
-| [[Sources/Research Papers/@infantolinoArrangementFasciclesWhole2012\|@infantolinoArrangementFasciclesWhole2012]] | <ul><li>fascicle</li><li>first dorsal interosseous</li><li>muscle architecture</li></ul> |
+| File                                                                                                          | Keywords                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/@thompsonThyroidHormoneFluctuations2017\|@thompsonThyroidHormoneFluctuations2017]]               | <ul><li>Alouatta</li><li>Animals</li><li>Basal Metabolism</li><li>Body Temperature Regulation</li><li>energetics</li><li>Macaca</li><li>Seasons</li><li>Species Specificity</li><li>temperature</li><li>Temperature</li><li>thermal environment</li><li>thermoregulation</li><li>thyroid hormone</li><li>Thyroid Hormones</li></ul> |
+| [[Sources/@Nieman2015CushingSyndromeUpdate\|@Nieman2015CushingSyndromeUpdate]]                             | <ul></ul>                                                                                                                                                                                                                                                                                                                           |
+| [[Sources/@Jifa2013DataInformationKnowledge\|@Jifa2013DataInformationKnowledge]]                           | <ul><li>meta-synthesis of wisdom</li><li>wisdom</li><li>wisdom city</li></ul>                                                                                                                                                                                                                                                       |
+| [[Sources/Research Papers/@vale2013ValueAskingQuestions\|@vale2013ValueAskingQuestions]]                   | <ul><li>Learning</li><li>Communication</li><li>Education</li></ul>                                                                                                                                                                                                                                                                  |
+| [[Sources/Research Papers/@gross2009ReligiosityAmericanCollege\|@gross2009ReligiosityAmericanCollege]]     | <ul></ul>                                                                                                                                                                                                                                                                                                                           |
+| [[Sources/Research Papers/@trommelen2023PresleepProteinIngestion\|@trommelen2023PresleepProteinIngestion]] | <ul><li>performance</li><li>recovery</li><li>sleep</li><li>protein</li></ul>                                                                                                                                                                                                                                                        |
 
 { .block-language-dataview}
