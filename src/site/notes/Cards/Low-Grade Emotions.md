@@ -13,5 +13,6 @@
 > "Continual moods and feelings that we experience in life, are below the level of consciousness."
 
 # Reference
+
 - [[Cards/Unconsciousness\|Unconsciousness]]
 - [[Cards/High-Grade Emotions\|High-Grade Emotions]] (opposite)
