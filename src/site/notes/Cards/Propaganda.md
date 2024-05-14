@@ -12,15 +12,16 @@ tags::
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@georgeorwell1949NineteenEightyfour\|1984]]
 > “Who controls the past,’ ran the Party slogan, ‘controls the future: who controls the present controls the past.”
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
