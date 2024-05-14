@@ -10,14 +10,16 @@
 > down:: [[Cards/Pour Plate\|Pour Plate]], [[Cards/Spread Plate\|Spread Plate]]
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/VZWJC9DY.png|400](/img/user/Extras/Images/VZWJC9DY.png)
 [[Sources/Books/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links          |
 | ----------------------- |
 | [[Cards/Agar\|Agar]] |
@@ -37,4 +39,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
