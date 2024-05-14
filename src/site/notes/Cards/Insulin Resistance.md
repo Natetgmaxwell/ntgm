@@ -14,9 +14,11 @@
 > {The [[Cards/Hypothalamic-Pituitary-Adrenal Axis\|HPA Axis]] has} direct as well as insulin-mediated effects on adipose tissue, ultimately promoting visceral adiposity, insulin resistance, dyslipidemia and hypertension (metabolic syndrome X) and direct effects on the bone, causing “low turnover” osteoporosis.
 
 # Reference
+
 - [[Cards/Insulin\|Insulin]]
 
 ## Mentions
+
 | Incoming Links                                |
 | --------------------------------------------- |
 | [[Cards/Type 1 Diabetes\|Type 1 Diabetes]] |
