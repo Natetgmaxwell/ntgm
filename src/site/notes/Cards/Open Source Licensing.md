@@ -10,6 +10,7 @@ tags:: #School #on/Business
 - A project that is open for anyone to contribute
 
 # Reference
+
 - [[Cards/Exclusive License\|Exclusive License]]
 - [[Cards/Non-Exclusive License\|Non-Exclusive License]]
 - [[Cards/Business Expansion\|Business Expansion]]
