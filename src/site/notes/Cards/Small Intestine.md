@@ -10,11 +10,11 @@
 > down:: [[Cards/Duodenum\|Duodenum]], [[Cards/Jejunum\|Jejunum]], [[Cards/Ileum\|Ileum]]
 
 > [!Definition] Definition
-> 
 
 - [[Cards/Small Intestine\|Small Intestine]] is approx. 3 meters long
 
 ## Three Sections of the [[Cards/Small Intestine\|Small Intestine]]
+
 - [[Cards/Duodenum\|Duodenum]]
 - [[Cards/Jejunum\|Jejunum]]
 - [[Cards/Ileum\|Ileum]]
@@ -41,9 +41,11 @@
 4. Serosa
 
 # Reference
+
 - [[Cards/Large Intestine\|Large Intestine]]
 
 ## Mentions
+
 | Incoming Links                                                                                        |
 | ----------------------------------------------------------------------------------------------------- |
 | [[Cards/Ascending Colon\|Ascending Colon]]                                                         |
