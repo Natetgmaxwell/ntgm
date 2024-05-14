@@ -15,13 +15,16 @@
 
 
 ## 2 Types of [[Cards/Nervous Tissue\|Nervous Tissue]]
+
 1. [[Cards/Neurons\|Neurons]]
 2. [[Cards/Neuroglia\|Neuroglia]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]]
 
 { .block-language-dataview}
