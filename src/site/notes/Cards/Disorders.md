@@ -10,9 +10,9 @@
 > down:: [[Cards/Mental disorder\|Mental disorder]], [[Cards/Autoimmune Disorders\|Autoimmune Disorders]], [[Cards/Genetic Disorders\|Genetic Disorders]]
 
 > [!Definition] Definition
-> 
 
 ## Types of [[Cards/Disorders\|Disorders]]
+
 - [[Cards/Mental disorder\|Mental disorder]]
 - [[Cards/Neurological Disorders\|Neurological Disorders]]
 - [[Sleep Disorders\|Sleep Disorders]]
@@ -23,9 +23,11 @@
 - [[Cards/Somatic Disorder\|Somatic Disorder]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
