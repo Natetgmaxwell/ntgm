@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/I5PFXISM.png](/img/user/Extras/Images/I5PFXISM.png)
 [[Sources/Research Papers/@gross2009ReligiosityAmericanCollege\|@gross2009ReligiosityAmericanCollege]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -35,4 +36,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
