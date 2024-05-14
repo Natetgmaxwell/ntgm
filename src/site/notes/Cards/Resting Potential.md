@@ -13,9 +13,11 @@
 > Resting potentials are the stable membrane potentials that most cells maintain when they are not actively sending signals or responding to stimuli.
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
