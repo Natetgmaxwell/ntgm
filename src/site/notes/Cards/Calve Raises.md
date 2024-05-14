@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Spaces/Life Planning/Adam Maxwell Exercise Program\|Adam Maxwell Exercise Program]]
 
 { .block-language-dataview}
