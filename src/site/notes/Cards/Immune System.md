@@ -19,9 +19,12 @@
 | Non-Specific                | Specific                        |
 | Low-potency                | Potent                          | 
 | Fast Acting                 | Slow Acting                     |
+
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
