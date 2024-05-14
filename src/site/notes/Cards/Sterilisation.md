@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                          |
 | --------------------------------------- |
 | [[Cards/Sanitisation\|Sanitisation]] |
@@ -32,7 +33,7 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 Which method is the most commonly used one for sterilization? a. Incineration b. Heating c. Freezing d. Lyophilization e. Centrifugation;;Heating
-<!--SR:!2024-04-19,3,250-->
+<!--SR:!2024-05-18,12,270-->
