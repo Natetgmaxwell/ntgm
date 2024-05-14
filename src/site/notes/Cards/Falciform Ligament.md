@@ -10,14 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [@leedaffin2023-LFS122M11T3Pancreas]
 > "It functions to attach the liver to the posterior aspect of the anterior body wall."
+
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@leedaffin2023-LFS122M11T3Pancreas\|@leedaffin2023-LFS122M11T3Pancreas]]
 
 { .block-language-dataview}
