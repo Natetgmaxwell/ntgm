@@ -13,16 +13,20 @@
 > A movement away from the midline of the body.
 { #5d3552}
 
+
 # Reference
+
 - [[Cards/Adduction\|Adduction]] (opposite)
 
 ## Mentions
+
 - [[Sources/Articles/AnatomicalBodyPlanes2022\|AnatomicalBodyPlanes2022]]
 - [[Sources/Articles/TypesJointMovement\|TypesJointMovement]]
 
 { .block-language-dataview}
 
 ## Flashcards
+
 What is [[Cards/Abduction\|Abduction]]?;;; Movement away from the midline of the body.
 <!--SR:!2023-07-04,79,250!2023-10-05,172,270-->
 
