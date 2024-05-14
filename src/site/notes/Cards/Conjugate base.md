@@ -2,7 +2,7 @@
 {"aliases":null,"tags":["Uni/SCI105"],"dg-publish":true,"permalink":"/cards/conjugate-base/","dgPassFrontmatter":true}
 ---
 
-# Conjugate base
+# Conjugate Base
 
 > [!ontology]-
 > up:: [[Cards/Alkali\|base]]
@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -34,4 +35,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
