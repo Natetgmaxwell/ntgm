@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/EMPXDZ93.png|400](/img/user/Extras/Images/EMPXDZ93.png)
 [[Sources/Video/@davidmckay2024SCI105M04T01Units\|@davidmckay2024SCI105M04T01Units]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -37,4 +38,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
