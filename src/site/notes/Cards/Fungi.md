@@ -10,12 +10,13 @@
 > down:: [[Cards/Fungal Infections\|Fungal Infections]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                              |
 | ----------------------------------------------------------- |
 | [[Cards/Infection\|Infection]]                           |
@@ -36,4 +37,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
