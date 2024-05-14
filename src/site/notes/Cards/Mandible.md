@@ -10,7 +10,6 @@
 > down:: [[Cards/Coronoid Process of the Mandible\|Coronoid Process of the Mandible]], [[Cards/Condylar Process\|Condylar Process]], [[Cards/Ramus of the Mandible\|Ramus of the Mandible]], [[Cards/Mandibular Angle\|Mandibular Angle]], [[Cards/Body of the Mandible\|Body of the Mandible]]
 
 > [!Definition] Definition
-> 
 
 ## Parts of the [[Cards/Mandible\|Mandible]]
 
@@ -24,9 +23,11 @@
 - [[Cards/Body of the Mandible\|Body of the Mandible]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Cards/Facial Bones\|Facial Bones]]                                                                   |
