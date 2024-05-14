@@ -10,17 +10,19 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
-## Attachment for:
+## Attachment For:
+
 - [[Cards/Superior gemellus\|Superior gemellus]]
 - [[Cards/Inferior gemellus\|Inferior gemellus]]
 - [[Cards/Quadratus femoris\|Quadratus femoris]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -40,4 +42,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
