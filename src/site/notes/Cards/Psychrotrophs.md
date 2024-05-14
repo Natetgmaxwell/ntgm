@@ -12,19 +12,16 @@
 > [!Definition] Definition
 > _Psychrotrophs_ are cold-tolerant bacteria or archaea that have the ability to grow at low temperatures.
 
-
-
-
 ## Growth Temperature Range for [[Cards/Psychrotrophs\|Psychrotrophs]]
 
 - 0ºC to 20ºC
 
-
-
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -40,7 +37,7 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 What is the growth temperature range for psychrotrophs?;;0ºC to 20ºC
-<!--SR:!2024-04-17,1,230-->
+<!--SR:!2024-05-07,1,210-->
