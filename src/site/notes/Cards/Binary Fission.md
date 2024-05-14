@@ -15,10 +15,10 @@
 # Reference
 
 ## Mentions
+
 | Incoming Links                                                                   |
 | -------------------------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-07-29\|2022-07-29]]                                |
-| [[Cards/Antibiotic Resistance\|Antibiotic Resistance]]                        |
 | [[Spaces/University/Projects/LFS261A2 Mid-term Exam\|LFS261A2 Mid-term Exam]] |
 
 { .block-language-dataview}
@@ -35,7 +35,8 @@
 | ------- |
 
 { .block-language-dataview}
+
 ## Flashcards
 
 What is binary fission?;;[[Cards/Asexual Reproduction\|Asexual Reproduction]] by separation of the body into two new bodies.
-<!--SR:!2024-04-19,3,250-->
+<!--SR:!2024-05-14,8,250-->
