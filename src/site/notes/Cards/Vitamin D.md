@@ -10,14 +10,15 @@
 > down:: [[Cards/Diet for Increasing Testosterone\|Diet for Increasing Testosterone]]
 
 > [!Definition] Definition
-> 
 
 - The [[Cards/Integumentary System\|Integumentary System]] synthesises [[Cards/Vitamin D\|Vitamin D]] through the [[Cards/Epidermis\|epidermal layers]] of the [[Cards/Skin\|Skin]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                       |
