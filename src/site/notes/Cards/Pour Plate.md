@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                  |
 | ------------------------------------------------------------------------------- |
 | [[Cards/Enumeration of Microorganisms\|Enumeration of Microorganisms]]       |
@@ -37,7 +38,7 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 What is a [[Cards/Pour Plate\|Pour Plate]]?;;A [[Cards/Pour Plate\|Pour Plate]] is where [[Cards/Micro-organisms\|Microbes]] get poured onto a empty petri dish than coved in melted [[Cards/Agar\|Agar]] then left to set.
-<!--SR:!2024-04-20,4,270-->
+<!--SR:!2024-05-17,11,270-->
