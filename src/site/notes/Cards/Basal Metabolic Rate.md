@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - [[Cards/Caloric Restriction\|Caloric Restriction]] can lower [[Cards/Basal Metabolic Rate\|BMR]] [@thompson2017-ThyroidHormoneFluctuations].
+
 # Reference
+
 - 
 
 ## Mentions
-- [[Sources/Research Papers/@thompson2017-ThyroidHormoneFluctuations\|@thompson2017-ThyroidHormoneFluctuations]]
+
 
 { .block-language-dataview}
 
