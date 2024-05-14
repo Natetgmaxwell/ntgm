@@ -10,7 +10,6 @@
 > down:: [[Cards/The Function of Science\|The Function of Science]]
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@markmanson2019-EverythingCkedBook\|@markmanson2019-EverythingCkedBook]]
 > "Science is arguably the most effective religion because it is the first religion that is able to evolve and improve upon itself."
@@ -27,9 +26,11 @@
 [[Sources/Research Papers/@vale2013ValueAskingQuestions\|@vale2013ValueAskingQuestions]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
