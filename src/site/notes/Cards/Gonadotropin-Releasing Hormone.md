@@ -10,17 +10,19 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - Produced in the [[Cards/Hypothalamus\|Hypothalamus]] and targets the [[Cards/Anterior Pituitary Gland\|Anterior Pituitary Gland]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
 ## Flashcards
 
 What hormone is responsible for the release of [[Cards/Luteinising Hormone\|LH]], [[Cards/Follicle Stimulating Hormone\|FSH]] in both [[Cards/Male\|males]] and [[Cards/Female\|Females]]?;;[[Cards/Gonadotropin-Releasing Hormone\|Gonadotropin-Releasing Hormone]]
-<!--SR:!2023-10-23,2,150-->
+<!--SR:!2024-05-07,1,130-->
