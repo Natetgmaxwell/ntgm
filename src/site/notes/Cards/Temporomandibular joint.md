@@ -2,7 +2,7 @@
 {"alias":"TMJ","aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/temporomandibular-joint/","dgPassFrontmatter":true}
 ---
 
-# Temporomandibular joint
+# Temporomandibular Joint
 
 > [!ontology]+
 > up:: [[Cards/Hinge Joint\|Hinge Joint]]
@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
