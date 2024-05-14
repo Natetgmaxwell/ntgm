@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                  |
 | ----------------------------------------------------------------------------------------------- |
 | [[Cards/Antioni van Leeuwenhoek\|Antioni van Leeuwenhoek]]                                   |
@@ -36,4 +37,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
