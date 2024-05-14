@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]
 > When we talk about microbial growth, we are really referring to the number of cells, not the size of the cells.
@@ -18,6 +17,7 @@
 ## Requirements for [[Cards/Microbial Growth\|Microbial Growth]]
 
 ### Physical
+
 - [[Cards/Environmental Temperature\|Environmental Temperature]]
 	- ![Extras/Images/JZVDBYQ9.png](/img/user/Extras/Images/JZVDBYQ9.png) [[Sources/Books/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]
 - [[Cards/Power of Hydrogen\|pH]]
@@ -33,9 +33,11 @@
 - [[Cards/Oxygen\|Oxygen]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -61,4 +63,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
