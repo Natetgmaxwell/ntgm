@@ -12,7 +12,6 @@ tags:: #on/Science/Chemistry
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!formula]
 > $$H_2O$$
@@ -22,10 +21,13 @@ tags:: #on/Science/Chemistry
 
 > [!quote] [@jamesdinicolantonio2021-WinAchievePeak]
 > “Lean  [[Cards/Muscle Tissue\|Muscle Tissue]]  is  73.3%  [[Cards/Water\|Water]]”
+
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Articles/AncestralHealthWhat-robbwolf\|AncestralHealthWhat-robbwolf]]
 
 { .block-language-dataview}
