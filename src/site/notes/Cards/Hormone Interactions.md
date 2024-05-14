@@ -10,7 +10,6 @@
 > down:: [[Cards/Antagonism\|Antagonism]], [[Cards/Synergism\|Synergism]], [[Cards/Permissiveness\|Permissiveness]], [[Cards/Integrative\|Integrative]]
 
 > [!Definition] Definition
-> 
 
 ## Types of Hormone Interactions
 
@@ -20,9 +19,11 @@
 4. [[Cards/Integrative\|Integrative]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
