@@ -10,7 +10,6 @@
 > down:: [[Cards/Peristalsis\|Peristalsis]], [[Cards/Segmentation\|Segmentation]]
 
 > [!Definition] Definition
-> 
 
 ## Types of Contraction of [[Cards/Smooth Muscle\|Smooth Muscle]]
 
@@ -41,9 +40,11 @@
 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -64,4 +65,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
