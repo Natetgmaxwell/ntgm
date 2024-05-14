@@ -10,12 +10,13 @@
 > down:: [[Cards/Omega−3 fatty acids\|Omega−3 fatty acids]], [[Cards/Docosahexaenoic Acid\|DHA]], [[Cards/Eicosapentaenoic acid\|EPA]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
