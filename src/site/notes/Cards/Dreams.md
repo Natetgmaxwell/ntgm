@@ -10,12 +10,13 @@
 > down:: [[Cards/Lucid Dreaming\|Lucid Dreaming]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Courses/Superbrain by Jim Kwik\|Superbrain by Jim Kwik]]
 
 { .block-language-dataview}
