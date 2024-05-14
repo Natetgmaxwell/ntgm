@@ -13,6 +13,7 @@
 - [[Sources/Books/@georgeorwell1949NineteenEightyfour\|1984]] depicts a world with no sense of [[Cards/Equality\|Equality]], where the people are divided by the [[Cards/Social Hierarchy\|Social Hierarchy]]
 
 # Reference
+
 - [[Cards/Democracy\|Democracy]]
 - [[Cards/Fascism\|Fascism]]
 - [[Cards/Social Hierarchy\|Social Hierarchy]]
