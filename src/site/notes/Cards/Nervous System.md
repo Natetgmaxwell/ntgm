@@ -10,6 +10,7 @@
 > down:: [[Cards/Nerves\|Nerves]], [[Cards/Nervous Tissue\|Nervous Tissue]], [[Cards/Neurophysiology\|Neurophysiology]], [[Cards/Neuroanatomy\|Neuroanatomy]]
 
 ## Specialised Parts of the Nervous System
+
 - [[Cards/Neurons\|Neurons]]
 - [[Cards/Neurotransmitter\|Neurotransmitter]]
 
@@ -23,6 +24,7 @@
 
 
 ## 2 Types of [[Cards/Nervous Tissue\|Nervous Tissue]]
+
 1. [[Cards/Neurons\|Neurons]]
 2. [[Cards/Neuroglia\|Neuroglia]]
 
@@ -31,12 +33,15 @@
 
 
 ## Neural Pathways
+
 - [[Cards/Reflex\|Reflex]]
 
 # References
+
 - 
 
 ## Mentions
+
 - [[Sources/Articles/2019WhyWeFeelPain-thepaincenter\|2019WhyWeFeelPain-thepaincenter]]
 - [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]]
 
@@ -45,4 +50,4 @@
 ## Flashcards
 
 What are the main divisions of the nervous system?;; The nervous system has the central nervous system (CNS) comprising the brain and [[Cards/Spinal cord\|spinal cord]], and the peripheral nervous system (PNS) consisting of [[Cards/Cranial Nerves\|cranial nerves]] and spinal nerves.
-<!--SR:!2023-10-26,11,190-->
+<!--SR:!2024-05-26,20,190-->
