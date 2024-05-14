@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - A [[Cards/Intestinal Permeability\|leaky gut]] can affect the permeability of the [[Cards/Blood-brain Barrier\|BBB]]
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
