@@ -10,7 +10,6 @@
 > down:: [[Cards/Esophageal Hiatus\|Esophageal Hiatus]]
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/image-4-x505-y139.png|250](/img/user/Extras/Images/image-4-x505-y139.png)
 [[Sources/Video/@leedaffin2023LFS122M4T4Anterior\|@leedaffin2023LFS122M4T4Anterior]]
@@ -19,9 +18,11 @@
 - The [[Cards/Esophageal Hiatus\|Esophageal Hiatus]] is the lower bound for the [[Cards/Thoracic Aorta\|Thoracic Aorta]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]]                                    |
