@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - [[Cards/Pericles\|Pericles]] transformed [[Cards/Athens\|Athens]] into a democratic society
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Cards/Gnaeus Marcius Coriolanus\|Gnaeus Marcius Coriolanus]]
 - [[Cards/Pericles\|Pericles]]
 
