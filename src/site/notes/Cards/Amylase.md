@@ -10,12 +10,13 @@
 > down:: [[Cards/Salivary amylase\|Salivary amylase]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                  |
 | ----------------------------------------------- |
 | [[Cards/Digestive System\|Digestive System]] |
