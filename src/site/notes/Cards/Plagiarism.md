@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Cards/William Ralph Inge\|William Ralph Inge]]
 > "What is originality? Undetected plagiarism"
@@ -21,9 +20,11 @@
 [[Cards/Steve Stewart-Williams\|Steve Stewart-Williams]] argues that plagiarism isn't necessarily a bad thing. It allows individuals to send time dreaming new innovations rather than solving the basic ones others have already figured out [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
