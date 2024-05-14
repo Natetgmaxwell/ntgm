@@ -10,7 +10,6 @@
 > down:: [[Cards/Testosterone\|Testosterone]], [[Cards/Estrogen\|Estrogen]], [[Cards/Cortisol\|Cortisol]], [[Cards/Aldosterone\|Aldosterone]]
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/image-16-x493-y125.png|250](/img/user/Extras/Images/image-16-x493-y125.png)
 
@@ -19,15 +18,18 @@
 *Most [[Cards/Lipids\|lipid]] [[Cards/Hormones\|Hormones]] are derived from [[Cards/Cholesterol\|Cholesterol]]*
 
 ## Types of [[Cards/Lipid Hormones\|Lipid Hormones]]
+
 - [[Cards/Testosterone\|Testosterone]]
 - [[Cards/Estrogen\|Estrogen]]
 - [[Cards/Cortisol\|Cortisol]]
 - [[Cards/Aldosterone\|Aldosterone]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@georgiakafer2023-LFS103M6T1Cell\|@georgiakafer2023-LFS103M6T1Cell]]
 
 { .block-language-dataview}
