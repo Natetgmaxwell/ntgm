@@ -2,7 +2,7 @@
 {"aliases":["gut","gi tract"],"tags":["on/Science/Biology/Anatomy","Uni/HBIO1010","flashcards/hbio1010"],"dg-publish":true,"permalink":"/cards/gastrointestinal-tract/","dgPassFrontmatter":true}
 ---
 
-# Gastrointestinal tract
+# Gastrointestinal Tract
 
 > [!Ontology]
 > up:: [[Cards/Digestive System\|Digestive System]]
@@ -13,6 +13,7 @@
 > Converts proteins, lipids, and carbohydrates into smaller molecules for cellular absorption.
 
 ## [[Cards/Gut microbiome\|Gut microbiome]]
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -27,7 +28,8 @@
 ## Structures in the [[Cards/Gastrointestinal tract\|Gastrointestinal tract]]
 
 ### Food Channel
-- [[Cards/Buccal cavity\|Buccal cavity]]
+
+- [[Cards/Buccal Cavity\|Buccal Cavity]]
 - [[Cards/Pharynx\|Pharynx]]
 - [[Cards/Esophagus\|Esophagus]]
 - [[Cards/Stomach\|Stomach]]
@@ -35,15 +37,20 @@
 - [[Cards/Large Intestine\|Large Intestine]]
 - [[Cards/Rectum\|Rectum]]
 - [[Cards/Anus\|Anus]]
+
 ### Accessory Structures
+
 - [[Cards/Liver\|Liver]]
 - [[Cards/Pancreas\|Pancreas]]
 - [[Cards/Gallbladder\|Gallbladder]]
 - [[Cards/Salivary glands\|Salivary glands]]
+
 # Reference
+
 - [[Cards/Intestinal Permeability\|Intestinal Permeability]]
 
 ## Mentions
+
 - [[Sources/Articles/VagusNerveEverything\|VagusNerveEverything]]
 - [[Sources/Video/@leedaffin2023-LFS122M11T2Oesophagus\|@leedaffin2023-LFS122M11T2Oesophagus]]
 
