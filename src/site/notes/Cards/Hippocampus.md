@@ -10,12 +10,13 @@
 > down:: [[Cards/Short-Term Memory\|Short-Term Memory]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                        |
 | ------------------------------------------------------------------------------------- |
 | [[Cards/Brain-Derived Neurotrophic Factor\|Brain-Derived Neurotrophic Factor]]     |
