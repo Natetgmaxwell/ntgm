@@ -15,10 +15,12 @@
 - [[Cards/Altruism\|Altruism]] is a value promoted by many [[Cards/Religions and Ideologies\|religions]].
 
 # Reference
+
 - [[Cards/Effective Altruism\|Effective Altruism]]
 - [[Cards/Reciprocal Altruism\|Reciprocal Altruism]]
 
 ## Mentions
+
 - [[Sources/Podcasts/Podcast Episodes/270. Biology and Man   Robert Trivers and Dr Jordan B Peterson — The Jordan B. Peterson Podcast\|270. Biology and Man   Robert Trivers and Dr Jordan B Peterson — The Jordan B. Peterson Podcast]]
 - [[Sources/Podcasts/Podcast Episodes/512   Will MacAskill   How Long Could Humanity Continue For — Modern Wisdom\|512   Will MacAskill   How Long Could Humanity Continue For — Modern Wisdom]]
 
