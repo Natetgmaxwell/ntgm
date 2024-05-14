@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 #### Traits of [[Cards/Prestige Social Status\|Prestige Social Status]]
 
@@ -20,9 +19,11 @@
 - [[Cards/Knowledge\|Knowledge]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                            |
 | ----------------------------------------- |
 | [[Cards/Social Status\|Social Status]] |
@@ -43,4 +44,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
