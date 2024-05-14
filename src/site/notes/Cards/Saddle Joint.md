@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links              |
 | --------------------------- |
 | [[Cards/Joints\|Joints]] |
@@ -34,5 +35,6 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
+
 Identify an example of a true saddle-shaped [[Cards/Synovial joints\|synovial joint]].;;carpometacarpal joint of the pollex
