@@ -10,9 +10,9 @@
 > down:: [[Cards/Jugular foramen\|Jugular foramen]], [[Cards/Mastoid Process\|Mastoid Process]], [[Cards/Styloid process of the Temporal Bone\|Styloid process of the Temporal Bone]], [[Cards/Internal Acoustic Meatus\|Internal Acoustic Meatus]], [[Cards/External Acoustic Meatus\|External Acoustic Meatus]], [[Cards/Carotid Canal\|Carotid Canal]]
 
 > [!Definition] Definition
-> 
 
 ## [[Cards/Temporal Bone\|Temporal Bone]] Landmarks
+
 - [[Cards/Jugular foramen\|Jugular foramen]]
 - [[Cards/Mastoid Process\|Mastoid Process]]
 - [[Cards/Styloid process of the Temporal Bone\|Styloid process of the Temporal Bone]]
@@ -21,9 +21,11 @@
 - [[Cards/Carotid Canal\|Carotid Canal]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                             |
@@ -51,4 +53,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
