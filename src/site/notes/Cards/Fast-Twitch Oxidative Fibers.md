@@ -19,10 +19,12 @@
 - [[Cards/Fast-Twitch Oxidative Fibers\|Fast-Twitch Oxidative Fibers]] 
 
 # Reference
+
 - [[Cards/Fast-Twitch Glycolytic Fibers\|type 2b]]
 - [[Cards/High-threshold Motor Units\|High-threshold Motor Units]]
 
 ## Mentions
+
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Aerobic Training Zones\|Aerobic Training Zones]]                                                                  |
