@@ -16,12 +16,17 @@
 - The male [[Cards/Sexual Reproduction\|Sexual Reproduction]] process
 
 ## 4 Stages of [[Cards/Spermiogenesis\|Spermiogenesis]]
+
 1. Golgi - synthesis of required proteins
 2. Cap - generation of [[Acrosomal Cap\|Acrosomal Cap]]
 3. Tail - generation of flagellum (movement)
 4. Maturation
+
 # Reference
+
 - 
+
 ## Flashcards
+
 Which hormone initiates [[Cards/Spermatogenesis\|Spermatogenesis]]?;;[[Cards/Follicle Stimulating Hormone\|FSH]]
 <!--SR:!2023-08-17,1,230-->
