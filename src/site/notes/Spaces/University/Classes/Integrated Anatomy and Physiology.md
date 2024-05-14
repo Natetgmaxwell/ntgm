@@ -128,7 +128,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 - **Kidney Functions:**
     
     - Regulation of blood ionic composition (sodium, potassium, etc.).
-    - [[Cards/Blood pH\|Blood pH]] control via bicarbonate and hydrogen ions.
+    - [[Cards/Blood pH\|Blood pH]] control via [[Cards/Bicarbonate\|bicarbonate]] and hydrogen ions.
     - [[Cards/Blood Volume\|Blood volume]] and pressure regulation.
     - Blood osmolality maintenance.
     - Hormone production: Calcitriol, erythropoietin, etc.
