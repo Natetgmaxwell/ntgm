@@ -13,6 +13,7 @@
 > The main function of the [[Cards/Digestive System\|Digestive System]]. The process of digestion is separating and breaking down the [[Cards/Bolus\|Bolus]] into their macromolecules. 
 
 ## Two Forms of Digestion
+
 - [[Cards/Mechanical Digestion\|Mechanical Digestion]]
 - [[Cards/Chemical Digestion\|Chemical Digestion]]
 
@@ -45,9 +46,11 @@
 7. Defecation
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
