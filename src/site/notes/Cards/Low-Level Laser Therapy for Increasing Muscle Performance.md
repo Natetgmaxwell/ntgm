@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/ISI9Q2UJ.png|400](/img/user/Extras/Images/ISI9Q2UJ.png)
 [[Sources/Research Papers/@lealjunior2008Effect655nmLowlevel\|@lealjunior2008Effect655nmLowlevel]]
@@ -19,9 +18,11 @@
 > "We conclude that [[Cards/Low-Level Laser Therapy\|LLLT]] can delay the perceived onset of muscle fatigue and exhaustion, probably by local mechanisms including a reduction of oxidative stress or a decrease in the production of ROS."
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
