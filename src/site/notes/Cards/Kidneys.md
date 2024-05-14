@@ -10,7 +10,6 @@
 > down:: [[Cards/Nephron\|Nephron]], [[Cards/Calcitonins Effect of the Kidneys\|Calcitonins Effect of the Kidneys]]
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Video/@leedaffin2023-LFS122M12T1Urinary\|@leedaffin2023-LFS122M12T1Urinary]]
 > "The kidneys are two bean‐shaped organs with a convex and a concave border. In adults they are about 11 cm in length."
@@ -31,9 +30,11 @@
 - [[Cards/Renal pyramids\|Renal pyramids]]
 
 # Reference
+
 - [[Cards/Kidney disease\|Kidney disease]]
 
 ## Mentions
+
 - [[Sources/Articles/Electrolytes and fasting- Benefits and best sources\|Electrolytes and fasting- Benefits and best sources]]
 - [[Sources/Video/@leedaffin2023-LFS122M12T1Urinary\|@leedaffin2023-LFS122M12T1Urinary]]
 
@@ -42,7 +43,7 @@
 ## Flashcards
 
 Why is the right kidney lower?;;it is displaced by the [[Cards/Liver\|Liver]].
-<!--SR:!2023-10-25,10,250-->
+<!--SR:!2024-05-30,24,250-->
 
 Where in the body can you find fenestrated capillaries?;;[[Cards/Kidneys\|Kidneys]]
-<!--SR:!2023-10-24,3,160-->
+<!--SR:!2024-05-08,2,140-->
