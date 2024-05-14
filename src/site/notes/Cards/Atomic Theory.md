@@ -13,9 +13,11 @@
 > Atomic theory is the scientific understanding of matter that suggests all substances are composed of indivisible, fundamental units called atoms. It involves concepts like the Law of Conservation of Mass, periodic trends in element properties, isotopes, radioactivity, nuclear fission/fusion processes etc., providing a foundation for modern chemistry and physics.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                  |
 | ------------------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Introductory Chemistry\|Introductory Chemistry]] |
@@ -33,4 +35,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
