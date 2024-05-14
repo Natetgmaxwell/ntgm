@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - The right [[Cards/Atmospheric Pressure\|Cards/Atmospheric Pressure]] enables the body to [[Cards/Inhale\|Inhale]] and [[Cards/Exhale\|Exhale]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
