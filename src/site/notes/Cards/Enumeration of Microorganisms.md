@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Methods of Microbial Enumeration
 
@@ -18,9 +17,11 @@
 - [[Cards/Pour Plate\|Pour Plate]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -38,4 +39,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
