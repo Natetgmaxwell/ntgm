@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -32,6 +33,6 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 What is a [[Cards/Fastidious Organisms\|Fastidious Organisms]]?;;Organisms that require a specific set of Nutrients
