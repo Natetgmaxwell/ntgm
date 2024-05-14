@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                  |
 | ----------------------------------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Foundations in Medical Science\|Foundations in Medical Science]] |
@@ -33,4 +34,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
