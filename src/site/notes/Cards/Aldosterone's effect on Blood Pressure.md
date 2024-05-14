@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Research Papers/@tsilosani2022-AldosteroneRegulatedSodiumTransport\|@tsilosani2022-AldosteroneRegulatedSodiumTransport]]
 > "Aldosterone is a vital steroid hormone produced by the adrenal glands that regulates blood pressure by affecting electrolyte and fluid balance."
@@ -18,9 +17,11 @@
 List some related concepts to the current note using the context and your knowledge on the subject.
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
