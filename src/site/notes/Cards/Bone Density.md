@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - [[Cards/Insulin-like growth factor 1\|IGF-1]] promotes [[Cards/Bone Density\|Bone Density]] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
