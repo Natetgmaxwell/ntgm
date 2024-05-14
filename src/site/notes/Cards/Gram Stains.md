@@ -10,18 +10,20 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!formula]
 > Gram Positive = <mark style="background: #BF40BF!important">Purple</mark>
 > Gram Negative = <mark style="background:#F89880">Pink</mark>
 
 # Reference
+
 - 
 
 ## Mentions
-| Incoming Links |
-| -------------- |
+
+| Incoming Links                  |
+| ------------------------------- |
+| [[Cards/Bacteria\|Bacteria]] |
 
 { .block-language-dataview}
 
