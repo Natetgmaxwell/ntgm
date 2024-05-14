@@ -17,6 +17,7 @@ The musculoskeletal system is an indispensable component of the tissue and [[Car
 Skeletal muscle is one of three types of muscle tissue in the body, the others being cardiac and smooth. As the name suggests, this type of muscle is used to articulate the skeleton. Another major component that differentiates skeletal from the other forms of muscle tissue is its ability to be consciously controlled ([[Sources/Books/Anatomy Skeletal Muscle\|daveAnatomySkeletalMuscle2023]]).
 
 ## Parts of the [[Cards/Musculoskeletal System\|Musculoskeletal System]]
+
 - [[Cards/Muscle Tissue\|Muscle Tissue]]
 - [[Cards/Connective Tissue\|Connective Tissue]]
 	- [[Cards/Tendons\|Tendons]]
@@ -24,9 +25,11 @@ Skeletal muscle is one of three types of muscle tissue in the body, the others b
 	- [[Cards/Ligaments\|Ligaments]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
