@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/JPEVMLIY.png](/img/user/Extras/Images/JPEVMLIY.png)
 [[Sources/Research Papers/@craig1989EffectsProgressiveResistance\|@craig1989EffectsProgressiveResistance]]
@@ -19,9 +18,11 @@
 > In conclusion, the data presented here indicate that the strength training protocol employed in this study significantly (P < 0.05) increased GH response, regardless of age...
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -40,4 +41,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
