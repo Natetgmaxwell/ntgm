@@ -10,18 +10,21 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Pivot Joints in the Human Body
+
 - [[Cards/Superior Radiounlar Joint\|Superior Radiounlar Joint]]
 - [[Cards/Atlantoaxial Joint\|Atlantoaxial Joint]]
 
 # Reference
+
 - 
 
 ## Mentions
 
+
 { .block-language-dataview}
 
 ## Flashcards
+
 What is an example of a pivot joint?;;[[Cards/Superior Radiounlar Joint\|Proximal Radioulnar Joint]]
