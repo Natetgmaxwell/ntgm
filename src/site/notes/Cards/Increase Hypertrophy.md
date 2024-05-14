@@ -10,14 +10,13 @@
 > down:: [[Cards/Insulin-like growth factor 1\|IGF-1]], [[Cards/mTOR\|mTOR]]
 
 > [!Definition] Definition
-> 
-
-
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
