@@ -15,16 +15,19 @@
 ## Glomerular Filtration
 
 ### Filtration Layers of the [[Cards/Glomerulus\|Glomerulus]]
+
 - [[Cards/Glomerular capillary endothelium\|Glomerular capillary endothelium]]
 - [[Cards/Basement Membrane\|Basement Membrane]]
 - [[Cards/Podocytes\|Podocytes]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Research Papers/@gulayan2022RapamycinBenefitsSide\|@gulayan2022RapamycinBenefitsSide]]
 
 { .block-language-dataview}
 
 ## Flashcards
-
