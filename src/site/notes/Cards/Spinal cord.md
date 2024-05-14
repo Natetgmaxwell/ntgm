@@ -2,7 +2,7 @@
 {"aliases":null,"edited":"2023-04-06 Thu","date created":"2023-03-28 Tue","tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/spinal-cord/","dgPassFrontmatter":true}
 ---
 
-# Spinal cord
+# Spinal Cord
 
 > [!Ontology]-
 > up:: [[Cards/Spine\|Spine]], [[Cards/Nervous System\|Nervous System]]
@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Video/@honorhugo2023LFS122M4T2Gross\|@honorhugo2023LFS122M4T2Gross]]
 > The spinal cord is a long, thin, tubular bundle of [[Cards/Nervous Tissue\|nervous tissue]] and support cells.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Cards/Autonomic Nervous System\|Autonomic Nervous System]]                                           |
