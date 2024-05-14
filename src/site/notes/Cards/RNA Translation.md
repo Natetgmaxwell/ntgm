@@ -17,5 +17,6 @@ tags:: #School #on/Science/Biology/Genetics
 - When completed the [[Cards/Ribosomes\|Ribosome]] has formed a [[Cards/Polypeptide\|Polypeptide]]
 
 # Reference
+
 - [[Cards/Ribonucleic Acid\|Ribonucleic Acid]]
 - [[Cards/RNA Transcription\|RNA Transcription]]
