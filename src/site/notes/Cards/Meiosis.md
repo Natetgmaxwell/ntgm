@@ -12,8 +12,8 @@
 > [!Definition] Definition
 > Meiosis is a type of [[Cards/Cell Division\|Cell Division]] of the [[Cards/Gametes\|Gametes]] in [[Cards/Sexual Reproduction\|sexually reproducing]] organisms.
 
-
 # Reference
+
 - [[Cards/Gametes\|Gametes]]
 - [[Cards/Haploid Number\|Haploid Number]]
 - [[Cards/Chromosomes\|Chromosomes]]
