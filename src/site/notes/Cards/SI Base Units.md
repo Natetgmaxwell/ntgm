@@ -10,12 +10,13 @@
 > down:: [[Cards/Kelvin\|Kelvin]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -34,4 +35,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
