@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Arteries of the Hand
 
@@ -26,10 +25,13 @@
 - Dorsal venous network
 - Superficial palmar venous arch
 - Deep palmar venous arch
+
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
