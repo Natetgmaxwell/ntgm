@@ -10,9 +10,9 @@
 > down:: [[Cards/Kidneys\|Kidneys]], [[Cards/Ureters\|Ureters]], [[Cards/Urethra\|Urethra]], [[Cards/Urinary Bladder\|Urinary Bladder]], [[Cards/Urine\|Urine]]
 
 > [!Definition] Definition
-> 
 
 ## Functions of the [[Cards/Urinary System\|Urinary System]]
+
 - Filtration of [[Cards/Blood\|Blood]]
 - Regulation of [[Cards/Blood Pressure\|Blood Pressure]] (via [[Cards/Blood Volume\|Blood Volume]])
 - Maintaining [[Cards/Electrolytes\|Electrolytes]] balance
@@ -22,6 +22,7 @@
 # Reference
 
 ## Mentions
+
 
 { .block-language-dataview}
 
