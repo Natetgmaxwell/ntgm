@@ -16,9 +16,11 @@
 > The spread plate technique is advantageous in that it allows colonies to develop on the surface of the [[Cards/Agar\|Agar]], making it easier to distinguish different microorganisms on the basis of morphology...The spread plate technique generally gives higher bacterial counts than the [[Cards/Pour Plate\|pour plate]] method.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                  |
 | ------------------------------------------------------------------------------- |
 | [[Cards/Enumeration of Microorganisms\|Enumeration of Microorganisms]]       |
@@ -40,7 +42,7 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 What is a [[Cards/Spread Plate\|Spread Plate]]?;;A spread plate is where the [[Cards/Micro-organisms\|Microbes]] are spread into a set [[Cards/Agar\|Agar]] plate.
-<!--SR:!2024-04-19,3,250-->
+<!--SR:!2024-05-13,7,250-->
