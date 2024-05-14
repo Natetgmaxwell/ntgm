@@ -15,9 +15,11 @@
 > It is primarily involved in lipid [[Cards/Metabolism\|metabolism]], [[Cards/Hormones\|hormone]] synthesis, and detoxification of drugs and [[Cards/Toxins\|toxins]]. SER is abundant in cells that produce steroids, such as liver cells, and cells that specialize in the detoxification of drugs, such as kidney cells.
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
