@@ -2,7 +2,7 @@
 {"aliases":null,"tags":["on/People"],"dg-publish":true,"permalink":"/cards/otto-van-bismarck/","dgPassFrontmatter":true}
 ---
 
-# Otto van Bismarck
+# Otto Van Bismarck
 
 > [!ontology]+
 > up:: 
@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Cards/Otto van Bismarck\|Otto van Bismarck]]
 > "When I have laid bait for deer, I don't shoot at the first doe that comes to sniff, but wait until the whole heard has gathered around."
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
