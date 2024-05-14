@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Books/Anatomy Skeletal Muscle\|Anatomy Skeletal Muscle]]
 
 { .block-language-dataview}
