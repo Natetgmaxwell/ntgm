@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/12 Rules for Life by Jordan B Peterson\|12 Rules for Life by Jordan B Peterson]]
 > "[[Cards/Chaos\|Chaos]] is where we are when we don't know where we are. Chaos is the domain of [[Cards/Ignorance\|Ignorance]]"
@@ -18,9 +17,11 @@
 - [[Cards/Chaos\|Chaos]] is experienced as part of the [[Cards/Subjective Truth\|Subjective World]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                    |
 | ------------------------------------------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-08-14\|2022-08-14]]                                                 |
