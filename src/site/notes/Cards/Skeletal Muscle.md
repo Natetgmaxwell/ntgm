@@ -15,6 +15,7 @@
 
 
 ## Components of [[Cards/Skeletal Muscle\|Skeletal Muscle]]
+
 - [[Cards/Myocyte\|Myocyte]] ([[Cards/Myocyte\|muscle cell]])
 - [[Cards/Connective Tissue\|Connective Tissue]]
 - [[Cards/Blood Vessels\|Blood Vessels]]
@@ -23,6 +24,7 @@
 ## Regions
 
 ##### Lower Limb
+
 - Flexors
 	- [[Cards/Biceps Femoris\|Biceps Femoris]]
 	- [[Cards/Semimembranosus\|Semimembranosus]]
@@ -48,9 +50,11 @@
 	- [[Cards/Tensor Fasciae Latae\|TFL]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-08-07 Mon\|2023-08-07 Mon]]                                                                    |
@@ -171,11 +175,12 @@
 { .block-language-dataview}
 
 ## Flashcards
+
 Muscles lengthen during muscle contraction? (True or False);;False
-<!--SR:!2023-12-17,71,250-->
+<!--SR:!2024-10-30,177,250-->
 
 What are biarticulate muscles?;;Muscles that cross two joints
-<!--SR:!2023-12-08,62,230-->
+<!--SR:!2024-09-25,142,230-->
 
 What are the connective tissue layers surrounding skeletal muscle?;;Epimysium, perimysium, endomysium.
 <!--SR:!2023-11-06,16,230-->
