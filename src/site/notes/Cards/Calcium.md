@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Research Papers/@avigailerlich2019MitophagyRegulationSkeletal\|@avigailerlich2019MitophagyRegulationSkeletal]]
 > During an acute bout of exercise, the release of calcium from the sarcoplasmic reticulum increases levels of cytosolic calcium, promoting a signaling pathway involved in mitochondrial biogenesis.
@@ -22,9 +21,11 @@
 > Red meat, [[Cards/Dairy Products\|dairy products]] and dietary calcium are associated with higher [[Cards/Insulin-like growth factor 1\|IGF-1]].
 
 # Reference
+
 - [[Cards/Calcium Regulation\|Calcium Regulation]]
 
 ## Mentions
+
 | Incoming Links                                                                    |
 | --------------------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                         |
