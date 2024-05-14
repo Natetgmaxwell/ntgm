@@ -10,17 +10,19 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## List of [[Cards/Scalenes\|Scalenes]]
+
 - [[Cards/Anterior Scalenes\|Anterior Scalenes]]
 - [[Cards/Middle Scalenes\|Middle Scalenes]]
 - [[Cards/Posterior Scalenes\|Posterior Scalenes]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
@@ -42,4 +44,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
