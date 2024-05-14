@@ -10,7 +10,6 @@
 > down:: [[Cards/Compound Movements\|Compound Lifts]], [[Cards/Resistance training\|Resistance training]], [[Cards/Resistance Training Effect on Testosterone\|Resistance Training Effect on Testosterone]], [[Cards/Diet for Increasing Testosterone\|Diet for Increasing Testosterone]]
 
 > [!Definition] Definition
-> 
 
 ## Impacts of Increased Testosterone
 
@@ -63,9 +62,11 @@ Engaging in regular resistance training, particularly [[Cards/Compound Movements
 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
