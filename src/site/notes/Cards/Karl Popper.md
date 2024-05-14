@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Cards/Karl Popper\|Karl Popper]]
 > The growth of scientific knowledge is literally an evolutionary process within the realm of ideas.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                |
 | ----------------------------- |
 | [[Cards/Science\|Science]] |
@@ -35,4 +36,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
