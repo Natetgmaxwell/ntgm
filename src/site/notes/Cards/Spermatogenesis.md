@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - Creation of [[Cards/Sperm cell\|sperm cells]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                                               |
@@ -34,9 +35,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Research Papers/@thompson2017-ThyroidHormoneFluctuations\|@thompson2017-ThyroidHormoneFluctuations]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
