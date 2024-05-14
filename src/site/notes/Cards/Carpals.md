@@ -10,9 +10,9 @@
 > down:: [[Cards/Hamate\|Hamate]], [[Cards/Capitate\|Capitate]], [[Cards/Pisiform\|Pisiform]], [[Cards/Trapezoid\|Trapezoid]], [[Trapezium\|Trapezium]], [[Scaphoid\|Scaphoid]], [[Cards/Lunate\|Lunate]], [[Triquetrum\|Triquetrum]], [[Cards/Pisiform\|Pisiform]], [[Cards/Carpal Tunnel\|Carpal Tunnel]]
 
 > [!Definition] Definition
-> 
 
 ## List of Carpals
+
 - [[Cards/Hamate\|Hamate]]
 - [[Cards/Capitate\|Capitate]]
 - [[Cards/Trapezoid\|Trapezoid]]
@@ -25,9 +25,11 @@
 *Nemonic:* "Harry Can Teach Tom Some Lovely Tricks, Please!"
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@colingavagan2023-LFS122M8T3Skeletal\|@colingavagan2023-LFS122M8T3Skeletal]]
 
 { .block-language-dataview}
