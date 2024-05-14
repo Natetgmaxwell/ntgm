@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]
 > "This means that, by learning about science and getting a good education, we become as knowledgeable as a person who spent thousands or millions of years thinking and exploring the world."
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                          |
 | ------------------------------------------------------- |
 | [[Cards/Independent Learning\|Independent Learning]] |
