@@ -14,18 +14,22 @@
 
 > [!quote] [[Cards/William Ralph Inge\|William Ralph Inge]]
 > "What is originality? Undetected [[Cards/Plagiarism\|Plagiarism]]."
+>
 > > [!insight]
 > > This quote highlights Inge's wit and his ability to cut to the heart of complex issues with simplicity and clarity.
 
 > [!quote] [[Cards/William Ralph Inge\|William Ralph Inge]]
 > "The only true wisdom is in knowing you know nothing."
+>
 > > [!insight] 
 > > This quote reflects Inge's humility and his recognition that there is always more to learn and discover.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
