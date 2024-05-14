@@ -10,12 +10,13 @@
 > down:: [[Cards/Abdominal Aortic Bifurcation\|Abdominal Aortic Bifurcation]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Cards/Common Iliac Artery\|Common Iliac Artery]]         |
