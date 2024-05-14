@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Video/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]
 > Considered the father of embryology and early histology...Observed blood capillaries in 1660.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -35,4 +36,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
