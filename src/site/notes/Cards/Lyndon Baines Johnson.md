@@ -25,9 +25,11 @@ Johnson's presidency was marked by significant domestic and foreign policy achie
 On the foreign policy front, Johnson faced numerous challenges during his presidency. He inherited the ongoing Vietnam War from Kennedy, which would ultimately become a major point of controversy both domestically and internationally. Despite this, Johnson's administration made strides in improving relations with the Soviet Union through the Limited Nuclear Test Ban Treaty and the Non-Proliferation Treaty.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -44,4 +46,4 @@ On the foreign policy front, Johnson faced numerous challenges during his presid
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
