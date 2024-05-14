@@ -10,14 +10,15 @@
 > down:: [[Cards/Ego Flattery for Influence\|Ego Flattery for Influence]]
 
 > [!Definition] Definition
-> 
 
 - A means of flattery is telling someone how you have benefited from their advice and criticisms.
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
