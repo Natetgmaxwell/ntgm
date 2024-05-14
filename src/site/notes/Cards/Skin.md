@@ -10,24 +10,26 @@
 > down:: [[Cards/Glabrous skin\|Glabrous skin]], [[Cards/Epidermis\|Epidermis]], [[Cards/Dermis\|Dermis]]
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Video/@skyecash-deans2023LFS122M3T1Integumentary\|@skyecash-deans2023LFS122M3T1Integumentary]]
 > "The skin is the largest organ of the body & accounts for approx. 7% of our total body weight!"
 
 ## Layers of the [[Cards/Skin\|Skin]]
+
 - [[Cards/Epidermis\|Epidermis]] - outmost layer
 - [[Cards/Dermis\|Dermis]] - lies beneath the [[Cards/Epidermis\|Epidermis]]
 - [[Cards/Hypodermis\|Hypodermis]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-12-10 Sat\|2022-12-10 Sat]]                                                                    |
-| [[Cards/Adipose tissue\|Adipose tissue]]                                                                                  |
+| [[Cards/Adipose Tissue\|Adipose Tissue]]                                                                                  |
 | [[Cards/Body Landmarks\|Body Landmarks]]                                                                                  |
 | [[Cards/Collagen\|Collagen]]                                                                                              |
 | [[Cards/Connective Tissue\|Connective Tissue]]                                                                            |
