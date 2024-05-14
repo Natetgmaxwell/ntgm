@@ -2,7 +2,7 @@
 {"aliases":null,"tags":["on/Science/Biology/Anatomy","Uni/OMT1","flashcards/osteo-flashcards","Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/gluteus-maximus/","dgPassFrontmatter":true}
 ---
 
-# Gluteus maximus
+# Gluteus Maximus
 
 > [!Ontology]
 > up:: [[Cards/Skeletal Muscle\|Skeletal Muscle]]
@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
