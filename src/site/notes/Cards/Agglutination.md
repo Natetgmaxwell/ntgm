@@ -2,7 +2,6 @@
 {"aliases":null,"tags":["Uni/HBIO1009","flashcards/hbio1009"],"dg-publish":true,"permalink":"/cards/agglutination/","dgPassFrontmatter":true}
 ---
 
-
 # Agglutination
 
 > [!Ontology]-
@@ -11,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
