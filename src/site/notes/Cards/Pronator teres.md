@@ -10,23 +10,27 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ![Pronator Teres Image.png|200](/img/user/Extras/Images/Pronator%20Teres%20Image.png)
+
 ## Attachments
+
 - [[Cards/Humerus\|Humerus]]
 - [[Cards/Coronoid Process\|Coronoid Process]]
 - [[Cards/Radius\|Radius]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@colingavagan2023-LFS122M8T5Anterior\|@colingavagan2023-LFS122M8T5Anterior]]
 
 { .block-language-dataview}
 
 ## Flashcards
+
 What are the attachment points of the [[Cards/Pronator teres\|Pronator teres]]?;;[[Cards/Humerus\|Humerus]] and the [[Cards/Ulna#Coronoid process\|Coronoid process]] of the [[Cards/Ulna\|Ulna]]
 <!--SR:!2023-10-25,2,230-->
 
