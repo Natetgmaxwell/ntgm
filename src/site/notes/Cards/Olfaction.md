@@ -13,9 +13,11 @@
 > Olfaction, also known as the sense of smell, is the ability to detect and perceive scents or odours through the [[Cards/Nasal\|Nasal]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]]
 
 { .block-language-dataview}
