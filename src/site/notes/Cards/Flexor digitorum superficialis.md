@@ -10,18 +10,22 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ![Flexor Digitorum Superficialis Image.png|200](/img/user/Extras/Images/Flexor%20Digitorum%20Superficialis%20Image.png)
+
 ### Attachments
+
 - [[Cards/Medial Epicondyle of the Humerus\|Medial Epicondyle of the Humerus]]
 - [[Cards/Coronoid Process\|Coronoid Process]]
 - [[Cards/Radius\|Radial]] Diaphysis
 - [[Cards/Phalanges of the Hand\|Phalanges of the Hand]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@colingavagan2023-LFS122M8T5Anterior\|@colingavagan2023-LFS122M8T5Anterior]]
 
 { .block-language-dataview}
