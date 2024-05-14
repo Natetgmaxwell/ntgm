@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"EC43Q98P","zt-attachments":["2801"],"alias":", @LFS122 M4T3 General Muscle Characteristics & Configurations","keywords":[],"FirstAuthor":"[[ Lee Daffin]]","tags":["source/video"],"dg-publish":true,"permalink":"/sources/lee-daffin2023-lfs-122-m4-t3-general/","dgPassFrontmatter":true}
+{"zotero-key":"EC43Q98P","zt-attachments":["2801"],"aliases":["@LFS122 M4T3 General Muscle Characteristics & Configurations"],"keywords":null,"FirstAuthor":"[[ Lee Daffin]]","tags":["source/video","Uni/LFS122"],"dg-publish":true,"permalink":"/sources/lee-daffin2023-lfs-122-m4-t3-general/","dgPassFrontmatter":true}
 ---
 
 # @LeeDaffin2023LFS122M4T3General
