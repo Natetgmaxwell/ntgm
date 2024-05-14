@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## List of [[Cards/Head\|Head]] Muscles
 
@@ -27,9 +26,11 @@
 - [[Cards/Buccinator\|Buccinator]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -56,4 +57,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
