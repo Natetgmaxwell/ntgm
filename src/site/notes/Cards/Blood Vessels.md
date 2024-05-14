@@ -10,23 +10,25 @@
 > down:: [[Cards/Arteries\|Arteries]], [[Cards/Veins\|Veins]], [[Cards/Capillaries\|Capillaries]], [[Cards/Arterioles\|Arterioles]], [[Cards/Venules\|Venules]]
 
 > [!Definition] Definition
-> 
 
 ![Pasted image 20230911093441.png](/img/user/Extras/Images/Pasted%20image%2020230911093441.png)
 
 - [[Cards/Blood Vessels\|Blood Vessels]] contribute to [[Cards/Thermoregulation\|Thermoregulation]] through [[Cards/Vasoconstriction\|Vasoconstriction]] and [[Cards/Vasodilation\|Vasodilation]]
 
 ## Types of [[Cards/Blood Vessels\|Blood Vessels]]
+
 - [[Cards/Arteries\|Arteries]]
 - [[Cards/Capillaries\|Capillaries]]
 - [[Cards/Veins\|Veins]]
 
-#### ddddd
+#### Ddddd
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Articles/bigaBoneMarkings2019\|bigaBoneMarkings2019]]
 
 { .block-language-dataview}
