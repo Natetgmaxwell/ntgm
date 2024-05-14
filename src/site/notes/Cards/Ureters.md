@@ -13,13 +13,13 @@
 > An internal vessel that transports [[Cards/Urine\|Urine]] from the [[Cards/Kidneys\|Kidneys]] to the [[Cards/Urinary Bladder\|Urinary Bladder]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@leedaffin2023-LFS122M12T1Urinary\|@leedaffin2023-LFS122M12T1Urinary]]
 
 { .block-language-dataview}
 
 ## Flashcards
-
-
