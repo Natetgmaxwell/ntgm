@@ -12,11 +12,12 @@
 > [!Definition] Definition
 > Lymphocytes are a type of white blood cell that play a key role in the immune system. They help protect the body against infections and diseases by producing antibodies, stimulating other immune cells, and recognising foreign substances or pathogens. There are two main types of lymphocytes: B cells and T cells. B cells produce antibodies that bind to specific antigens on the surface of invading microorganisms. T cells can directly kill infected cells or activate other immune responses. Lymphocytes are part of the lymphatic system, which is a network of tissues and organs that drains excess fluid from the body and transports immune cells throughout the body.
 
-
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]     |
