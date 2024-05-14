@@ -16,9 +16,11 @@
 > In human memory, good is stronger than bad, both in terms of memory strength and affect (Sedikides & Skowronski, 2020).
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Research Papers/@birtel2021FadingAffectBias\|@birtel2021FadingAffectBias]]
 
 { .block-language-dataview}
