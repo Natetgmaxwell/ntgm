@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/Science/Biology","Uni/LFS112"],"date created":"2023-02-21 Tue","dg-publish":true,"cssclasses":["recolor-images"],"permalink":"/cards/blood/","dgPassFrontmatter":true}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/Science/Biology","Uni/LFS112"],"date created":"2023-02-21 Tue","dg-publish":true,"permalink":"/cards/blood/","dgPassFrontmatter":true}
 ---
 
 # Blood
@@ -10,10 +10,12 @@
 > down:: [[Cards/Red Blood Cells\|Red Blood Cells]], [[Cards/White Blood Cells\|White Blood Cells]], [[Cards/Blood Plasma\|Plasma]], [[Cards/Platelets\|Platelets]], [[Cards/Blood Volume\|Blood Volume]]
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/2JPMGAIB.png|575](/img/user/Extras/Images/2JPMGAIB.png)
-[[Sources/Video/@MelindaDean2024MLS101M05T02Blood\|@MelindaDean2024MLS101M05T02Blood]]
+
+> [!cite]-
+> [[Sources/Video/@MelindaDean2024MLS101M05T02Blood\|@MelindaDean2024MLS101M05T02Blood]]
+
 ## Functions of Blood
 
 - Transportation of;
@@ -27,23 +29,31 @@
 ## Components of Blood
 
 ### [[Cards/Red Blood Cells\|Red Blood Cells]]
+
 - 37-54%
+
 ### [[Cards/White Blood Cells\|White Blood Cells]]
+
 - Immunity
 - Have a [[Cards/Nucleus\|nucleus]]
 - have organelles
+
 ### [[Cards/Blood Plasma\|Plasma]]
+
 - 55%
 
 ### [[Cards/Blood Serum\|Blood Serum]]
+
 - Non-clotting components
 
 # Reference
+
 - [[Cards/Blood Type\|Blood Type]]
 - [[Cards/Blood Pressure\|Blood Pressure]]
 - [[Cards/Red Blood Cells\|Red Blood Cells]]
 
 ## Mentions
+
 | Incoming Links                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-05-24 Wed\|2023-05-24 Wed]]                                                                           |
