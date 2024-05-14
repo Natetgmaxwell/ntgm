@@ -10,15 +10,14 @@
 > down:: [[Cards/Supramaximal Interval Training for Increasing Blood Volume\|Supramaximal Interval Training for Increasing Blood Volume]] 
 
 > [!Definition] Definition
-> 
-
 
 # Reference
+
 - 
 
 ## Mentions
 
+
 { .block-language-dataview}
 
 ## Flashcards
-
