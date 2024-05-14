@@ -10,9 +10,9 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## List of [[Cards/Facial Bones\|Facial Bones]] [[@LFS122M5T1Skull\|@LFS122M5T1Skull]]
+
 - [[Cards/Lacrimal\|Lacrimal]]
 - [[Cards/Zygomatic bone\|Zygomatic bone]]
 - [[Cards/Maxilla\|Maxilla]]
@@ -22,9 +22,11 @@
 - [[Cards/Vomer\|Vomer]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
