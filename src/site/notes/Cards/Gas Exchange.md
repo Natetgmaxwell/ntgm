@@ -10,12 +10,13 @@
 > down:: [[Cards/Gas Exchange Efficiency\|Gas Exchange Efficiency]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Research Papers/@ben-tal2012EvaluatingPhysiologicalSignificance\|@ben-tal2012EvaluatingPhysiologicalSignificance]]
 
 { .block-language-dataview}
