@@ -13,10 +13,12 @@
 > [[Cards/Osmosis\|Osmosis]] is a process by which solvent molecules (usually water molecules) diffuse through a [[Cards/Semi-permeable Membrane\|Semi-permeable Membrane]] from a region of high [[Cards/Solvent\|Solvent]] [[Cards/Concentration\|Concentration]] to a region of low solvent [[Cards/Concentration\|Concentration]], in order to balance the concentration of [[Cards/Solute\|Solute]] on both sides of the membrane.
 
 # Reference
+
 - [[Cards/Water\|Water]]
 - [[Cards/Plasma Membranes\|Plasma Membranes]]
 
 ## Mentions
+
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                                    |
@@ -52,6 +54,7 @@
 { .block-language-dataview}
 
 ## Flashcards
+
 What is [[Cards/Osmosis\|Osmosis]]?;;Osmosis is the movement of water molecules from an area of high water concentration to an area of low water concentration through a [[Cards/Semi-permeable Membrane\|selectively permeable membrane]].
 <!--SR:!2023-08-11,72,290-->
 
