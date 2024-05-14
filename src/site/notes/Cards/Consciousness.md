@@ -10,15 +10,17 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## What is Consciousness?
+
 Consciousness, at its simplest, is awareness of internal and external existence.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                              |
 | --------------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]         |
