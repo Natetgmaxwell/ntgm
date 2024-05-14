@@ -6,12 +6,14 @@
 
 > [!Definition] Definition
 > [[Cards/Macrophages\|Macrophages]] are [[Cards/Monocytes\|Monocytes]] that leaves circulation and enter [[Cards/Body Tissue\|Body Tissue]].
- 
+
 # Reference
+
 - [[Cards/Dermis\|Dermis]]
 - [[Cards/Monocytes\|Monocytes]]
 
 ## Mentions
+
 
 { .block-language-dataview}
 
