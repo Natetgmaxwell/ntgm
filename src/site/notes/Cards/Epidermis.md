@@ -16,6 +16,7 @@
 - [[Cards/Skin\|Skin]] is replaced about every 50 days
 
 ## Layers of the [[Cards/Epidermis\|Epidermis]]
+
 - [[Cards/Stratum Corneum\|Stratum Corneum]]
 - [[Cards/Stratum Lucidum\|Stratum Lucidum]] (**Only found on the soles of the feet and palms of the hands**)
 - [[Cards/Stratum Granulosum\|Stratum Granulosum]]
@@ -25,9 +26,11 @@
 ### [[Cards/Epidermal Ridges\|Epidermal Ridges]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Research Papers/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]
 
 { .block-language-dataview}
