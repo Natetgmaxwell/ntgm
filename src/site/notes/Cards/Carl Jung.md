@@ -10,12 +10,14 @@
 > down:: 
 
 > [!Definition] Definition
-> Carl Jung was a Swiss psychiatrist and psychoanalyst who is widely regarded as one of the most influential thinkers of the 20th century. He is best known for his theories on analytical psychology, which focused on the collective unconscious and the process of individuation.
+> Carl Jung was a Swiss psychiatrist and psychoanalyst who is widely regarded as one of the most influential thinkers of the 20th century. He is best known for his theories on analytical psychology, which focused on the collective [[Cards/Unconsciousness\|unconscious]] and the process of individuation.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                |
 | ----------------------------------------------------------------------------- |
 | [[Cards/Attitude\|Attitude]]                                               |
@@ -23,8 +25,9 @@
 
 { .block-language-dataview}
 
-| Outgoing Links |
-| -------------- |
+| Outgoing Links                                |
+| --------------------------------------------- |
+| [[Cards/Unconsciousness\|Unconsciousness]] |
 
 { .block-language-dataview}
 
@@ -33,4 +36,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
