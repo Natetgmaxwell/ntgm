@@ -11,5 +11,7 @@
 
 > [!Definition] Definition
 > Each individual has 2 [[Cards/Allele\|alleles]] one inherited from each parent. During [[Cards/Meiosis\|Meiosis]] the pairs of [[Cards/Allele\|alleles]] seperate so the child only receives 1 copy of the [[Cards/Allele\|Allele]].
+
 # Reference
+
 - [[Cards/Gregor Mendel\|Gregor Mendel]]
