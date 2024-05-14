@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/conjugate-acid/","dgPassFrontmatter":true}
 ---
 
-# Conjugate acid
+# Conjugate Acid
 
 > [!ontology]-
 > up:: [[Cards/Acids\|Acids]]
@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -34,4 +35,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
