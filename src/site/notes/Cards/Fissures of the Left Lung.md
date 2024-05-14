@@ -10,17 +10,19 @@
 > down:: [[Cards/Oblique Fissure of the Left Lung\|Oblique Fissure of the Left Lung]]
 
 > [!Definition] Definition
-> 
 
 - Separates the [[Cards/Inferior Lobe of the Left Lung\|Inferior Lobe of the Left Lung]] and the [[Cards/Inferior Lobe of the Left Lung\|Inferior Lobe of the Left Lung]].
 
 ## List of Left Lung Fissures
+
 - [[Cards/Oblique Fissure of the Left Lung\|Oblique Fissure of the Left Lung]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
