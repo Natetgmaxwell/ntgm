@@ -10,7 +10,6 @@
 > down:: [[Cards/Skeletal Muscles of the Antebrachium\|Skeletal Muscles of the Antebrachium]], [[Cards/Nerves of the Antebrachium\|Nerves of the Antebrachium]], [[Cards/Blood Vessels of the Antebrachium\|Blood Vessels of the Antebrachium]]
 
 > [!Definition] Definition
-> 
 
 ## 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/skeletal-muscles-of-the-antebrachium/#list-of-antebrachium-muscles" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -18,6 +17,7 @@
 
 
 ## List of Antebrachium Muscles
+
 ### Anterior Compartment
 
 1. [[Cards/Pronator teres\|Pronator teres]]
@@ -46,6 +46,7 @@
 
 </div></div>
 
+
 ## 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/nerves-of-the-antebrachium/#list-of-antebrachium-nerves" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -60,33 +61,35 @@
 > down:: [[Cards/Ulnar Nerve\|Ulnar Nerve]], [[Cards/Median Nerve\|Median Nerve]], [[Cards/Radial Nerve\|Radial Nerve]]
 
 > [!Definition] Definition
-> 
 
 ## List of Ante-brachium Nerves [[Sources/Video/@colingavaganLFS122M8T7Peripheral2023\|@colingavaganLFS122M8T7Peripheral2023]]
+
 - [[Cards/Ulnar Nerve\|Ulnar nerve]] 
 - [[Cards/Median Nerve\|Median nerve]]
 - [[Cards/Radial Nerve\|Radial nerve]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Books/2016GreenmanPrinciplesManualMedicine-lisaa.destefano\|2016GreenmanPrinciplesManualMedicine-lisaa.destefano]]
 
 { .block-language-dataview}
 
 ## Flashcards
 
-
 </div></div>
 
 
-
 # Reference
+
 - 
 
 ## Mentions
 
+
 { .block-language-dataview}
 
 ## Flashcards
-
