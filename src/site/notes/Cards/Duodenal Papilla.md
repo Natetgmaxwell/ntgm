@@ -13,9 +13,11 @@
 > The opening from the [[Cards/Bile Duct\|Bile Duct]] into the [[Cards/Duodenum\|Duodenum]]  of the [[Cards/Small Intestine\|Small Intestine]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@leedaffin2023-LFS122M11T3Pancreas\|@leedaffin2023-LFS122M11T3Pancreas]]
 
 { .block-language-dataview}
