@@ -16,12 +16,15 @@
 > “When you are lying, if you skillfully put in something not quite ordinary, something eccentric, something, you know, that never has happened, or very rarely, it makes the lie sound much more probable.”
 
 ## Decoding [[Cards/Deception\|Deception]]
+
 When people are trying to distract you from the truth or “con” you, you must first go along with the story showing interest and intrigue. At the right moment, devise a question that makes them feel uncomfortable and display that you are on to them. While they are formulating a response to the question examine their [[Cards/Body Language\|body language]] and micro expressions. If they are really lying they will appear frozen, then quickly try to mask their underlying [[Cards/Anxiety\|Anxiety]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                    |
 | ------------------------------------------------------------------------------------------------- |
 | [[Spaces/School/IA1 Time has not Changed Human Nature\|IA1 Time has not Changed Human Nature]] |
