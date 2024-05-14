@@ -12,11 +12,12 @@
 > [!Definition] Definition
 > A myocyte is a muscle cell that can contract and generate force.
 
-
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                         |
 | ---------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-12-24 Sun\|2023-12-24 Sun]]              |
@@ -41,13 +42,13 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Articles/Enzyme reverses muscle loss due to aging and cancer\|Enzyme reverses muscle loss due to aging and cancer]] |
-| [[Sources/Other/HBIO1010 M1T1 Blackboard Site\|HBIO1010 M1T1 Blackboard Site]]                                                |
+| Sources                                                                           |
+| --------------------------------------------------------------------------------- |
+| [[Sources/Other/HBIO1010 M1T1 Blackboard Site\|HBIO1010 M1T1 Blackboard Site]] |
 
 { .block-language-dataview}
 
 ## Flashcards
+
 What is the name for a muscle cell?;;[[Cards/Myocyte\|Myocyte]]
 <!--SR:!2023-09-21,36,250-->
