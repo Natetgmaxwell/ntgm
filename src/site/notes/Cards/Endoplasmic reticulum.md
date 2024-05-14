@@ -2,7 +2,7 @@
 {"aliases":["ER"],"tags":["on/Science/Biology/CellBiology"],"dg-publish":true,"permalink":"/cards/endoplasmic-reticulum/","dgPassFrontmatter":true}
 ---
 
-# Endoplasmic reticulum
+# Endoplasmic Reticulum
 
 > [!Ontology]
 > up:: [[Cards/Organelles\|Organelles]]
@@ -15,13 +15,16 @@
 
 
 ## Types of [[Cards/Endoplasmic reticulum\|Endoplasmic reticulum]]
+
 - [[Cards/Smooth Endoplasmic Reticulum\|Smooth Endoplasmic Reticulum]]
 - [[Cards/Rough Endoplasmic Reticulum\|Rough Endoplasmic Reticulum]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
