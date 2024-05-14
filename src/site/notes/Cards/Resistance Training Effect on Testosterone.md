@@ -10,7 +10,6 @@
 > down:: [[Cards/Compound Movements\|Compound Lifts]]
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > "Resistance training is proven to increase testosterone both in the short- and long-term"
@@ -24,10 +23,13 @@ Engaging in regular resistance training, particularly [[Cards/Compound Movements
 
 ![Extras/Images/U96I6PY2.png](/img/user/Extras/Images/U96I6PY2.png)
 [[Sources/Research Papers/@craig1989EffectsProgressiveResistance\|@craig1989EffectsProgressiveResistance]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
