@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Pathways for Nephron Filtration
 
@@ -24,9 +23,11 @@
 6. [[Cards/Renal Pelvis\|Renal Pelvis]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
