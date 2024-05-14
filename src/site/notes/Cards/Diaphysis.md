@@ -10,16 +10,17 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - Tubular shaft portion of the [[Cards/Long Bones\|Long Bones]]
 - Composed of [[Cards/Compact Bone\|compact bone]]
 - Has a “hollow” region for [[Cards/Bone Marrow\|Bone Marrow]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
