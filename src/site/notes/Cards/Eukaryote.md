@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 The first [[Cards/Eukaryote\|Eukaryote]] organism was created by one [[Cards/Prokaryote\|Prokaryote]] cell engulfing another.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                      |
 | --------------------------------------------------------------------------------------------------- |
 | [[Sources/Video/@ipekkurtboke2024LFS261M01T02Evolution\|@ipekkurtboke2024LFS261M01T02Evolution]] |
