@@ -11,10 +11,13 @@
 
 > [!Definition] Definition
 > Shivering is a behavioural response to a drop in [[Cards/Core Body Temperature\|Core Body Temperature]].
+
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]]
 
 { .block-language-dataview}
