@@ -10,18 +10,18 @@
 > down:: 
 
 > [!Definition] Definition
-> 
- 
+
 - [[Cards/Cushing’s Syndrome\|Cushing’s Syndrome]] is a diagnosable by chronically having excess [[Cards/Cortisol\|Cortisol]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Articles/25 Mind-Blowing Psychological Facts About Love - YourTango\|25 Mind-Blowing Psychological Facts About Love - YourTango]]
 - [[Sources/Articles/37TypesHormones2018\|37TypesHormones2018]]
 - [[Sources/Podcasts/Podcast Episodes/Understanding & Controlling Aggression   Episode 71\|Understanding & Controlling Aggression   Episode 71]]
-- [[Sources/Research Papers/@nieman2015-CushingSyndromeUpdate\|@nieman2015-CushingSyndromeUpdate]]
 
 { .block-language-dataview}
 
