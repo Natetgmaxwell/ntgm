@@ -10,12 +10,13 @@
 > down:: [[Cards/Lower Esophageal Sphincter\|Lower Esophageal Sphincter]], [[Cards/Esophageal Hiatus\|Esophageal Hiatus]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
