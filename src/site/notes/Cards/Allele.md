@@ -12,6 +12,7 @@
 An [[Cards/Allele\|Allele]] is a half of the [[Cards/Chromosomes\|chromosome]] that is inherited from each parent. Dominant alleles and recessive alleles determine where or not the trait is shown.
 
 # Reference
+
 - [[Cards/Genotype\|Genotype]]
 - [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]]
 - [[Cards/Locus\|Locus]]
