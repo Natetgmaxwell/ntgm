@@ -10,14 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
 > "The best exercises for boosting [[Cards/Testosterone\|testosterone]] are full-body [[Cards/Compound Movements\|compound lifts]]"
+
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
