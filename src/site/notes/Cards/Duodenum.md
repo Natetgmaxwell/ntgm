@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Video/@leedaffin2023-LFS122M11T2Oesophagus\|@leedaffin2023-LFS122M11T2Oesophagus]]
 > The duodenum is the shortest part of the small intestine (about 20–25 cm long) and is shaped like a "C“. It is where preparation for absorption begins. 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                        |
 | ----------------------------------------------------------------------------------------------------- |
 | [[Cards/Bile Duct\|Bile Duct]]                                                                     |
