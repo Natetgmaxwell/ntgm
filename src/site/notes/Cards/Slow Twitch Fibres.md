@@ -18,10 +18,12 @@
 > ...type I muscle fibers are also responsible for lactate clearance.
 
 # Reference
+
 - [[Cards/Myoglobin\|Myoglobin]] ([[Cards/Slow Twitch Fibres\|Slow Twitch Fibres]] carry more blood containing [[Cards/Myoglobin\|Myoglobin]])
 - [[Cards/Low-threshold Motor Units\|Low-threshold Motor Units]] 
 
 ## Mentions
+
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-11-07 Tue\|2023-11-07 Tue]]                                                                    |
