@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Research Papers/@ayavoo2021RolesMechanismsStem\|@ayavoo2021RolesMechanismsStem]]
 > Skeletal muscle stem cells (MuSCs, or satellite cells) play a minimal role in muscle maintenance but vigorously engage in regeneration after injury.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
