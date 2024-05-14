@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/merkel-cell/","dgPassFrontmatter":true}
 ---
 
-# Merkel cell
+# Merkel Cell
 
 > [!ontology]+
 > up:: [[Cards/Stratum Basale\|Stratum Basale]]
@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
