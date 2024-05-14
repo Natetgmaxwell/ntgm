@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 #### Traits of [[Cards/Dominance Social Status\|Dominance Social Status]]
 { #bc1b98}
@@ -25,9 +24,11 @@
 - [[Cards/Reputation Destruction\|Reputation Destruction]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                            |
 | ----------------------------------------- |
 | [[Cards/Social Status\|Social Status]] |
@@ -52,4 +53,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
