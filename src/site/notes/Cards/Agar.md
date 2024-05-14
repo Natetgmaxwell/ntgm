@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/agar/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/LFS261","flashcards/LFS261"],"dg-publish":true,"permalink":"/cards/agar/","dgPassFrontmatter":true}
 ---
 
 # Agar
@@ -10,12 +10,13 @@
 > down:: [[Cards/Methods of Preparing Agar Plates\|Methods of Preparing Agar Plates]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                              |
 | ------------------------------------------- |
 | [[Cards/Cultural Media\|Cultural Media]] |
@@ -36,4 +37,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
