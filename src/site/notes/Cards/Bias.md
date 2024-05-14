@@ -10,7 +10,6 @@
 > down:: [[Cards/Appearance Bias\|Appearance Bias]], [[Cards/Confirmation Bias\|Confirmation Bias]], [[Cards/Conviction Bias\|Conviction Bias]], [[Cards/Negativity Bias\|Negative Bias]], [[Cards/Positivity Bias\|Positivity Bias]], [[Cards/Superiority Bias\|Superiority Bias]], [[Cards/The Group Effect\|The Group Effect]]
 
 > [!Definition] Definition
-> 
 
 - Talking to yourself in the second person (using your name or referring to yourself through the pronoun 'you') can help alleviate self [[Cards/Bias\|biases]] and gain perspective on situations. Distant self-talk lets you think like you're helping someone else and perceiving the situation objectively ([[Sources/Podcasts/Podcast Episodes/You 2.0  Befriending Your Inner Voice\|You 2.0  Befriending Your Inner Voice]]).
 
@@ -18,6 +17,7 @@
 > "don’t take eyewitness testimony as to the ultimate measure of things, eyewitness testimony is among the least reliable forms of evidence and is maximally susceptible to [[Cards/Bias\|Bias]]"
 
 ## Types of Bias
+
 - [[Cards/Confirmation Bias\|Confirmation Bias]]
 - [[Cards/Conviction Bias\|Conviction Bias]]
 - [[Cards/Appearance Bias\|Appearance Bias]]
@@ -25,9 +25,11 @@
 - [[Cards/Negativity Bias\|Negativity Bias]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                    |
 | ----------------------------------------------------------------- |
 | [[Calendar/2022/Weekly/2022-W31\|2022-W31]]                    |
