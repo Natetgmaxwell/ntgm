@@ -11,7 +11,7 @@ Quote of the week comes from [[Cards/Robert Greene\|Robert Greene]] and 50 Cents
 
 This shows how acknowledging our [[Cards/Ignorance\|Ignorance]] is a strength in which we are always open to learning more and being proven wrong, constantly building our knowledge and Wisdom. Your knowledge can be leveraged in decision-making, and the more 'data' you have to draw upon, the more justified and accurate your decision will be. 
 
-The process of extracting newfound Wisdom from knowledge, information and, in the most basic sense, data can be seen in DIKW Pyramid (seen below). 
+The process of extracting newfound Wisdom from knowledge, information and, in the most basic sense, data can be seen in [[Cards/DIKW Pyramid\|DIKW Pyramid]] (seen below). 
 
 [
 
