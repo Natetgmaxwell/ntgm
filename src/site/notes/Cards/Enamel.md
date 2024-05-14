@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Articles/Ancient Egyptian Inventions That Are Still Used Today\|Ancient Egyptian Inventions That Are Still Used Today]]
 - [[Spaces/My Newsletter/Developing Wisdom, Ancient Egypt & Physical Benchmarks\|Developing Wisdom, Ancient Egypt & Physical Benchmarks]]
 
