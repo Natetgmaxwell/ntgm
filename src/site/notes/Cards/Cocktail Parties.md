@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - always plan 3 weeks in advance
 - use name tags to create a sense of unity
@@ -28,9 +27,11 @@
 - "Hey, I'm hosting an event on Tuesday night in three weeks. Can I send you the info?"
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -48,4 +49,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
