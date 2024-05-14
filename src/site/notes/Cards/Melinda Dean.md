@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -42,7 +43,10 @@
 | [[Sources/Video/@MelindaDean2024MLS101M05T02Blood\|@MelindaDean2024MLS101M05T02Blood]]                     |
 | [[Sources/Video/@MelindaDean2024MLS101M05T03Introduction\|@MelindaDean2024MLS101M05T03Introduction]]       |
 | [[Sources/Video/@MelindaDean2024MLS101M05T04Venipuncture\|@MelindaDean2024MLS101M05T04Venipuncture]]       |
+| [[Sources/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]                             |
+| [[Sources/@MelindaDean2024MLS101M09T02Electrophoresis\|@MelindaDean2024MLS101M09T02Electrophoresis]]       |
+| [[Sources/@MelindaDean2024MLS101M09T03Spectrophotometer\|@MelindaDean2024MLS101M09T03Spectrophotometer]]   |
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
