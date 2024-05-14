@@ -10,12 +10,12 @@
 > down:: [[Cards/Hormones of the Adrenal Cortex\|Hormones of the Adrenal Cortex]], [[Cards/Zona Glomerulosa\|Zona Glomerulosa]], [[Cards/Zona Fasciculata\|Zona Fasciculata]], [[Cards/Zona Reticularis\|Zona Reticularis]]
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Research Papers/@tsilosani2022-AldosteroneRegulatedSodiumTransport\|@tsilosani2022-AldosteroneRegulatedSodiumTransport]]
 > The adrenal cortex is divided into three functionally distinct regions: [[Cards/Zona Glomerulosa\|Zona Glomerulosa]] (production of mineralocorticoids), [[Cards/Zona Fasciculata\|Zona Fasciculata]] (production of glucocorticoids), and [[Cards/Zona Reticularis\|Zona Reticularis]] (production of androgenic hormones; Vinson, 2016).
 
 ## Regions of the Adrenal Cortex
+
 - [[Cards/Zona Glomerulosa\|Zona Glomerulosa]]
 - [[Cards/Zona Fasciculata\|Zona Fasciculata]]
 - [[Cards/Zona Reticularis\|Zona Reticularis]]
@@ -34,30 +34,33 @@
 > down:: [[Cards/Mineralocorticoids\|Mineralocorticoids]], [[Cards/Glucocorticoids\|Glucocorticoids]], [[Cards/Gonadocorticoids\|Gonadocorticoids]]
 
 > [!Definition] Definition
-> 
 
 ## List of Adrenal Cortex Hormones [[Sources/Video/@lindagallo2023LFS112M4T4Adrenal\|@lindagallo2023LFS112M4T4Adrenal]]
+
 - [[Cards/Mineralocorticoids\|Mineralocorticoids]]
 - [[Cards/Glucocorticoids\|Glucocorticoids]]
 - [[Cards/Gonadocorticoids\|Gonadocorticoids]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
 ## Flashcards
 
-
 </div></div>
 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
