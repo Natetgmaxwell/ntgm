@@ -13,10 +13,12 @@
 > The Nocebo effect refers to a phenomenon in which negative expectations about an illness or treatment lead to actual physical symptoms. 
 
 # Reference
+
 - [[Cards/Placebo Effect\|Placebo Effect]]
 - [[Cards/Hysteria\|Hysteria]]
 
 ## Mentions
+
 | Incoming Links                                              |
 | ----------------------------------------------------------- |
 | [[Cards/Psychogenic Illness\|Psychogenic Illness]]       |
