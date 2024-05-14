@@ -13,9 +13,11 @@
 > A substance that kills [[Cards/Bacteria\|Bacteria]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -32,7 +34,7 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 What is [[Cards/Bactericide\|Bactericide]]?;;A substance that kills [[Cards/Bacteria\|Bacteria]].
-<!--SR:!2024-04-20,4,270-->
+<!--SR:!2024-05-19,13,270-->
