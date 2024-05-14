@@ -10,16 +10,17 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
 ## Flashcards
 
 Do [[Cards/Arterioles\|Arterioles]] carry oxygenated or deoxygenated blood?;;Oxygenated
-<!--SR:!2023-10-25,4,170-->
+<!--SR:!2024-05-14,8,170-->
