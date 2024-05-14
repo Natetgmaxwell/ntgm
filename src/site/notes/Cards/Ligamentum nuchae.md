@@ -2,7 +2,7 @@
 {"aliases":["nuchal ligament"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2023-03-11 Sat","dg-publish":true,"permalink":"/cards/ligamentum-nuchae/","dgPassFrontmatter":true}
 ---
 
-# Ligamentum nuchae
+# Ligamentum Nuchae
 
 > [!Ontology]-
 > up:: [[Cards/Ligaments\|Ligaments]]
@@ -15,9 +15,11 @@
 ![Pasted image 20230416100911.png](/img/user/Extras/Images/Pasted%20image%2020230416100911.png)
 
 # Reference
+
 - Attaches to the [[Cards/Trapezius\|Trapezius]]
 
 ## Mentions
+
 
 { .block-language-dataview}
 
