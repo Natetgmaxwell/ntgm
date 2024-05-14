@@ -10,17 +10,18 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
-> [!quote] [[LFS112 M4T3 Thyroid and Parathyroid glands\|LFS112 M4T3 Thyroid and Parathyroid glands]]
+> [!quote] [[Sources/Video/@2023-LFS112M4T3Thyroid\|@2023-LFS112M4T3Thyroid]]
 > "Stimulated by ↑ blood Ca2+ levels"
 
 - [[Cards/Thyroid Gland\|Thyroid Gland]] releases [[Cards/Calcitonin\|Calcitonin]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@2023-LFS112M4T3Thyroid\|@2023-LFS112M4T3Thyroid]]
 
 { .block-language-dataview}
