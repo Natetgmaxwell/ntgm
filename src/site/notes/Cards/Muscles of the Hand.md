@@ -10,7 +10,6 @@
 > down:: [[Cards/Palmar Interossei\|Palmar Interossei]], [[Cards/Lumbrical muscles of the hand\|Lumbrical muscles of the hand]]
 
 > [!Definition] Definition
-> 
 
 - Abductor pollicis brevis
 - Flexor pollicis brevis
@@ -30,9 +29,11 @@
 - Dorsal interossei
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
