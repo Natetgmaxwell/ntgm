@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Video/@ipekkurtboke2024LFS261M01T01Introduction\|@ipekkurtboke2024LFS261M01T01Introduction]]
 > Before Pasteur effective treatment of diseases were discovered by trial and error, but causes of diseases were unknown.
@@ -19,9 +18,11 @@
 > {[[Cards/Louis Pasteur\|Louis Pasteur]]} Disproved “Spontaneous generation” and contributed to the development of Germ Theory.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                              |
 | ----------------------------------------------------------- |
 | [[Cards/Germ Theory of Disease\|Germ Theory of Disease]] |
@@ -43,4 +44,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
