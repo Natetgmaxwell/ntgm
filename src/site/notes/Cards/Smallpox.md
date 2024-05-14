@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                            |
 | ----------------------------------------- |
 | [[Cards/Edward Jenner\|Edward Jenner]] |
@@ -34,4 +35,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
