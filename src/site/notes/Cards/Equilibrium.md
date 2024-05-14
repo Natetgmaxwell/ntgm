@@ -7,15 +7,17 @@
 > [!Ontology]
 > up:: [[Cards/Balance\|Balance]]
 > jump:: [[Cards/Negative Feedback Loops\|Negative Feedback Loops]], [[Cards/Homeostasis\|Homeostasis]]
-> down:: 
+> down:: [[Cards/Equilibrium Constant\|Equilibrium Constant]]
 
 > [!Definition] Definition
 > The restoration of balance.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Diffusion\|Diffusion]]                                                                                            |
@@ -27,6 +29,7 @@
 | Outgoing Links                                                |
 | ------------------------------------------------------------- |
 | [[Cards/Balance\|Balance]]                                 |
+| [[Cards/Equilibrium Constant\|Equilibrium Constant]]       |
 | [[Cards/Homeostasis\|Homeostasis]]                         |
 | [[Cards/Negative Feedback Loops\|Negative Feedback Loops]] |
 
