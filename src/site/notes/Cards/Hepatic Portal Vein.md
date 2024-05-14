@@ -10,12 +10,13 @@
 > down:: [[Cards/Spleenic Vein\|Spleenic Vein]], [[Cards/Superior Mesenteric Vein\|Superior Mesenteric Vein]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@leedaffin2023-LFS122M10T2Systemic\|@leedaffin2023-LFS122M10T2Systemic]]
 - [[Sources/Video/@leedaffin2023-LFS122M10T3Hepatic\|@leedaffin2023-LFS122M10T3Hepatic]]
 
