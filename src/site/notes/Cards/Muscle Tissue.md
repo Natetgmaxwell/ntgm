@@ -25,6 +25,7 @@ the  oxidative  cycle  increases  due  to  an  improvement  in  efficiency”
 
 ### [[Cards/Skeletal Muscle\|Skeletal Muscle]]
 
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/skeletal-muscle/#171396" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -37,6 +38,7 @@ the  oxidative  cycle  increases  due  to  an  improvement  in  efficiency”
 
 ### [[Cards/Smooth Muscle\|Smooth Muscle]]
 
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/smooth-muscle/#83f258" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -47,10 +49,10 @@ the  oxidative  cycle  increases  due  to  an  improvement  in  efficiency”
 </div></div>
 
 
-
 ## [[Cards/Muscle Tissue\|Muscle Fibre]] Types
 
 #### [[Cards/Slow Twitch Fibres\|Slow Twitch Fibres]]
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/slow-twitch-fibres/#f2ffc0" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -64,6 +66,7 @@ the  oxidative  cycle  increases  due  to  an  improvement  in  efficiency”
 
 #### [[Cards/Fast-Twitch Oxidative Fibers\|Fast-Twitch Oxidative Fibers]]
 
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/fast-twitch-oxidative-fibers/#209d49" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -75,6 +78,7 @@ the  oxidative  cycle  increases  due  to  an  improvement  in  efficiency”
 
 
 #### [[Cards/Fast-Twitch Glycolytic Fibers\|Fast-Twitch Glycolytic Fibers]]
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/fast-twitch-glycolytic-fibers/#66cea1" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -91,10 +95,13 @@ the  oxidative  cycle  increases  due  to  an  improvement  in  efficiency”
 ### [[Cards/Isotonic Contraction\|Isotonic Contraction]]
 
 ### [[Cards/Isometric Contraction\|Isometric Contraction]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Blood Flow Restriction Training\|Blood Flow Restriction Training]]                                                |
