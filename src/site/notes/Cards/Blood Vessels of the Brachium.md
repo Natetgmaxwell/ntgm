@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## List of Brachial Blood Vessels
 
@@ -21,16 +20,20 @@
 ### Veins
 
 ###### Deep Veins
+
 - [[Cards/Brachial Vein\|Brachial Vein]]
 
 ###### Superficial Veins
+
 - [[Cards/Basilic Vein\|Basilic vein]]
 - [[Cards/Cephalic Vein\|Cephalic vein]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
