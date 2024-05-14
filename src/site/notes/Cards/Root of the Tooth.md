@@ -10,14 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [@leedaffin2023-LFS122M11T1Oral]
 > "A tooth may have multiple roots or just one root (depending upon its tooth type)."
+
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
