@@ -2,7 +2,7 @@
 {"aliases":["Cerebral Hemisphere","Cerebrum"],"date created":"2022-12-03 Sat","edited":"2023-04-06 Thu","tags":["Uni/LFS122","Uni/HBIO1009","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/cerebral-cortex/","dgPassFrontmatter":true}
 ---
 
-# Cerebral cortex
+# Cerebral Cortex
 
 > [!Ontology]
 > up:: [[Cards/Brain\|Brain]]
@@ -13,15 +13,18 @@
 > The cerebral cortex is the outer layer of the brain that covers and protects the inner structures. It is composed of gray and white matter, with gray matter consisting of neurons and synapses, and white matter consisting of myelinated axons that connect different regions. The cerebral cortex is responsible for most of the higher cognitive functions, such as reasoning, perception, memory, language, and decision making. It also contains various regions that specialize in different tasks, such as visual, auditory, motor, and somatosensory processing.
 
 ## Parts of the [[Cards/Cerebral cortex\|Cerebral cortex]]
+
 - [[Cards/Frontal lobe\|Frontal lobe]]
 - [[Cards/Parietal lobe\|Parietal lobe]]
 - [[Cards/Temporal lobe\|Temporal lobe]]
 - [[Cards/Occipital lobe\|Occipital lobe]]
 
 # Reference
+
 - [[Cards/Pyrroloquinoline quinone\|PQQ]]
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Cards/Basal ganglia\|Basal ganglia]]                                                                 |
