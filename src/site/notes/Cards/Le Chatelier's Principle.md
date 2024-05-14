@@ -13,9 +13,11 @@
 > Le Chatelier's principle states that if a **dynamic equilibrium** is disturbed by changing the conditions, the position of equilibrium shifts to counteract the change to reestablish an equilibrium.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -32,4 +34,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
