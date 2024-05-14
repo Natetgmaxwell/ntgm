@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - [[Cards/Limbic System\|Limbic System]]
 - [[Cards/Short-Term Memory\|Short-Term Memory]]
 
 ## Mentions
+
 
 { .block-language-dataview}
