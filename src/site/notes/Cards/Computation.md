@@ -10,16 +10,18 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Types of [[Cards/Computation\|Computation]]
+
 - [[Cards/Automatic Computation\|Automatic Computation]]
 - [[Cards/Conscience Computation\|Conscience Computation]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -37,4 +39,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
