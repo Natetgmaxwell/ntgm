@@ -10,17 +10,19 @@
 > down:: [[Cards/Superior Lobe of the Right Lung\|Superior Lobe of the Right Lung]], [[Cards/Middle Lobe of the Right Lung\|Middle Lobe of the Right Lung]], [[Cards/Inferior Lobe of the Right Lung\|Inferior Lobe of the Right Lung]]
 
 > [!Definition] Definition
-> 
 
 ## List of Right Lung Lobes
+
 - [[Cards/Superior Lobe of the Right Lung\|Superior Lobe of the Right Lung]]
 - [[Cards/Middle Lobe of the Right Lung\|Middle Lobe of the Right Lung]]
 - [[Cards/Inferior Lobe of the Right Lung\|Inferior Lobe of the Right Lung]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
