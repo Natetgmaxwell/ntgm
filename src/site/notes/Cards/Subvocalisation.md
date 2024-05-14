@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - The act or process of inaudibly articulating speech with the speech, potentially reducing [[Cards/Cognitive Load\|Cognitive Load]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
