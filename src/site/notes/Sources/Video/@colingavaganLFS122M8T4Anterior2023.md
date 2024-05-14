@@ -19,9 +19,11 @@
 > FirstAuthor:: Colin Gavagan
 
 > [!Links]+
->  | Incoming Links                      |
-> | ----------------------------------- |
-> | [[Cards/Brachialis\|Brachialis]] |
+>  | Incoming Links                                                    |
+> | ----------------------------------------------------------------- |
+> | [[Cards/Biceps Brachii Long Head\|Biceps Brachii Long Head]]   |
+> | [[Cards/Biceps Brachii Short Head\|Biceps Brachii Short Head]] |
+> | [[Cards/Brachialis\|Brachialis]]                               |
 > 
 { .block-language-dataview}
 
