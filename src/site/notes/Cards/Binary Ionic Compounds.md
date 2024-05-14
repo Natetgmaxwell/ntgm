@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@davidmckay2023IntroductionChemistry\|@davidmckay2023IntroductionChemistry]]
 > Ionic compounds containing two elements are binary ionic compounds.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -36,4 +37,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
