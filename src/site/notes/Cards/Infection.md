@@ -9,10 +9,7 @@
 > jump::
 > down:: [[Cards/Bacterial Infections\|Bacterial Infections]], [[Cards/Viral Infections\|Viral Infections]], [[Cards/Fungal Infections\|Fungal Infections]], [[Cards/Fungal Infections\|Fungal Infections]]
 
-
-
 What are the different types of infection?
-
 
 There are different ways to classify infections, depending on the cause, location, or severity of the disease. Some common types of infection are:
 
@@ -22,10 +19,10 @@ There are different ways to classify infections, depending on the cause, locatio
 - [[Cards/Parasitic infections\|Parasitic infections]]: These are caused by parasites, which are organisms that live on or inside another organism and derive nutrients from them. [[Cards/Parasitic infections\|Parasitic infections]] can affect the intestines, blood, liver, lungs, or brain. Some examples of [[Cards/Parasitic infections\|Parasitic infections]] are malaria, giardia, toxoplasmosis, and schistosomiasis.
 - Protozoan infections: These are caused by protozoans, which are single-celled eukaryotic organisms that can infect humans or animals and cause various diseases. Some examples of protozoan infections are leishmaniasis, amoebic dysentery, and trichomoniasis.
 
-
 ## [[Cards/Bacterial Infections\|Bacterial Infections]]
 
 ## Infection Related Hazards
+
 -   Human Interaction
     -   Physical Contact
     -   Bodily Fluids
@@ -37,4 +34,5 @@ There are different ways to classify infections, depending on the cause, locatio
 ## Infection Prevention
 
 ## Transmission
+
 ![Screenshot 2023-10-16 at 11.03.15 am.png|400](/img/user/Extras/Images/Screenshot%202023-10-16%20at%2011.03.15%20am.png)
