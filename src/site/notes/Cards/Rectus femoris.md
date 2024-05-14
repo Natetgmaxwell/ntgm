@@ -10,22 +10,25 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ![Pasted image 20230416125443.png|100](/img/user/Extras/Images/Pasted%20image%2020230416125443.png)
 
 ## Attachments
+
 - [[Cards/Anterior Inferior Iliac Spine\|AIIS]]
 - [[Cards/Tibia#Tibial Tuberosity\|Tibial Tuberosity]]
 
 # Reference
+
 - 
 
 ## Mentions
 
+
 { .block-language-dataview}
 
 ## Flashcards
+
 What are the attachments for the [[Cards/Rectus femoris\|Rectus femoris]]?;;[[Cards/Anterior Inferior Iliac Spine\|AIIS]] and [[Cards/Tibia#Tibial Tuberosity\|Tibial Tuberosity]]
 <!--SR:!2023-10-25,2,230-->
 
