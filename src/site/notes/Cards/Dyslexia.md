@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/@mastersonPeopleDyslexiaHave2022\|@mastersonPeopleDyslexiaHave2022]]
 > People with dyslexia actually have “enhanced abilities” in certain areas including discovery, invention and creativity.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                            |
 | --------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-11-04 Fri\|2022-11-04 Fri]] |
