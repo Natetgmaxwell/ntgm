@@ -563,7 +563,7 @@
 > Gelatin liquefaction test involves the hydrolysis of gelatin by a microbial enzyme called
 > 
 > ---
-> Protease
+> [[Cards/Protease\|Protease]]
 >
 { #M7U8LIUTaFDBUQG5Lp35}
 
@@ -573,7 +573,7 @@
 > The Voges-Proskauer test is used to detect which of the below end products of sugar fermentation
 > 
 > ---
-> Acetoin
+> [[Cards/Acetoin\|Acetoin]]
 >
 { #FYT5V7IDaFDBUQG5Lp36}
 
@@ -590,10 +590,10 @@
 
 > [!quote-blue] (Page 36) blue
 > 
-> In a direct ELISA, known antibodies are placed in the wells of a microplate, and an unknown type of bacterium is added to each well. A reaction between the known antibodies and the bacterium provides identification of the bacteria. The full name of this test is
+> In a direct [[Cards/Enzyme-linked Immunosorbent Assay\|ELISA]], known antibodies are placed in the wells of a microplate, and an unknown type of bacterium is added to each well. A reaction between the known antibodies and the bacterium provides identification of the bacteria. The full name of this test is
 > 
 > ---
-> Enzyme-linked immunosorbent assay
+> [[Cards/Enzyme-linked Immunosorbent Assay\|Enzyme-linked Immunosorbent Assay]]
 >
 { #7N5UN3JTaFDBUQG5Lp36}
 
