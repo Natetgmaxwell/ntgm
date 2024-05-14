@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -36,10 +35,13 @@
 
 </div></div>
 
+
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Articles/2019LandmarksBody-admin\|2019LandmarksBody-admin]]
 - [[Sources/Video/@2023-LFS122M8T1Skeletal\|@2023-LFS122M8T1Skeletal]]
 
