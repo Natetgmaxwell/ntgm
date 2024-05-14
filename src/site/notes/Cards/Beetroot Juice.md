@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Research Papers/@perez2019EffectsBeetrootJuice\|@perez2019EffectsBeetrootJuice]]
 > Beetroot juice (BR) has been shown to reduce blood pressure (BP) at rest and improve several performance parameters during exercise.
@@ -22,9 +21,11 @@
 [[Sources/Research Papers/@perez2019EffectsBeetrootJuice\|@perez2019EffectsBeetrootJuice]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                            |
 | --------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-03-18 Sat\|2023-03-18 Sat]] |
