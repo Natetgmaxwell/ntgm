@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## **POCI** Framework
 
@@ -24,10 +23,13 @@
 - Descriptive 
 - Relational
 - Interventional 
+
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
