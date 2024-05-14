@@ -13,6 +13,7 @@
 > Enzymes are [[Cards/Protein\|proteins]] that act as biological catalysts by accelerating chemical reactions.
 
 ## List of [[Cards/Enzyme\|Enzymes]]
+
 - [[Cards/Ligase\|Ligase]]
 - [[Cards/ATPase\|ATPase]]
 - [[Cards/Primase\|Primase]]
@@ -27,13 +28,17 @@
 - [[Cards/Creatine kinase\|Creatine kinase]]
 
 ## Enzymes Speed up Chemical Reaction By;
+
 - Lowering [[Cards/Activation Energy\|Activation Energy]]
 - Increasing Collision Frequency
 - Stabilising Transition State
+
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                        |
 | ------------------------------------------------------------------------------------- |
 | [[Cards/Aromatase\|Aromatase]]                                                     |
@@ -44,11 +49,13 @@
 | [[Cards/Histamine N-methyltransferase\|Histamine N-methyltransferase]]             |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                   |
 | [[Cards/Induced Fit Model\|Induced Fit Model]]                                     |
+| [[Cards/Luciferase\|Luciferase]]                                                   |
 | [[Cards/Methylenetetrahydrofolate Reductase\|Methylenetetrahydrofolate Reductase]] |
 | [[Cards/Monoamine oxidase A\|Monoamine oxidase A]]                                 |
 | [[Cards/Monoamine oxidase B\|Monoamine oxidase B]]                                 |
 | [[Cards/Oxidative Enzyme\|Oxidative Enzyme]]                                       |
 | [[Cards/Pyruvate dehydrogenase\|Pyruvate dehydrogenase]]                           |
+| [[Cards/Relaxase\|Relaxase]]                                                       |
 | [[Cards/Restriction Enzyme\|Restriction Enzyme]]                                   |
 | [[Cards/Saliva\|Saliva]]                                                           |
 | [[Cards/Salivary amylase\|Salivary amylase]]                                       |
