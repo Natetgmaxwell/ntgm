@@ -10,12 +10,13 @@
 > down:: [[Cards/Pharyngeal Tonsil\|Pharyngeal Tonsil]], [[Cards/Palatine Tonsil\|Palatine Tonsil]], [[Cards/Lingual Tonsil\|Lingual Tonsil]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@2023-LFS112M6T4Overview\|@2023-LFS112M6T4Overview]]
 - [[Sources/Video/@leedaffin2023-LFS122M10T4Lymphatic\|@leedaffin2023-LFS122M10T4Lymphatic]]
 
