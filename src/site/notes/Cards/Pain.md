@@ -16,9 +16,11 @@
 > "Feeling [[Cards/Pain\|Pain]] in response to an injury is a signal that your body has been damaged in some way. Or, if you have an illness, headache, or other type of [[Cards/Pain\|Pain]], it’s a signal to your [[Cards/Brain\|brain]] that something is not right."
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Articles/2019WhyWeFeelPain-thepaincenter\|2019WhyWeFeelPain-thepaincenter]]
 - [[Sources/Articles/Symptoms of Malnutrition with Cystic Fibrosis\|Symptoms of Malnutrition with Cystic Fibrosis]]
 - [[Sources/Podcasts/Podcast Episodes/Future Proof Your Body by Practicing Good Posture\|Future Proof Your Body by Practicing Good Posture]]
