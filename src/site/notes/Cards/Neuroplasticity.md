@@ -10,12 +10,13 @@
 > down:: [[Cards/Role of BDNF in Synaptic Plasticity\|Role of BDNF in Synaptic Plasticity]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                              |
 | ------------------------------------------- |
 | [[Cards/Jim Kwik\|Jim Kwik]]             |
@@ -36,4 +37,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
