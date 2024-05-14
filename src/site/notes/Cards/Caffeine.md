@@ -10,15 +10,16 @@
 > down:: [[Cards/Tea\|Tea]], [[Cards/Sleep\|Sleep]], [[Cards/Coffee\|Coffee]]
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Boundless by Ben Greenfield\|Boundless by Ben Greenfield]]
 > [[Cards/Caffeine\|Caffeine]] is a known protector of [[Cards/Blood-brain Barrier\|BBB]] integrity.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                            |
 | --------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-10-01 Sat\|2022-10-01 Sat]] |
