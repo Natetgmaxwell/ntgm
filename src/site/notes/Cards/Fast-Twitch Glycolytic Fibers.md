@@ -15,10 +15,12 @@
 
 
 # Reference
+
 - [[Cards/Fast-Twitch Oxidative Fibers\|type 2a]]
 - [[Cards/High-threshold Motor Units\|High-threshold Motor Units]]
 
 ## Mentions
+
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Aerobic Training Zones\|Aerobic Training Zones]]                                                                  |
