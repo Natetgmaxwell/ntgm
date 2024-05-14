@@ -35,14 +35,17 @@
 
 
 # Reference
+
 - 
+
 ## Mentions
+
 
 { .block-language-dataview}
 
 ## Flashcards
 
 Describe the filtration pathway in the kidney.;; Filtration occurs from [[Cards/Glomerulus\|glomerulus]] to Bowman's capsule, then through PCT, loop of Henle, [[Cards/Distal Convoluted Tubule\|DCT]], [[Cards/Renal Pelvis\|collecting duct]] system, and [[Cards/Renal Pelvis\|renal pelvis]].
-<!--SR:!2023-08-17,1,230-->
+<!--SR:!2024-05-08,2,230-->
 
 What is the functional unit of the kidney responsible for the filtration of blood?;;[[Cards/Nephron\|Nephron]]
