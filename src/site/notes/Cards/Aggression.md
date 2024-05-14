@@ -10,12 +10,13 @@
 > down:: [[Cards/Direct Aggression\|Direct Aggression]], [[Cards/Indirect Aggression\|Indirect Aggression]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Cards/Dominance Social Status\|Dominance Social Status]] |
@@ -34,4 +35,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
