@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Articles/@greenfield2022-JamesDiNicolantonioDirt\|@greenfield2022-JamesDiNicolantonioDirt]]
 
 { .block-language-dataview}
