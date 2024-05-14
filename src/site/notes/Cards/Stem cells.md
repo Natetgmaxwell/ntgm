@@ -2,7 +2,7 @@
 {"edited":"2023-04-06 Thu","date created":"2022-02-24 Thu","dg-publish":true,"permalink":"/cards/stem-cells/","dgPassFrontmatter":true}
 ---
 
-# Stem cells
+# Stem Cells
 
 > [!Ontology]-
 > up:: [[Cards/Cells\|Cells]]
@@ -22,10 +22,12 @@
 > After organismal growth ceases, stem cells effectively maintain tissues through the peak reproductive years.
 
 # Reference
+
 - [[Cards/Immortality\|Immortality]]
 - [[Cards/Induced pluripotent stem\|Induced pluripotent stem]] 
 
 ## Mentions
+
 | Incoming Links                                                                |
 | ----------------------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-02-22\|2022-02-22]]                             |
