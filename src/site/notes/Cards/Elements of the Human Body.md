@@ -10,13 +10,14 @@
 > down:: [[Cards/Nitrogen\|Nitrogen]], [[Cards/Hydrogen\|Hydrogen]], [[Cards/Carbon\|Carbon]], [[Cards/Oxygen\|Oxygen]], [[Cards/Calcium\|Calcium]], [[Cards/Phosphorus\|Phosphorus]], [[Cards/Potassium\|Potassium]], [[Cards/Sulfur\|Sulfur]], [[Cards/Sodium\|Sodium]], [[Cards/Chlorine\|Chlorine]], [[Cards/Magnesium\|Magnesium]]
 
 > [!Definition] Definition
-> 
 
 ![Pasted image 20230508104419.png](/img/user/Extras/Images/Pasted%20image%2020230508104419.png)
 
 ![Extras/Images/image-5-x53-y34.png|500](/img/user/Extras/Images/image-5-x53-y34.png)
 [[Sources/Video/@nicolemastersLFS112M5T1Building2023\|@nicolemastersLFS112M5T1Building2023]]
+
 ## List of Elements
+
 - [[Cards/Oxygen\|Oxygen]]
 - [[Cards/Carbon\|Carbon]]
 - [[Cards/Hydrogen\|Hydrogen]]
@@ -30,9 +31,11 @@
 - [[Cards/Magnesium\|Magnesium]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
