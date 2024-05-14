@@ -10,16 +10,18 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Types of Stretching
+
 - [[Cards/Static Stretching\|Static Stretching]]
 - [[Dynamic Stretching\|Dynamic Stretching]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -37,4 +39,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
