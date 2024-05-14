@@ -10,9 +10,9 @@
 > down:: [[Cards/Hyaline Cartilage\|Hyaline Cartilage]], [[Cards/Elastic Cartilage\|Elastic Cartilage]], [[Cards/Fibrocartilage\|Fibrocartilage]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -25,5 +25,6 @@
 
 
 ## Mentions
+
 
 { .block-language-dataview}
