@@ -10,13 +10,29 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
-- [[Sources/Video/@leedaffin2023-LFS122M10T2Systemic\|@leedaffin2023-LFS122M10T2Systemic]]
+
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
+
+{ .block-language-dataview}
+
+| Outgoing Links                          |
+| --------------------------------------- |
+| [[Cards/Arteries\|Arteries]]         |
+| [[Cards/Celiac Trunk\|Celiac Trunk]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                                     |
+| ------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffin2023-LFS122M10T2Systemic\|@leedaffin2023-LFS122M10T2Systemic]] |
 
 { .block-language-dataview}
 
