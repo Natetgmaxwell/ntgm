@@ -13,9 +13,11 @@
 > Sir _Edward Burnett Tylor_ was an English anthropologist regarded as the founder of cultural anthropology.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                            |
 | ------------------------------------------------------------------------- |
 | [[Cards/Natural Selection in Business\|Natural Selection in Business]] |
@@ -32,4 +34,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
