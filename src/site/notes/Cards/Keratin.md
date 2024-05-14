@@ -15,9 +15,11 @@
 - The [[Cards/Stratum Granulosum\|Stratum Granulosum]] produces [[Cards/Keratin\|Keratin]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
