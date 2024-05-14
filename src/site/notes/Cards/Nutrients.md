@@ -10,9 +10,9 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Types of [[Cards/Nutrients\|Nutrients]]
+
 - [[Cards/Water\|Water]]
 - [[Cards/Minerals\|Minerals]]
 - [[Cards/Protein\|Protein]]
@@ -21,9 +21,11 @@
 - [[Cards/Fiber\|Fiber]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Cards/Blood\|Blood]]                                                                                 |
