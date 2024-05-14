@@ -10,12 +10,13 @@
 > down:: [[Cards/Deep Femoral Artery\|Deep Femoral Artery]], [[Cards/Popliteal Artery\|Popliteal Artery]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
