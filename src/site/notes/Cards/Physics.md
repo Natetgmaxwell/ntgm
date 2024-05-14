@@ -10,12 +10,13 @@
 > down:: [[Cards/Light\|Light]], [[Cards/Energy Transfer\|Energy Transfer]], [[Cards/Heliocentric Theory\|Heliocentric Theory]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
