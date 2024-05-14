@@ -2,7 +2,7 @@
 {"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/styloid-process-of-the-temporal-bone/","dgPassFrontmatter":true}
 ---
 
-# Styloid process of the Temporal Bone
+# Styloid Process of the Temporal Bone
 
 > [!ontology]+
 > up:: [[Cards/Temporal Bone\|Temporal Bone]]
@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
@@ -33,4 +34,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
