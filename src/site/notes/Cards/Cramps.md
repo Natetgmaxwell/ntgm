@@ -22,9 +22,11 @@
 - [[Cards/Static Stretching\|Static Stretching]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                            |
 | --------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-02-22 Wed\|2023-02-22 Wed]] |
