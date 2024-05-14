@@ -10,18 +10,21 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Innervated Muscles
+
 - [[Cards/Coracobrachialis\|Coracobrachialis]]
 - [[Cards/Biceps Brachii\|Biceps Brachii]]
 	- [[Cards/Biceps Brachii Long Head\|Biceps Brachii Long Head]]
 	- [[Cards/Biceps Brachii Short Head\|Biceps Brachii Short Head]]
 - [[Cards/Brachialis\|Brachialis]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
