@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - Requires co-[[Cards/Enzyme\|Enzyme]] [[Cards/Vitamin B1\|Vitamin B1]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                  |
 | ------------------------------- |
 | [[Cards/Alcohol\|Alcohol]]   |
