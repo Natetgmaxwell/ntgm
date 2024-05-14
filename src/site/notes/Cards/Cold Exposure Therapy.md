@@ -17,7 +17,9 @@
 
 ![Extras/Images/bookimage-156-x72-y411.png|500](/img/user/Extras/Images/bookimage-156-x72-y411.png)
 [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
+
 ### Most effective Forms of Cold Exposure Therapy
+
 1. Ice Bath
 2. Cold Shower
 3. Atmospheric Exposure
@@ -46,6 +48,7 @@
 > If there is no access to an ice bath of some sorts, you can attach ice packs to the [[Cards/Glabrous skin\|Glabrous skin]] regions and check every 10 minutes to monitor [[Cards/Core Body Temperature\|Core Body Temperature]] to achieve the 0.3˚C drop.
 
 # Reference
+
 - [[Cards/Thermoregulation\|Thermoregulation]]
 - [[Cards/Sleep\|Sleep]]
 - [[Cards/Metabolism\|Metabolism]]
@@ -58,6 +61,7 @@
 - [[Cards/Hormesis\|Hormesis]]
 
 ## Mentions
+
 - [[Sources/Courses/Superbrain by Jim Kwik\|Superbrain by Jim Kwik]]
 - [[Sources/Podcasts/Podcast Episodes/Sleep Toolkit  Tools for Optimising Sleep & Sleep Wake Timing   Episode 84 — Huberman Lab\|Sleep Toolkit  Tools for Optimising Sleep & Sleep Wake Timing   Episode 84 — Huberman Lab]]
 - [[Sources/Podcasts/Podcast Episodes/Using Deliberate Cold Exposure for Health and Performance\|Using Deliberate Cold Exposure for Health and Performance]]
