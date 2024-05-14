@@ -13,8 +13,11 @@
 > Anticodons are found on molecules of t[[Cards/Ribonucleic Acid\|RNA]]. Their function is **to base pair with the codon on a strand of mRNA during [[Cards/RNA Translation\|RNA Translation]]**
 
 ![Pasted image 20220515142121.png|400](/img/user/Extras/Images/Pasted%20image%2020220515142121.png)
+
 # Reference
+
 ## Mentions
+
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-03-11\|2022-03-11]]                                                                            |
