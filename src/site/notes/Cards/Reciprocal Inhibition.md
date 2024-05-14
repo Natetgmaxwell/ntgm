@@ -13,9 +13,11 @@
 > Reciprocal inhibition is a process in which the activity of one muscle group is inhibited to allow for the activity of the opposing muscle group.
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
