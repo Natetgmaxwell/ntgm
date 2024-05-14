@@ -16,6 +16,7 @@
 
 ### [[Cards/Meta Data\|Meta Data]]
 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -26,6 +27,7 @@ Data about data or information (e.g location in photos)
 
 
 ### [[Cards/Soft Data\|Soft Data]]
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -42,12 +44,14 @@ Soft data usually result from informal collection methods, data you do not know 
 - [[Quantitative Data\|Quantitative Data]]
 
 # Reference
+
 - [[Cards/Data Flow Diagram (DFD)\|Data Flow Diagram (DFD)]]
 - [[Cards/Data Redundancy\|Data Redundancy]]
 - [[Cards/Data Integrity\|Data Integrity]]
 - [[Cards/Data Security\|Data Security]]
 
 ## Mentions
+
 | Incoming Links                                                                              |
 | ------------------------------------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-09-02\|2022-09-02]]                                           |
@@ -84,7 +88,6 @@ Soft data usually result from informal collection methods, data you do not know 
 
 | Sources                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Research Papers/@jifa2013-DataInformationKnowledge\|@jifa2013-DataInformationKnowledge]]                                                                                             |
 | [[Sources/Podcasts/Podcast Episodes/331 Balaji Srinivasan  How to Fix Government  Twitter  Science  and the FDA\|331 Balaji Srinivasan  How to Fix Government  Twitter  Science  and the FDA]] |
 | [[Sources/Books/AI Superpowers by Kai-Fu Lee\|AI Superpowers by Kai-Fu Lee]]                                                                                                                   |
 | [[Sources/Books/Blink by Malcolm Gladwell\|Blink by Malcolm Gladwell]]                                                                                                                         |
