@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/3G8XLMNK.png](/img/user/Extras/Images/3G8XLMNK.png)
 [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
@@ -25,9 +24,11 @@
 - Growth of new [[Cards/Blood Vessels\|Blood Vessels]] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -51,4 +52,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
