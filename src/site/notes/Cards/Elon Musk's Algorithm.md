@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@walterisaacson2023ElonMusk\|@walterisaacson2023ElonMusk]]
 > At any given production meeting, whether at Tesla or SpaceX, there is a nontrivial chance that Musk will intone, like a mantra, what he calls “the algorithm.”
@@ -24,9 +23,11 @@
 5. Automate
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -44,4 +45,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
