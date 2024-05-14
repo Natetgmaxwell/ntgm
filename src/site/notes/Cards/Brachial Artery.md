@@ -10,14 +10,15 @@
 > down:: [[Cards/Ulnar Artery\|Ulnar Artery]], [[Cards/Radial Artery\|Radial Artery]]
 
 > [!Definition] Definition
-> 
 
 - Bifurcates in the [[Cards/Ulnar Artery\|Ulnar Artery]] and [[Cards/Radial Artery\|Radial Artery]] at the [[Cards/Cubital Fossa\|Cubital Fossa]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@leedaffin2023-LFS122M10T1Systemic\|@leedaffin2023-LFS122M10T1Systemic]]
 
 { .block-language-dataview}
