@@ -10,16 +10,18 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## List of Visual Communication Principles
+
 - [[Cards/CRAP Design Principles\|CRAP Design Principles]]
 - [[Cards/Visual Hierarchy\|Visual Hierarchy]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
