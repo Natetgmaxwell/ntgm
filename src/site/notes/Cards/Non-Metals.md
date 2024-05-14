@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                    |
 | --------------------------------------------------------------------------------- |
 | [[Cards/Covalent Bonds\|Covalent Bonds]]                                       |
