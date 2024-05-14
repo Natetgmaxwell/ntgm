@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Video/@DavidMcKay2024SCI105M03T01Interpreting\|@DavidMcKay2024SCI105M03T01Interpreting]]
 > [[Cards/Balancing Equations\|Balancing Equations]]: only adjust coefficients, never subscripts.
 
 # Reference
+
 - [[Balancing Equations.pdf\|Balancing Equations.pdf]]
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
