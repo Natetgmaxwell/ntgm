@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Video/@davidmckay2024SCI105M01T04Chemical\|@davidmckay2024SCI105M01T04Chemical]]
 > Quantum mechanics governs the locations of electrons and protons, “preventing” them from approaching too closely.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -35,4 +36,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
