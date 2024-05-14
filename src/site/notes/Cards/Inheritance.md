@@ -10,18 +10,21 @@
 > down:: [[Cards/Pedigree Analysis\|Pedigree Analysis]]
 
 > [!Definition] Definition
-> 
 
 ## Tools to Show the Pattern of [[Cards/Inheritance\|Inheritance]]
+
 - [[Cards/Pedigree Analysis\|Pedigree Analysis]]
 
 ## Inherited Characteristics
+
 - [[Cards/Blood Type\|Blood Type]]
 
 # Reference
+
 - [[Cards/Genetic Disorders\|Genetic Disorders]]
 
 ## Mentions
+
 - [[Sources/Podcasts/Podcast Episodes/The Science & Treatment of Obsessive-Compulsive Disorder (OCD)\|The Science & Treatment of Obsessive-Compulsive Disorder (OCD)]]
 
 { .block-language-dataview}
