@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Video/@davidmckay2024SCI105M05T01Atomic\|@davidmckay2024SCI105M05T01Atomic]]
 > The atomic mass is the mass of an atom relative to an atom of hydrogen (amu).
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -36,4 +37,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
