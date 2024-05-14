@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - [[Cards/Hydrogen peroxide\|Hydrogen peroxide]]
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Cards/Elements of the Human Body\|Elements of the Human Body]]                                       |
