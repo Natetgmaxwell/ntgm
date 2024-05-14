@@ -10,16 +10,17 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
 ## Flashcards
 
 How is acetylcholine removed from the postsynaptic membrane?;;[[Cards/Enzyme Deactivation\|Enzyme Deactivation]]
-<!--SR:!2023-10-26,5,150-->
+<!--SR:!2024-05-15,9,150-->
