@@ -2,7 +2,7 @@
 {"aliases":null,"dg-publish":true,"permalink":"/cards/hpa-axis-dysfunction/","dgPassFrontmatter":true}
 ---
 
-# HPA Axis dysfunction
+# HPA Axis Dysfunction
 
 > [!Ontology]-
 > up:: [[Cards/Hypothalamic-Pituitary-Adrenal Axis\|HPA Axis]]
@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Research Papers/@tsigos2002HypothalamicpituitaryadrenalAxisNeuroendocrine\|@tsigos2002HypothalamicpituitaryadrenalAxisNeuroendocrine]]
 > GnRH secretion during stress, while, via somatostatin, it also inhibits GH, [[Cards/Thyrotropin-releasing hormone\|TRH]] and TSH secretion, suppressing, thus, the reproductive, growth and thyroid functions.
@@ -19,9 +18,11 @@
 > Chronic elevation and non-physiological patterns of [[Cards/Cortisol\|cortisol]] result in poor cognitive, metabolic and immune function. 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
