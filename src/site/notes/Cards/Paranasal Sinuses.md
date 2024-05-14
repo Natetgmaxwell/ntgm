@@ -10,11 +10,11 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## List of [[Cards/Paranasal Sinuses\|Paranasal Sinuses]]
 
 ![Extras/Images/7ZS55YHM.png|500](/img/user/Extras/Images/7ZS55YHM.png)
+
 > [!cite]-
 > [[Sources/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]
 
@@ -24,9 +24,11 @@
 - [[Cards/Maxillary Sinus\|Maxillary Sinus]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
@@ -50,4 +52,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
