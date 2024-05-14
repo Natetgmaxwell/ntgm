@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Cards/Mark Manson\|Mark Manson]]
 > "Read books because you will never be able to meet and spend uninterrupted time with the thoughts of so many brilliant and unique people."
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                            |
 | --------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-09-18 Sun\|2022-09-18 Sun]] |
@@ -36,4 +37,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
