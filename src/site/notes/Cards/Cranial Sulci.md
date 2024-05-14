@@ -10,16 +10,18 @@
 > down:: [[Cards/Lateral Sulcus\|Lateral Sulcus]]
 
 > [!Definition] Definition
-> 
 
 ## List of [[Cards/Cranial Sulci\|Cranial Sulci]]
+
 - [[Cards/Lateral Sulcus\|Lateral Sulcus]]
 - [[Cards/Central Sulcus\|Central Sulcus]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
@@ -40,4 +42,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
