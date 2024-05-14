@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -31,7 +32,7 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 Which of the following factors influences the effectiveness of antimicrobial treatments? a. The number of microbial cells b. Environmental influences such as presence of organic matter c. Time of exposure d. Microbial characteristics e. All of the above;;All of the above
-<!--SR:!2024-04-19,3,250-->
+<!--SR:!2024-05-16,10,270-->
