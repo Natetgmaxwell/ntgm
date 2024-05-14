@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]
 > According to [[Cards/Milton Friedman\|Friedman]], the typical business acts as if it’s trying to maximize its profits, not only because that’s what its directors are aiming at, but also because businesses that don’t make a good profit are ruthlessly culled from the business population.
@@ -22,9 +21,11 @@
 > Any time you or anyone else buys anything, you’re helping to guide the evolution of culture.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -45,4 +46,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
