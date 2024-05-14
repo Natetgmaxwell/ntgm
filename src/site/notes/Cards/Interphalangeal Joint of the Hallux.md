@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -33,5 +34,6 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
+
 Which joint is capable of producing the uniaxial motion of flexion and extension?;;the interphalangeal joint of the hallux
