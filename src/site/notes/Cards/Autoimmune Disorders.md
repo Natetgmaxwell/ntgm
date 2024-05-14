@@ -10,12 +10,13 @@
 > down:: [[Cards/Type 1 Diabetes\|Type 1 Diabetes]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
