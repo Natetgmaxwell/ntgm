@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 The corpus luteum is a temporary endocrine structure that forms in the [[Cards/Ovaries\|ovary]] after ovulation and plays a crucial role in early pregnancy. It is composed of cells that are derived from the [[Cards/Graafian follicle\|Graafian follicle]], which ruptured to release the egg during ovulation. The corpus luteum produces two important hormones: progesterone and estrogen.
 
@@ -21,9 +20,11 @@ For example, studies have shown that women who experience luteal phase defects, 
 In summary, the corpus luteum is a crucial structure in the [[Cards/Ovaries\|ovary]] that plays a central role in early pregnancy by producing hormones that support fetal development and maintaining a supportive uterine environment.️
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
 | [[Cards/Endocrinology of Pregnancy\|Endocrinology of Pregnancy]] |
