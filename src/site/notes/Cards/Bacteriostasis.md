@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -32,10 +33,10 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 What is [[Cards/Bacteriostasis\|Bacteriostasis]]?;;Inhibition of growth and reproduction of bacteria by a chemical agent without destruction.
-<!--SR:!2024-04-19,3,250-->
+<!--SR:!2024-05-15,9,250-->
 
 Bacteriostatic agent temporarily stops?;;growth of an organism, without destruction
-<!--SR:!2024-04-19,3,250-->
+<!--SR:!2024-05-14,8,250-->
