@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Positive Effects of [[Cards/Intermittent Hypoxia\|Intermittent Hypoxia]]
 
@@ -18,9 +17,11 @@
 > "First, IH enhances neurogenesis in adult [[Cards/Hippocampus\|hippocampus]]. Second, IH produces ADlike effects in multiple animal models screening for AD activity including the CMS paradigm, the FST, and the NSF test. Third, the AD-like effect of IH requires adult hippocampal neurogenesis and BDNF since it could be blocked by selective inhibitions of neurogenesis and BDNF–TrkB signaling in adult [[Cards/Hippocampus\|hippocampus]]. Together, these results identify a novel function of IH suggesting it could be developed as a potential AD therapy."
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -39,4 +40,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
