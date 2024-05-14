@@ -10,7 +10,6 @@
 > down:: [[Cards/Insulin Resistance\|Insulin Resistance]]
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Video/@lindagallo2023LFS112M4T5Endocrine\|@lindagallo2023LFS112M4T5Endocrine]]
 > β-cells {of the [[Cards/Pancreas\|Pancreas]]} produce insulin
@@ -18,6 +17,7 @@
 # Reference
 
 ## Mentions
+
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-05-17 Wed\|2023-05-17 Wed]]           |
