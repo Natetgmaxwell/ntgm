@@ -5,17 +5,18 @@
 # Lingual Frenulum
 
 > [!ontology]+
-> up:: [[Cards/Buccal cavity\|mouth]]
+> up:: [[Cards/Buccal Cavity\|mouth]]
 > jump:: 
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
