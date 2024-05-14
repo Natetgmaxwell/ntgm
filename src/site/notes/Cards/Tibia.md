@@ -13,16 +13,19 @@
 > down:: [[Cards/Tibial Tuberosity\|Tibial Tuberosity]], [[Cards/Soleal line\|Soleal line]], [[Cards/Pes Anserinus\|Pes Anserinus]]
 
 > [!Definition] Definition
-> 
 
 ## [[Cards/Tibial Tuberosity\|Tibial Tuberosity]]
+
 ## [[Cards/Soleal line\|Soleal line]]
+
 ## [[Cards/Pes Anserinus\|Pes Anserinus]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Cards/Foot\|Foot]]                                                                                   |
@@ -61,4 +64,3 @@
 { .block-language-dataview}
 
 ## Flashcards
-
