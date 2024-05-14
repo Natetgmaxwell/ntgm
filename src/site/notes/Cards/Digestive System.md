@@ -7,12 +7,12 @@
 > [!ontology]-
 > up:: [[Cards/Organ Systems\|Organ Systems]]
 > jump:: 
-> down:: [[Cards/Buccal cavity\|Buccal cavity]], [[Cards/Esophagus\|Esophagus]], [[Cards/Stomach\|Stomach]], [[Cards/Small Intestine\|Small Intestine]], [[Cards/Gallbladder\|Gallbladder]], [[Cards/Large Intestine\|Large Intestine]], [[Cards/Digestion\|Digestion]]
+> down:: [[Cards/Buccal Cavity\|Buccal Cavity]], [[Cards/Esophagus\|Esophagus]], [[Cards/Stomach\|Stomach]], [[Cards/Small Intestine\|Small Intestine]], [[Cards/Gallbladder\|Gallbladder]], [[Cards/Large Intestine\|Large Intestine]], [[Cards/Digestion\|Digestion]]
 
 > [!Definition] Definition
-> 
 
 ## Types of Digestion
+
 - [[Cards/Chemical Digestion\|Chemical Digestion]]
 - [[Cards/Mechanical Digestion\|Mechanical Digestion]]
 
@@ -31,7 +31,7 @@
 # Text Elements
 Once food enters the Digestive System it is referred to as [[Cards/Bolus\|Bolus]]. 
 Takes food ≈6hrs to pass through the Digestive System. 
-[[Cards/Buccal cavity\|Buccal cavity]] 
+[[Cards/Buccal Cavity\|Buccal Cavity]] 
 [[Cards/Submandibular Glands\|Submandibular Glands]] 
 [[Cards/Sublingual Glands\|Sublingual Glands]] 
 [[Cards/Parotid Glands\|Parotid Glands]] 
@@ -70,11 +70,13 @@ Takes food ≈6hrs to pass through the Digestive System.
 ## Structures
 
 ![Extras/Images/TGDX5NDN.png](/img/user/Extras/Images/TGDX5NDN.png)
+
 > [!cite]-
 > [[Sources/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]
 
 ### Food Channel
-- [[Buccal cavity]]
+
+- [[Cards/Buccal Cavity\|Buccal Cavity]]
 - [[Cards/Pharynx\|Pharynx]]
 - [[Esophagus]]
 - [[Stomach]]
@@ -82,15 +84,18 @@ Takes food ≈6hrs to pass through the Digestive System.
 - [[Large Intestine]]
 
 ### Accessory Structures
+
 - [[Liver]]
 - [[Pancreas]]
 - [[Gallbladder]]
 - [[Cards/Salivary glands\|Salivary glands]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
@@ -100,10 +105,10 @@ What are the primary functions of the digestive system, and how are they achieve
 <!--SR:!2023-10-23,8,250-->
 
 Name the major and accessory organs of the digestive system;;Major organs include the mouth, [[Cards/Esophagus\|esophagus]], stomach, [[Cards/Small Intestine\|small intestine]], and large intestine. Accessory organs are the liver, pancreas, [[Cards/Gallbladder\|gallbladder]], and [[Cards/Salivary glands\|salivary glands]].
-<!--SR:!2023-10-25,10,250-->
+<!--SR:!2024-06-11,36,270-->
 
 How are functions of the digestive system regulated?;;Regulation involves hormonal and neural mechanisms. Hormones like gastrin, secretin, and cholecystokinin control digestion and absorption. Nerves, such as the [[Cards/Vagus Nerve\|vagus nerve]], coordinate digestive processes.
-<!--SR:!2023-10-26,5,230-->
+<!--SR:!2024-05-20,14,230-->
 
 Compare and contrast the digestion and absorption processes for carbohydrates, proteins, and fats, including key enzymes;;Carbohydrates are broken down by [[Cards/Amylase\|amylase]] into sugars, absorbed as glucose. Proteins are digested by pepsin and trypsin into amino acids. Fats are emulsified by bile and digested by lipase into fatty acids and glycerol.
 <!--SR:!2023-10-26,5,230-->
