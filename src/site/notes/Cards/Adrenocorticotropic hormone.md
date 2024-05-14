@@ -2,7 +2,7 @@
 {"aliases":["ACTH"],"dg-publish":true,"tags":["Uni/LFS112"],"permalink":"/cards/adrenocorticotropic-hormone/","dgPassFrontmatter":true}
 ---
 
-# Adrenocorticotropic hormone
+# Adrenocorticotropic Hormone
 
 > [!ontology]
 > up:: [[Cards/Hormones\|Hormones]]
@@ -13,9 +13,11 @@
 > The adrenocorticotropic hormone (ACTH) is a peptide hormone secreted by the anterior pituitary gland. It plays an essential role in regulating the function of the hypothalamic-pituitary-adrenal (HPA) axis.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                      |
 | --------------------------------------------------------------------------------------------------- |
 | [[Cards/Corticotropin-releasing hormone\|Corticotropin-releasing hormone]]                       |
