@@ -10,14 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/image-5-x17-y167.png|500](/img/user/Extras/Images/image-5-x17-y167.png)
 [[Sources/Video/@colingavaganLFS122M8T7Peripheral2023\|@colingavaganLFS122M8T7Peripheral2023]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
