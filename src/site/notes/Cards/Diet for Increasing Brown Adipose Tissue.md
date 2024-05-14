@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/347FCAG3.png](/img/user/Extras/Images/347FCAG3.png) [[Sources/Research Papers/@xiaomengliu2023UpdateBrownAdipose\|@xiaomengliu2023UpdateBrownAdipose]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -36,4 +37,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
