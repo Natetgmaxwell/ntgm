@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                            |
 | ----------------------------------------- |
 | [[Cards/George Orwell\|George Orwell]] |
@@ -32,4 +33,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
