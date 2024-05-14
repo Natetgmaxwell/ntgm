@@ -10,12 +10,13 @@
 > down:: [[Cards/Cystic Fibrosis\|Cystic Fibrosis]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
