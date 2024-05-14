@@ -13,12 +13,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                        |
 | --------------------------------------------------------------------- |
 | [[Extras/Excalidraw/Pes Anserinus (brain)\|Pes Anserinus (brain)]] |
@@ -39,7 +40,7 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 What is the characteristic feature of the pes anserinus?;;The insertion of the semitendinosus, [[Cards/Sartorius\|sartorius]], and [[Cards/Gracilis\|gracilis]]
 <!--SR:!2023-10-24,1,130-->
