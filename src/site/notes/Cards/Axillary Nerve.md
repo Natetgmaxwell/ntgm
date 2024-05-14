@@ -10,15 +10,18 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Innervated Muscles
+
 - [[Cards/Teres Minor\|Teres Minor]]
 - [[Cards/Deltoid\|Deltoid]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
