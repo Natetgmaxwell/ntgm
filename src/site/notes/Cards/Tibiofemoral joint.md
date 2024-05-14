@@ -2,7 +2,7 @@
 {"aliases":["knee joint"],"edited":"2023-04-06 Thu","tags":["Uni/OMT1","on/Science/Biology/Anatomy"],"date created":"2023-03-27 Mon","dg-publish":true,"permalink":"/cards/tibiofemoral-joint/","dgPassFrontmatter":true}
 ---
 
-# Tibiofemoral joint
+# Tibiofemoral Joint
 
 > [!Ontology]+
 > up:: [[Cards/Hinge Joint\|Hinge Joint]]
@@ -13,16 +13,19 @@
 > The joint between the [[Cards/Femur\|Femur]] and the [[Cards/Tibia\|Tibia]]
 
 ## Tissues in the Area
+
 - [[Cards/Quadriceps femoris\|Quadriceps femoris]]
 - [[Cards/Hamstrings\|Hamstrings]]
 - [[Cards/Medial collateral ligament\|Medial collateral ligament]]
 - [[Cards/Lateral collateral ligament\|Lateral collateral ligament]]
 
 # Reference
+
 - [[Cards/Tibia\|Tibia]]
 - [[Cards/Femur\|Femur]]
 
 ## Mentions
+
 | Incoming Links                                                                             |
 | ------------------------------------------------------------------------------------------ |
 | [[Calendar/2023/Daily/2023-03-27 Mon\|2023-03-27 Mon]]                                  |
@@ -50,6 +53,7 @@
 { .block-language-dataview}
 
 ## Flashcards
+
 What are the tissues in the area of the [[Cards/Tibiofemoral joint\|Tibiofemoral joint]]?;;[[Cards/Quadriceps femoris\|Quadriceps femoris]], [[Cards/Hamstrings\|Hamstrings]], [[Cards/Medial collateral ligament\|Medial]] and [[Cards/Lateral collateral ligament\|Lateral collateral ligament]]
 <!--SR:!2023-04-19,3,250-->
 
