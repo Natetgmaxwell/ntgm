@@ -13,14 +13,17 @@
 > A barrier between the [[Cards/Intracellular Fluid\|ICF]] and [[Cards/Extracellular Fluid\|ECF]].
 
 # Reference
+
 - [[Cards/Electrophoresis\|Electrophoresis]] (breaks-down [[Cards/Plasma Membranes\|Plasma Membranes]])
 - [[Cards/Cholesterol\|Cholesterol]] (part of the [[Cards/Plasma Membranes\|membrane]] and maintains membrane fluidity and stability, forms lipid rafts, modulates protein activity)
 
 ## Mentions
 
+
 { .block-language-dataview}
 
 ## Flashcards
+
 Oxygen and carbon dioxide can squeeze between the lipid molecules in the plasma membrane. (True or False);;True
 <!--SR:!2023-07-21,1,230-->
 
