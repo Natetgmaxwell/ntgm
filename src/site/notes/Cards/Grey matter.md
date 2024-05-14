@@ -2,7 +2,7 @@
 {"aliases":null,"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2023-04-02 Sun","dg-publish":true,"permalink":"/cards/grey-matter/","dgPassFrontmatter":true}
 ---
 
-# Grey matter
+# Grey Matter
 
 > [!Ontology]+
 > up:: [[Cards/Central Nervous System\|CNS]], [[Cards/Brain\|Brain]]
@@ -16,9 +16,11 @@
 > "the grey matter is the area where the actual "processing" is done whereas the white matter provides the communication between different grey matter areas and between the grey matter and the rest of the body."
 
 # Reference
+
 - [[Cards/Alcohol\|Alcohol]]
 
 ## Mentions
+
 - [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]]
 
 { .block-language-dataview}
