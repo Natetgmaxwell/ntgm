@@ -3,23 +3,25 @@
 ---
 
 # Thoracic 2
-	
+
 > [!Ontology]-
 > up:: [[Cards/Thoracic Spine\|Thoracic Spine]]
 > jump:: [[Cards/Thoracic 1\|T1]], [[Cards/Thoracic 3\|Thoracic 3]]
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Attachment For:
+
 - [[Cards/Rhomboids\|Rhomboids]]
 - [[Cards/Trapezius\|Trapezius]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -41,5 +43,3 @@
 { .block-language-dataview}
 
 ## Flashcards
-
-
