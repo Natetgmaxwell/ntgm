@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]
 > The guiding assumption is that humans are animals, and that like all animals, we evolved to pass on our genes. At some point, however, we also evolved the capacity for culture - and from that moment, culture began evolving in its own right.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                  |
 | --------------------------------------------------------------- |
 | [[Cards/Brules\|Brules]]                                     |
@@ -42,4 +43,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
