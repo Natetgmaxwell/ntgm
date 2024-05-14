@@ -10,7 +10,6 @@
 > down:: [[Cards/Carpals\|Carpals]], [[Cards/Metacarpals\|Metacarpals]], [[Cards/Phalanges of the Hand\|Phalanges of the Hand]]
 
 > [!Definition] Definition
-> 
 
 ![image-12-x3-y122.png](/img/user/Extras/Images/image-12-x3-y122.png)
 [[Sources/Video/@colingavagan2023-LFS122M8T3Skeletal\|@colingavagan2023-LFS122M8T3Skeletal]]
@@ -23,6 +22,7 @@
 
 
 ## List of Carpals
+
 - [[Cards/Hamate\|Hamate]]
 - [[Cards/Capitate\|Capitate]]
 - [[Cards/Trapezoid\|Trapezoid]]
@@ -43,6 +43,7 @@
 
 
 ## List of Metacarpals
+
 - [[Cards/Metacarpal 1\|Metacarpal 1]]
 - [[Cards/Metacarpal 2\|Metacarpal 2]]
 - [[Metacarpal 3\|Metacarpal 3]]
@@ -50,14 +51,18 @@
 - [[Cards/Metacarpal 5\|Metacarpal 5]]
  
 
+
 </div></div>
+
 
 ### [[Cards/Phalanges of the Hand\|Phalanges of the Hand]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
