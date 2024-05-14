@@ -10,12 +10,13 @@
 > down:: [[Cards/Femur\|Femur]], [[Cards/Tibia\|Tibia]], [[Cards/Fibula\|Fibula]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -36,4 +37,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
