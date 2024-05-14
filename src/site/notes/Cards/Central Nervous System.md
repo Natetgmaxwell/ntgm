@@ -10,7 +10,6 @@
 > down:: [[Cards/Brain\|Brain]], [[Cards/Spinal cord\|Spinal cord]]
 
 > [!Definition] Definition
-> 
 
 > Adult brain ≈1.5kg
 
@@ -33,9 +32,11 @@
 	- Shelters brain from [[Cards/Toxins\|toxins]], fluctuations in hormones, ions and neurotransmitters 
 
 # Reference
+
 - [[Cards/Spine\|Spine]]
 
 ## Mentions
+
 | Incoming Links                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-10-16 Mon\|2023-10-16 Mon]]                                                       |
