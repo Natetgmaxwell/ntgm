@@ -10,7 +10,6 @@
 > down:: [[Cards/Increase mTOR\|Increase mTOR]], [[Cards/Decrease mTOR\|Decrease mTOR]]
 
 > [!Definition] Definition
-> 
 
 - Activates [[Cards/Protein Synthesis\|Protein Synthesis]]
 
@@ -24,9 +23,11 @@
 > "Leucine, HMB and creatine monohydrate also prevent [[Cards/Myostatin\|myostatin]]’s inhibitory effects on muscle growth[710] . The other essential amino acids like [[Cards/Methionine\|methionine]] and valine also activate mTORC1[711] ."
 
 # Reference
+
 - [[Cards/Rapamycin\|Rapamycin]]
 
 ## Mentions
+
 | Incoming Links                |
 | ----------------------------- |
 | [[Cards/Leucine\|Leucine]] |
