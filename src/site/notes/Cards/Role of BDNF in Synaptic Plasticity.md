@@ -20,9 +20,11 @@ BDNF exerts its effects on synaptic plasticity through several mechanisms:
 3. **Long-Term Potentiation (LTP)**: BDNF plays a crucial role in the induction and maintenance of long-term potentiation, a cellular process that underlies the strengthening of synaptic connections. LTP is considered one of the cellular mechanisms of learning and memory.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
