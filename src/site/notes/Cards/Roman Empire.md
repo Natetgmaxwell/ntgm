@@ -10,17 +10,20 @@
 > down:: 
 
 ## People
+
 - [[Cards/Marcus Aurelius\|Marcus Aurelius]]
 - [[Cards/Gnaeus Marcius Coriolanus\|Gnaeus Marcius Coriolanus]]
 - [[Cards/Julius Caesar\|Julius Caesar]]
 
 # Reference
+
 - [[Cards/Mongol Empire\|Mongol Empire]]
 - [[Cards/Stoicism\|Stoicism]]
 - [[Cards/The Iron Age\|The Iron Age]]
 - [[Cards/Roman Naming Conventions\|Roman Naming Conventions]]
 
 ## Mentions
+
 | Incoming Links                                                                                  |
 | ----------------------------------------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-03-02\|2022-03-02]]                                               |
