@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                    |
 | ------------------------------------------------------------------------------------------------- |
 | [[Cards/Carbohydrates Consumption During Exercise\|Carbohydrates Consumption During Exercise]] |
@@ -33,4 +34,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
