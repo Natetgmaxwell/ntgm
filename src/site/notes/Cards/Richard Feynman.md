@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Cards/Richard Feynman\|Richard Feynman]]
 > I couldn’t reduce it to the freshman level. That means we really don’t understand it.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -35,4 +36,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
