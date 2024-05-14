@@ -10,14 +10,15 @@
 > down:: [[Cards/Chronic Resistance Training\|Chronic Resistance Training]], [[Cards/Cold Exposure Therapy\|Cold Exposure Therapy]]
 
 > [!Definition] Definition
-> 
 
 - [[Cards/Cold Exposure Therapy\|Cold Exposure Therapy]] can limit the hypertrophic response.
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
