@@ -16,9 +16,11 @@ Examples of when this state may occur are showering, walking, daydreaming and sl
 - Encourages [[Cards/Creativity\|Creativity]], [[Cards/Intuition\|Intuition]] and deep thought
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
