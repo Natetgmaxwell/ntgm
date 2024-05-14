@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
@@ -33,5 +34,6 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
+
 What is the [[Cards/Sella Turcica\|Sella Turcica]] latin for?;;Turkish saddle
