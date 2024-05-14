@@ -10,12 +10,13 @@
 > down:: [[Cards/Ego Flattery for Influence\|Ego Flattery for Influence]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
