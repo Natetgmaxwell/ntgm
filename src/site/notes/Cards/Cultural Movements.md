@@ -10,9 +10,9 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## List of [[Cards/Cultural Movements\|Cultural Movements]]
+
 1.  [[Enlightenment\|Enlightenment]] (1700s)
 2.  [[Cards/Romanticism\|Romanticism]] (late 1700s to mid-1800s)
 3.  [[Cards/Realism\|Realism]] (mid-1800s to early 1900s)
@@ -21,9 +21,11 @@
 6.  [[Contemporary art\|Contemporary art]] (1980s to present)
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                            |
 | ----------------------------------------- |
 | [[Cards/Surrealism\|Surrealism]]       |
