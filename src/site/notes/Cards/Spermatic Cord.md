@@ -13,9 +13,11 @@
 > The _spermatic cord_ refers to a collection of vessels, nerves and ducts that run to and from the testes.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                    |
 | ----------------------------------------------------------------- |
 | [[Cards/Deep Inguinal Ring\|Deep Inguinal Ring]]               |
