@@ -10,9 +10,9 @@
 > down:: [[Cards/Menstrual Cycle\|Menstrual Cycle]], [[Cards/Ovaries\|Ovaries]], [[Cards/Uterus\|Uterus]]
 
 > [!Definition] Definition
-> 
 
 ## Parts of the [[Cards/Female Reproductive System\|Female Reproductive System]]
+
 - [[Cards/Uterus\|Uterus]]
 - [[Cards/Ovaries\|Ovaries]]
 - [[Cards/Fallopian Tube\|Fallopian Tube]]
@@ -29,9 +29,11 @@
 | [[Cards/Progesterone\|Progesterone]]                   | Prepares [[Cards/Endometrium\|Endometrium]] for potential implantation                                                                                                                                 |
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
