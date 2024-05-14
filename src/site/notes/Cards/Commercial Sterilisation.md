@@ -10,11 +10,11 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -30,7 +30,7 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 Canned food is subjected to only enough heat to destroy the endospores of Clostridium botulinum, which can produce deadly toxins. This limited heat treatment is termed?;;[[Cards/Commercial Sterilisation\|Commercial Sterilisation]]
-<!--SR:!2024-04-19,3,250-->
+<!--SR:!2024-05-15,9,250-->
