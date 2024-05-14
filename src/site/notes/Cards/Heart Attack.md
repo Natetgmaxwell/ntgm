@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Articles/2023MetabolicSyndrome-australia\|2023MetabolicSyndrome-australia]]
 > "People with metabolic syndrome have 2 to 3 times the risk of having a [[Cards/Heart Attack\|Heart Attack]]..."
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                           |
 | ---------------------------------------------------------------------------------------- |
 | [[Sources/Articles/2023MetabolicSyndrome-australia\|2023MetabolicSyndrome-australia]] |
