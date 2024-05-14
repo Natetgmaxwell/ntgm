@@ -10,12 +10,13 @@
 > down:: [[Cards/Electromagnetic Radiation\|Electromagnetic Radiation]] 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
