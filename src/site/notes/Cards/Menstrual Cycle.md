@@ -10,9 +10,9 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Phases of the [[Cards/Menstrual Cycle\|Menstrual Cycle]]
+
 1. [[Menstruation\|Menstruation]]
 2. Pre-ovulatory
 3. [[Cards/Ovulation\|Ovulation]]
@@ -20,11 +20,12 @@
 
 ## [[Cards/Estrogen\|Estrogen]] And [[Cards/Progesterone\|Progesterone]] through the [[Cards/Menstrual Cycle\|Menstrual Cycle]]
 
-
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
