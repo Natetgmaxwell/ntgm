@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -32,7 +33,7 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 [[Cards/Virucide\|Virucide]] is a chemical, which inactivates?;;[[Cards/Virus\|Virus]]
-<!--SR:!2024-04-17,1,230-->
+<!--SR:!2024-05-09,3,250-->
