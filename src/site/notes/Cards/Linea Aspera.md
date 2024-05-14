@@ -10,9 +10,9 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Attachment For
+
 - [[Cards/Pectineus\|Pectineus]]
 - [[Cards/Gluteus maximus\|Gluteus maximus]]
 - [[Cards/Iliacus\|Iliacus]]
@@ -24,9 +24,11 @@
 - [[Cards/Biceps Femoris#Short Head\|Biceps Femoris#Short Head]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -52,4 +54,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
