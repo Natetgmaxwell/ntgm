@@ -10,16 +10,17 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!formula]
-> 
+
 ↑ [[Cards/Increase mTOR\|mTOR]] = ↑ [[Cards/Increase Hypertrophy\|Hypertrophy]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
