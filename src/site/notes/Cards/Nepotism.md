@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Podcasts/Podcast Shows/The Jordan B. Peterson Podcast (JBP)\|The Jordan B. Peterson Podcast (JBP)]] |
