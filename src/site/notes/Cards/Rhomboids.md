@@ -15,6 +15,7 @@
 ![Pasted image 20230310210227.png|200](/img/user/Extras/Images/Pasted%20image%2020230310210227.png)
 
 ### Attachments of the [[Cards/Rhomboids\|Rhomboids]]
+
 - [[Cards/Scapula\|Scapula]]
 - [[Cards/Thoracic 2\|Thoracic 2]], [[Cards/Thoracic 3\|Thoracic 3]], [[T4\|T4]] and [[Cards/Thoracic 5\|T5]]
 
@@ -23,12 +24,15 @@
 ### [[Cards/Rhomboids Minor\|Rhomboids Minor]]
 
 # Reference
+
 - [[Cards/Thoracic Spine\|Thoracic Spine]]
 
 ## Mentions
 
+
 { .block-language-dataview}
 
 ## Flashcards
+
 What are the attachment for the [[Cards/Rhomboids\|Rhomboids]]?;;Medial border of the [[Cards/Scapula\|Scapula]] and [[Cards/Thoracic 2\|Thoracic 2]] to [[Cards/Thoracic 5\|Thoracic 5]]
 <!--SR:!2023-04-19,3,250-->
