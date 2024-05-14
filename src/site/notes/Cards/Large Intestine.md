@@ -10,7 +10,6 @@
 > down:: [[Cards/Cecum\|Cecum]], [[Cards/Colon\|Colon]], [[Cards/Rectum\|Rectum]], [[Cards/Anal Cavity\|Anal Cavity]], [[Cards/Spleenic Flexure\|Spleenic Flexure]], [[Cards/Hapatic Flexure\|Hapatic Flexure]]
 
 > [!Definition] Definition
-> 
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -27,7 +26,7 @@
 # Text Elements
 Once food enters the Digestive System it is referred to as [[Cards/Bolus\|Bolus]]. 
 Takes food ≈6hrs to pass through the Digestive System. 
-[[Cards/Buccal cavity\|Buccal cavity]] 
+[[Cards/Buccal Cavity\|Buccal Cavity]] 
 [[Cards/Submandibular Glands\|Submandibular Glands]] 
 [[Cards/Sublingual Glands\|Sublingual Glands]] 
 [[Cards/Parotid Glands\|Parotid Glands]] 
@@ -62,10 +61,13 @@ Takes food ≈6hrs to pass through the Digestive System.
 
 </div></div>
 
+
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Articles/VagusNerveEverything\|VagusNerveEverything]]
 - [[Sources/Video/@leedaffin2023-LFS122M11T2Oesophagus\|@leedaffin2023-LFS122M11T2Oesophagus]]
 
