@@ -13,9 +13,11 @@
 > The region in the [[Cards/Sarcomere\|Sarcomere]] that only contains the thick filaments.
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
