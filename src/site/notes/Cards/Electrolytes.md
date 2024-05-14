@@ -10,13 +10,12 @@
 > down:: [[Cards/Calcium\|Calcium]], [[Cards/Chloride\|Chloride]], [[Cards/Potassium\|Potassium]], [[Cards/Magnesium\|Magnesium]], [[Cards/Sodium\|Sodium]]
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
 > “[[Cards/Electrolytes\|Electrolytes]] are essentially [[Cards/Minerals\|Minerals]] in the body with an electrical charge.”
 
 > [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
-> “The main [[Cards/Electrolytes\|Electrolytes]] are [[Cards/Sodium\|Sodium]], [[Cards/Potassium\|Potassium]], [[Cards/Magnesium\|Magnesium]], [[Phosphate\|Phosphate]], [[Cards/Calcium\|Calcium]], [[Cards/Chloride\|Chloride]] and [[Cards/Bicarbonate\|Bicarbonate]]. Others include [[Cards/Zinc\|Zinc]], [[Cards/Copper\|Copper]], [[Cards/Iron\|Iron]], [[Manganese\|Manganese]], [[Cards/Molybdenum\|Molybdenum]] and [[Cards/Chromium\|Chromium]]. 
+> “The main [[Cards/Electrolytes\|Electrolytes]] are [[Cards/Sodium\|Sodium]], [[Cards/Potassium\|Potassium]], [[Cards/Magnesium\|Magnesium]], [[Cards/Phosphate\|Phosphate]], [[Cards/Calcium\|Calcium]], [[Cards/Chloride\|Chloride]] and [[Cards/Bicarbonate\|Bicarbonate]]. Others include [[Cards/Zinc\|Zinc]], [[Cards/Copper\|Copper]], [[Cards/Iron\|Iron]], [[Manganese\|Manganese]], [[Cards/Molybdenum\|Molybdenum]] and [[Cards/Chromium\|Chromium]]. 
 
 > [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
 > “The  absorption  of  fluid  and  [[Cards/Electrolytes\|Electrolytes]]  is  better  at rest  than  during  exercise”
@@ -29,7 +28,7 @@
 - [[Cards/Magnesium\|Magnesium]]
 - [[Cards/Sodium\|Sodium]]
 
-## Reference ranges for electrolytes measured through [[Cards/Blood\|Blood]]:
+## Reference Ranges for Electrolytes Measured through [[Cards/Blood\|Blood]]:
 
 [[Cards/Calcium\|Calcium]]: 5–5.5 mEq/L
 [[Cards/Chloride\|Chloride]]: 97–107 mEq/L
@@ -38,9 +37,11 @@
 [[Cards/Sodium\|Sodium]]: 136–145 mEq/L
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-12-23 Sat\|2023-12-23 Sat]]                                                 |
@@ -67,6 +68,7 @@
 | [[Cards/Magnesium\|Magnesium]]     |
 | [[Cards/Minerals\|Minerals]]       |
 | [[Cards/Molybdenum\|Molybdenum]]   |
+| [[Cards/Phosphate\|Phosphate]]     |
 | [[Cards/Potassium\|Potassium]]     |
 | [[Cards/Sodium\|Sodium]]           |
 | [[Cards/Zinc\|Zinc]]               |
