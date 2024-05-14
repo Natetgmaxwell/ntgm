@@ -13,22 +13,28 @@
 > The process of maintaining a certain pressure of body fluids
 
 ## [[Cards/Hormones\|Hormones]] Involved in [[Cards/Osmoregulation\|Osmoregulation]]
+
 - [[Cards/Anti-diuretic hormone\|ADH]]
 - [[Renin\|Renin]]
 - [[Angiotensin I\|Angiotensin I]]
 - [[Angiotensin II\|Angiotensin II]]
 - [[Cards/Aldosterone\|Aldosterone]]
 - [[Natriuretic Peptides\|Natriuretic Peptides]]
+
 ## Detection of Water Balance
 
 ### Cells in the [[Cards/Extracellular Fluid\|ECF]] that Detect Changes in [[Cards/Blood Volume\|Blood Volume]]
+
 - [[Cards/Osmoreceptors\|Osmoreceptors]]
 - [[Cards/Baroreceptors\|Baroreceptors]]
+
 # Reference
+
 - [[Cards/Hydration\|Hydration]]
 - [[Cards/Anti-diuretic hormone\|Anti-diuretic hormone]]
 
 ## Mentions
+
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]] |
