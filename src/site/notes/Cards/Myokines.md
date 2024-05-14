@@ -10,7 +10,6 @@
 > down:: [[Cards/Interleukin 6\|IL-6]]
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/ESL5AAV5.png|400](/img/user/Extras/Images/ESL5AAV5.png)
 [[Sources/Research Papers/@bentepedersen2012MusclesExerciseObesity\|@bentepedersen2012MusclesExerciseObesity]]
@@ -19,9 +18,11 @@
 > ...[[Cards/Cytokines\|Cytokines]] and other peptides that are produced, expressed and released by muscle fibres and exert either autocrine, paracrine or endocrine effects should be classified as myokines.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                         |
 | ---------------------------------------------------------------------- |
 | [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]] |
