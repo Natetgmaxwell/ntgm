@@ -13,9 +13,11 @@
 > The limbic system is a complex network of brain structures involved in various functions, including emotions, behaviour, motivation, [[Cards/Memory\|memory]], and [[Cards/Olfaction\|olfaction]] (sense of smell).
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                  |
 | ----------------------------------------------- |
 | [[Cards/Emotion\|Emotion]]                   |
