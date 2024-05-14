@@ -15,6 +15,7 @@
 
 
 ## Types of [[Cards/Organelles\|Organelles]]
+
 - [[Cards/Nucleus\|Nucleus]]
 - [[Cards/Ribosomes\|Ribosomes]]
 - [[Cards/Lysosomes\|Lysosomes]]
@@ -27,9 +28,11 @@
 - [[Cards/Vesicles\|Vesicles]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Articles/LevelsOrganizationHuman2019\|LevelsOrganizationHuman2019]]
 - [[Sources/Other/HBIO1010 M1T1 Blackboard Site\|HBIO1010 M1T1 Blackboard Site]]
 - [[Sources/Other/HBIO1010 M1T1 Video - Overview of cell physiology and thermodynamics\|HBIO1010 M1T1 Video - Overview of cell physiology and thermodynamics]]
