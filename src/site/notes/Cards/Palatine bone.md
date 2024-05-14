@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/palatine-bone/","dgPassFrontmatter":true}
 ---
 
-# Palatine bone
+# Palatine Bone
 
 > [!ontology]+
 > up:: 
@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Cards/Facial Bones\|Facial Bones]]                       |
