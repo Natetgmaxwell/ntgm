@@ -10,17 +10,19 @@
 > down:: [[Cards/Endometrium\|Endometrium]], [[Cards/Myometrium\|Myometrium]], [[Cards/Perimetrium\|Perimetrium]]
 
 > [!Definition] Definition
-> 
 
 ## List of Tissue Layers (superficial to deep)
+
 - [[Cards/Endometrium\|Endometrium]]
 - [[Cards/Myometrium\|Myometrium]]
 - [[Cards/Perimetrium\|Perimetrium]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
