@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                   |
 | -------------------------------------------------------------------------------- |
 | [[Spaces/University/Projects/LFS261A2 Mid-term Exam\|LFS261A2 Mid-term Exam]] |
@@ -35,4 +36,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
