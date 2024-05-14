@@ -10,7 +10,6 @@
 > down:: [[Cards/Female Hip to Waist Ratio\|Female Hip to Waist Ratio]], [[Cards/Female Body Fat Distribution\|Female Body Fat Distribution]]
 
 > [!Definition] Definition
-> 
 
 ## List of [[Cards/Female Secondary Sex Characteristics\|Female Secondary Sex Characteristics]]
 
@@ -23,9 +22,11 @@
 7. Voice changes: While not as dramatic as in males, girls may experience slight changes in their voice pitch during puberty as their vocal cords thicken.
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
