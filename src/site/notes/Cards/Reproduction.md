@@ -10,7 +10,6 @@
 > down:: [[Cards/Methods of Reproduction\|Methods of Reproduction]], [[Cards/Reproductive Strategies\|Reproductive Strategies]]
 
 > [!Definition] Definition
-> 
 { #fbfb7d}
 
 
@@ -26,6 +25,7 @@
 
 
 ## The 2 Methods of Reproduction
+
 - [[Cards/Asexual Reproduction\|Asexual Reproduction]]
 	- [[Cards/Binary Fission\|Binary Fission]]
 	- [[Cards/Parthenogenesis\|Parthenogenesis]] ([[Cards/Parthenogenesis\|cloning]])
@@ -40,6 +40,7 @@
 
 
 ## Types of Reproductive Strategies
+
 - [[Cards/r-Strategy\|r-Strategy]]
 - [[Cards/K-Strategy\|K-Strategy]]
 
@@ -48,9 +49,11 @@
 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
