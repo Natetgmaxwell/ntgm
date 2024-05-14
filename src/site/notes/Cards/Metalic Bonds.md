@@ -15,9 +15,11 @@
 - Metalic Bonds have free flowing electrons to conduct electric charges [[Sources/Video/@davidmckay2024SCI105M01T02Chemical\|@davidmckay2024SCI105M01T02Chemical]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -35,4 +37,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
