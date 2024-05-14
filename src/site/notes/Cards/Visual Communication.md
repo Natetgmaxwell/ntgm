@@ -15,6 +15,7 @@
 
 
 ## List of Visual Communication Principles
+
 - [[Cards/CRAP Design Principles\|CRAP Design Principles]]
 - [[Cards/Visual Hierarchy\|Visual Hierarchy]]
 
@@ -23,11 +24,13 @@
 
 
 ## Elements
+
 - [[Cards/Elements of Visual Communication\|Elements of Visual Communication]]
 
 # Reference
 
 ## Mentions
+
 | Incoming Links                                              |
 | ----------------------------------------------------------- |
 | [[Cards/CRAP Design Principles\|CRAP Design Principles]] |
