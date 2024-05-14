@@ -10,7 +10,6 @@
 > down:: [[Cards/Epinephrine\|Epinephrine]], [[Cards/Norepinephrine\|Norepinephrine]], [[Cards/Serotonin\|Serotonin]], [[Cards/Melatonin\|Melatonin]], [[Cards/Thyroxine\|Thyroxine]], [[Cards/Growth hormone\|Growth hormone]]
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/image-15-x440-y132.png|300](/img/user/Extras/Images/image-15-x440-y132.png)
 
@@ -30,9 +29,11 @@
 - [[Cards/Glucagon\|Glucagon]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
