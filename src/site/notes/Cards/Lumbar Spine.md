@@ -10,9 +10,9 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Tissues in the Area
+
 - [[Cards/Latissimus dorsi\|Latissimus dorsi]]
 - [[Cards/Thoraco-lumbar fascia\|Thoraco-lumbar fascia]]
 - [[Cards/Erector spinae\|Erector spinae]]
@@ -22,14 +22,17 @@
 	- [[Cards/Rotatores\|Rotatores]]
 
 ## Vertebra of the [[Cards/Lumbar Spine\|Lumbar Spine]]
+
 - [[Cards/Lumbar 3\|L3]]
 - [[Cards/Lumbar 4\|L4]]
 
 # Reference
+
 - [[Cards/Thoracic Spine\|Thoracic Spine]]
 - [[Cards/Sacrum\|Sacrum]]
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-03-08 Wed\|2023-03-08 Wed]]                                                 |
@@ -65,5 +68,6 @@
 { .block-language-dataview}
 
 ## Flashcards
+
 What are tissues surrounding the [[Cards/Lumbar Spine\|Lumbar Spine]];;[[Cards/Psoas\|Psoas]], [[Cards/Erector spinae\|Erector spinae]], [[Cards/Latissimus dorsi\|Latissimus dorsi]] and [[Cards/Transversospinales\|Transversospinales]]
 <!--SR:!2023-10-15,103,250-->
