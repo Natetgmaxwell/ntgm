@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - Males are more likely to reduce conflict within their group if they find themselves competing against an outgroup [[Sources/Articles/@henderson2022MaleWarriorHypothesis\|@henderson2022MaleWarriorHypothesis]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -34,4 +35,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
