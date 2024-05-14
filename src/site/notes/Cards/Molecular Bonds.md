@@ -13,6 +13,7 @@
 > Molecular bonds are attractive forces that hold [[Cards/Atoms\|atoms]] together to form molecules. They result from the sharing or transfer of electrons between [[Cards/Atoms\|atoms]], which allows them to attain a stable configuration.
 
 ## Types of [[Cards/Molecular Bonds\|Molecular Bonds]]
+
 - [[Cards/Covalent Bonds\|Covalent Bonds]] (strong)
 - [[Cards/Ionic Bonds\|Ionic Bonds]] (strong)
 - [[Cards/Hydrogen Bonds\|Hydrogen Bonds]] (weak)
@@ -20,9 +21,11 @@
 - [[Cards/Metalic Bonds\|Metalic Bonds]]
 
 # Reference
+
 - [[Cards/Atoms\|Atoms]]
 
 ## Mentions
+
 
 { .block-language-dataview}
 
