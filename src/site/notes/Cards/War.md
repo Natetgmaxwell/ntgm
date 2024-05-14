@@ -10,14 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[@fridman2023GeorgeHotzTiny\|@fridman2023GeorgeHotzTiny]]
 > ...War is not about the devastation of land, but the subjugation and domination of people.
+
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -34,4 +36,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
