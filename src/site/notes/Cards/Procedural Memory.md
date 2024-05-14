@@ -13,6 +13,7 @@
 > Procedural memory, refers to the part of our long-term memory that stores and manages information about skills, habits, and procedures. This type of memory allows us to perform complex tasks without conscious thought or awareness.
 
 # Reference
+
 - [[Cards/Explicit Memory\|Explicit Memory]]
 - [[Cards/Implicit Memory\|Implicit Memory]]
 
