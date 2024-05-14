@@ -10,16 +10,17 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
 ## Flashcards
 
 Explain eccentric contraction.;;Muscle lengthens while tension is being generated.
-<!--SR:!2023-12-23,77,250-->
+<!--SR:!2024-11-14,192,250-->
