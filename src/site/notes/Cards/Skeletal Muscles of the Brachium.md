@@ -10,7 +10,6 @@
 > down:: [[Cards/Biceps Brachii\|Biceps Brachii]], [[Cards/Brachialis\|Brachialis]], [[Cards/Triceps brachii\|Triceps brachii]], [[Cards/Coracobrachialis\|Coracobrachialis]]
 
 > [!Definition] Definition
-> 
 
 ## List of Brachium Muscles
 
@@ -26,9 +25,11 @@
 - [[Cards/Coracobrachialis\|Coracobrachialis]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
