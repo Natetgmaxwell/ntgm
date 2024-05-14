@@ -2,7 +2,6 @@
 {"aliases":["CF"],"Created:":"2022-05-09","tags":["on/Health"],"date created":"2022-05-09 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/cystic-fibrosis/","dgPassFrontmatter":true}
 ---
 
-
 # Cystic Fibrosis
 
 > [!Ontology]+
@@ -16,19 +15,21 @@
 ![Pasted image 20220429131804.png|500](/img/user/Extras/Images/Pasted%20image%2020220429131804.png)
 
 ## Effect of CF
+
 - **[[Cards/Malnutrition\|Malnutrition]] through [[Cards/Malabsorption\|Malabsorption]]**
 	- Thick mucus stops the [[Cards/Pancreas\|pancreas]] from sending enzymes into the intestines, which are needed for the body to absorb nutrients in food
 	- A defect in the intestines prevents nutrients from passing into the bloodstream.
 
 # Reference
+
 - [[Cards/Inheritance\|Inheritance]]
 - [[Cards/Malnutrition\|Malnutrition]]
 
 ## Mentions
+
 - [[Sources/Articles/Symptoms of Malnutrition with Cystic Fibrosis\|Symptoms of Malnutrition with Cystic Fibrosis]]
 
 { .block-language-dataview}
 
 ---
-
 
