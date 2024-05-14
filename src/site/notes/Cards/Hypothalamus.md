@@ -14,14 +14,15 @@
 
 - The [[Cards/Hypothalamus\|Hypothalamus]] also promotes the feeling of [[Cards/Satiety\|Satiety]] to reduce further consumption.
 
-
 > [!quote] [[Sources/Video/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]
 > "Link between autonomic nervous system & [[Cards/Endocrine System\|endocrine system]]"
 
 # Reference
+
 - [[Cards/Olfaction\|Olfaction]]
 
 ## Mentions
+
 | Incoming Links                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Autonomic Nervous System\|Autonomic Nervous System]]                                                                                   |
@@ -68,4 +69,4 @@
 ## Flashcards
 
 What is the role of the hypothalamus in digestion initiation?;; It's stimulated by senses like [[Cards/Olfaction\|smell]] and taste to trigger [[Cards/Saliva\|Saliva]] production and prepare for food intake.
-<!--SR:!2023-10-28,13,270-->
+<!--SR:!2024-06-06,31,270-->
