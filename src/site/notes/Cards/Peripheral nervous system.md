@@ -4,7 +4,7 @@
 
 tags:: #on/Science/Biology/Anatomy #Uni/LFS112 #flashcards/LFS112 
 
-# Peripheral nervous system
+# Peripheral Nervous System
 
 > [!Ontology]
 > up:: [[Cards/Nervous System\|Nervous System]]
@@ -12,13 +12,14 @@ tags:: #on/Science/Biology/Anatomy #Uni/LFS112 #flashcards/LFS112
 > down:: [[Cards/Autonomic Nervous System\|Autonomic Nervous System]], [[Cards/Somatic Nervous System\|Somatic Nervous System]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - [[Cards/Autonomic Nervous System\|ANS]]
 - [[Cards/Somatic Nervous System\|Somatic Nervous System]]
 
 ## Mentions
+
 
 { .block-language-dataview}
 
@@ -28,4 +29,4 @@ What are the afferent and efferent divisions of the PNS?;; The afferent division
 <!--SR:!2023-12-18,72,250-->
 
 What does the Peripheral Nervous System (PNS) consist of?;; The PNS is made up of cranial and spinal nerves, responsible for body system functioning.
-<!--SR:!2023-10-22,1,140-->
+<!--SR:!2024-05-07,1,140-->
