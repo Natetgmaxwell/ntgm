@@ -10,17 +10,17 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
 ## Flashcards
 
-  
 The portion of the large intestine closest to the liver is the?;;[[Cards/Transverse Colon\|Transverse Colon]]
 <!--SR:!2023-10-25,2,150-->
