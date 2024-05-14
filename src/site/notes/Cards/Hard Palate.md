@@ -5,17 +5,18 @@
 # Hard Palate
 
 > [!ontology]+
-> up:: [[Cards/Buccal cavity\|mouth]]
+> up:: [[Cards/Buccal Cavity\|mouth]]
 > jump:: [[Cards/Soft Palate\|Soft Palate]]
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
@@ -25,7 +26,7 @@
 
 | Outgoing Links                            |
 | ----------------------------------------- |
-| [[Cards/Buccal cavity\|Buccal cavity]] |
+| [[Cards/Buccal Cavity\|Buccal Cavity]] |
 | [[Cards/Soft Palate\|Soft Palate]]     |
 
 { .block-language-dataview}
