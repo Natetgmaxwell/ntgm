@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - The unit of temperature Kelvin (K) was named after [[Cards/William Thomson\|William Thomson]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                     |
 | ---------------------------------- |
 | [[Atlas/MOCs/History\|History]] |
@@ -36,4 +37,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
