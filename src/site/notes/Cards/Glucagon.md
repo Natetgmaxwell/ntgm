@@ -13,9 +13,11 @@
 > Glucagon is a peptide hormone, produced by alpha cells of the [[Cards/Pancreas\|Pancreas]]. It raises the concentration of [[Cards/Glucose\|Glucose]] and fatty acids in the bloodstream and is considered to be the main catabolic hormone of the body.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-05-17 Wed\|2023-05-17 Wed]]           |
