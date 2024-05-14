@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - [[Cards/Power\|Power]] users that lack [[Cards/Empathy\|Empathy]] & [[Cards/Compassion\|Compassion]] - [[Sources/Podcasts/Podcast Shows/The Jordan B. Peterson Podcast (JBP)#229\|The Jordan B. Peterson Podcast (JBP)#229]]
 
@@ -23,6 +22,7 @@
 # Reference
 
 ## Mentions
+
 | Incoming Links                                    |
 | ------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-02-27\|2022-02-27]] |
