@@ -10,14 +10,16 @@
 > down:: [[Cards/Larynx Cancer\|Larynx Cancer]], [[Cards/Epiglottis\|Epiglottis]], [[Cards/Thyrohyoid Ligament\|Thyrohyoid Ligament]], [[Cards/Thyroid Cartilage\|Thyroid Cartilage]], [[Cards/Laryngeal Prominence\|Laryngeal Prominence]], [[Cards/Vestibular Folds\|Vestibular Folds]], [[Cards/Vocal Cords\|Vocal Cords]], [[Cards/Cricoid Cartilage\|Cricoid Cartilage]]
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/image-7-x88-y146.png|300](/img/user/Extras/Images/image-7-x88-y146.png)
 [[@leedaffin2023-LFS122M9T1Respiratory\|@leedaffin2023-LFS122M9T1Respiratory]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                             |
@@ -50,4 +52,3 @@
 { .block-language-dataview}
 
 ## Flashcards
-
