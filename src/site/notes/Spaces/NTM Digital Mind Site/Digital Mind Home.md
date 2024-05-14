@@ -17,34 +17,34 @@
 > - Flashcard format is `{question};;{answer}`
 
 ## Recently Created Cards
-| File Name                                                                                                                       | Date Modified  |
-| ------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| [[Cards/Acids\|Acids]]                                                                                                       | April 28, 2024 |
-| [[Cards/Aldosterone's effect on Sodium\|Aldosterone's effect on Sodium]]                                                     | April 28, 2024 |
-| [[Cards/Antisemitism\|Antisemitism]]                                                                                         | April 28, 2024 |
-| [[Cards/Bicarbonate\|Bicarbonate]]                                                                                           | April 28, 2024 |
-| [[Cards/Condyloid Joint\|Condyloid Joint]]                                                                                   | April 28, 2024 |
-| [[Cards/Conjugate acid\|Conjugate acid]]                                                                                     | April 28, 2024 |
-| [[Cards/Conjugate base\|Conjugate base]]                                                                                     | April 28, 2024 |
-| [[Cards/Contractions of Smooth Muscle within the Digestive Tract\|Contractions of Smooth Muscle within the Digestive Tract]] | April 28, 2024 |
-| [[Cards/Dependence\|Dependence]]                                                                                             | April 28, 2024 |
-| [[Cards/Digestion\|Digestion]]                                                                                               | April 28, 2024 |
+| File Name                                                                               | Date Modified |
+| --------------------------------------------------------------------------------------- | ------------- |
+| [[Cards/David McKay\|David McKay]]                                                   | May 14, 2024  |
+| [[Cards/Homeostasis\|Homeostasis]]                                                   | May 13, 2024  |
+| [[Cards/Bacterial Gene Conjugation\|Bacterial Gene Conjugation]]                     | May 12, 2024  |
+| [[Cards/Bacterial Gene Transduction\|Bacterial Gene Transduction]]                   | May 12, 2024  |
+| [[Cards/David McMillan\|David McMillan]]                                             | May 12, 2024  |
+| [[Cards/Electromagnetic Radiation\|Electromagnetic Radiation]]                       | May 12, 2024  |
+| [[Cards/Electrons\|Electrons]]                                                       | May 12, 2024  |
+| [[Cards/Bacterial Gene Transformation\|Bacterial Gene Transformation]]               | May 11, 2024  |
+| [[Cards/Horizontal Gene Transfer in Bacteria\|Horizontal Gene Transfer in Bacteria]] | May 08, 2024  |
+| [[Cards/Plasmids\|Plasmids]]                                                         | May 08, 2024  |
 
 { .block-language-dataview}
 
 ## Recent Sources
-| File Name                                                                                        | Date Modified  | Type    |
-| ------------------------------------------------------------------------------------------------ | -------------- | ------- |
-| [[Sources/Video/@DavidMcKay2024SCI105M03T04Acids\|@DavidMcKay2024SCI105M03T04Acids]]          | April 28, 2024 | Video   |
-| [[Sources/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]              | April 28, 2024 | Video   |
-| [[Sources/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]                      | April 28, 2024 | Video   |
-| [[Sources/@LeeDaffin2023LFS122M4T3General\|@LeeDaffin2023LFS122M4T3General]]                  | April 28, 2024 | Video   |
-| [[Sources/@DavidMcKay2024SCI105M06T04Water\|@DavidMcKay2024SCI105M06T04Water]]                | April 28, 2024 | Video   |
-| [[Sources/@DavidMcKay2024SCI105M06T03Acids\|@DavidMcKay2024SCI105M06T03Acids]]                | April 28, 2024 | Video   |
-| [[Sources/@DavidMcKay2024SCI105M06T02Shifting\|@DavidMcKay2024SCI105M06T02Shifting]]          | April 28, 2024 | Video   |
-| [[Sources/@DavidMcKay2024SCI105M06T05PH\|@DavidMcKay2024SCI105M06T05PH]]                      | April 28, 2024 | Video   |
-| [[Sources/Articles/@henderson2022MaleWarriorHypothesis\|@henderson2022MaleWarriorHypothesis]] | April 28, 2024 | \-      |
-| [[Sources/Podcasts/@williamson202316Lessons700\|@williamson202316Lessons700]]                 | April 28, 2024 | Podcast |
+| File Name                                                                                       | Date Modified | Type           |
+| ----------------------------------------------------------------------------------------------- | ------------- | -------------- |
+| [[Sources/@davidmckay2024SCI105M07T03Electronic\|@davidmckay2024SCI105M07T03Electronic]]     | May 12, 2024  | Video          |
+| [[Sources/@davidmckay2024SCI105M07T04Lewis\|@davidmckay2024SCI105M07T04Lewis]]               | May 12, 2024  | Video          |
+| [[Sources/@davidmckay2024SCI105M08T02Light\|@davidmckay2024SCI105M08T02Light]]               | May 12, 2024  | Video          |
+| [[Sources/@mcmillan2024LFS261M10T03Conjugation\|@mcmillan2024LFS261M10T03Conjugation]]       | May 08, 2024  | Video          |
+| [[Sources/@mcmillan2024LFS261M10T02Plasmids\|@mcmillan2024LFS261M10T02Plasmids]]             | May 08, 2024  | Video          |
+| [[Sources/Video/@nicolemastersLFS112M5T3ATP2023\|@nicolemastersLFS112M5T3ATP2023]]           | May 06, 2024  | \-             |
+| [[Sources/Video/@katemounsey2023LFS112M6T1Blood\|@katemounsey2023LFS112M6T1Blood]]           | May 06, 2024  | Video          |
+| [[Sources/@thompsonThyroidHormoneFluctuations2017\|@thompsonThyroidHormoneFluctuations2017]] | May 06, 2024  | Research Paper |
+| [[Sources/@hawkinsGenghisKhanWas2022\|@hawkinsGenghisKhanWas2022]]                           | May 06, 2024  | Article        |
+| [[Sources/@Nieman2015CushingSyndromeUpdate\|@Nieman2015CushingSyndromeUpdate]]               | May 06, 2024  | Research Paper |
 
 { .block-language-dataview}
 
