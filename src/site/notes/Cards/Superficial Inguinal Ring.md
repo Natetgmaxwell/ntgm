@@ -13,9 +13,11 @@
 > The superficial inguinal ring is a thin layer of skin and fascia that covers the external iliac vein, which drains blood from the lower limb back to the heart. It is located at the level of the [[Cards/Anterior Superior Iliac Spine\|anterior superior iliac spine]], where it can be palpated with fingers or a blunt instrument. The superficial inguinal ring forms part of the subcutaneous boundary of the femoral triangle, which contains several major nerves and vessels that supply the thigh and leg.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
