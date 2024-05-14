@@ -13,18 +13,22 @@ A polymer is composed of a double helix carrying [[Cards/Genes\|genetic]] instru
 - A group of 3 bases is called a [[Cards/Codon\|Codon]].
 
 ## DNA Structure
+
 ![Pasted image 20220308102450.png|450](/img/user/Extras/Images/Pasted%20image%2020220308102450.png)
 
 ## Base Pairs of DNA
+
 1. [[Cards/Purine Bases\|Purine Bases]]: [[Cards/Adenine\|Adenine]] & [[Cards/Guanine\|Guanine]]
 2. [[Cards/Pyrimidine Bases\|Pyrimidine Bases]]: [[Cards/Thymine\|Thymine]] & [[Cards/Cytosine\|Cytosine]]
 
 ## DNA is Studied Through
+
 - [[Cards/Electrophoresis\|Electrophoresis]]
 - [[Cards/Hybridization\|Hybridization]]
 - 
 
 # Reference
+
 - [[Cards/Ribonucleic Acid\|Ribonucleic Acid]]
 - [[Cards/Genes\|Genes]]
 - [[Cards/Asexual Reproduction\|Asexual Reproduction]]
