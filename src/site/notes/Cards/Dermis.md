@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - The inner layers of the [[Cards/Skin\|Skin]]
 - contains [[Cards/Collagen\|Collagen]] and [[Cards/Elastic fibres\|Elastic fibres]], [[Cards/Exocrine Glands\|Exocrine Glands]]
@@ -21,15 +20,18 @@
 - Rich supply of [[Cards/Blood Vessels\|Blood Vessels]] and [[Cards/Nerves\|Nerves]]
 
 ## Parts of the [[Cards/Dermis\|Dermis]]
+
 - [[Cards/Papillary layer\|Papillary layer]]
 	- Superfical layer composed of dense fibres
 - [[Cards/Reticular Tissue\|Reticular Tissue]]
 	- Deep layer composed of loose fibres
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Cards/Dermal papillae\|Dermal papillae]]                                                             |
@@ -72,7 +74,7 @@ What does the dermis contain, and what are its functions?;;The dermis contains [
 <!--SR:!2023-11-02,12,160-->
 
 What are some types of sensory receptors found in the dermis?;;Sensory receptors in the dermis include free nerve endings, root hair plexus, tactile discs, bulbous corpuscles, lamellar corpuscles, and tactile corpuscles, responsible for touch, pressure, and temperature sensations.
-<!--SR:!2023-10-25,4,130-->
+<!--SR:!2024-05-11,5,130-->
 
 Describe the changes in the dermal layer due to aging.;;Slower regeneration, reduction in collagen and elastin production, leading to wrinkles.
-<!--SR:!2023-12-25,79,250-->
+<!--SR:!2024-11-19,197,250-->
