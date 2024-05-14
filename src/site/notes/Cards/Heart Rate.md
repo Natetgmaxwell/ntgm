@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Articles/2019WhyWeFeelPain-thepaincenter\|2019WhyWeFeelPain-thepaincenter]]
 - [[Sources/Articles/PeopleNeedTrackHRV\|PeopleNeedTrackHRV]]
 - [[Sources/Articles/VagusNerveEverything\|VagusNerveEverything]]
