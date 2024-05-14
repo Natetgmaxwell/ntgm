@@ -10,12 +10,13 @@
 > down:: [[Cards/Greater Curvature of the Stomach\|Greater Curvature of the Stomach]], [[Cards/Lesser Curvature of the Stomach\|Lesser Curvature of the Stomach]], [[Cards/Fundus of the Stomach\|Fundus of the Stomach]], [[Cards/Body of the Stomach\|Body of the Stomach]], [[Cards/Pyloric Sphincter\|Pyloric Sphincter]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Articles/Symptoms of Malnutrition with Cystic Fibrosis\|Symptoms of Malnutrition with Cystic Fibrosis]]
 - [[Sources/Video/@leedaffin2023-LFS122M11T2Oesophagus\|@leedaffin2023-LFS122M11T2Oesophagus]]
 
