@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - [[Cards/Rib 9\|Rib 9]] is an attachment for the [[Cards/Latissimus dorsi\|Latissimus dorsi]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
