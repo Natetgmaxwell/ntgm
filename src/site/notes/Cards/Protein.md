@@ -21,9 +21,11 @@
 [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Cards/Blood Plasma\|Blood Plasma]]                                                                   |
@@ -31,7 +33,6 @@
 | [[Cards/Electrophoresis\|Electrophoresis]]                                                             |
 | [[Cards/Endoplasmic reticulum\|Endoplasmic reticulum]]                                                 |
 | [[Cards/Enzyme\|Enzyme]]                                                                               |
-| [[Cards/Gel Electrophoresis\|Gel Electrophoresis]]                                                     |
 | [[Cards/Gene Expression\|Gene Expression]]                                                             |
 | [[Cards/Glutamic acid\|Glutamic acid]]                                                                 |
 | [[Cards/Glycoprotein\|Glycoprotein]]                                                                   |
