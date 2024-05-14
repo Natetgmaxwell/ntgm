@@ -2,7 +2,7 @@
 {"aliases":["FAD"],"tags":null,"dg-publish":true,"permalink":"/cards/flavin-adenine-dinucleotide/","dgPassFrontmatter":true}
 ---
 
-# Flavin adenine dinucleotide
+# Flavin Adenine Dinucleotide
 
 > [!ontology]+
 > up:: 
@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Cards/Acetyl coenzyme A\|Acetyl coenzyme A]]                                                         |
