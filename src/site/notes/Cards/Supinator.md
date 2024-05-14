@@ -10,17 +10,21 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ![Supinator Image.png|200](/img/user/Extras/Images/Supinator%20Image.png)
+
 ## Attachments
+
 - [[Supinator Crest of the Ulna\|Supinator Crest of the Ulna]]
 - [[Cards/Lateral Epicondyle of the Humerus\|Lateral Epicondyle of the Humerus]]
 - Proximal 3rd of the [[Cards/Radius\|Radius]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@colingavagan2023-LFS122M8T6Posterior\|@colingavagan2023-LFS122M8T6Posterior]]
 
 { .block-language-dataview}
