@@ -12,24 +12,29 @@
 ![[Boundless by Ben Greenfield#^348c76\|Boundless by Ben Greenfield#^348c76]]
 
 ## The Influence of Sleep
+
 - Regulates the [[Cards/Endocrine System\|Endocrine System]]
 - Cognitive Behaviour / [[Cards/Circadian rhythm\|Circadian rhythm]]
 - Can aid in the onset of [[Cards/Fatigue\|Fatigue]]
 
 ## Enhancing Sleep
+
 - Supplements such as [[Cards/Magnesium\|Magnesium]] & [[Cards/Theanine\|Theanine]] may assist in the onset and retention of [[Cards/Sleep\|sleep]].
 
 ## Factors Affecting Quality / Quantity of Sleep
+
 1. Drugs such as [[Cards/Caffeine\|Caffeine]] 
 2. [[Cards/Insomnia\|Insomnia]]
 3. [[Cards/Thermoregulation\|Thermoregulation]]
 4. Irregular sleep patterns / [[Cards/Habits\|Habits]]
 
 ## Types of [[Cards/Sleep\|Sleep]]
+
 - [[Cards/Slow-wave Sleep\|Slow-wave Sleep]]
 - [[Cards/Rapid Eye Movement Sleep\|Rapid Eye Movement Sleep]]
 
 # Reference
+
 - [[Cards/Insomnia\|Insomnia]]
 - [[Cards/Thermoregulation\|Thermoregulation]]
 - [[Cards/Endocrine System\|Endocrine System]]
@@ -40,6 +45,7 @@
 - [[Cards/Sleep Divorce\|Sleep Divorce]]
 
 ## Mentions
+
 | Incoming Links                                            |
 | --------------------------------------------------------- |
 | [[Cards/Blood-brain Barrier\|Blood-brain Barrier]]     |
