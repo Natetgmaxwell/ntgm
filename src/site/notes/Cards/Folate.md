@@ -13,6 +13,7 @@
 > Folate is the natural form of vitamin [[Cards/Vitamin B9\|B9]], water-soluble and naturally found in many foods.
 
 ## Sources of [[Cards/Folate\|Folate]]
+
 - [[Cards/Broccoli\|Broccoli]]
 - [[Cards/Beetroot\|Beetroot]]
 - [[Cards/Turnip\|Turnip]]
@@ -21,9 +22,11 @@
 - [[Cards/Parsley\|Parsley]] 
 
 # Reference
+
 - [[Cards/Vitamin B9\|Vitamin B9]]
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
