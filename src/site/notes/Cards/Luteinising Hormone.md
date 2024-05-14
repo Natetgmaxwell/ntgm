@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - Stimulates [[Cards/Testosterone\|Testosterone]] production in the [[Cards/Testes\|Testes]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Anterior Pituitary Gland\|Anterior Pituitary Gland]]                                                                                   |
@@ -46,5 +47,6 @@
 { .block-language-dataview}
 
 ## Flashcards
+
 What hormone stimulates [[Cards/Ovulation\|Ovulation]]?;;[[Cards/Luteinising Hormone\|Luteinising Hormone]]
 <!--SR:!2023-08-20,4,210-->
