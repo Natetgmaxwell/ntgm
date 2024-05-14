@@ -14,8 +14,10 @@
 
 
 ## Types of Reproductive Strategies
+
 - [[Cards/r-Strategy\|r-Strategy]]
 - [[Cards/K-Strategy\|K-Strategy]]
 
 # Reference
+
 - 
