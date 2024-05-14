@@ -10,7 +10,6 @@
 > down:: [[Cards/Paramecium\|Paramecium]]
 
 > [!Definition] Definition
-> 
 
 ## Types of [[Cards/Micro-organisms\|Microorganisms]]
 
@@ -23,12 +22,16 @@
 ## [[Cards/Micro-organisms\|Microorganism]] Classification Based on Temperature
 
 ![Extras/Images/JZVDBYQ9.png](/img/user/Extras/Images/JZVDBYQ9.png)
-[[Sources/Books/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]
+
+> [!cite]-
+> [[Sources/Books/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                        |
 | ----------------------------------------------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-04-07\|2022-04-07]]                                                     |
@@ -72,4 +75,4 @@
 ## Flashcards
 
 Which suffix is added after the names of treatments that cause the outright death of microbes (meaning kill)?;;-cide
-<!--SR:!2024-04-19,3,250-->
+<!--SR:!2024-05-19,13,270-->
