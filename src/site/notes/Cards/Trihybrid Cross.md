@@ -17,7 +17,9 @@
 9 = 2 [[Cards/Dominate Allele\|Dominate Alleles]]
 3 = 1 [[Cards/Dominate Allele\|Dominate Allele]]
 1 = Only [[Cards/Recessive Allele\|Recessive Alleles]]
+
 # Reference
+
 - [[Cards/Monohybrid Crosses\|Monohybrid Crosses]]
 - [[Cards/Dihybrid Cross\|Dihybrid Cross]]
 - [[Cards/Genes\|Genes]]
