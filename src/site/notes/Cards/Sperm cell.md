@@ -10,14 +10,18 @@
 > down:: [[Cards/Spermatogenesis\|Spermatogenesis]], [[Cards/Spermiogenesis\|Spermiogenesis]]
 
 > [!Definition] Definition
-> 
+
 ## Stages in [[Cards/Sperm cell\|Sperm cell]] Production
+
 1. [[Cards/Spermatogenesis\|Spermatogenesis]]
 2. [[Cards/Spermiogenesis\|Spermiogenesis]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
