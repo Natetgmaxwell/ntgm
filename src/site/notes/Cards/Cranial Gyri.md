@@ -10,16 +10,18 @@
 > down:: [[Postcentral Gyrus\|Postcentral Gyrus]], [[Precentral Gyrus\|Precentral Gyrus]]
 
 > [!Definition] Definition
-> 
 
 ## List of [[Cards/Cranial Gyri\|Cranial Gyri]]
+
 - [[Precentral Gyrus\|Precentral Gyrus]]
 - [[Postcentral Gyrus\|Postcentral Gyrus]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
@@ -38,4 +40,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
