@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Research Papers/@xiaomengliu2023UpdateBrownAdipose\|@xiaomengliu2023UpdateBrownAdipose]]
 > green tea (92) can directly activate [[Cards/Brown Adipose Tissue\|brown fat]], thereby increasing energy consumption and achieving weight control (75).
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                  |
 | --------------------------------------------------------------- |
 | [[Cards/Epigallocatechin gallate\|Epigallocatechin gallate]] |
@@ -39,4 +40,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
