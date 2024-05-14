@@ -10,12 +10,13 @@
 > down:: [[Sources/Podcasts/Podcast Shows/The Tim Ferris Show\|The Tim Ferris Show]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -33,4 +34,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
