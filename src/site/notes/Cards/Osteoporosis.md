@@ -13,9 +13,11 @@
 > Osteoporosis weakens [[Cards/Bone Tissue\|bones]] to the point that they can break easily. It is called a “silent disease” because people who develop it may not notice any changes until a bone breaks — usually a bone in the [[Cards/Pelvis\|hip]], [[Cards/Spine\|Spine]], or [[Cards/Wrist\|Wrist]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                          |
 | ----------------------------------------------------------------------- |
 | [[Cards/Arthritis\|Arthritis]]                                       |
