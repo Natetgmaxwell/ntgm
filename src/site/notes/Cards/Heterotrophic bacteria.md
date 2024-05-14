@@ -2,7 +2,7 @@
 {"aliases":null,"tags":["Uni/LFS261"],"dg-publish":true,"permalink":"/cards/heterotrophic-bacteria/","dgPassFrontmatter":true}
 ---
 
-# Heterotrophic bacteria
+# Heterotrophic Bacteria
 
 > [!ontology]-
 > up:: [[Cards/Bacteria\|Bacteria]], [[Cards/Heterotrophs\|Heterotrophs]]
@@ -10,14 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
-
-
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -36,4 +35,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
