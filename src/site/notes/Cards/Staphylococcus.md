@@ -10,12 +10,13 @@
 > down:: [[Cards/Staphylococcal Infections\|Staphylococcal Infections]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -33,4 +34,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
