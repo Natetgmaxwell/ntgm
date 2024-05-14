@@ -10,9 +10,9 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Muscles Innervated
+
 - [[Cards/Triceps brachii\|Triceps brachii]]
 	- [[Cards/Triceps Brachii Long Head\|Triceps Brachii Long Head]]
 	- [[Cards/Triceps Brachii Medial Head\|Triceps Brachii Medial Head]]
@@ -29,10 +29,13 @@
 - [[Cards/Extensor Indicis\|Cards/Extensor Indicis]]
 - [[Cards/Supinator\|Supinator]]
 - [[Cards/Brachioradialis\|Brachioradialis]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                              |
 | ----------------------------------------------------------- |
 | [[Cards/Nerves of the Brachium\|Nerves of the Brachium]] |
