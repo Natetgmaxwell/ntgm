@@ -17,6 +17,7 @@
 | Name                                                                                                    | Cite Key                                                                                                    | Published |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------- |
 | \-                                                                                                      | [[Sources/Video/@honorhugo2023LFS122M4T2Gross\|@honorhugo2023LFS122M4T2Gross]]                           | true      |
+| <ul><li>@LFS122 M4T3 General Muscle Characteristics & Configurations</li></ul>                          | [[Sources/@LeeDaffin2023LFS122M4T3General\|@LeeDaffin2023LFS122M4T3General]]                             | true      |
 | <ul><li>@LFS122 M4T5 Posterior Trunk Muscles</li></ul>                                                  | [[Sources/Video/@leedaffin2023LFS122M4T5Posterior\|@leedaffin2023LFS122M4T5Posterior]]                   | true      |
 | <ul><li>@LFS122 M5T1 Skull</li></ul>                                                                    | [[Sources/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]                                 | true      |
 | <ul><li>LFS112 M5T1 Building blocks of life</li></ul>                                                   | [[Sources/Video/@nicolemastersLFS112M5T1Building2023\|@nicolemastersLFS112M5T1Building2023]]             | true      |
@@ -50,7 +51,7 @@
 
 ### 5. Head and Neck
 
-###### Skull [[@LFS122M5T1Skull\|@LFS122M5T1Skull]]
+###### Skull [[Sources/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]
 - [[Cards/Cranium\|Cranium]]
 	- [[Cards/Frontal bone\|Frontal bone]]
 	- [[Cards/Parietal bone\|Parietal bone]]
