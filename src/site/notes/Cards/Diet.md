@@ -10,12 +10,13 @@
 > down:: [[Cards/High Protein Diet\|High Protein Diet]], [[Cards/Vegetarian Diet\|Vegetarian Diet]], [[Cards/Diet for Increasing Testosterone\|Diet for Increasing Testosterone]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                  |
 | ----------------------------------------------------------------------------------------------- |
 | [[Cards/Blood-brain Barrier\|Blood-brain Barrier]]                                           |
