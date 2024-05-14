@@ -13,6 +13,7 @@
 > Logarithmic functions are **the inverses of [[Cards/Exponential Function\|exponential functions]]**.
 
 ## Example of a Log
+
 $$y=log_ax$$
 
 # Reference
