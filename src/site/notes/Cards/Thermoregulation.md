@@ -10,23 +10,25 @@
 > down:: [[Cards/Hypothermia\|Hypothermia]], [[Cards/Hyperthermia\|Hyperthermia]]
 
 > [!Definition] Definition
-> 
 
 - The control center for [[Cards/Thermoregulation\|Thermoregulation]] is the [[Cards/Hypothalamus\|Hypothalamus]].
 
 ## Methods of [[Cards/Thermoregulation\|Thermoregulation]]
 
 #### Heat Up
+
 - [[Cards/Shivering\|Shivering]]
 - [[Cards/Vasoconstriction\|Vasoconstriction]] of the dermal [[Cards/Blood Vessels\|Blood Vessels]]
 
 #### Cool Down
+
 - [[Cards/Vasodilation\|Vasodilation]] of the dermal [[Cards/Blood Vessels\|Blood Vessels]]
 - [[Cards/Sweat\|Sweat]]
 
 # Reference
 
 ## Mentions
+
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Alcohol\|Alcohol]]                                                                                                |
@@ -77,10 +79,10 @@
 ## Flashcards
 
 What is thermoregulation?;;It is the process of maintaining a stable [[Cards/Core Body Temperature\|core body temperature]] through [[Cards/Negative Feedback Loops\|negative feedback]] mechanisms.
-<!--SR:!2023-11-02,12,170-->
+<!--SR:!2024-06-04,29,190-->
 
 How does the body regulate heat loss or retention through [[Cards/Blood Vessels\|blood vessels]]?;;[[Cards/Vasoconstriction\|Vasoconstriction]] reduces blood flow to the [[Cards/Skin\|skin]] to conserve heat, while vasodilation increases blood flow to the [[Cards/Skin\|skin]] to release heat.
-<!--SR:!2023-11-03,13,170-->
+<!--SR:!2024-06-03,28,190-->
 
 What are the consequences of [[Cards/Hypothermia\|hypothermia]] and [[Cards/Hyperthermia\|hyperthermia]]?;;[[Cards/Hypothermia\|Hypothermia]] can lead to impaired organ function and, at extreme levels, cell damage. [[Cards/Hyperthermia\|Hyperthermia]] can cause convulsions, cell death, and, at very high temperatures, death.
-<!--SR:!2023-11-02,12,170-->
+<!--SR:!2024-05-29,23,170-->
