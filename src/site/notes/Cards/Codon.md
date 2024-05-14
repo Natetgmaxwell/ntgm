@@ -13,6 +13,7 @@
 > A codon is a trinucleotide sequence of [[Cards/Deoxyribonucleic Acid\|DNA]] or [[Cards/Ribonucleic Acid\|RNA]] that corresponds to a specific [[Cards/Amino Acids\|amino acid]].
 
 # Reference
+
 - [[Cards/Amino Acids\|Amino Acids]]
 - [[Cards/RNA Splicing\|RNA Splicing]]
 - [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]]
