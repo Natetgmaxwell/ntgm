@@ -22,8 +22,9 @@
 > creators:: Kate Mounsey
 
 > [!Links]+
->  | Incoming Links |
-> | -------------- |
+>  | Incoming Links                                    |
+> | ------------------------------------------------- |
+> | [[Cards/White Blood Cells\|White Blood Cells]] |
 > 
 { .block-language-dataview}
 
@@ -158,7 +159,7 @@
 
 > [!quote-yellow] (Page 12) yellow
 > 
-> Basophil
+> [[Cards/Basophils\|Basophil]]
 >
 { #DFDEJAGQaXBHRLIHEp12}
 
