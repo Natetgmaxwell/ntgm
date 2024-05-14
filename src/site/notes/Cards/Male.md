@@ -10,12 +10,13 @@
 > down:: [[Cards/Male Sex Chromosome\|Male Sex Chromosome]], [[Cards/Spermiogenesis\|Spermiogenesis]], [[Cards/Male Reproductive System\|Male Reproductive System]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
