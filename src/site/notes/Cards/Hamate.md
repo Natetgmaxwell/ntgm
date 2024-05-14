@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - The [[Cards/Flexor carpi ulnaris\|Flexor carpi ulnaris]] has a distal attachment on the [[Cards/Hamate\|Hamate]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
