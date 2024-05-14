@@ -10,7 +10,6 @@
 > down:: [[Cards/Sodium citrate\|Sodium citrate]], [[Cards/Sodium acetate\|Sodium acetate]], [[Cards/Sodium bicarbonate\|Sodium bicarbonate]], [[Cards/Saline Solutions\|Saline Solutions]]
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > ”[[Cards/Sodium\|Sodium]]  absorption is  also  impaired  during  exercise, which  is  why  it  is  best  to  ingest [[Cards/Sodium\|Sodium]]  and  fluid  prior  to  exercise.”
@@ -23,7 +22,7 @@
 
 ### High-Quality Salts for Consumption
 
-- [[Himalayan salt\|Himalayan salt]]
+- [[Cards/Himalayan salt\|Himalayan salt]]
 - [[Celtic Sea salt\|Celtic Sea salt]]
 - [[Colima salt\|Colima salt]]
 - [Buy Redmond Re-Lyte Lemon Lime Electrolyte Mix @ Lytes Australia — LYTES](https://lytes.com.au/collections/re-lyte/products/re-lyte-electrolyte-mix-lemon-lime)
@@ -32,9 +31,11 @@
 ## [[Cards/Saline Solutions\|Saline Solutions]]
 
 # Reference
+
 - [[Cards/Sweat\|Sweat]]
 
 ## Mentions
+
 - [[Sources/Articles/AncestralHealthWhat-robbwolf\|AncestralHealthWhat-robbwolf]]
 - [[Sources/Podcasts/Podcast Episodes/Dirt Cheap Performance Enhancing Hacks You ve Never Heard Of  The Best Bottled Waters  Cold Thermogenesis Pre Post Exercise Tips  & Much More\|Dirt Cheap Performance Enhancing Hacks You ve Never Heard Of  The Best Bottled Waters  Cold Thermogenesis Pre Post Exercise Tips  & Much More]]
 
