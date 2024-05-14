@@ -13,19 +13,24 @@
 > The integumentary system is the body's largest organ system, consisting of skin, hair, [[Cards/Nails\|Nails]], and associated glands.
 
 ## Organs of the [[Cards/Integumentary System\|Integumentary System]] [[Sources/Research Papers/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]
+
 - [[Cards/Skin\|Skin]]
 - [[Cards/Hair\|Hair]]
 - [[Cards/Nails\|Nails]]
 
 ## Functions of the [[Cards/Integumentary System\|Integumentary System]] [[Sources/Research Papers/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]
+
 - [[Cards/Thermoregulation\|Thermoregulation]]
 - [[Cards/Osmoregulation\|Osmoregulation]]
 - [[Cards/Vitamin D\|Vitamin D]] Synthesis
 - [[Cards/Sensation\|Sensation]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-04-25 Tue\|2023-04-25 Tue]]                                                                    |
@@ -62,4 +67,4 @@ What are the main functions of the integumentary system?;;The main functions of 
 <!--SR:!2023-10-22,1,130-->
 
 What are the accessory structures of the integumentary system?;;Hair, hair follicles, nails, and glands in the skin.
-<!--SR:!2023-10-30,9,150-->
+<!--SR:!2024-05-21,15,150-->
