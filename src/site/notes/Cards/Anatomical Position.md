@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ![Pasted image 20230425183106.png](/img/user/Extras/Images/Pasted%20image%2020230425183106.png)
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
