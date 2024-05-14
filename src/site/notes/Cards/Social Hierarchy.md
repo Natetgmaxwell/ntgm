@@ -15,21 +15,30 @@ Links: [[Calendar/2022/Daily/2022-06-22\|2022-06-22]]
 A stark example the [[Cards/Social Hierarchy\|Social Hierarchy]] is in [[Sources/Books/@georgeorwell1949NineteenEightyfour\|1984]] and the obvious social class differences between the 'Inner Party', 'Outer Party' and the proles.
 
 ## A-households
+
 > - 2%
+
 - Successful upper level
 
 ## B-households
+
 > - 11%
+
 - Well off
 
 ## C-households
+
 > - 23%
+
 - Lower middle class
 
 ## D-households
+
 > - 64%
+
 - General Class
 
 # Reference
+
 - [[Cards/Demography of Generations\|Demography of Generations]]
 - [[Cards/The Tree of Knowledge Mutation\|The Tree of Knowledge Mutation]]
