@@ -15,12 +15,15 @@
 *Molarity* $= \frac{Moles.of.Solute}{Volume.of.Solution (L)}$
 
 # Reference
+
 - 
 
 ## Mentions
 
+
 { .block-language-dataview}
 
 ## Flashcards
+
 What is [[Cards/Molarity\|Molarity]]?;;The amount of the moles per liter of [[Cards/Solutions\|Solutions]].
 <!--SR:!2023-10-31,119,270-->
