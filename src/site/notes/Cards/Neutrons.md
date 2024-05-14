@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                            |
 | ------------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-05-08 Mon\|2023-05-08 Mon]]                 |
@@ -34,4 +35,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
