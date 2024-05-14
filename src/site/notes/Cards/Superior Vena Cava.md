@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - [[Cards/Inferior Vena Cava\|Inferior Vena Cava]]
 
 ## Mentions
+
 
 { .block-language-dataview}
 
