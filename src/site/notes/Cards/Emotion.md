@@ -21,10 +21,13 @@
 | [[Cards/High-Grade Emotions\|High-Grade Emotions]]           | [[Cards/Low-Grade Emotions\|Low-Grade Emotions]] |
 | --------------------------------- | ---------------------- |
 | Above the level of consciousness. | Below the level of consciousness                       |
+
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Articles/2023WhatBrainFog-jackielam\|2023WhatBrainFog-jackielam]]
 - [[Sources/Articles/Real-World Study Shows The Risk of Getting 'Hangry' Is Very Real, David Nield\|Real-World Study Shows The Risk of Getting 'Hangry' Is Very Real, David Nield]]
 - [[Sources/Podcasts/Podcast Episodes/366 Shannon Curry  Johnny Depp & Amber Heard Trial  Marriage  Dating & Love\|366 Shannon Curry  Johnny Depp & Amber Heard Trial  Marriage  Dating & Love]]
