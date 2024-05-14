@@ -10,12 +10,13 @@
 > down:: [[Lateral Plantar Artery\|Lateral Plantar Artery]], [[Medial Plantar Artery\|Medial Plantar Artery]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@leedaffin2023-LFS122M10T1Systemic\|@leedaffin2023-LFS122M10T1Systemic]]
 
 { .block-language-dataview}
