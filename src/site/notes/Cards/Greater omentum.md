@@ -2,7 +2,7 @@
 {"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122","Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/greater-omentum/","dgPassFrontmatter":true}
 ---
 
-# Greater omentum
+# Greater Omentum
 
 > [!ontology]
 > up:: [[Cards/Peritoneum\|Peritoneum]]
@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@leedaffin2023-LFS122M11T3Pancreas\|@leedaffin2023-LFS122M11T3Pancreas]]
 
 { .block-language-dataview}
