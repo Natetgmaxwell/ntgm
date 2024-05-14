@@ -10,28 +10,41 @@
 > down:: [[Cards/Intertrochanteric Line\|Intertrochanteric Line]], [[Cards/Greater Trochanter\|Greater Trochanter]]
 
 > [!Definition] Definition
-> 
 
 ![Pasted image 20230416123813.png|300](/img/user/Extras/Images/Pasted%20image%2020230416123813.png)
 
 ## [[Cards/Intertrochanteric Crest\|Intertrochanteric Crest]]
+
 ## [[Cards/Intertrochanteric Line\|Intertrochanteric Line]]
+
 ## [[Cards/Greater Trochanter\|Greater Trochanter]]
+
 ## [[Cards/Lesser Trochanter\|Lesser Trochanter]]
+
 ## Femoral Condyle
+
 ## [[Cards/Linea Aspera\|Linea Aspera]]
+
 ## Gluteal Tuberosity
+
 - [[Cards/Gluteus maximus\|Gluteus maximus]]
+
 ## Shaft
+
 - [[Cards/Vastus intermedius\|Vastus intermedius]]
 - [[Cards/Gluteus maximus\|Gluteus maximus]]
 - [[Cards/Articularis genu\|Articularis genu]]
+
 ### Quadrate Tubercle
+
 - [[Cards/Quadratus femoris\|Quadratus femoris]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
