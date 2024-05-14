@@ -10,19 +10,21 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote]
 > Water self-ionizes: acts as an acid and base to itself
 
 ![Extras/Images/ZF3SEXBA.png](/img/user/Extras/Images/ZF3SEXBA.png)
+
 > [!cite]-
 > [[Sources/@DavidMcKay2024SCI105M06T04Water\|@DavidMcKay2024SCI105M06T04Water]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -41,4 +43,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
