@@ -5,18 +5,20 @@
 # Tongue
 
 > [!Ontology]
-> up:: [[Cards/Buccal cavity\|mouth]]
+> up:: [[Cards/Buccal Cavity\|mouth]]
 > jump::
 > down:: [[Cards/Vallate Papillae\|Vallate Papillae]], [[Cards/Foliate Papillae\|Foliate Papillae]], [[Cards/Fungiform Papillae\|Fungiform Papillae]]
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/image-5-x573-y171.png|250](/img/user/Extras/Images/image-5-x573-y171.png)
+
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
