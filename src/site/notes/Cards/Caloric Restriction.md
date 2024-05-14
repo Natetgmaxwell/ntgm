@@ -12,12 +12,33 @@
 > [!Definition] Definition
 > The reduction in [[Cards/Caloric Intake\|Caloric Intake]].
 
-- When under [[Cards/Caloric Restriction\|Caloric Restriction]] animals will suppress the production of [[Cards/Thyroid Hormone\|Thyroid Hormone]] as a strategy to lower [[Cards/Basal Metabolic Rate\|Basal Metabolic Rate]] [@thompson2017-ThyroidHormoneFluctuations].
+- When under [[Cards/Caloric Restriction\|Caloric Restriction]] animals will suppress the production of [[Cards/Thyroid Hormone\|Thyroid Hormone]] as a strategy to lower [[Cards/Basal Metabolic Rate\|Basal Metabolic Rate]].
+
+> [!cite]-
+> [[Sources/@thompsonThyroidHormoneFluctuations2017\|@thompsonThyroidHormoneFluctuations2017]]
+
 # Reference
+
 - 
 
 ## Mentions
-- [[Sources/Research Papers/@thompson2017-ThyroidHormoneFluctuations\|@thompson2017-ThyroidHormoneFluctuations]]
+
+| Incoming Links |
+| -------------- |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                          |
+| ------------------------------------------------------- |
+| [[Cards/Basal Metabolic Rate\|Basal Metabolic Rate]] |
+| [[Cards/Caloric Intake\|Caloric Intake]]             |
+| [[Cards/Thyroid Hormone\|Thyroid Hormone]]           |
+
+{ .block-language-dataview}
+
+| Sources                                                                                         |
+| ----------------------------------------------------------------------------------------------- |
+| [[Sources/@thompsonThyroidHormoneFluctuations2017\|@thompsonThyroidHormoneFluctuations2017]] |
 
 { .block-language-dataview}
 
