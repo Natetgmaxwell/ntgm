@@ -10,17 +10,19 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Phagocytic Cells
+
 - [[Cards/Macrophages\|Macrophages]]
 - [[Cards/Monocytes\|Monocytes]]
 - [[Cards/Neutrophils\|Neutrophils]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
