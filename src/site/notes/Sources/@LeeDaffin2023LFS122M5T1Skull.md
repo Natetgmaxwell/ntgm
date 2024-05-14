@@ -22,9 +22,10 @@
 > creators:: Lee Daffin
 
 > [!Links]+
->  | Incoming Links                                    |
-> | ------------------------------------------------- |
-> | [[Cards/Paranasal Sinuses\|Paranasal Sinuses]] |
+>  | Incoming Links                                                |
+> | ------------------------------------------------------------- |
+> | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
+> | [[Cards/Paranasal Sinuses\|Paranasal Sinuses]]             |
 > 
 { .block-language-dataview}
 
