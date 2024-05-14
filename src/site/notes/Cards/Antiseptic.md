@@ -13,9 +13,11 @@
 > An antiseptic is _a substance that stops or slows down the growth of microorganisms_.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                              |
 | ----------------------------------------------------------- |
 | [[Spaces/University/Classes/Microbiology\|Microbiology]] |
@@ -32,7 +34,7 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 When disinfection treatment is directed at a living tissue, it is called?;;[[Cards/Antiseptic\|Antiseptic]]
-<!--SR:!2024-04-17,1,230-->
+<!--SR:!2024-05-08,2,230-->
