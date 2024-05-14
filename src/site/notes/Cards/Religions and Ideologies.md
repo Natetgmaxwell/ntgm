@@ -33,10 +33,12 @@ A group of people with a video particular faith.
 - [[Cards/Christianity\|Christianity]]
 
 # Reference
+
 - [[Cards/Subjective Truth\|Subjective Truth]]
 - [[Cards/Cognitive Revolution\|Cognitive Revolution]]
 
 ## Mentions
+
 | Incoming Links                                    |
 | ------------------------------------------------- |
 | [[Cards/Altruism\|Altruism]]                   |
