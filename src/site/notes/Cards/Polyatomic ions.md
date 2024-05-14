@@ -2,7 +2,7 @@
 {"aliases":null,"tags":["Uni/SCI105"],"dg-publish":true,"permalink":"/cards/polyatomic-ions/","dgPassFrontmatter":true}
 ---
 
-# Polyatomic ions
+# Polyatomic Ions
 
 > [!ontology]-
 > up:: 
@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Video/@davidmckay2024SCI105M02T02Ionic\|@davidmckay2024SCI105M02T02Ionic]]
 > Polyatomic ions— “charged molecules”
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -35,4 +36,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
