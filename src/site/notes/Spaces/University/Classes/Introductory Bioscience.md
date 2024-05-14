@@ -234,6 +234,6 @@
 
 ###### What is the process for naming, classifying, and identifying bacteria?
 
-###### Explain the concept of conjugation as a mechanism for gene transfer in bacteria.
+###### Explain the concept of [[Cards/Bacterial Gene Conjugation\|conjugation]] as a mechanism for gene transfer in bacteria.
 
-###### Describe the principle behind how bacteria develop antibiotic resistance, and identify the main factors contributing to the spread of antibiotic resistance.
+###### Describe the principle behind how bacteria develop [[Cards/Antibiotics\|antibiotic]] resistance, and identify the main factors contributing to the spread of [[Cards/Antibiotics\|antibiotic]] resistance.
