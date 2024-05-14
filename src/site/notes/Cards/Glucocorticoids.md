@@ -10,12 +10,13 @@
 > down:: [[Cards/Cortisol\|Cortisol]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
