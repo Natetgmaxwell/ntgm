@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
->
 
 - [[Cards/High-threshold Motor Units\|HTMU]] recruit [[Cards/Fast-Twitch Oxidative Fibers\|type 2a]] & [[Cards/Fast-Twitch Glycolytic Fibers\|type 2b]] [[Cards/Muscle Tissue\|Muscle Fibers]]
 
 # Reference
+
 - [[Cards/Low-threshold Motor Units\|Low-threshold Motor Units]]
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
