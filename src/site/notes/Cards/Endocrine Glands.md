@@ -10,7 +10,6 @@
 > down:: [[Cards/Testes\|Testes]], [[Cards/Hypothalamus\|Hypothalamus]], [[Cards/Pituitary gland\|Pituitary gland]], [[Cards/Pineal Gland\|Pineal Gland]], [[Cards/Thyroid Gland\|Thyroid Gland]], [[Cards/Pancreas\|Pancreas]], [[Cards/Adrenal gland\|Adrenal gland]], [[Cards/Para-Thyroid Gland\|Parathyroid Gland]]
 
 > [!Definition] Definition
-> 
 
 ## List of Endocrine Glands
 
@@ -25,9 +24,11 @@
 - [[Cards/Pineal Gland\|Pineal Gland]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
