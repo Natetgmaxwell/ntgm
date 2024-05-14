@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - [[Cards/Collagen\|Collagen]] is the most abundant [[Cards/Structural proteins\|Protein]] in the human body but decreases as we [[Cards/Ageing\|age]].
 - The most abundant [[Cards/Amino Acids\|amino acid]] in [[Cards/Collagen\|Collagen]] is [[Cards/Glycine\|Glycine]].
@@ -19,9 +18,11 @@
 > "[[Cards/Glycine\|Glycine]] is the most abundant amino acid in [[Cards/Collagen\|collagen]]."
 
 # Reference
+
 - [[Cards/Skin\|Skin]]
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Cards/Dermis\|Dermis]]                                                                               |
