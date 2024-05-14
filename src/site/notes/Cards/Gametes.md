@@ -12,10 +12,12 @@
 - **Sex cells** that carry 23 cells each that converge in [[Cards/Sexual Reproduction\|Sexual Reproduction]]
 
 ## Types of [[Cards/Gametes\|Gametes]]
+
 - [[Cards/Sperm cell\|Sperm cell]]
 - [[Cards/Ovum\|Ovum]]
 
 # Reference
+
 - [[Cards/Sexual Reproduction\|Sexual Reproduction]]
 - [[Cards/Chromosomes\|Chromosomes]]
 - [[Cards/Genes\|Genes]]
