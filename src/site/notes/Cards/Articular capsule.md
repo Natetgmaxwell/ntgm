@@ -2,7 +2,7 @@
 {"aliases":["joint capsule"],"tags":["on/Science/Biology/Anatomy","Uni/LFS122","flashcards/LFS122"],"date created":"2022-12-10 Sat","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/articular-capsule/","dgPassFrontmatter":true}
 ---
 
-# Articular capsule
+# Articular Capsule
 
 > [!Ontology]+
 > up:: [[Cards/Synovial joints\|Synovial joints]]
@@ -13,9 +13,11 @@
 > **An envelope surrounding a [[Cards/Synovial joints\|synovial joint]]**.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                            |
 | --------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-12-10 Sat\|2022-12-10 Sat]] |
@@ -35,4 +37,5 @@
 { .block-language-dataview}
 
 ## Flashcards
+
 A joint capsule (articular capsule) has two layers.  What is the function of the capsule’s internal layer?;;Produce synovial fluid to nourish the articular cartilage
