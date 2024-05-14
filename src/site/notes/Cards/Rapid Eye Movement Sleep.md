@@ -10,16 +10,17 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - [[Cards/Rapid Eye Movement Sleep\|rem sleep]] induces [[Cards/Dreams\|dreaming]]. 
 - During [[Cards/Rapid Eye Movement Sleep\|REM]] [[Cards/Sleep\|Sleep]] the [[Cards/Prefrontal cortex\|Prefrontal cortex]] is disabled, allowing for more visual, [[Cards/Emotion\|emotional]] and bizarre [[Cards/Dreams\|Dreams]] 
 
 # Reference
+
 - [[Cards/Slow-wave Sleep\|Slow-wave Sleep]]
 - [[Cards/Dreams\|Dreams]]
 
 ## Mentions
+
 | Incoming Links                                 |
 | ---------------------------------------------- |
 | [[Calendar/2023/Weekly/2023-W40\|2023-W40]] |
