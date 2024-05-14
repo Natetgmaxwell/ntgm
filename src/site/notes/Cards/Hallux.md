@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                        |
 | ------------------------------------------------------------------------------------- |
 | [[Cards/Interphalangeal Joint of the Hallux\|Interphalangeal Joint of the Hallux]] |
@@ -33,4 +34,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
