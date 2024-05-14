@@ -10,20 +10,22 @@
 > down:: [[Cards/Concentric Contraction\|Concentric Contraction]], [[Cards/Eccentric Contraction\|Eccentric Contraction]]
 
 > [!Definition] Definition
-> 
 
 ## Parts of the [[Cards/Isotonic Contraction\|Isotonic Contraction]]
 
 - [[Cards/Concentric Contraction\|Concentric Contraction]]
 - [[Cards/Eccentric Contraction\|Eccentric Contraction]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
 ## Flashcards
 
 Describe [[Cards/Concentric Contraction\|concentric contraction]].;;Muscle shortens during contraction while generating tension.
-<!--SR:!2023-12-24,78,250-->
+<!--SR:!2025-02-03,273,270-->
