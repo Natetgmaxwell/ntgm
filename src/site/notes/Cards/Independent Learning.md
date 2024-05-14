@@ -10,12 +10,13 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                  |
 | ----------------------------------------------- |
 | [[Cards/Auto-didacticism\|Auto-didacticism]] |
@@ -33,4 +34,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
