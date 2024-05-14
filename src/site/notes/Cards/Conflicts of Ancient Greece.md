@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## List of Greek Conflicts
 
@@ -33,11 +32,12 @@
 - Roman-Greek Wars (146 BC - 30 BC)
 	- A series of conflicts between the Roman Republic and various Greek city-states and kingdoms, leading to the ultimate Roman conquest of Greece.In markdown bullet list format, list the prominent ancient greek conflicts
 
-
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
