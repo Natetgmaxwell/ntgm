@@ -10,7 +10,6 @@
 > down:: [[Cards/Short-Term Memory\|Short-Term Memory]], [[Cards/Long-term memory\|Long-term memory]], [[Cards/Explicit Memory\|Explicit Memory]], [[Cards/Implicit Memory\|Implicit Memory]], [[Cards/Procedural Memory\|Procedural Memory]], [[Cards/Explicit Procedural Memory\|Explicit Procedural Memory]], [[Cards/Ebbinghaus's Forgetting Curve\|Ebbinghaus's Forgetting Curve]], [[Working Memory\|Working Memory]]
 
 > [!Definition] Definition
-> 
 
 | Types of Memory | Memory Terms |
 | ---- | ---- |
@@ -19,11 +18,14 @@
 | [[Cards/Procedural Memory\|Procedural Memory]] | [[Cards/Long-term memory\|Long-term memory]] |
 | [[Cards/Explicit Procedural Memory\|Explicit Procedural Memory]] | [[Cards/Long-term memory\|Long-term memory]] |
 | [[Working Memory\|Working Memory]] | [[Cards/Short-Term Memory\|Short-Term Memory]] |
+
 # Reference
+
 - [[Cards/Memorisation\|Memorisation]]
 - [[Cards/Ebbinghaus's Forgetting Curve\|Ebbinghaus's Forgetting Curve]]
 
 ## Mentions
+
 | Incoming Links                                                                    |
 | --------------------------------------------------------------------------------- |
 | [[Cards/Analogies\|Analogies]]                                                 |
