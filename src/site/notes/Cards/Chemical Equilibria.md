@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Video/@davidmckay2024SCI105M06T01Chemical\|@davidmckay2024SCI105M06T01Chemical]]
 > Equilibria are affected by temperature
@@ -22,9 +21,11 @@
 [[Sources/Video/@davidmckay2024SCI105M06T01Chemical\|@davidmckay2024SCI105M06T01Chemical]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                  |
 | --------------------------------------------------------------- |
 | [[Cards/Le Chatelier's Principle\|Le Chatelier's Principle]] |
@@ -42,4 +43,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
