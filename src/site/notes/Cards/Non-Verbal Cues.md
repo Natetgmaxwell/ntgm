@@ -10,12 +10,12 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!insight]
 > It is estimated that over 65% of all human communication is nonverbal, but people pick up and internalise only about 5% of this information.
 
 ## Observing [[Cards/Non-Verbal Cues\|Non-Verbal Cues]]
+
 - Develop a baseline level of expressions and mood to decipher any deviations, and also observe the antagonism towards other people.
 - Try to observe the same person in different situations, and notice how [[Cards/Non-Verbal Cues\|Non-Verbal Cues]] change when they speak to different people of varying roles in their life.
 - Pay attention to mixed signals—giving more importance to negative cues
@@ -24,6 +24,7 @@
 ## Cues for Like or Dislike
 
 #### **Like**
+
 - Relaxation in the facial muscles 
 - [[Cards/Lips\|Lips]] will appear more fully exposed
 - The widening of the area around the [[Cards/Eyes\|Eyes]]
@@ -43,6 +44,7 @@
 - The other person is mirroring your actions ([[Cards/Synchrony\|Synchrony]])
 
 #### **Dislike**
+
 - Sudden squinting of the [[Cards/Eyes\|Eyes]]
 { #ec908e}
 
@@ -79,9 +81,11 @@
 > The [[Cards/Non-Verbal Cues\|Non-Verbal Cues]] listed above are generally too obvious for people to decode and sow distrust within a group—making the individual look like they are less [[Cards/Altruism\|altruistic]]. Hence, the individual will try and suppress these cues, however, the initial [[Cards/Emotion\|Emotion]] is visible for less than a second before the person becomes aware and suppresses it.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-01-25 Wed\|2023-01-25 Wed]]           |
