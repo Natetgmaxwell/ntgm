@@ -15,11 +15,14 @@
 > It works by increasing levels of certain neurotransmitters in the brain, including [[Cards/Dopamine\|Dopamine]], [[Cards/Serotonin\|Serotonin]], and [[Cards/Gamma-Aminobutyric Acid\|GABA]], which can help to regulate mood and improve cognitive function. 
 
 # Reference
+
 - 
 
 ## Mentions
-| Incoming Links |
-| -------------- |
+
+| Incoming Links                                            |
+| --------------------------------------------------------- |
+| [[Calendar/2023/Daily/2024-05-01 Wed\|2024-05-01 Wed]] |
 
 { .block-language-dataview}
 
