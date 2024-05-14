@@ -15,9 +15,11 @@
 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Contractions of Smooth Muscle within the Digestive Tract\|Contractions of Smooth Muscle within the Digestive Tract]] |
@@ -34,4 +36,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
