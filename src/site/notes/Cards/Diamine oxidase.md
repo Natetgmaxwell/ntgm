@@ -2,7 +2,7 @@
 {"aliases":["DAO","Histaminase"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Biochemistry"],"date created":"2022-12-03 Sat","dg-publish":true,"permalink":"/cards/diamine-oxidase/","dgPassFrontmatter":true}
 ---
 
-# Diamine oxidase
+# Diamine Oxidase
 
 > [!Ontology]-
 > up:: [[Cards/Enzyme\|Enzyme]], [[Cards/Oxidase\|Oxidase]]
@@ -16,10 +16,12 @@
 > "Diamine Oxidase ([[Cards/Diamine oxidase\|DAO]]) is the main enzyme for breaking down ingested histamine"
 
 # Reference
+
 - [[Cards/DAO Gene\|DAO Gene]]
 - [[Cards/Histamine\|Histamine]]
 
 ## Mentions
+
 | Incoming Links                    |
 | --------------------------------- |
 | [[Cards/Alcohol\|Alcohol]]     |
