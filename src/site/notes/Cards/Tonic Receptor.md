@@ -13,13 +13,16 @@
 > A type of sensory receptor that does not experience fatigue and adaption, therefore it perceives objective stimulus instead of change in stimulus. 
 
 ## Examples of [[Cards/Tonic Receptor\|Tonic Receptors]]
+
 - [[Cards/Nociceptors\|Nociceptors]]
 - [[Cards/Photoreceptors\|Photoreceptors]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 - [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]]
 
 { .block-language-dataview}
