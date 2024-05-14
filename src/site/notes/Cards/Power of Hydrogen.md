@@ -10,15 +10,16 @@
 > down:: [[Cards/Acids\|acid]], [[Cards/Alkali\|base]]
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/@DavidMcKay2024SCI105M06T05PH\|@DavidMcKay2024SCI105M06T05PH]]
 > p = -log10
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Cards/Blinding Sites\|Blinding Sites]]                                                               |
