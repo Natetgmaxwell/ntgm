@@ -17,10 +17,13 @@
 
 - Since humans cannot look at another humans [[Cards/Deoxyribonucleic Acid\|DNA]] to determine they might be related, they use the other organisms [[Cards/Phenotype\|Phenotype]] as a proxy ([[Sources/Podcasts/@williamson2023TonyVolkEvolutionary\|@williamson2023TonyVolkEvolutionary]]). 
 - Additionally being raised together indicates genetic similarity, hence mediates [[Cards/Insest Aversion\|Insest Aversion]] amongst children raised together but not related. 
+
 # Reference
+
 - [[Cards/Self-Sacrifice\|Self-Sacrifice]]
 
 ## Mentions
+
 | Incoming Links                                            |
 | --------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-06-05 Mon\|2023-06-05 Mon]] |
