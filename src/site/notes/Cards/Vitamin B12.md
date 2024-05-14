@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[cdnBestSupplementsSlow2022\|cdnBestSupplementsSlow2022]]
 > As we age, we become less efficient at absorbing vitamin B-12
@@ -20,9 +19,11 @@
 - [[Cards/Fatigue\|Fatigue]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                                                        |
 | ----------------------------------------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
