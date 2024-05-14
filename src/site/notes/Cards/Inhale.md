@@ -10,14 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 - [[Cards/Heart Rate\|HR]] increases on [[Cards/Inhale\|Inhale]]
 - The [[Cards/Medulla Oblongata\|Medulla Oblongata]] and [[Cards/Pons\|Pons]] control the [[Cards/Unconsciousness\|unconscious]] impulse to breath.
+
 # Reference
+
 - [[Cards/Exhale\|Exhale]] (opposite)
 
 ## Mentions
+
 
 { .block-language-dataview}
 
