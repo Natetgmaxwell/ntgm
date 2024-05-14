@@ -10,7 +10,6 @@
 > down:: [[Cards/Binary Ionic Compounds\|Binary Ionic Compounds]]
 
 > [!Definition] Definition
-> 
 
 ## Naming Conventions for [[Cards/Ionic Compounds\|Ionic Compounds]]
 
@@ -22,9 +21,11 @@
 ### [[Cards/Valence Crossover Method\|Valence Crossover Method]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
