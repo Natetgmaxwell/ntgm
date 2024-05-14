@@ -2,7 +2,7 @@
 {"aliases":["CVA","stroke"],"edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/cerebrovascular-accident/","dgPassFrontmatter":true}
 ---
 
-# Cerebrovascular accident
+# Cerebrovascular Accident
 
 > [!Ontology]-
 > up:: [[Cards/Blood Flow\|Blood Flow]]
@@ -16,16 +16,20 @@
 > Cerebrovascular accident (CVA) is the medical term for a stroke. A stroke is when blood ow to a part of your brain is stopped either by a blockage or the rupture of a blood vessel.
 
 ## Types of Stroke
+
 - [[Cards/Ischemic stroke\|Ischemic stroke]] (most common)
 - [[Cards/Hemorrhagic stroke\|Hemorrhagic stroke]]
 
 ## Symptoms of a [[Cards/Cerebrovascular accident\|Stroke]]
+
 - 
 
 # Reference
+
 - [[Cards/Blood Flow\|Blood Flow]]
 
 ## Mentions
+
 | Incoming Links                                      |
 | --------------------------------------------------- |
 | [[Cards/Metabolic Syndrome\|Metabolic Syndrome]] |
