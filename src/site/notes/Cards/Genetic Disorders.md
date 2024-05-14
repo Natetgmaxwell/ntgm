@@ -13,9 +13,11 @@
 - According to [[Cards/The Theory of Evolution by Natural Selection\|The Theory of Evolution by Natural Selection]], harmful genes should be selected against, resulting in a reduced frequency over time. This has changed due to improved [[Cards/Health-span\|Health-span]] and the [[Cards/Lifespan\|Lifespan]] of people suffering from these illnesses from improved medicinal practises.
 
 ## Types of Genetic Disorders
+
 - [[Cards/Sex-Linked Disorders\|Sex-Linked Disorders]]
 - [[Cards/Autosomal Disorders\|Autosomal Disorders]]
 
 # Reference
+
 - [[Cards/Chromosome Mutation\|Chromosome Mutation]]
 - [[Cards/Gene Mutation\|Gene Mutation]]
