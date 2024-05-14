@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Articles/@kristinaackermannEffectsAlcoholBody\|@kristinaackermannEffectsAlcoholBody]]
 > The liver can metabolize about one standard drink of alcohol per hour
@@ -21,6 +20,7 @@
 ## Effects of [[Cards/Alcohol\|Alcohol]] Consumption
 
 #### Short Term
+
 - Increases [[Cards/Blood-brain Barrier\|BBB]] permeability
 - Increases [[Cards/Dopamine\|Dopamine]]
 - Increases [[Cards/Epinephrine\|Epinephrine]] and [[Cards/Norepinephrine\|Norepinephrine]] raising arousal, excitement and [[Cards/Impulsivity\|Impulsivity]]
@@ -30,12 +30,14 @@
 - Slowed reaction times
 
 #### Long Term
+
 - [[Cards/Alcohol\|Alcohol]] speeds up age-related brain shrinking.
 - Increased risk of [[Cards/Liver Fibrosis\|Liver Fibrosis]]
 - Diminishes [[Cards/Grey matter\|Grey matter]] and [[Cards/White matter\|White matter]] in the [[Cards/Brain\|Brain]]
-- Throat, [[Cards/Buccal cavity\|Buccal cavity]], larynx, breast, [[Cards/Liver Cancer\|liver]], Colorectal, or [[Cards/Esophageal Cancer\|Esophageal Cancer]]
+- Throat, [[Cards/Buccal Cavity\|Buccal Cavity]], larynx, breast, [[Cards/Liver Cancer\|liver]], Colorectal, or [[Cards/Esophageal Cancer\|Esophageal Cancer]]
 
 ## To Avoid [[Cards/Alcohol\|Alcohols]] Adverse Effects
+
 1. [Probiota HistaminX](https://www.seekinghealth.com/products/probiota-histaminx-60-capsules), a probiotic, optimises the [[Cards/Diamine oxidase\|DAO]] gene (Consume two capsules before drinking)
 2. [HomocysteX Plus](https://www.seekinghealth.com/products/homocystex-plus-60-capsules) to optimise the [[Cards/Histamine N-methyltransferase\|HMNT]], [[Cards/Monoamine oxidase A\|MAOA]], [[Cards/Monoamine oxidase B\|Monoamine oxidase B]], and [[Cards/Methylenetetrahydrofolate Reductase\|MTHFR]] genes (Consume one capsule before drinking)
 3. [Molybdenum 500](https://www.naturalhealthgroup.com.au/product/molybdenum-500/) ([[Cards/Molybdenum\|Molybdenum]]) to optimise the [[Cards/Sulfite oxidase\|SUOX]] gene (consume one capsule before drinking)
@@ -44,9 +46,11 @@
 6. [Histamine Block by Seeking Health](https://www.seekinghealth.com/products/histamine-block) ([[Cards/S-Adenosyl-L-methionine\|SAMe]]) to optimise [[Cards/Histamine N-methyltransferase\|HMNT]] gene
 
 # Reference
+
 - [[Cards/Pyrroloquinoline quinone\|PQQ]]
 
 ## Mentions
+
 | Incoming Links                                                        |
 | --------------------------------------------------------------------- |
 | [[Cards/Curcumin\|Curcumin]]                                       |
@@ -62,7 +66,7 @@
 | [[Cards/Blood Pressure\|Blood Pressure]]                                           |
 | [[Cards/Blood-brain Barrier\|Blood-brain Barrier]]                                 |
 | [[Cards/Brain\|Brain]]                                                             |
-| [[Cards/Buccal cavity\|Buccal cavity]]                                             |
+| [[Cards/Buccal Cavity\|Buccal Cavity]]                                             |
 | [[Cards/Core Body Temperature\|Core Body Temperature]]                             |
 | [[Cards/Diamine oxidase\|Diamine oxidase]]                                         |
 | [[Cards/Dopamine\|Dopamine]]                                                       |
