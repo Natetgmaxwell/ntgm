@@ -13,9 +13,11 @@
 > A type of taste receptor on the [[Cards/Tongue\|Tongue]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
