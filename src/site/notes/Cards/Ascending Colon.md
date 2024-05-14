@@ -13,9 +13,11 @@
 > A first section of the [[Cards/Large Intestine\|Large Intestine]] after the [[Cards/Small Intestine\|Small Intestine]], followed by the [[Cards/Cecum\|Cecum]].
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
