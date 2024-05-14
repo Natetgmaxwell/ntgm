@@ -10,14 +10,15 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ️️️️list a brief summary of Nicola teslas accomplishments
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
