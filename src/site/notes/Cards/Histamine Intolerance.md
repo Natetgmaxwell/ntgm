@@ -10,9 +10,9 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Foods to Avoid
+
 - Fermented Beverages ([[Cards/Wine\|Wine]], [[Cards/Beer\|Beer]] and [[Cards/Kombucha\|Kombucha]])
 - Fermented Foods ([[Sauerkraut\|Sauerkraut]], [[Cards/Vinegar\|Vinegar]], [[Cards/Soy Sauce\|Soy Sauce]], [[Kefir\|Kefir]] and [[Cards/Yogurt\|Yogurt]])
 - [[Cards/Cured Meats\|Cured]] or [[Cards/Smoked Meats\|Smoked Meats]]
@@ -22,6 +22,7 @@
 - [[Cards/Peanuts\|Peanuts]]
 
 ## Foods to Consume
+
 - [[Cards/Eggs\|Eggs]]
 - Low-gluten grains (amaranth, buckwheat, millet, quinoa, sorghum, [[Cards/Teff\|Teff]] and [[Cards/Brown rice\|Brown rice]], [[Cards/White Rice\|White Rice]])
 - Fresh Fruit
@@ -29,9 +30,11 @@
 - Leafy Herbs ([[Cards/Parsley\|Parsley]] and [[Cards/Cilantro\|Cilantro]])
 
 # Reference
+
 - [[Cards/Histamine\|Histamine]]
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
