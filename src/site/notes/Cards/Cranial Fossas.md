@@ -10,7 +10,6 @@
 > down:: [[Cards/Anterior Cranial Fossa\|Anterior Cranial Fossa]], [[Cards/Middle Cranial Fossa\|Middle Cranial Fossa]], [[Cards/Posterior Cranial Fossa\|Posterior Cranial Fossa]]
 
 > [!Definition] Definition
-> 
 
 ## List of [[Cards/Cranial Fossas\|Cranial Fossas]]
 
@@ -22,9 +21,11 @@
 - [[Cards/Posterior Cranial Fossa\|Posterior Cranial Fossa]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -44,4 +45,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
