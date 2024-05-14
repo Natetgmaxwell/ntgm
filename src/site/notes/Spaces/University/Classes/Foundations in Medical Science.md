@@ -19,6 +19,9 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 ## Sources
 | Name                                                                     | Cite Key                                                                                                      | Published |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | --------- |
+| <ul><li>@MLS101 M09T01 Flow Cytometry</li></ul>                          | [[Sources/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]                             | true      |
+| <ul><li>@MLS101 M09T02 Electrophoresis and Serum Proteins</li></ul>      | [[Sources/@MelindaDean2024MLS101M09T02Electrophoresis\|@MelindaDean2024MLS101M09T02Electrophoresis]]       | true      |
+| <ul><li>@MLS101 M09T03 Spectrophotometer</li></ul>                       | [[Sources/@MelindaDean2024MLS101M09T03Spectrophotometer\|@MelindaDean2024MLS101M09T03Spectrophotometer]]   | true      |
 | <ul><li>MLS101 M01T01 History of Medical Science (Part 1)</li></ul>      | [[Sources/Video/@melindadean2024MLS101M01T01History\|@melindadean2024MLS101M01T01History]]                 | true      |
 | <ul><li>MLS101 M01T02 History of Medical Science (Part 2)</li></ul>      | [[Sources/Video/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]                 | true      |
 | <ul><li>MLS101 M01T03 History of Medical Science (Part 3)</li></ul>      | [[Sources/Video/@MelindaDean2024MLS101M01T03History\|@MelindaDean2024MLS101M01T03History]]                 | true      |
