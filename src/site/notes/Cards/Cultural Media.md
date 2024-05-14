@@ -10,12 +10,13 @@
 > down:: [[Cards/Agar\|Agar]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -33,6 +34,7 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 What is a cultural media?;;A substance that will support the growth of [[Cards/Micro-organisms\|microorganism]].
+<!--SR:!2024-05-09,3,250-->
