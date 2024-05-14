@@ -10,12 +10,13 @@
 > down:: [[Cards/Emotion\|Emotion]], [[Cards/Neurons\|Neurons]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
