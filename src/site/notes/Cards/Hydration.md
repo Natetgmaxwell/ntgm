@@ -10,7 +10,6 @@
 > down:: [[Cards/Osmoregulation\|Osmoregulation]], [[Cards/Electrolytes\|Electrolytes]], [[Cards/Dehydration\|Dehydration]]
 
 > [!Definition] Definition
-> 
 
 - Proper [[Cards/Hydration\|Hydration]] requires both [[Cards/Water\|Water]] and [[Cards/Electrolytes\|Electrolytes]]
 - [[Cards/Hydration\|Dehydration]] increases [[Cards/Core Body Temperature\|Core Body Temperature]] during exercise
@@ -31,6 +30,7 @@
 	- Thirst
 
 ![Pasted image 20230222150001.jpg|300](/img/user/Extras/Images/Pasted%20image%2020230222150001.jpg)
+
 > [!cite]-
 > [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@JamesDiNicolantonio2021WinAchievePeak]]
 
@@ -38,11 +38,13 @@
 > Calculated Osmolarity (mmol/L) = **1.86 (Na + K) + [[Cards/Glucose\|Glucose]] + [[Cards/Urea\|Urea]] + 10**
 
 # Reference
+
 - [[Cards/Osmoregulation\|Osmoregulation]]
 - [[Cards/Electrolytes\|Electrolytes]]
 - [[Cards/Sweat\|Sweat]]
 
 ## Mentions
+
 | Incoming Links                                            |
 | --------------------------------------------------------- |
 | [[Cards/Bicarbonate\|Bicarbonate]]                     |
