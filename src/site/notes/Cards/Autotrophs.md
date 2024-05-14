@@ -1,5 +1,5 @@
 ---
-{"tags":["School","on/Science/EarthScience/Ecology","flashcards/biology","Uni/LFS261"],"date created":"2022-01-17 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/autotrophs/","dgPassFrontmatter":true}
+{"tags":["School","on/Science/EarthScience/Ecology","flashcards/biology","Uni/LFS261","flashcards/LFS261"],"date created":"2022-01-17 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/autotrophs/","dgPassFrontmatter":true}
 ---
 
 # Autotrophs
@@ -16,7 +16,7 @@
 1. [[Cards/Photoautotrophs\|Photoautotrophs]], using [[Cards/Photosynthesis\|Photosynthesis]]
 2. [[Cards/Chemoautotrophs\|Chemoautotrophs]], using the oxidisation of electron donors
 
-## Revision
+## Flashcards
 
 What are [[Cards/Autotrophs\|Autotrophs]]?:: Organisms that produce their own energy
 <!--SR:!2022-08-03,18,250-->
@@ -25,6 +25,7 @@ How do [[Cards/Autotrophs\|Autotrophs]] obtain their Energy?:: Through [[Cards/P
 <!--SR:!2022-08-02,17,250-->
 
 # Reference
+
 - [[Cards/Photosynthesis\|Photosynthesis]]
 - [[Cards/Heterotrophs\|Heterotrophs]]
 
