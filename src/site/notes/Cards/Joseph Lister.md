@@ -10,15 +10,16 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Video/@melindadean2024MLS101M01T02History\|@melindadean2024MLS101M01T02History]]
 > By insisting that everything be kept clean and disinfected, he {[[Cards/Joseph Lister\|Joseph Lister]]} lowered the death rate in his surgeries.
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -35,4 +36,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
