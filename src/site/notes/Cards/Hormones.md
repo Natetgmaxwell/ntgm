@@ -10,13 +10,12 @@
 > down:: [[Cards/Amino Acid-Peptide Hormones\|Amino Acid-Peptide Hormones]], [[Cards/Lipid Hormones\|Lipid Hormones]], [[Cards/Hormone Interactions\|Hormone Interactions]], [[Cards/Stimuli for Hormonal Secretion\|Stimuli for Hormonal Secretion]]
 
 > [!Definition] Definition
-> 
 
 ![Extras/Images/image-7-x641-y249.png|250](/img/user/Extras/Images/image-7-x641-y249.png)
 
 One hormone can have different effects on different cells. An example being [[Cards/Epinephrine\|adrenaline]], which constricts blood vessels in the digestive tract and dilates the [[Cards/Bronchioles\|bronchioles]] in the lungs.
 
-## Functions [[Cards/Hormones\|Hormones]] control [[Sources/Video/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]
+## Functions [[Cards/Hormones\|Hormones]] Control [[Sources/Video/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]
 
 - Growth and development
 - Reproduction
@@ -25,6 +24,7 @@ One hormone can have different effects on different cells. An example being [[Ca
 - Body defences
 
 ## Types of Hormones
+
 - [[Cards/Amino Acid-Peptide Hormones\|Amino Acid-Peptide Hormones]]
 - [[Cards/Lipid Hormones\|Lipid Hormones]]
 
@@ -34,17 +34,21 @@ One hormone can have different effects on different cells. An example being [[Ca
 
 
 ## Stimuli for the Secretion of [[Cards/Hormones\|Hormones]]
+
 - [[Cards/Humoral Stimulus\|Humoral Stimulus]]
 - [[Cards/Neural Stimulus\|Neural Stimulus]]
 - [[Cards/Hormonal Stimulus\|Hormonal Stimulus]]
+
 
 </div></div>
 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                                                              |
 | --------------------------------------------------------------------------- |
 | [[Cards/Adrenal medulla\|Adrenal medulla]]                               |
@@ -95,11 +99,12 @@ One hormone can have different effects on different cells. An example being [[Ca
 { .block-language-dataview}
 
 ## Flashcards
+
 What are the main types of hormones?;;[[Cards/Amino Acid-Peptide Hormones\|Amino Acid-Peptide Hormones]], [[Cards/Lipid Hormones\|Lipid Hormones]]
-<!--SR:!2023-10-30,9,170-->
+<!--SR:!2024-05-22,16,170-->
 
 How do you differentiate between water soluble hormones and lipid-soluble hormones?;;Water soluble hormones act via attaching the membrane receptors, while lipid-soluble hormones enter the cell and bind to intercellular receptors.
-<!--SR:!2023-10-27,6,150-->
+<!--SR:!2024-05-21,15,170-->
 
 What are the three stimuli that trigger hormone release?;;Humoral, Neural and hormonal.
-<!--SR:!2023-10-24,3,150-->
+<!--SR:!2024-05-11,5,150-->
