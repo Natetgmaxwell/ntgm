@@ -10,9 +10,9 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## List of Cranial Sutures
+
 - [[Cards/Sagital Suture\|Sagital Suture]]
 - [[Cards/Lambdoidal suture\|Lambdoidal suture]]
 - [[Cards/Squamosal suture\|Squamosal suture]]
@@ -20,9 +20,11 @@
 - [[Cards/Squamous Suture\|Squamous Suture]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -45,4 +47,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
