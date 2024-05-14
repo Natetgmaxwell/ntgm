@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > "[[Cards/Glycine\|Glycine]] is the most abundant amino acid in [[Cards/Collagen\|collagen]]."
@@ -20,12 +19,14 @@
 - Taking [[Cards/Glycine\|Glycine]] prior to exercise may reduce [[Cards/Cramps\|Cramps]] as it is an inhibitory [[Cards/Neurotransmitter\|Neurotransmitter]].
 
 # Reference
+
 - [[Cards/Glycine\|Glycine]] is the main component of [[Cards/Collagen\|Collagen]]
 - Precursor to [[Cards/Creatine\|Creatine]]
 - Precursor to some [[Cards/Antioxidant\|Antioxidants]]
 - [[Cards/Glycine\|Glycine]] plays an important role in the [[Cards/Central Nervous System\|CNS]] neurotransmission
 
 ## Mentions
+
 | Incoming Links                                  |
 | ----------------------------------------------- |
 | [[Cards/Glutathione\|Glutathione]]           |
