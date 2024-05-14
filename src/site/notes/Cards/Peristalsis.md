@@ -15,9 +15,11 @@
 
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links                    |
 | --------------------------------- |
 | [[Cards/Digestion\|Digestion]] |
@@ -35,4 +37,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
