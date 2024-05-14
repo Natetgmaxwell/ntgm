@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Rules
 { #71a960}
@@ -30,6 +29,7 @@
 # Reference
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
