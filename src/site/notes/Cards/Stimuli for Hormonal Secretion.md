@@ -10,16 +10,19 @@
 > down:: [[Cards/Humoral Stimulus\|Humoral Stimulus]], [[Cards/Neural Stimulus\|Neural Stimulus]], [[Cards/Hormonal Stimulus\|Hormonal Stimulus]]
 
 > [!Definition] Definition
-> 
 
 ## Stimuli for the Secretion of [[Cards/Hormones\|Hormones]]
+
 - [[Cards/Humoral Stimulus\|Humoral Stimulus]]
 - [[Cards/Neural Stimulus\|Neural Stimulus]]
 - [[Cards/Hormonal Stimulus\|Hormonal Stimulus]]
+
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
