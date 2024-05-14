@@ -10,16 +10,18 @@
 > down:: [[Cards/Endocrine Glands\|Endocrine Glands]], [[Cards/Exocrine Glands\|Exocrine Glands]]
 
 > [!Definition] Definition
-> 
 
 ## Types of [[Cards/Glands\|Glands]]
+
 - [[Cards/Endocrine Glands\|Endocrine Glands]]
 - [[Cards/Exocrine Glands\|Exocrine Glands]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
