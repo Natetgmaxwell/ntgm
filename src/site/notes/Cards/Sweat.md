@@ -10,7 +10,6 @@
 > down:: [[Cards/Sweat Glands\|Sweat Glands]]
 
 > [!Definition] Definition
-> 
 
 > [!quote] [@jamesdinicolantonio2021-WinAchievePeak]
 > “When exercising in a hot environment, [[Cards/Sweat\|sweating]] can make you lose up to 1-2 liters of water per hour. However, sweat doesn’t only contain water – it’s  also  made  of  [[Cards/Sodium\|salt]]  and  other  [[Cards/Electrolytes\|Electrolytes]].”
@@ -21,9 +20,11 @@
 - [[Cards/Heat Exposure Therapy\|Heat Exposure Therapy]] can help reduce [[Cards/Sodium\|Sodium]] lost through [[Cards/Sweat\|Sweat]] [@jamesdinicolantonio2021-WinAchievePeak]
 
 # Reference
+
 - [[Cards/Thermoregulation\|Thermoregulation]]
 
 ## Mentions
+
 
 { .block-language-dataview}
 
