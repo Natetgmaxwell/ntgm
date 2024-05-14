@@ -13,13 +13,15 @@
 > Specialised form of the [[Cards/Endoplasmic reticulum\|Endoplasmic reticulum]] of 
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
 ## Flashcards
 
 What is the role of the sarcoplasmic reticulum?;;Stores and releases calcium for muscle contraction.
-<!--SR:!2023-10-27,6,150-->
+<!--SR:!2024-05-18,12,170-->
