@@ -10,15 +10,17 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Attachment For
+
 - [[Cards/Psoas#Major\|Psoas#Major]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 | Incoming Links |
 | -------------- |
 
@@ -36,4 +38,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
