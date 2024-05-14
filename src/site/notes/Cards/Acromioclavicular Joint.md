@@ -5,16 +5,18 @@
 # Acromioclavicular Joint
 
 > [!Definition] Definition
-> 
 
 ## Bones
+
 - [[Cards/Scapula\|Scapula]]
 - [[Cards/Clavicle\|Clavicle]]
 
 # Reference
+
 - 
 
 ## Mentions
+
 
 { .block-language-dataview}
 
