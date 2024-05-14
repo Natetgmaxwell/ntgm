@@ -10,13 +10,14 @@
 > down:: [[Cards/Mechanical Tension\|Mechanical Tension]], [[Cards/Muscle Damage\|Muscle Damage]], [[Cards/Metabolic Stress\|Metabolic Stress]], [[Cards/Myofibrillar Hypertrophy\|Myofibrillar Hypertrophy]], [[Cards/Sarcoplasmic Hypertrophy\|Sarcoplasmic Hypertrophy]]
 
 > [!Definition] Definition
-> 
 
 ## Stages of Hypertrophy
+
 - [[Cards/Increase Hypertrophy\|Increase Hypertrophy]]
 - [[Cards/Decrease Hypertrophy\|Decrease Hypertrophy]]
 
 ## Types of [[Cards/Hypertrophy\|Hypertrophy]]
+
 - [[Cards/Myofibrillar Hypertrophy\|Myofibrillar Hypertrophy]]
 - [[Cards/Sarcoplasmic Hypertrophy\|Sarcoplasmic Hypertrophy]]
 
@@ -28,9 +29,13 @@
 - [[Cards/Metabolic Stress\|Metabolic Stress]]
 - [[Cards/Muscle Damage\|Muscle Damage]]
 - [[Cards/Mechanical Tension\|Mechanical Tension]]
+
 # Reference
+
 - 
+
 ## Mentions
+
 - [[Sources/Articles/BetaAlanineBeginnerGuide2018\|BetaAlanineBeginnerGuide2018]]
 - [[Sources/Podcasts/Podcast Episodes/GUEST SERIES Dr. Andy Galpin Optimal Nutrition & Supplementation for Fitness\|GUEST SERIES Dr. Andy Galpin Optimal Nutrition & Supplementation for Fitness]]
 - [[Sources/Research Papers/@leal2018-PhysicalExerciseInducedMyokines\|@leal2018-PhysicalExerciseInducedMyokines]]
