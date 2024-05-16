@@ -6,9 +6,10 @@ body {
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
+    background-color: #1f1f1f;
 
     --font-default: 'iA Writer Quattro S', sans-serif;
+    --h2-color: rgb(255 177 74) !important;
     
     .content {
     font-size: 14px;
