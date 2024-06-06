@@ -17,7 +17,21 @@
 
 ## Mentions
 
-- [[Sources/Video/@leedaffin2023-LFS122M10T1Systemic\|@leedaffin2023-LFS122M10T1Systemic]]
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
+
+{ .block-language-dataview}
+
+| Outgoing Links                              |
+| ------------------------------------------- |
+| [[Cards/Popliteal Vein\|Popliteal Vein]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                                     |
+| ------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffin2023-LFS122M10T1Systemic\|@leedaffin2023-LFS122M10T1Systemic]] |
 
 { .block-language-dataview}
 
