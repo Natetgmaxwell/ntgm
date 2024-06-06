@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/@mastersonPeopleDyslexiaHave2022\|@mastersonPeopleDyslexiaHave2022]]
+> [!quote] [[Sources/Articles/@mastersonPeopleDyslexiaHave2022\|@mastersonPeopleDyslexiaHave2022]]
 > People with dyslexia actually have “enhanced abilities” in certain areas including discovery, invention and creativity.
 
 # Reference
@@ -34,7 +34,7 @@
 
 | Sources                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/@mastersonPeopleDyslexiaHave2022\|@mastersonPeopleDyslexiaHave2022]]                                                                               |
+| [[Sources/Articles/@mastersonPeopleDyslexiaHave2022\|@mastersonPeopleDyslexiaHave2022]]                                                                      |
 | [[Sources/Podcasts/Podcast Episodes/887 The 5 Second Rule To Change Your Life with Mel Robbins\|887 The 5 Second Rule To Change Your Life with Mel Robbins]] |
 
 { .block-language-dataview}
