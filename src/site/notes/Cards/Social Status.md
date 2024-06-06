@@ -11,16 +11,16 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/@Henderson2022WhatSocialStatus\|@Henderson2022WhatSocialStatus]]
+> [!quote] [[Sources/Articles/@Henderson2022WhatSocialStatus\|@Henderson2022WhatSocialStatus]]
 > A question that has long occupied philosophers, social scientists, advertising executives, and curious people more generally is, “What motivates people?” A popular answer is money. Money is the root of all evil. Follow the money. Money makes the world go round. I’m skeptical of this answer. No doubt money is a powerful incentive. But people will often pay a financial cost in order to obtain something even more valuable, something immaterial, something that exists only in the minds of other people: Social status.
 
-> [!quote] [[Sources/@Henderson2022WhatSocialStatus\|@Henderson2022WhatSocialStatus]]
+> [!quote] [[Sources/Articles/@Henderson2022WhatSocialStatus\|@Henderson2022WhatSocialStatus]]
 > The economist Chaim Fershtman defined status as “the ranking of individuals, or groups of individuals, based on attributes, actions, occupations, or group affiliations.” This is a modern definition, referencing occupation.
 
 ## Types of Social Status
 
 > [!cite]-
-> [[Sources/@Henderson2022WhatSocialStatus\|@Henderson2022WhatSocialStatus]]
+> [[Sources/Articles/@Henderson2022WhatSocialStatus\|@Henderson2022WhatSocialStatus]]
 
 ### [[Cards/Dominance Social Status\|Dominance Social Status]]
 
@@ -80,9 +80,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                       |
-| ----------------------------------------------------------------------------- |
-| [[Sources/@Henderson2022WhatSocialStatus\|@Henderson2022WhatSocialStatus]] |
+| Sources                                                                                |
+| -------------------------------------------------------------------------------------- |
+| [[Sources/Articles/@Henderson2022WhatSocialStatus\|@Henderson2022WhatSocialStatus]] |
 
 { .block-language-dataview}
 
