@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS261","flashcards/LFS261","Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/glycogen/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/HBIO1009","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"permalink":"/cards/glycogen/","dgPassFrontmatter":true}
 ---
 
 # Glycogen
@@ -42,4 +42,4 @@
 ## Flashcards
 
 A polymer of glucose, which is a storage depot for carbon and energy in a microbial cell, is called?;;[[Cards/Glycogen\|Glycogen]]
-<!--SR:!2024-05-10,4,270-->
+<!--SR:!2024-05-29,14,290-->
