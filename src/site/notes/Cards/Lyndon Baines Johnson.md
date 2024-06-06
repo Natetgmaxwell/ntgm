@@ -40,9 +40,8 @@ On the foreign policy front, Johnson faced numerous challenges during his presid
 
 { .block-language-dataview}
 
-| Sources                                                                                 |
-| --------------------------------------------------------------------------------------- |
-| [[Sources/Books/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
