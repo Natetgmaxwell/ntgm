@@ -46,13 +46,12 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                     |
-| ------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@honorhugo2023LFS122M4T2Gross\|@honorhugo2023LFS122M4T2Gross]]           |
-| [[Sources/Video/@leedaffin2023LFS122M5T3Brain\|@leedaffin2023LFS122M5T3Brain]]           |
-| [[Sources/Video/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]]                             |
-| [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]] |
-| [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]]           |
+| Sources                                                                           |
+| --------------------------------------------------------------------------------- |
+| [[Sources/Video/@honorhugo2023LFS122M4T2Gross\|@honorhugo2023LFS122M4T2Gross]] |
+| [[Sources/Video/@leedaffin2023LFS122M5T3Brain\|@leedaffin2023LFS122M5T3Brain]] |
+| [[Sources/Video/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]]                   |
+| [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]] |
 
 { .block-language-dataview}
 
