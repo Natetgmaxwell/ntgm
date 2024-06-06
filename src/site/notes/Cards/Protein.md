@@ -76,6 +76,5 @@
 | [[Sources/Podcasts/Podcast Episodes/AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More\|AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More]] |
 | [[Sources/Articles/BestBreakfastFoods\|BestBreakfastFoods]]                                                                                                                                                                                |
 | [[Sources/Articles/BetaAlanineBeginnerGuide2018\|BetaAlanineBeginnerGuide2018]]                                                                                                                                                            |
-| [[Sources/Articles/Why is Monkeypox Evolving So Fast_, \|Why is Monkeypox Evolving So Fast_, ]]                                                                                                                                            |
 
 { .block-language-dataview}dg
