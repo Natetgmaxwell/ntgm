@@ -78,7 +78,7 @@
 
 ## Flashcards
 
-What is thermoregulation?;;It is the process of maintaining a stable [[Cards/Core Body Temperature\|core body temperature]] through [[Cards/Negative Feedback Loops\|negative feedback]] mechanisms.
+What is thermoregulation?;;It is the process of maintaining a stable [[Cards/Core Body Temperature\|Core Body Temperature]] through [[Cards/Negative Feedback Loops\|negative feedback]] mechanisms.
 <!--SR:!2024-06-04,29,190-->
 
 How does the body regulate heat loss or retention through [[Cards/Blood Vessels\|blood vessels]]?;;[[Cards/Vasoconstriction\|Vasoconstriction]] reduces blood flow to the [[Cards/Skin\|skin]] to conserve heat, while vasodilation increases blood flow to the [[Cards/Skin\|skin]] to release heat.
