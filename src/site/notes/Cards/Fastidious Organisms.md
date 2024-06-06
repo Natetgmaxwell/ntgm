@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS261"],"dg-publish":true,"permalink":"/cards/fastidious-organisms/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/LFS261","flashcards/LFS261"],"dg-publish":true,"permalink":"/cards/fastidious-organisms/","dgPassFrontmatter":true}
 ---
 
 # Fastidious Organisms
