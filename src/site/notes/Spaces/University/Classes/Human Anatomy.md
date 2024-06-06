@@ -17,9 +17,9 @@
 | Name                                                                                                    | Cite Key                                                                                                    | Published |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------- |
 | \-                                                                                                      | [[Sources/Video/@honorhugo2023LFS122M4T2Gross\|@honorhugo2023LFS122M4T2Gross]]                           | true      |
-| <ul><li>@LFS122 M4T3 General Muscle Characteristics & Configurations</li></ul>                          | [[Sources/@LeeDaffin2023LFS122M4T3General\|@LeeDaffin2023LFS122M4T3General]]                             | true      |
+| <ul><li>@LFS122 M4T3 General Muscle Characteristics & Configurations</li></ul>                          | [[Sources/Video/@LeeDaffin2023LFS122M4T3General\|@LeeDaffin2023LFS122M4T3General]]                       | true      |
 | <ul><li>@LFS122 M4T5 Posterior Trunk Muscles</li></ul>                                                  | [[Sources/Video/@leedaffin2023LFS122M4T5Posterior\|@leedaffin2023LFS122M4T5Posterior]]                   | true      |
-| <ul><li>@LFS122 M5T1 Skull</li></ul>                                                                    | [[Sources/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]                                 | true      |
+| <ul><li>@LFS122 M5T1 Skull</li></ul>                                                                    | [[Sources/Video/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]                           | true      |
 | <ul><li>LFS112 M5T1 Building blocks of life</li></ul>                                                   | [[Sources/Video/@nicolemastersLFS112M5T1Building2023\|@nicolemastersLFS112M5T1Building2023]]             | true      |
 | <ul><li>LFS122 M10T1 Systemic Arteries and Veins of  the Upper and Lower Limbs</li></ul>                | [[Sources/Video/@leedaffin2023-LFS122M10T1Systemic\|@leedaffin2023-LFS122M10T1Systemic]]                 | true      |
 | <ul><li>LFS122 M10T2 Systemic Arteries & Veins Inferior to the Heart</li></ul>                          | [[Sources/Video/@leedaffin2023-LFS122M10T2Systemic\|@leedaffin2023-LFS122M10T2Systemic]]                 | true      |
@@ -51,7 +51,7 @@
 
 ### 5. Head and Neck
 
-###### Skull [[Sources/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]
+###### Skull [[Sources/Video/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]
 - [[Cards/Cranium\|Cranium]]
 	- [[Cards/Frontal bone\|Frontal bone]]
 	- [[Cards/Parietal bone\|Parietal bone]]
