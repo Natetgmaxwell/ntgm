@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]
+> [!quote] [[Sources/Video/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]
 > • The number of pulses = blood cell count • The amplitude (height) of the pulse = volume of cell.
 
 # Reference
@@ -30,9 +30,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                           |
-| --------------------------------------------------------------------------------- |
-| [[Sources/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]] |
+| Sources                                                                                 |
+| --------------------------------------------------------------------------------------- |
+| [[Sources/Video/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]] |
 
 { .block-language-dataview}
 
