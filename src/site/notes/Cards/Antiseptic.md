@@ -37,4 +37,4 @@
 ## Flashcards
 
 When disinfection treatment is directed at a living tissue, it is called?;;[[Cards/Antiseptic\|Antiseptic]]
-<!--SR:!2024-05-08,2,230-->
+<!--SR:!2024-05-21,6,230-->
