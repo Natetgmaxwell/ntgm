@@ -25,4 +25,4 @@
 ## Flashcards
 
 Describe the binomial system used to define microorganisms?;;First name is the genus, second is the species
-<!--SR:!2024-05-09,3,250-->
+<!--SR:!2024-05-23,8,250-->
