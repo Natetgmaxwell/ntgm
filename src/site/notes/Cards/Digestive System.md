@@ -72,7 +72,7 @@ Takes food ≈6hrs to pass through the Digestive System.
 ![Extras/Images/TGDX5NDN.png](/img/user/Extras/Images/TGDX5NDN.png)
 
 > [!cite]-
-> [[Sources/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]
+> [[Sources/Video/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]
 
 ### Food Channel
 
