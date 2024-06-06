@@ -13,11 +13,11 @@
 
 ![Extras/Images/GICEQM2T.png|600](/img/user/Extras/Images/GICEQM2T.png)
 
-> [!quote] [[Sources/@davidmckay2024SCI105M08T02Light\|@davidmckay2024SCI105M08T02Light]]
+> [!quote] [[Sources/Video/@davidmckay2024SCI105M08T02Light\|@davidmckay2024SCI105M08T02Light]]
 > The electromagnetic (light) spectrum (most of which we can’t see!)
 
 > [!cite]-
-> [[Sources/@davidmckay2024SCI105M08T02Light\|@davidmckay2024SCI105M08T02Light]]
+> [[Sources/Video/@davidmckay2024SCI105M08T02Light\|@davidmckay2024SCI105M08T02Light]]
 
 ## Electromagnetic Wave Properties
 
@@ -27,7 +27,7 @@
 - Amplitude ($A$)
 
 > [!cite]-
-> [[Sources/@davidmckay2024SCI105M08T02Light\|@davidmckay2024SCI105M08T02Light]]
+> [[Sources/Video/@davidmckay2024SCI105M08T02Light\|@davidmckay2024SCI105M08T02Light]]
 
 # Reference
 
@@ -49,9 +49,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                           |
-| --------------------------------------------------------------------------------- |
-| [[Sources/@davidmckay2024SCI105M08T02Light\|@davidmckay2024SCI105M08T02Light]] |
+| Sources                                                                                 |
+| --------------------------------------------------------------------------------------- |
+| [[Sources/Video/@davidmckay2024SCI105M08T02Light\|@davidmckay2024SCI105M08T02Light]] |
 
 { .block-language-dataview}
 
