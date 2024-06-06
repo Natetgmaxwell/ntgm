@@ -32,10 +32,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@nicolemastersLFS112M5T3ATP2023\|@nicolemastersLFS112M5T3ATP2023]]                                            |
-| [[Sources/Articles/Electrolytes and fasting- Benefits and best sources\|Electrolytes and fasting- Benefits and best sources]] |
+| Sources                                                                               |
+| ------------------------------------------------------------------------------------- |
+| [[Sources/Video/@nicolemastersLFS112M5T3ATP2023\|@nicolemastersLFS112M5T3ATP2023]] |
 
 { .block-language-dataview}
 
