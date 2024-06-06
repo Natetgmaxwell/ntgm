@@ -10,7 +10,7 @@
 > down:: [[Cards/L-theanine\|L-theanine]]
 
 > [!Definition] Definition
-> [[Cards/Theanine\|Theanine]] is an [[Cards/Amino Acids\|amino acid]] found in [[Cards/Tea\|tea]] and some [[Cards/Mushroom\|mushrooms]].
+> [[Cards/Theanine\|Theanine]] is an [[Cards/Amino Acids\|amino acid]] found in [[Cards/Tea\|tea]] and some [[Cards/Mushrooms\|mushrooms]].
 
 - [[Cards/Theanine\|Theanine]] helps facilitate the [[Cards/Gamma-Aminobutyric Acid\|GABA]] [[Cards/Neurotransmitter\|Neurotransmitter]] during [[Cards/Sleep\|Sleep]] and hence aids in entering the [[Cards/Dreams\|dream]] state. 
 
@@ -31,7 +31,7 @@
 | [[Cards/Dreams\|Dreams]]                                   |
 | [[Cards/Gamma-Aminobutyric Acid\|Gamma-Aminobutyric Acid]] |
 | [[Cards/L-theanine\|L-theanine]]                           |
-| [[Cards/Mushroom\|Mushroom]]                               |
+| [[Cards/Mushrooms\|Mushrooms]]                             |
 | [[Cards/Neurotransmitter\|Neurotransmitter]]               |
 | [[Cards/Sleep\|Sleep]]                                     |
 | [[Cards/Tea\|Tea]]                                         |
