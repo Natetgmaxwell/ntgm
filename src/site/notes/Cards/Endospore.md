@@ -39,4 +39,4 @@
 ## Flashcards
 
 Type of spore formed intra-cellularly by the parent cell or hypha is called?;;[[Cards/Endospore\|Endospore]]
-<!--SR:!2024-05-09,3,250-->
+<!--SR:!2024-05-23,8,250-->
