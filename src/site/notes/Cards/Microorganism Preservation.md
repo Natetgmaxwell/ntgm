@@ -36,4 +36,4 @@
 ## Flashcards
 
 What are culture collections and how are microbial cultures maintained for longterm preservation?;;-80 Freezer (i.e. [[Cards/Cryopreservation\|Cryopreservation]]), Lyophilization
-<!--SR:!2024-05-08,2,230-->
+<!--SR:!2024-05-20,5,230-->
