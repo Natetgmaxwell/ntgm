@@ -14,7 +14,7 @@
 ![Extras/Images/R4HG2V7R.png](/img/user/Extras/Images/R4HG2V7R.png)
 
 > [!cite]-
-> [[Sources/@davidmckay2024SCI105M07T02Atomic\|@davidmckay2024SCI105M07T02Atomic]]
+> [[Sources/Video/@davidmckay2024SCI105M07T02Atomic\|@davidmckay2024SCI105M07T02Atomic]]
 
 # Reference
 
@@ -32,9 +32,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                             |
-| ----------------------------------------------------------------------------------- |
-| [[Sources/@davidmckay2024SCI105M07T02Atomic\|@davidmckay2024SCI105M07T02Atomic]] |
+| Sources                                                                                   |
+| ----------------------------------------------------------------------------------------- |
+| [[Sources/Video/@davidmckay2024SCI105M07T02Atomic\|@davidmckay2024SCI105M07T02Atomic]] |
 
 { .block-language-dataview}
 
