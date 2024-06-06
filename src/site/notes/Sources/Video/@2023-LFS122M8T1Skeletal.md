@@ -59,7 +59,7 @@
     - [[Cards/Trochlea\|Trochlea]]
 - [[Cards/Shoulder\|Shoulder]] Joints
     
-    - Sternoclavicular Joint
+    - [[Cards/Sternoclavicular joint\|Sternoclavicular Joint]]
     - [[Cards/Acromioclavicular Joint\|Acromioclavicular Joint]]
     - [[Cards/Glenohumeral Joint\|Glenohumeral Joint]]
 - [[Cards/Ligaments\|Ligaments]] of the [[Cards/Shoulder\|Shoulder]]
@@ -158,7 +158,7 @@
 > [[Cards/Trochlea\|Trochlea]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> Sternoclavicular Joint  
+> [[Cards/Sternoclavicular joint\|Sternoclavicular Joint]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > It is structurally classed as a synovial [[Cards/Saddle Joint\|Saddle Joint]] and allows movement of the clavicle on three planes.  
