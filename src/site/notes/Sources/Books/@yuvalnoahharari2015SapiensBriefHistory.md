@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"KWBY8IS6","zt-attachments":["501"],"alias":"Sapiens A Brief History of Humankind","keywords":["Biological Evolution","Human","Human Evolution","Social Structures","Anthropology"],"FirstAuthor":"[[ Yuval Noah Harari]]","tags":["source/book"],"dg-publish":true,"Status":"Read","permalink":"/sources/books/yuvalnoahharari2015-sapiens-brief-history/","dgPassFrontmatter":true}
+{"zotero-key":"KWBY8IS6","zt-attachments":["501"],"alias":"Sapiens A Brief History of Humankind","keywords":["Biological Evolution","Human","Human Evolution","Social Structures","Anthropology"],"FirstAuthor":"[[ Yuval Noah Harari]]","tags":["source/book"],"dg-publish":true,"Status":"Read","Genre":"Non-Fiction","permalink":"/sources/books/yuvalnoahharari2015-sapiens-brief-history/","dgPassFrontmatter":true}
 ---
 
 # @yuvalnoahharari2015SapiensBriefHistory
@@ -22,8 +22,10 @@
 > creators:: Yuval Noah Harari
 
 > [!Links]+
->  | Incoming Links |
-> | -------------- |
+>  | Incoming Links                  |
+> | ------------------------------- |
+> | [[Cards/Language\|Language]] |
+> | [[Cards/Trust\|Trust]]       |
 > 
 { .block-language-dataview}
 
