@@ -35,7 +35,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 ###### Define the science of Microbiology?
 
-Microbiology is the study of microorganisms, or microbes, a diverse group of generally minute simple life-forms that include bacteria, [[Cards/Archaea\|Archaea]], [[Cards/Algae\|Algae]], [[Cards/Fungi\|Fungi]], [[Cards/Protozoa\|Protozoa]], and viruses.
+Microbiology is the study of microorganisms, or microbes, a diverse group of generally minute simple life-forms that include bacteria, [[Cards/Archaea\|Archaea]], [[Cards/Algae\|Algae]], [[Cards/Fungi\|Fungi]], [[Cards/Protozoa\|Protozoa]], and [[Cards/Virus\|viruses]].
 
 ###### What is the [[Cards/Theory of Spontaneous Generation\|Theory of Spontaneous Generation]] and who disproved it?
 
@@ -44,7 +44,7 @@ Microbiology is the study of microorganisms, or microbes, a diverse group of g
 
 ###### What is the [[Cards/Germ Theory of Disease\|Germ Theory of Disease]]?
 
-- A theory that [[Cards/Micro-organisms\|microorganisms]] such as bacteria and viruses cause [[Cards/Disease\|Disease]].
+- A theory that [[Cards/Micro-organisms\|microorganisms]] such as bacteria and [[Cards/Virus\|viruses]] cause [[Cards/Disease\|Disease]].
 
 ###### What are Koch’s Postulates?
 
