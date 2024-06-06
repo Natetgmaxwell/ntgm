@@ -37,4 +37,4 @@
 ## Flashcards
 
 Organisms that produce lactic acid as well as other acids or alcohols are called?;;Heterolactic or [[Cards/Heterofermentative\|Heterofermentative]]
-<!--SR:!2024-05-07,1,230-->
+<!--SR:!2024-05-16,1,210-->
