@@ -35,7 +35,6 @@
 
 ## Mentions
 
-- [[Sources/Articles/Electrolytes and fasting- Benefits and best sources\|Electrolytes and fasting- Benefits and best sources]]
 - [[Sources/Video/@leedaffin2023-LFS122M12T1Urinary\|@leedaffin2023-LFS122M12T1Urinary]]
 
 { .block-language-dataview}
