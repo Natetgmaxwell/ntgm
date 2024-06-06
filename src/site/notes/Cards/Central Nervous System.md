@@ -73,9 +73,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                     |
-| ------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]] |
-| [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]]           |
+| Sources                                                                           |
+| --------------------------------------------------------------------------------- |
+| [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]] |
 
 { .block-language-dataview}
