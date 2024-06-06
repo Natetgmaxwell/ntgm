@@ -54,4 +54,4 @@ Links: [[Calendar/2022/Daily/2022-06-07\|2022-06-07]]
 ## Flashcards
 
 What technique can be used to increase the amount of microbial [[Cards/Deoxyribonucleic Acid\|DNA]] so that it can be tested by [[Cards/Electrophoresis\|Electrophoresis]]?;;[[Cards/Polymerase Chain Reaction\|PCR]]
-<!--SR:!2024-05-09,3,250-->
+<!--SR:!2024-05-23,8,250-->
