@@ -11,13 +11,13 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/@DavidMcKay2024SCI105M06T03Acids\|@DavidMcKay2024SCI105M06T03Acids]]
+> [!quote] [[Sources/Video/@DavidMcKay2024SCI105M06T03Acids\|@DavidMcKay2024SCI105M06T03Acids]]
 > Weak acids are partially ionized in water. The conductivity is lower...Strong acids are fully ionized in water. The conductivity of the solution is high.
 
 ![Extras/Images/WS2AJ5TP.png|550](/img/user/Extras/Images/WS2AJ5TP.png)
 
 > [!cite]-
-> [[Sources/@DavidMcKay2024SCI105M06T06Strengths\|@DavidMcKay2024SCI105M06T06Strengths]]
+> [[Sources/Video/@DavidMcKay2024SCI105M06T06Strengths\|@DavidMcKay2024SCI105M06T06Strengths]]
 
 # Reference
 
@@ -42,11 +42,11 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                   |
-| ----------------------------------------------------------------------------------------- |
-| [[Sources/Video/@DavidMcKay2024SCI105M03T04Acids\|@DavidMcKay2024SCI105M03T04Acids]]   |
-| [[Sources/@DavidMcKay2024SCI105M06T03Acids\|@DavidMcKay2024SCI105M06T03Acids]]         |
-| [[Sources/@DavidMcKay2024SCI105M06T06Strengths\|@DavidMcKay2024SCI105M06T06Strengths]] |
+| Sources                                                                                         |
+| ----------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@DavidMcKay2024SCI105M03T04Acids\|@DavidMcKay2024SCI105M03T04Acids]]         |
+| [[Sources/Video/@DavidMcKay2024SCI105M06T03Acids\|@DavidMcKay2024SCI105M06T03Acids]]         |
+| [[Sources/Video/@DavidMcKay2024SCI105M06T06Strengths\|@DavidMcKay2024SCI105M06T06Strengths]] |
 
 { .block-language-dataview}
 
