@@ -134,7 +134,7 @@
 > right (1) and left (2) renal veins  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> gonadal vein  
+> [[Cards/Gonadal Vein\|gonadal vein]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > testicular vein in males  
