@@ -6,7 +6,7 @@
 
 > [!Ontology]+
 > up:: [[Cards/Minerals\|Minerals]], [[Cards/Electrolytes\|Electrolytes]]
-> jump::
+> jump:: [[Cards/Potassium Regulation\|Potassium Regulation]]
 > down:: 
 
 > [!Definition] Definition
