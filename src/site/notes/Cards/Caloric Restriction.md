@@ -15,7 +15,7 @@
 - When under [[Cards/Caloric Restriction\|Caloric Restriction]] animals will suppress the production of [[Cards/Thyroid Hormone\|Thyroid Hormone]] as a strategy to lower [[Cards/Basal Metabolic Rate\|Basal Metabolic Rate]].
 
 > [!cite]-
-> [[Sources/@thompsonThyroidHormoneFluctuations2017\|@thompsonThyroidHormoneFluctuations2017]]
+> [[Sources/Research Papers/@thompsonThyroidHormoneFluctuations2017\|@thompsonThyroidHormoneFluctuations2017]]
 
 # Reference
 
@@ -36,9 +36,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                         |
-| ----------------------------------------------------------------------------------------------- |
-| [[Sources/@thompsonThyroidHormoneFluctuations2017\|@thompsonThyroidHormoneFluctuations2017]] |
+| Sources                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@thompsonThyroidHormoneFluctuations2017\|@thompsonThyroidHormoneFluctuations2017]] |
 
 { .block-language-dataview}
 
