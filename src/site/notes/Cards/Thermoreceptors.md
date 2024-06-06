@@ -17,7 +17,23 @@
 
 ## Mentions
 
-- [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]]
+| Incoming Links                                                      |
+| ------------------------------------------------------------------- |
+| [[Calendar/2023/Daily/2023-10-16 Mon\|2023-10-16 Mon]]           |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]] |
+| [[Cards/Sensory Neurons\|Sensory Neurons]]                       |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                |
+| --------------------------------------------- |
+| [[Cards/Dermis\|Dermis]]                   |
+| [[Cards/Phasic Receptor\|Phasic Receptor]] |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
