@@ -49,16 +49,16 @@
 | [[Sources/Video/@davidmckay2024SCI105M04T02Uncertainty\|@davidmckay2024SCI105M04T02Uncertainty]]             |
 | [[Sources/Video/@davidmckay2024SCI105M05T01Atomic\|@davidmckay2024SCI105M05T01Atomic]]                       |
 | [[Sources/Video/@davidmckay2024SCI105M06T01Chemical\|@davidmckay2024SCI105M06T01Chemical]]                   |
-| [[Sources/@DavidMcKay2024SCI105M06T02Shifting\|@DavidMcKay2024SCI105M06T02Shifting]]                         |
-| [[Sources/@DavidMcKay2024SCI105M06T03Acids\|@DavidMcKay2024SCI105M06T03Acids]]                               |
-| [[Sources/@DavidMcKay2024SCI105M06T04Water\|@DavidMcKay2024SCI105M06T04Water]]                               |
-| [[Sources/@DavidMcKay2024SCI105M06T05PH\|@DavidMcKay2024SCI105M06T05PH]]                                     |
-| [[Sources/@DavidMcKay2024SCI105M06T06Strengths\|@DavidMcKay2024SCI105M06T06Strengths]]                       |
-| [[Sources/@davidmckay2024SCI105M07T01Electron\|@davidmckay2024SCI105M07T01Electron]]                         |
-| [[Sources/@davidmckay2024SCI105M07T02Atomic\|@davidmckay2024SCI105M07T02Atomic]]                             |
-| [[Sources/@davidmckay2024SCI105M07T03Electronic\|@davidmckay2024SCI105M07T03Electronic]]                     |
-| [[Sources/@davidmckay2024SCI105M07T04Lewis\|@davidmckay2024SCI105M07T04Lewis]]                               |
-| [[Sources/@davidmckay2024SCI105M08T02Light\|@davidmckay2024SCI105M08T02Light]]                               |
+| [[Sources/Video/@DavidMcKay2024SCI105M06T02Shifting\|@DavidMcKay2024SCI105M06T02Shifting]]                   |
+| [[Sources/Video/@DavidMcKay2024SCI105M06T03Acids\|@DavidMcKay2024SCI105M06T03Acids]]                         |
+| [[Sources/Video/@DavidMcKay2024SCI105M06T04Water\|@DavidMcKay2024SCI105M06T04Water]]                         |
+| [[Sources/Video/@DavidMcKay2024SCI105M06T05PH\|@DavidMcKay2024SCI105M06T05PH]]                               |
+| [[Sources/Video/@DavidMcKay2024SCI105M06T06Strengths\|@DavidMcKay2024SCI105M06T06Strengths]]                 |
+| [[Sources/Video/@davidmckay2024SCI105M07T01Electron\|@davidmckay2024SCI105M07T01Electron]]                   |
+| [[Sources/Video/@davidmckay2024SCI105M07T02Atomic\|@davidmckay2024SCI105M07T02Atomic]]                       |
+| [[Sources/Video/@davidmckay2024SCI105M07T03Electronic\|@davidmckay2024SCI105M07T03Electronic]]               |
+| [[Sources/Video/@davidmckay2024SCI105M07T04Lewis\|@davidmckay2024SCI105M07T04Lewis]]                         |
+| [[Sources/Video/@davidmckay2024SCI105M08T02Light\|@davidmckay2024SCI105M08T02Light]]                         |
 
 { .block-language-dataview}
 
