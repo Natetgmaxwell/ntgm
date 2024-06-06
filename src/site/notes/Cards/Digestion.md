@@ -20,7 +20,7 @@
 ## Regulation of Digestive Functions
 
 > [!cite]-
-> [[Sources/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]
+> [[Sources/Video/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]
 
 1. Local factors
 	- Physical distortion of wall
