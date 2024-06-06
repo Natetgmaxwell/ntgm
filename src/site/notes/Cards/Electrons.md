@@ -11,17 +11,17 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/@davidmckay2024SCI105M07T01Electron\|@davidmckay2024SCI105M07T01Electron]]
+> [!quote] [[Sources/Video/@davidmckay2024SCI105M07T01Electron\|@davidmckay2024SCI105M07T01Electron]]
 > Millikan concluded that $1.6*10^{-19} C$ was the charge on a single electron.
 
 ## Electron Configuration
 
-> [!quote] [[Sources/@davidmckay2024SCI105M07T03Electronic\|@davidmckay2024SCI105M07T03Electronic]]
+> [!quote] [[Sources/Video/@davidmckay2024SCI105M07T03Electronic\|@davidmckay2024SCI105M07T03Electronic]]
 > Electrons have spin (up or down)...Two electrons in the same orbital must have opposite spin.
 
 ![Extras/Images/M5L8QW4M.png|350](/img/user/Extras/Images/M5L8QW4M.png)
 > [!cite]-
-> [[Sources/@davidmckay2024SCI105M07T03Electronic\|@davidmckay2024SCI105M07T03Electronic]]
+> [[Sources/Video/@davidmckay2024SCI105M07T03Electronic\|@davidmckay2024SCI105M07T03Electronic]]
 
 # Reference
 
@@ -45,10 +45,10 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                     |
-| ------------------------------------------------------------------------------------------- |
-| [[Sources/@davidmckay2024SCI105M07T01Electron\|@davidmckay2024SCI105M07T01Electron]]     |
-| [[Sources/@davidmckay2024SCI105M07T03Electronic\|@davidmckay2024SCI105M07T03Electronic]] |
+| Sources                                                                                           |
+| ------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@davidmckay2024SCI105M07T01Electron\|@davidmckay2024SCI105M07T01Electron]]     |
+| [[Sources/Video/@davidmckay2024SCI105M07T03Electronic\|@davidmckay2024SCI105M07T03Electronic]] |
 
 { .block-language-dataview}
 
