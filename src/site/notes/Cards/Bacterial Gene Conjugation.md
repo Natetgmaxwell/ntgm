@@ -12,14 +12,14 @@
 > [!Definition] Definition
 > DNA is transferred between bacteria through a tube between cells.
 
-> [!quote] [[Sources/@mcmillan2024LFS261M10T03Conjugation\|@mcmillan2024LFS261M10T03Conjugation]]
+> [!quote] [[Sources/Video/@mcmillan2024LFS261M10T03Conjugation\|@mcmillan2024LFS261M10T03Conjugation]]
 > Unidirectional transfer of DNA between a donor and recipient through a conjugal bridge.
 
 - The [[Cards/Relaxase\|Relaxase]] enzyme splices the [[Cards/Plasmids\|plasmid]] into a single strand for transfer across the pilus.
 
 ![Extras/Images/YDA347ZV.png|600](/img/user/Extras/Images/YDA347ZV.png)
 > [!cite]-
-> [[Sources/@mcmillan2024LFS261M10T03Conjugation\|@mcmillan2024LFS261M10T03Conjugation]]
+> [[Sources/Video/@mcmillan2024LFS261M10T03Conjugation\|@mcmillan2024LFS261M10T03Conjugation]]
 
 ## Genes Required for Conjugation
 
@@ -58,9 +58,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                   |
-| ----------------------------------------------------------------------------------------- |
-| [[Sources/@mcmillan2024LFS261M10T03Conjugation\|@mcmillan2024LFS261M10T03Conjugation]] |
+| Sources                                                                                         |
+| ----------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@mcmillan2024LFS261M10T03Conjugation\|@mcmillan2024LFS261M10T03Conjugation]] |
 
 { .block-language-dataview}
 
