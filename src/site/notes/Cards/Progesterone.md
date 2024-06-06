@@ -6,7 +6,7 @@
 
 > [!Ontology]+
 > up:: [[Cards/Female Reproductive System\|Female Reproductive System]], [[Cards/Hormones\|Hormones]]
-> jump::
+> jump:: [[Cards/Corpus Luteum\|Corpus Luteum]]
 > down:: 
 
 > [!Definition] Definition
