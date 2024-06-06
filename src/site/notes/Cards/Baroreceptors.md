@@ -18,7 +18,6 @@
 
 ## Mentions
 
-- [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]]
 
 { .block-language-dataview}
 
