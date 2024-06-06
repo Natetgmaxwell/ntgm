@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"LWGLDJWB","zt-attachments":["2640"],"alias":", The Laws of Human Nature","keywords":[],"FirstAuthor":"[[ Robert Greene]]","tags":["source/book"],"dg-publish":true,"Status":"Reading","permalink":"/sources/books/robertgreene-laws-human-nature2018/","dgPassFrontmatter":true}
+{"zotero-key":"LWGLDJWB","zt-attachments":["2640"],"alias":", @The Laws of Human Nature","keywords":[],"FirstAuthor":"[[ Robert Greene]]","tags":["source/book"],"dg-publish":true,"Status":"Reading","permalink":"/sources/books/robertgreene-laws-human-nature2018/","dgPassFrontmatter":true}
 ---
 
 # @robertgreeneLawsHumanNature2018
@@ -33,20 +33,25 @@
 > | [[Cards/Anton Chekhov\|Anton Chekhov]]                                                                                                                                                                                              |
 > | [[Cards/Athena\|Athena]]                                                                                                                                                                                                            |
 > | [[Cards/Belief\|Belief]]                                                                                                                                                                                                            |
+> | [[Cards/Brain\|Brain]]                                                                                                                                                                                                              |
 > | [[Cards/Character\|Character]]                                                                                                                                                                                                      |
 > | [[Atlas/Commonplace Book\|Commonplace Book]]                                                                                                                                                                                        |
 > | [[Cards/Compulsion\|Compulsion]]                                                                                                                                                                                                    |
 > | [[Cards/Conviction Bias\|Conviction Bias]]                                                                                                                                                                                          |
+> | [[Cards/Depression\|Depression]]                                                                                                                                                                                                    |
 > | [[Cards/Desire\|Desire]]                                                                                                                                                                                                            |
+> | [[Cards/Ego Flattery for Influence\|Ego Flattery for Influence]]                                                                                                                                                                    |
 > | [[Cards/Emotion\|Emotion]]                                                                                                                                                                                                          |
 > | [[Cards/Empathy\|Empathy]]                                                                                                                                                                                                          |
 > | [[Cards/Evolutionary Mismatch\|Evolutionary Mismatch]]                                                                                                                                                                              |
 > | [[Cards/Extroversion\|Extroversion]]                                                                                                                                                                                                |
+> | [[Cards/Flattery\|Flattery]]                                                                                                                                                                                                        |
 > | [[Cards/Gabrielle Chanel\|Gabrielle Chanel]]                                                                                                                                                                                        |
 > | [[Cards/Gratitude\|Gratitude]]                                                                                                                                                                                                      |
 > | [[Cards/Howard Hughes\|Howard Hughes]]                                                                                                                                                                                              |
 > | [[Cards/Introversion\|Introversion]]                                                                                                                                                                                                |
 > | [[Cards/Joseph Stalin\|Joseph Stalin]]                                                                                                                                                                                              |
+> | [[Cards/Love\|Love]]                                                                                                                                                                                                                |
 > | [[Cards/Low-Grade Emotions\|Low-Grade Emotions]]                                                                                                                                                                                    |
 > | [[Cards/Micheal Jackson\|Micheal Jackson]]                                                                                                                                                                                          |
 > | [[Cards/Narcissism\|Narcissism]]                                                                                                                                                                                                    |
@@ -150,10 +155,10 @@
 > [!quote-yellow] (Page 157) yellow
 > 
 > At last I have what I wanted. Am I happy? Not really. But what’s missing? My soul no longer has that piquant activity conferred by desire. . . . Oh, we shouldn’t delude ourselves—pleasure isn’t in the fulfillment, but in the pursuit. 
-> —[[Cards/Pierre-Augustin Caron de Beaumarchais\|Pierre-Augustin Caron de Beaumarchais]]
+> —Pierre-Augustin Caron de Beaumarchais
 > 
 > ---
-> [[Cards/Grass is Always Greener Syndrome\|Grass is always greener syndrome]]
+> Grass is always greener syndrome
 >
 { #5FPALWKZaMTKQ4SA3p157}
 
@@ -483,7 +488,7 @@
 > [!quote-yellow] (Page 191) yellow
 > 
 > The years teach much which the days never know. 
-> —[[Cards/Ralph Waldo Emerson\|Ralph Waldo Emerson]]
+> —Ralph Waldo Emerson
 >
 { #AMK7TG5TaMTKQ4SA3p191}
 
@@ -497,7 +502,7 @@
 
 > [!quote-green] (Page 192) green
 > 
-> [[Cards/Lyndon Baines Johnson\|Lyndon Baines Johnson]]
+> Lyndon	Baines Johnson
 >
 { #9MDQ64DLaMTKQ4SA3p192}
 
@@ -625,7 +630,7 @@
 
 > [!quote-green] (Page 215) green
 > 
-> [[Cards/Pierre-Augustin Caron de Beaumarchais\|Pierre-Augustin Caron de Beaumarchais]]
+> Pierre-Augustin Caron de Beaumarchais
 >
 { #KZJ3HPKRaMTKQ4SA3p215}
 
@@ -764,4 +769,60 @@
 > When we love or admire someone, we tend to internalize a part of their presence, and they shape how we see the world in a positive way. This could be teachers, mentors, or peers.
 >
 { #IND9JH46aMTKQ4SA3p238}
+
+
+> [!quote-yellow] (Page 235) yellow
+> 
+> No two people see or experience the world in the same way. What we perceive is our personal version of reality, one that is of our own creation.
+>
+{ #YEL3Z9ILaMTKQ4SA3p235}
+
+
+> [!quote-yellow] (Page 238) yellow
+> 
+> At a very early age Anton revealed a more ironic attitude, prone to laughing at the world and seeing things with some detachment. This made it easier for him to reassess his father once he was on his own.
+>
+{ #7UJCSR73aMTKQ4SA3p238}
+
+
+> [!quote-yellow] (Page 240) yellow
+> 
+> See your brain as a miraculous organ designed for continual learning and improvement, well into old age.
+>
+{ #XCZVFTN8aMTKQ4SA3p240}
+
+
+> [!quote-green] (Page 246) green
+> 
+> Hans von Bülow
+>
+{ #Z36UBHG2aMTKQ4SA3p246}
+
+
+> [!quote-green] (Page 246) green
+> 
+> Cosima Liszt
+>
+{ #RB5J7KY7aMTKQ4SA3p246}
+
+
+> [!quote-green] (Page 246) green
+> 
+> Franz Liszt
+>
+{ #NMFNB8YWaMTKQ4SA3p246}
+
+
+> [!quote-green] (Page 246) green
+> 
+> Richard Wagner
+>
+{ #G945HF7QaMTKQ4SA3p246}
+
+
+> [!quote-yellow] (Page 247) yellow
+> 
+> The best way to handle recurrent depression is to channel your energies into work, especially the arts.
+>
+{ #D29IIZXLaMTKQ4SA3p247}
 
