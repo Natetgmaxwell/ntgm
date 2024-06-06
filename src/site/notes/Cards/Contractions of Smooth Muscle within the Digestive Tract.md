@@ -14,7 +14,7 @@
 ## Types of Contraction of [[Cards/Smooth Muscle\|Smooth Muscle]]
 
 > [!cite]-
-> [[Sources/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]
+> [[Sources/Video/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]
 
 - [[Cards/Peristalsis\|Peristalsis]]
 	
@@ -59,9 +59,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                             |
-| ----------------------------------------------------------------------------------- |
-| [[Sources/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]] |
+| Sources                                                                                   |
+| ----------------------------------------------------------------------------------------- |
+| [[Sources/Video/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]] |
 
 { .block-language-dataview}
 
