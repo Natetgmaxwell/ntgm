@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]]
+> [!quote] [[@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]]
 > This is when there is a reduction in the sensitivity of a stimulus to our sensory receptors when there is a constant stimulus.
 
 # Reference
@@ -31,9 +31,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                     |
-| ------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
