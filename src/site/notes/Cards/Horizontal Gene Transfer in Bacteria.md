@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@mcmillan2024LFS261M10T02Plasmids\|@mcmillan2024LFS261M10T02Plasmids]]
+> [!quote] [[Sources/Video/@mcmillan2024LFS261M10T02Plasmids\|@mcmillan2024LFS261M10T02Plasmids]]
 > E. coli – 12.8% of the genome has been acquired from different species
 
 ## Methods of [[Cards/Horizontal Gene Transfer in Bacteria\|Horizontal Gene Transfer in Bacteria]]
@@ -41,14 +41,16 @@
 
 { .block-language-dataview}
 
-| Sources                                                                             |
-| ----------------------------------------------------------------------------------- |
-| [[Sources/@mcmillan2024LFS261M10T02Plasmids\|@mcmillan2024LFS261M10T02Plasmids]] |
+| Sources                                                                                   |
+| ----------------------------------------------------------------------------------------- |
+| [[Sources/Video/@mcmillan2024LFS261M10T02Plasmids\|@mcmillan2024LFS261M10T02Plasmids]] |
 
 { .block-language-dataview}
 
 ## Flashcards 
 
 What are the three major forms of horizontal gene transfer in bacteria?;;Transformation, Conjugation, Transduction
+<!--SR:!2024-05-18,3,250-->
 
 What are some differences regarding the ability of a transducing particle to transfer DNA when compared to transformation and conjugation?;;
+<!--SR:!2024-05-16,1,230-->
