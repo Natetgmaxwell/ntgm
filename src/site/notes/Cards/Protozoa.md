@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/protozoa/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/LFS261","flashcards/LFS261"],"dg-publish":true,"permalink":"/cards/protozoa/","dgPassFrontmatter":true}
 ---
 
 # Protozoa
@@ -35,3 +35,6 @@
 { .block-language-dataview}
 
 ## Flashcards
+
+Protozoa, which inhabit in water and soil, are?;;Unicellular, eukaryotic chemoheterotrophic organisms
+<!--SR:!2024-05-16,1,230-->
