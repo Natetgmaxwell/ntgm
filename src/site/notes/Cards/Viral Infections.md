@@ -6,7 +6,7 @@
 
 > [!ontology]+
 > up:: [[Cards/Infection\|Infection]]
-> jump:: 
+> jump:: [[Cards/Virus\|Virus]]
 > down:: 
 
 > [!Definition] Definition
@@ -37,6 +37,7 @@
 | --------------------------------------------- |
 | [[Cards/Infection\|Infection]]             |
 | [[Cards/Salivary glands\|Salivary glands]] |
+| [[Cards/Virus\|Virus]]                     |
 
 { .block-language-dataview}
 
