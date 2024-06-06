@@ -20,8 +20,9 @@
 > creators:: Vanessa Van Edwards
 
 > [!Links]+
->  | Incoming Links |
-> | -------------- |
+>  | Incoming Links                      |
+> | ----------------------------------- |
+> | [[Cards/Small Talk\|Small Talk]] |
 > 
 { .block-language-dataview}
 
