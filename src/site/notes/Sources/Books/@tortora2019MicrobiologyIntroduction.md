@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"QS955FKT","zt-attachments":["11374"],"alias":"Microbiology, Microbiology: an introduction","keywords":["Microbiology"],"FirstAuthor":"[[ Gerard J. Tortora]]","tags":["source/book"],"dg-publish":true,"permalink":"/sources/books/tortora2019-microbiology-introduction/","dgPassFrontmatter":true}
+{"zotero-key":"QS955FKT","zt-attachments":["11374"],"aliases":["@Microbiology: an introduction"],"keywords":["Microbiology"],"FirstAuthor":"[[ Gerard J. Tortora]]","tags":["source/book"],"dg-publish":true,"permalink":"/sources/books/tortora2019-microbiology-introduction/","dgPassFrontmatter":true}
 ---
 
 # @tortora2019MicrobiologyIntroduction
@@ -24,6 +24,7 @@
 > [!Links]+
 >  | Incoming Links                                                                  |
 > | ------------------------------------------------------------------------------- |
+> | [[Cards/Chlamydiota\|Chlamydiota]]                                           |
 > | [[Cards/Methods of Preparing Agar Plates\|Methods of Preparing Agar Plates]] |
 > | [[Cards/Micro-organisms\|Micro-organisms]]                                   |
 > | [[Cards/Microbial Growth\|Microbial Growth]]                                 |
@@ -73,4 +74,32 @@
 > ![Extras/Images/VZWJC9DY.png](/img/user/Extras/Images/VZWJC9DY.png)
 >
 { #VZWJC9DYa6GYQR4YCp198}
+
+
+> [!quote-yellow] (Page 182) yellow
+> 
+> ![Extras/Images/9MUVGFDG.png](/img/user/Extras/Images/9MUVGFDG.png)
+>
+{ #9MUVGFDGa6GYQR4YCp184}
+
+
+> [!quote-yellow] (Page 191) yellow
+> 
+> ![Extras/Images/XU8E8RJL.png](/img/user/Extras/Images/XU8E8RJL.png)
+>
+{ #XU8E8RJLa6GYQR4YCp193}
+
+
+> [!quote-yellow] (Page 193) yellow
+> 
+> ![Extras/Images/Z27GZ2ZN.png](/img/user/Extras/Images/Z27GZ2ZN.png)
+>
+{ #Z27GZ2ZNa6GYQR4YCp195}
+
+
+> [!quote-yellow] (Page 336) yellow
+> 
+> ![Extras/Images/J6XC9Z4F.png](/img/user/Extras/Images/J6XC9Z4F.png)
+>
+{ #J6XC9Z4Fa6GYQR4YCp338}
 
