@@ -16,7 +16,7 @@
 ![Extras/Images/7ZS55YHM.png|500](/img/user/Extras/Images/7ZS55YHM.png)
 
 > [!cite]-
-> [[Sources/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]
+> [[Sources/Video/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]
 
 - [[Cards/Frontal Sinus\|Frontal Sinus]]
 - [[Cards/Ethmoid Sinus\|Ethmoid Sinus]]
@@ -47,7 +47,7 @@
 
 | Sources                                                                                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]                                                                                                                                                             |
+| [[Sources/Video/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]                                                                                                                                                       |
 | [[Sources/Podcasts/Podcast Episodes/A Behavioral Psychologist s Tips to Identifying and Managing Stress Styles with Dr. Jemma King\|A Behavioral Psychologist s Tips to Identifying and Managing Stress Styles with Dr. Jemma King]] |
 
 { .block-language-dataview}
