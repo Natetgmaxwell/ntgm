@@ -14,15 +14,15 @@
 ![Extras/Images/7ST3ZXHP.png|350](/img/user/Extras/Images/7ST3ZXHP.png)
 
 > [!cite]-
-> [[Sources/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]
+> [[Sources/Video/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]
 
-> [!quote] [[Sources/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]
+> [!quote] [[Sources/Video/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]
 > A technique that can be used to study the properties of particles (usually cells).
 
-> [!quote] [[Sources/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]
+> [!quote] [[Sources/Video/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]
 > Cells flow through one at a time - single cell suspension.
 
-> [!quote] [[Sources/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]
+> [!quote] [[Sources/Video/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]
 > {Uses} [[Cards/Hydrodynamic Focussing\|Hydrodynamic Focussing]]
 
 ## Scatter
@@ -58,13 +58,13 @@
 
 { .block-language-dataview}
 
-| Sources                                                                           |
-| --------------------------------------------------------------------------------- |
-| [[Sources/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]] |
+| Sources                                                                                 |
+| --------------------------------------------------------------------------------------- |
+| [[Sources/Video/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]] |
 
 { .block-language-dataview}
 
 ## Flashcards
 
 Which method detect the presence of bacteria by detecting the difference in electrical conductivity between cells and the surrounding medium?;;[[Cards/Flow Cytometry\|Flow Cytometry]]
-<!--SR:!2024-05-07,1,230-->
+<!--SR:!2024-05-16,1,210-->
