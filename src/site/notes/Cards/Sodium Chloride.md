@@ -28,9 +28,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Articles/Electrolytes and fasting- Benefits and best sources\|Electrolytes and fasting- Benefits and best sources]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
