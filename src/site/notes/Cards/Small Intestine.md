@@ -22,7 +22,7 @@
 ## Layers of the [[Cards/Small Intestine\|Small Intestine]]
 
 > [!cite]
-> [[Sources/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]
+> [[Sources/Video/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]
 
 1. Mucosa
     
@@ -78,7 +78,7 @@
 | Sources                                                                                         |
 | ----------------------------------------------------------------------------------------------- |
 | [[Sources/Video/@leedaffin2023-LFS122M11T2Oesophagus\|@leedaffin2023-LFS122M11T2Oesophagus]] |
-| [[Sources/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]             |
+| [[Sources/Video/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]       |
 
 { .block-language-dataview}
 
