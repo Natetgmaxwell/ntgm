@@ -35,4 +35,4 @@
 ## Flashcards
 
 What are fomites?;;Inanimate objects that may be contaminated with infectious organisms.
-<!--SR:!2024-05-15,9,250-->
+<!--SR:!2024-06-10,26,250-->
