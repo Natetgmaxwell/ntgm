@@ -11,6 +11,9 @@
 
 > [!Definition] Definition
 
+> [!quote] [[Sources/Books/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]
+> You can create a similar effect by asking people for advice. The implication is that you respect their wisdom and experience.
+
 - The subtle act of allowing other to change minute details of his play, he greatly [[Cards/Flattery\|flattered]] there intelligence and [[Cards/Ego\|egos]]. *I think that the persons stake they had now in the play (by influencing it's minor details) lead to them being invested in the plays release*
 
 # Reference
