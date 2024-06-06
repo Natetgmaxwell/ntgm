@@ -28,9 +28,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                       |
-| ----------------------------------------------------------------------------- |
-| [[Sources/@Henderson2022WhatSocialStatus\|@Henderson2022WhatSocialStatus]] |
+| Sources                                                                                |
+| -------------------------------------------------------------------------------------- |
+| [[Sources/Articles/@Henderson2022WhatSocialStatus\|@Henderson2022WhatSocialStatus]] |
 
 { .block-language-dataview}
 
