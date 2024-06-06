@@ -18,9 +18,8 @@
 
 ## Mentions
 
-| Incoming Links                                                                                    |
-| ------------------------------------------------------------------------------------------------- |
-| [[Sources/Other/@ipekkurtboke2024LFS261TutorialManual\|@ipekkurtboke2024LFS261TutorialManual]] |
+| Incoming Links |
+| -------------- |
 
 { .block-language-dataview}
 
@@ -37,4 +36,4 @@
 ## Flashcards
 
 In a direct [[Cards/Enzyme-linked Immunosorbent Assay\|ELISA]], known antibodies are placed in the wells of a microplate, and an unknown type of bacterium is added to each well. A reaction between the known antibodies and the bacterium provides identification of the bacteria. The full name of this test is?;;[[Cards/Enzyme-linked Immunosorbent Assay\|Enzyme-linked Immunosorbent Assay]]
-<!--SR:!2024-05-07,1,230-->
+<!--SR:!2024-05-16,1,210-->
