@@ -36,4 +36,4 @@
 ## Flashcards
 
 Gliding bacteria move only when in contact with a solid surface. The rotation of the cell on its own axis often occurs with gliding. One of the most studied gliding bacteria is?;;[[Cards/Myxococcus\|Myxococcus]]
-<!--SR:!2024-05-07,1,230-->
+<!--SR:!2024-05-16,1,210-->
