@@ -14,7 +14,7 @@
 ![Extras/Images/CVHW9H3L.png|450](/img/user/Extras/Images/CVHW9H3L.png)
 
 > [!cite]-
-> [[Sources/@Nieman2015CushingSyndromeUpdate\|@Nieman2015CushingSyndromeUpdate]]
+> [[Sources/Research Papers/@Nieman2015CushingSyndromeUpdate\|@Nieman2015CushingSyndromeUpdate]]
 
 # Reference
 
