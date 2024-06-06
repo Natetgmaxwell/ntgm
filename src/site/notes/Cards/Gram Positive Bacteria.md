@@ -7,9 +7,10 @@
 > [!ontology]-
 > up:: [[Cards/Bacteria#Types of Bacteria based on the Gram Stains\|Bacteria#Types of Bacteria based on the Gram Stains]]
 > jump:: 
-> down:: 
+> down:: [[Cards/Deinococcota\|Deinococcota]], [[Cards/Actinobacteria\|Actinobacteria]]
 
 > [!Definition] Definition
+> 
 
 # Reference
 
@@ -17,14 +18,17 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                                              |
+| ----------------------------------------------------------- |
+| [[Cards/Gram Negative Bacteria\|Gram Negative Bacteria]] |
 
 { .block-language-dataview}
 
-| Outgoing Links                  |
-| ------------------------------- |
-| [[Cards/Bacteria\|Bacteria]] |
+| Outgoing Links                              |
+| ------------------------------------------- |
+| [[Cards/Actinobacteria\|Actinobacteria]] |
+| [[Cards/Bacteria\|Bacteria]]             |
+| [[Cards/Deinococcota\|Deinococcota]]     |
 
 { .block-language-dataview}
 
