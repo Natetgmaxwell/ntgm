@@ -26,8 +26,9 @@
 ## Sources
 | Name                                                                            | Cite Key                                                                                                    | Published |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------- |
+| <ul><li>@LFS112 M4T3 Thyroid and Parathyroid glands</li></ul>                   | [[Sources/Video/@LFS112M4T3Thyroid2023\|@LFS112M4T3Thyroid2023]]                                         | true      |
+| <ul><li>@LFS112 M6T5 Innate Immunity</li></ul>                                  | [[Sources/@LFS112M6T5Innate2023\|@LFS112M6T5Innate2023]]                                                 | true      |
 | <ul><li>Fundamentals of anatomy & physiology</li></ul>                          | [[Sources/Books/@martini2015-FundamentalsAnatomyPhysiology\|@martini2015-FundamentalsAnatomyPhysiology]] | true      |
-| <ul><li>LFS112 M12T1 Core principles of sensory physiology</li></ul>            | [[Sources/Video/@nicolemasters2023-LFS112M12T1Core\|@nicolemasters2023-LFS112M12T1Core]]                 | true      |
 | <ul><li>LFS112 M1T1 Video Core principles in physiology</li></ul>               | [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]]                             | true      |
 | <ul><li>LFS112 M3T1 Functional organisation of skeletal muscle fibres</li></ul> | [[Sources/Video/@chrisaskewLFS112M3T1Functional\|@chrisaskewLFS112M3T1Functional]]                       | true      |
 | <ul><li>LFS112 M4T1 Overview of the Endocrine System</li></ul>                  | [[Sources/Video/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]                           | true      |
@@ -43,7 +44,7 @@
 | <ul><li>LFS112 M6T4 Overview of the lymphatic + immune systems</li></ul>        | [[Sources/Video/@2023-LFS112M6T4Overview\|@2023-LFS112M6T4Overview]]                                     | true      |
 | <ul><li>LFS112 M6T5 Innate Immunity</li></ul>                                   | [[Sources/Video/@2023-LFS112M6T5Innate\|@2023-LFS112M6T5Innate]]                                         | true      |
 | <ul><li>LFS112 M6T6 Adaptive Immunity</li></ul>                                 | [[Sources/Video/@2023-LFS112M6T6Adaptive\|@2023-LFS112M6T6Adaptive]]                                     | true      |
-| <ul><li>LFS112 M7T1 Overview of the digestive system</li></ul>                  | [[Sources/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]                         | true      |
+| <ul><li>LFS112 M7T1 Overview of the digestive system</li></ul>                  | [[Sources/Video/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]                   | true      |
 | <ul><li>LFS112 M7T2 Functions of digestive organs</li></ul>                     | [[Sources/Video/@lindagalloLFS112M7T2Functions2023\|@lindagalloLFS112M7T2Functions2023]]                 | true      |
 | <ul><li>LFS112 M9T1 Functions and Structure of the Urinary System</li></ul>     | [[Sources/Video/@nicolemastersLFS112M9T1Functions2023\|@nicolemastersLFS112M9T1Functions2023]]           | true      |
 
