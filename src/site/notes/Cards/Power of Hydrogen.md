@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/@DavidMcKay2024SCI105M06T05PH\|@DavidMcKay2024SCI105M06T05PH]]
+> [!quote] [[Sources/Video/@DavidMcKay2024SCI105M06T05PH\|@DavidMcKay2024SCI105M06T05PH]]
 > p = -log10
 
 # Reference
@@ -42,7 +42,7 @@
 
 | Sources                                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/@DavidMcKay2024SCI105M06T05PH\|@DavidMcKay2024SCI105M06T05PH]]                                                        |
+| [[Sources/Video/@DavidMcKay2024SCI105M06T05PH\|@DavidMcKay2024SCI105M06T05PH]]                                                  |
 | [[Sources/Articles/2021SodiumBicarbonateSupplementsExercisePerformance-\|2021SodiumBicarbonateSupplementsExercisePerformance-]] |
 
 { .block-language-dataview}
