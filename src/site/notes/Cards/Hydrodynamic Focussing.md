@@ -28,9 +28,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                           |
-| --------------------------------------------------------------------------------- |
-| [[Sources/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]] |
+| Sources                                                                                 |
+| --------------------------------------------------------------------------------------- |
+| [[Sources/Video/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]] |
 
 { .block-language-dataview}
 
