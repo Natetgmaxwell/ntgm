@@ -17,7 +17,7 @@
 ![Extras/Images/ZF3SEXBA.png](/img/user/Extras/Images/ZF3SEXBA.png)
 
 > [!cite]-
-> [[Sources/@DavidMcKay2024SCI105M06T04Water\|@DavidMcKay2024SCI105M06T04Water]]
+> [[Sources/Video/@DavidMcKay2024SCI105M06T04Water\|@DavidMcKay2024SCI105M06T04Water]]
 
 # Reference
 
@@ -37,9 +37,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                           |
-| --------------------------------------------------------------------------------- |
-| [[Sources/@DavidMcKay2024SCI105M06T04Water\|@DavidMcKay2024SCI105M06T04Water]] |
+| Sources                                                                                 |
+| --------------------------------------------------------------------------------------- |
+| [[Sources/Video/@DavidMcKay2024SCI105M06T04Water\|@DavidMcKay2024SCI105M06T04Water]] |
 
 { .block-language-dataview}
 
