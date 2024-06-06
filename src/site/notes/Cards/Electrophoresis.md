@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > A laboratory technique used to separate [[Cards/Deoxyribonucleic Acid\|DNA]], [[Cards/Ribonucleic Acid\|RNA]] or [[Cards/Protein\|Protein]] molecules based on their size and [[Electrical Charge\|Electrical Charge]]
 
-> [!quote] [[Sources/@MelindaDean2024MLS101M09T02Electrophoresis\|@MelindaDean2024MLS101M09T02Electrophoresis]]
+> [!quote] [[Sources/Video/@MelindaDean2024MLS101M09T02Electrophoresis\|@MelindaDean2024MLS101M09T02Electrophoresis]]
 > Electrophoresis is the migration (movement) of charged molecules in a solution that is in a solid supporting medium (called a gel) when an electric current is passed through them...In simple electrophoresis, positively charged ions (cations) in solution move towards the negative electrode (cathode), while negatively charged ions (anions) move towards the positive electrode (anode).
 
 - The [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]] has to be **extracted** from the [[Cards/Nucleus\|Nucleus]]. The technique of [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]] extraction involves the use of chemicals to **break down** the nuclear and [[Cards/Plasma Membranes\|Plasma Membranes]], allowing the [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]] to be released into the surrounding solution.
@@ -46,13 +46,13 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                 |
-| ------------------------------------------------------------------------------------------------------- |
-| [[Sources/@MelindaDean2024MLS101M09T02Electrophoresis\|@MelindaDean2024MLS101M09T02Electrophoresis]] |
+| Sources                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@MelindaDean2024MLS101M09T02Electrophoresis\|@MelindaDean2024MLS101M09T02Electrophoresis]] |
 
 { .block-language-dataview}
 
 ## Flashcard
 
 Western blotting is used to identify bacterial antigens in patient’s serum. HIV and lyme disease are often diagnosed using this technique. In this technique proteins in the patient’s serum are separated by a technique called?;;[[Cards/Electrophoresis\|Electrophoresis]]
-<!--SR:!2024-05-10,4,270-->
+<!--SR:!2024-05-25,10,270-->
