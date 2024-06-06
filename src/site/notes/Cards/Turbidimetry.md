@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]
+> [!quote] [[Sources/Video/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]
 > Measures the turbidity or cloudiness of a solution by measuring the amount of light that can pass through the sample.
 
 # Reference
@@ -31,9 +31,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                           |
-| --------------------------------------------------------------------------------- |
-| [[Sources/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]] |
+| Sources                                                                                 |
+| --------------------------------------------------------------------------------------- |
+| [[Sources/Video/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]] |
 
 { .block-language-dataview}
 
