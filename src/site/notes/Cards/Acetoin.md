@@ -17,10 +17,9 @@
 
 ## Mentions
 
-| Incoming Links                                                                                    |
-| ------------------------------------------------------------------------------------------------- |
-| [[Sources/Other/@ipekkurtboke2024LFS261TutorialManual\|@ipekkurtboke2024LFS261TutorialManual]] |
-| [[Cards/Voges-Proskauer Test\|Voges-Proskauer Test]]                                           |
+| Incoming Links                                          |
+| ------------------------------------------------------- |
+| [[Cards/Voges-Proskauer Test\|Voges-Proskauer Test]] |
 
 { .block-language-dataview}
 
