@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/@Henderson2022LuxuryBeliefsAre\|@Henderson2022LuxuryBeliefsAre]]
+> [!quote] [[Sources/Articles/@Henderson2022LuxuryBeliefsAre\|@Henderson2022LuxuryBeliefsAre]]
 > [[Cards/Luxury Beliefs\|Luxury Beliefs]] are ideas and opinions that confer status on the upper class, while o en in icting costs on the lower classes.
 
 # Reference
@@ -33,7 +33,7 @@
 | Sources                                                                                    |
 | ------------------------------------------------------------------------------------------ |
 | [[Sources/Articles/@henderson2022-DawnEverythingNew\|@henderson2022-DawnEverythingNew]] |
-| [[Sources/@Henderson2022LuxuryBeliefsAre\|@Henderson2022LuxuryBeliefsAre]]              |
+| [[Sources/Articles/@Henderson2022LuxuryBeliefsAre\|@Henderson2022LuxuryBeliefsAre]]     |
 
 { .block-language-dataview}
 
