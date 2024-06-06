@@ -6,11 +6,11 @@
 
 > [!ontology]-
 > up:: [[Cards/Horizontal Gene Transfer in Bacteria\|Horizontal Gene Transfer in Bacteria]]
-> jump:: [[Bacteriophage\|Bacteriophage]]
+> jump:: [[Cards/Bacteriophages\|Bacteriophages]]
 > down:: 
 
 > [!Definition] Definition
-> The transfer of DNA in [[Cards/Bacteria\|Bacteria]] via a bacteriophage
+> The transfer of DNA in [[Cards/Bacteria\|Bacteria]] via a [[Cards/Bacteriophages\|bacteriophage]]
 
 ## Specific vs Generalised Transduction
 
@@ -32,6 +32,7 @@
 | Outgoing Links                                                                          |
 | --------------------------------------------------------------------------------------- |
 | [[Cards/Bacteria\|Bacteria]]                                                         |
+| [[Cards/Bacteriophages\|Bacteriophages]]                                             |
 | [[Cards/Horizontal Gene Transfer in Bacteria\|Horizontal Gene Transfer in Bacteria]] |
 
 { .block-language-dataview}
