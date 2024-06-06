@@ -17,10 +17,9 @@
 
 ## Mentions
 
-| Incoming Links                                                                                    |
-| ------------------------------------------------------------------------------------------------- |
-| [[Sources/Other/@ipekkurtboke2024LFS261TutorialManual\|@ipekkurtboke2024LFS261TutorialManual]] |
-| [[Cards/Gelatin Liquefaction Test\|Gelatin Liquefaction Test]]                                 |
+| Incoming Links                                                    |
+| ----------------------------------------------------------------- |
+| [[Cards/Gelatin Liquefaction Test\|Gelatin Liquefaction Test]] |
 
 { .block-language-dataview}
 
