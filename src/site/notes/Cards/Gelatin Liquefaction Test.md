@@ -36,3 +36,4 @@
 ## Flashcards
 
 Gelatin liquefaction test involves the hydrolysis of gelatin by a microbial enzyme called?;;[[Cards/Protease\|Protease]]
+<!--SR:!2024-05-16,1,230-->
