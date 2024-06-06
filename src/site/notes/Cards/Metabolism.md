@@ -31,4 +31,4 @@
 ## Flashcards
 
 Metabolic pathways that function in both anabolism and catabolism are called?;;Amphibolic pathways
-<!--SR:!2024-05-07,1,230-->
+<!--SR:!2024-05-16,1,210-->
