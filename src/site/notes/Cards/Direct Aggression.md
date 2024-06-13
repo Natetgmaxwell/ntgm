@@ -5,8 +5,8 @@
 # Direct Aggression
 
 > [!ontology]-
-> up:: 
-> jump:: 
+> up:: [[Cards/Aggression\|Aggression]]
+> jump:: [[Cards/Indirect Aggression\|Indirect Aggression]]
 > down:: 
 
 > [!Definition] Definition
@@ -17,14 +17,16 @@
 
 ## Mentions
 
-| Incoming Links                      |
-| ----------------------------------- |
-| [[Cards/Aggression\|Aggression]] |
+| Incoming Links                                                        |
+| --------------------------------------------------------------------- |
+| [[Cards/Sex Differences in Conflict\|Sex Differences in Conflict]] |
 
 { .block-language-dataview}
 
-| Outgoing Links |
-| -------------- |
+| Outgoing Links                                        |
+| ----------------------------------------------------- |
+| [[Cards/Aggression\|Aggression]]                   |
+| [[Cards/Indirect Aggression\|Indirect Aggression]] |
 
 { .block-language-dataview}
 
