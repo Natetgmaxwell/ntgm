@@ -15,7 +15,10 @@
 
 One hormone can have different effects on different cells. An example being [[Cards/Epinephrine\|adrenaline]], which constricts blood vessels in the digestive tract and dilates the [[Cards/Bronchioles\|bronchioles]] in the lungs.
 
-## Functions [[Cards/Hormones\|Hormones]] Control [[Sources/Video/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]
+## Functions [[Cards/Hormones\|Hormones]] Control
+
+> [!cite]-
+> [[Sources/Video/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]
 
 - Growth and development
 - Reproduction
