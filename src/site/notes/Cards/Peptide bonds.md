@@ -2,7 +2,7 @@
 {"aliases":null,"tags":["Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/peptide-bonds/","dgPassFrontmatter":true}
 ---
 
-# Peptide Bonds
+# Peptide bonds
 
 > [!Ontology]-
 > up:: [[Cards/Covalent Bonds\|Covalent Bonds]]
