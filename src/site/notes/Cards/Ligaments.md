@@ -11,9 +11,11 @@
 
 > [!Definition] Definition
 
-# Reference
+## [[Cards/Ligaments of the Female Reproductive System\|Ligaments of the Female Reproductive System]]
 
-- 
+## [[Cards/Ligaments of the Leg\|Ligaments of the Leg]]
+
+# Reference
 
 ## Mentions
 
@@ -33,7 +35,6 @@
 | [[Cards/Ischiofemoral Ligament\|Ischiofemoral Ligament]]                                                                  |
 | [[Cards/Joints\|Joints]]                                                                                                  |
 | [[Cards/Lateral collateral ligament\|Lateral collateral ligament]]                                                        |
-| [[Cards/Ligaments of the Female Reproductive System\|Ligaments of the Female Reproductive System]]                        |
 | [[Cards/Ligamentum nuchae\|Ligamentum nuchae]]                                                                            |
 | [[Cards/Medial collateral ligament\|Medial collateral ligament]]                                                          |
 | [[Cards/Musculoskeletal System\|Musculoskeletal System]]                                                                  |
@@ -47,17 +48,18 @@
 
 { .block-language-dataview}
 
-| Outgoing Links                                          |
-| ------------------------------------------------------- |
-| [[Cards/Connective Tissue\|Connective Tissue]]       |
-| [[Cards/Ileofemoral ligament\|Ileofemoral ligament]] |
-| [[Cards/Synovial joints\|Synovial joints]]           |
+| Outgoing Links                                                                                        |
+| ----------------------------------------------------------------------------------------------------- |
+| [[Cards/Connective Tissue\|Connective Tissue]]                                                     |
+| [[Cards/Ileofemoral ligament\|Ileofemoral ligament]]                                               |
+| [[Cards/Ligaments of the Female Reproductive System\|Ligaments of the Female Reproductive System]] |
+| [[Cards/Ligaments of the Leg\|Ligaments of the Leg]]                                               |
+| [[Cards/Synovial joints\|Synovial joints]]                                                         |
 
 { .block-language-dataview}
 
-| Sources                                                                 |
-| ----------------------------------------------------------------------- |
-| [[Sources/Video/@2023-LFS122M8T1Skeletal\|@2023-LFS122M8T1Skeletal]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 
