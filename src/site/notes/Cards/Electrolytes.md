@@ -11,13 +11,13 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
+> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > “[[Cards/Electrolytes\|Electrolytes]] are essentially [[Cards/Minerals\|Minerals]] in the body with an electrical charge.”
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
+> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > “The main [[Cards/Electrolytes\|Electrolytes]] are [[Cards/Sodium\|Sodium]], [[Cards/Potassium\|Potassium]], [[Cards/Magnesium\|Magnesium]], [[Cards/Phosphate\|Phosphate]], [[Cards/Calcium\|Calcium]], [[Cards/Chloride\|Chloride]] and [[Cards/Bicarbonate\|Bicarbonate]]. Others include [[Cards/Zinc\|Zinc]], [[Cards/Copper\|Copper]], [[Cards/Iron\|Iron]], [[Manganese\|Manganese]], [[Cards/Molybdenum\|Molybdenum]] and [[Cards/Chromium\|Chromium]]. 
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
+> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > “The  absorption  of  fluid  and  [[Cards/Electrolytes\|Electrolytes]]  is  better  at rest  than  during  exercise”
 
 ## List of [[Cards/Electrolytes\|Electrolytes]]
