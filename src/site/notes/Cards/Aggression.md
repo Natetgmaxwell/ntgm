@@ -6,10 +6,15 @@
 
 > [!ontology]-
 > up:: 
-> jump:: 
+> jump:: [[Cards/Intimidation\|Intimidation]]
 > down:: [[Cards/Direct Aggression\|Direct Aggression]], [[Cards/Indirect Aggression\|Indirect Aggression]]
 
 > [!Definition] Definition
+
+## Types of [[Cards/Aggression\|Aggression]]
+
+- [[Cards/Indirect Aggression\|Indirect Aggression]]
+- [[Cards/Direct Aggression\|Direct Aggression]]
 
 # Reference
 
@@ -27,6 +32,7 @@
 | ----------------------------------------------------- |
 | [[Cards/Direct Aggression\|Direct Aggression]]     |
 | [[Cards/Indirect Aggression\|Indirect Aggression]] |
+| [[Cards/Intimidation\|Intimidation]]               |
 
 { .block-language-dataview}
 
