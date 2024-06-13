@@ -16,6 +16,9 @@
 
 ## Dilution Formula
 
+> [!cite]-
+> [[Sources/Video/@melindadean2024MLS101M04T04Dilution\|@melindadean2024MLS101M04T04Dilution]]
+
 ![Extras/Images/WINVV3BT.png|400](/img/user/Extras/Images/WINVV3BT.png)
 ![Extras/Images/2KNGIDEF.png|300](/img/user/Extras/Images/2KNGIDEF.png)
 
