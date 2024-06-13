@@ -5,13 +5,16 @@
 # Male Warrior Hypothesis
 
 > [!ontology]-
-> up:: 
-> jump:: 
+> up:: [[Cards/Male\|Male]], [[Cards/Conflict\|Conflict]]
+> jump:: [[Cards/Sex Differences in Conflict\|Sex Differences in Conflict]], [[Cards/Cooperation\|Cooperation]]
 > down:: 
 
 > [!Definition] Definition
 
-- Males are more likely to reduce conflict within their group if they find themselves competing against an outgroup [[Sources/Articles/@henderson2022MaleWarriorHypothesis\|@henderson2022MaleWarriorHypothesis]].
+- Males are more likely to reduce conflict within their group if they find themselves competing against an out-group.
+
+> [!cite]-
+> [[Sources/Articles/@henderson2022MaleWarriorHypothesis\|@henderson2022MaleWarriorHypothesis]]
 
 # Reference
 
@@ -24,8 +27,12 @@
 
 { .block-language-dataview}
 
-| Outgoing Links |
-| -------------- |
+| Outgoing Links                                                        |
+| --------------------------------------------------------------------- |
+| [[Cards/Conflict\|Conflict]]                                       |
+| [[Cards/Cooperation\|Cooperation]]                                 |
+| [[Cards/Male\|Male]]                                               |
+| [[Cards/Sex Differences in Conflict\|Sex Differences in Conflict]] |
 
 { .block-language-dataview}
 
