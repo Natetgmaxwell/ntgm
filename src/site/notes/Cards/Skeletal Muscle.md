@@ -125,7 +125,6 @@
 | [[Cards/Skeletal Muscles of the Antebrachium\|Skeletal Muscles of the Antebrachium]]                                      |
 | [[Cards/Skeletal Muscles of the Brachium\|Skeletal Muscles of the Brachium]]                                              |
 | [[Cards/Soleus\|Soleus]]                                                                                                  |
-| [[Cards/Spinalis capitis\|Spinalis capitis]]                                                                              |
 | [[Cards/Sternocleidomastoid\|Sternocleidomastoid]]                                                                        |
 | [[Cards/Supinator\|Supinator]]                                                                                            |
 | [[Cards/Tibialis anterior\|Tibialis anterior]]                                                                            |
