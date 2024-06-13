@@ -18,6 +18,21 @@
 
 ## Mentions
 
-- [[Sources/Podcasts/Podcast Episodes/512   Will MacAskill   How Long Could Humanity Continue For — Modern Wisdom\|512   Will MacAskill   How Long Could Humanity Continue For — Modern Wisdom]]
+| Incoming Links |
+| -------------- |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                        |
+| ----------------------------------------------------- |
+| [[Cards/Altruism\|Altruism]]                       |
+| [[Cards/Reciprocal Altruism\|Reciprocal Altruism]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@ok2021SignalingVirtuousVictimhood\|@ok2021SignalingVirtuousVictimhood]]                                                                                             |
+| [[Sources/Podcasts/Podcast Episodes/512   Will MacAskill   How Long Could Humanity Continue For — Modern Wisdom\|512   Will MacAskill   How Long Could Humanity Continue For — Modern Wisdom]] |
 
 { .block-language-dataview}
