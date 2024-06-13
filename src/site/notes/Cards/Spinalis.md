@@ -10,7 +10,7 @@
 > down:: 
 
 > [!Definition] Definition
-> The Spinalis is a portion of the [[Cards/Erector spinae\|Erector spinae]], a bundle of muscles and tendons, located nearest to the spine. It is divided into three parts: Spinalis dorsi, spinalis cervicis, and spinalis capitis.
+> The Spinalis is a portion of the [[Cards/Erector spinae\|Erector spinae]], a bundle of muscles and tendons, located nearest to the spine. It is divided into three parts: Spinalis dorsi, spinalis cervicis, and [[Cards/Spinalis capitis\|spinalis capitis]].
 
 ![Pasted image 20230416094957.png|350](/img/user/Extras/Images/Pasted%20image%2020230416094957.png)
 
