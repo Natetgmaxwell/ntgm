@@ -24,7 +24,11 @@
 > [!Links]+
 >  | Incoming Links                                                |
 > | ------------------------------------------------------------- |
+> | [[Cards/Cranial Fossas\|Cranial Fossas]]                   |
+> | [[Cards/Cranium\|Cranium]]                                 |
+> | [[Cards/Facial Bones\|Facial Bones]]                       |
 > | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
+> | [[Cards/Mandible\|Mandible]]                               |
 > | [[Cards/Paranasal Sinuses\|Paranasal Sinuses]]             |
 > 
 { .block-language-dataview}
@@ -34,7 +38,7 @@
 
 > [!quote-green] (Page 5) green
 > 
-> cranium (cranial vault)
+> [[Cards/Cranium\|cranium]] ([[Cards/Cranium\|cranial vault]])
 >
 { #ENS6VPFVaXGHMV9HGp5}
 
@@ -299,4 +303,5 @@
 > ![Extras/Images/4BMFK6ZT.png](/img/user/Extras/Images/4BMFK6ZT.png)
 >
 { #4BMFK6ZTaXGHMV9HGp15}
+
 
