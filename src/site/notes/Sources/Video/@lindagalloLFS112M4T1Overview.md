@@ -23,9 +23,12 @@
 >  | Incoming Links                                            |
 > | --------------------------------------------------------- |
 > | [[Calendar/2023/Daily/2023-08-19 Sat\|2023-08-19 Sat]] |
+> | [[Cards/Antagonism\|Antagonism]]                       |
 > | [[Cards/Cell Signalling\|Cell Signalling]]             |
 > | [[Cards/Digestion\|Digestion]]                         |
 > | [[Cards/Hormones\|Hormones]]                           |
+> | [[Cards/Permissiveness\|Permissiveness]]               |
+> | [[Cards/Synergism\|Synergism]]                         |
 > 
 { .block-language-dataview}
 
@@ -301,7 +304,7 @@
 
 > [!quote] (Page 19)
 > 
-> Four types of interactions: – Antagonism: opposing actions – Synergism: two hormones exert the same effect which is amplified when combined – Permissiveness: a hormone needs another hormone to exert its full effects – Integrative: two hormones exert different but complementary effects
+> Four types of interactions: – [[Cards/Antagonism\|Antagonism]]: opposing actions – Synergism: two hormones exert the same effect which is amplified when combined – [[Cards/Permissiveness\|Permissiveness]]: a hormone needs another hormone to exert its full effects – Integrative: two hormones exert different but complementary effects
 >
 { #9VY5BWZ6aVWFMZ4HRp19}
 
