@@ -28,6 +28,7 @@
 > | [[Cards/Internal Abdominal Oblique\|Internal Abdominal Oblique]] |
 > | [[Cards/Rectus Abdominis\|Rectus Abdominis]]                     |
 > | [[Cards/Transverse Abdominis\|Transverse Abdominis]]             |
+> | [[Cards/Triceps brachii\|Triceps brachii]]                       |
 > 
 { .block-language-dataview}
 
