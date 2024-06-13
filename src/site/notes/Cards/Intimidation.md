@@ -17,8 +17,9 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                      |
+| ----------------------------------- |
+| [[Cards/Aggression\|Aggression]] |
 
 { .block-language-dataview}
 
