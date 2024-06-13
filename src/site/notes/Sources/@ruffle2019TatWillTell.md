@@ -11,7 +11,7 @@
 >  
 
 > [!Abstract]+
-> Survey and experimental evidence documents discrimination against tattooed individuals in the labor market and in commercial transactions. Thus, individuals’ decision to get tattooed may reflect short-sighted time preferences. We show that, according to numerous measures, those with [[Cards/Tattoos\|tattoos]], especially visible ones, are more short-sighted and impulsive than the non-tattooed. Almost nothing mitigates these results, neither the motive for the tattoo, the time contemplated before getting tattooed nor the time elapsed since the last tattoo. Even the expressed intention to get a(nother) tattoo predicts increased short-sightedness and helps establish the direction of causality between [[Cards/Tattoos\|tattoos]] and short-sightedness.
+> Survey and experimental evidence documents discrimination against tattooed individuals in the labor market and in commercial transactions. Thus, individuals’ decision to get tattooed may reflect short-sighted time preferences. We show that, according to numerous measures, those with [[Cards/Tattoos\|tattoos]], especially visible ones, are more short-sighted and [[Cards/Impulsivity\|impulsive]] than the non-tattooed. Almost nothing mitigates these results, neither the motive for the tattoo, the time contemplated before getting tattooed nor the time elapsed since the last tattoo. Even the expressed intention to get a(nother) tattoo predicts increased short-sightedness and helps establish the direction of causality between [[Cards/Tattoos\|tattoos]] and short-sightedness.
 
 > [!Info]
 > title: Tat will tell: [[Cards/Tattoos\|Tattoos]] and time preferences
@@ -33,7 +33,7 @@
 
 > [!quote-yellow] (Page 1) yellow
 > 
-> We show that, according to numerous measures, those with [[Cards/Tattoos\|tattoos]], especially visible ones, are more shortsighted and impulsive than the non-tattooed.
+> We show that, according to numerous measures, those with [[Cards/Tattoos\|tattoos]], especially visible ones, are more shortsighted and [[Cards/Impulsivity\|impulsive]] than the non-tattooed.
 >
 { #LRIK8T93a79C92ID5p1}
 
@@ -89,7 +89,7 @@
 
 > [!quote-yellow] (Page 5) yellow
 > 
-> Past research has found that relative to the non-tattooed, the tattooed report higher impulsivity (Swami et al., 2016, lower educational attainment and higher levels of risk-taking behavior (French et al., 2016, French et al., 2019, Kertzman et al., 2013, Laumann and Derick, 2006.
+> Past research has found that relative to the non-tattooed, the tattooed report higher [[Cards/Impulsivity\|impulsivity]] (Swami et al., 2016, lower educational attainment and higher levels of risk-taking behavior (French et al., 2016, French et al., 2019, Kertzman et al., 2013, Laumann and Derick, 2006.
 >
 { #Y46NI7CCa79C92ID5p5}
 
