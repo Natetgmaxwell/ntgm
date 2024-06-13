@@ -23,9 +23,11 @@
 
 ## Mentions
 
-| Incoming Links                      |
-| ----------------------------------- |
-| [[Cards/Aggression\|Aggression]] |
+| Incoming Links                                                        |
+| --------------------------------------------------------------------- |
+| [[Cards/Aggression\|Aggression]]                                   |
+| [[Cards/Direct Aggression\|Direct Aggression]]                     |
+| [[Cards/Sex Differences in Conflict\|Sex Differences in Conflict]] |
 
 { .block-language-dataview}
 
