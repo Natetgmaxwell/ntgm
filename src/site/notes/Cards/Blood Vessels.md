@@ -7,7 +7,7 @@
 > [!Ontology]
 > up:: [[Cards/Cardiovascular System\|Cardiovascular System]]
 > jump:: [[Cards/Thermoregulation\|Thermoregulation]]
-> down:: [[Cards/Arteries\|Arteries]], [[Cards/Veins\|Veins]], [[Cards/Capillaries\|Capillaries]], [[Cards/Arterioles\|Arterioles]], [[Cards/Venules\|Venules]]
+> down:: [[Cards/Arteries\|Arteries]], [[Cards/Veins\|Veins]], [[Cards/Capillaries\|Capillaries]], [[Cards/Arterioles\|Arterioles]], [[Cards/Venules\|Venules]], [[Cards/Angiogenesis\|Angiogenesis]]
 
 > [!Definition] Definition
 
