@@ -321,7 +321,7 @@ The [[Cards/Hypothalamus\|hypothalamus]] and the pituitary gland work in close c
 
 ###### Outline the actions of the major [[Cards/Endocrinology of Pregnancy\|hormones of pregnancy]], labour and [[Cards/Lactation\|Lactation]]
 
-*Pregnancy*
+*[[Cards/Pregnancy\|Pregnancy]]*
 - [[Cards/Human Chorionic Gonadotropin\|Human Chorionic Gonadotropin]] ([[Cards/Human Chorionic Gonadotropin\|hCG]])
 	- Secreted by the placenta after implantation
 	- Maintains the [[Cards/Corpus Luteum\|Corpus Luteum]]
