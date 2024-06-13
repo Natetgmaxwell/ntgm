@@ -7,7 +7,7 @@
 > [!ontology]-
 > up:: 
 > jump:: 
-> down:: 
+> down:: [[Cards/Dominance Social Status\|Dominance Social Status]]
 
 > [!Definition] Definition
 
