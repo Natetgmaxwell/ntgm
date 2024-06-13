@@ -6,12 +6,12 @@
 
 > [!ontology]
 > up:: [[Cards/Increasing Testosterone\|Increasing Testosterone]], [[Cards/Diet\|Diet]]
-> jump:: [[Cards/Eggs\|Eggs]], [[Cards/Red Meat\|Red Meat]], [[Cards/Fish\|Fish]], [[Cards/Saturated Fats\|Saturated Fats]], [[Cards/Cholesterol\|Cholesterol]], [[Cards/Zinc\|Zinc]], [[Selenium\|Selenium]]
+> jump:: [[Cards/Eggs\|Eggs]], [[Cards/Red Meat\|Red Meat]], [[Cards/Fish\|Fish]], [[Cards/Cholesterol\|Cholesterol]], [[Cards/Zinc\|Zinc]], [[Selenium\|Selenium]]
 > down:: 
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
+> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > "Foods like egg yolks, [[Cards/Red Meat\|Red Meat]], [[Cards/Fish\|Fish]], and saturated fat help with testosterone production as they contain precursors and elements needed to make testosterone like [[Cards/Cholesterol\|cholesterol]], zinc, selenium, and other vitamins and minerals"
 
 > [!quote] [[Sources/Research Papers/@kataoka2021ReviewFoodsFood\|@kataoka2021ReviewFoodsFood]]
