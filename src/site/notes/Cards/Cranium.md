@@ -5,7 +5,7 @@
 # Cranium
 
 > [!ontology]+
-> up:: 
+> up:: [[Cards/Head\|Head]]
 > jump:: 
 > down:: 
 
@@ -19,6 +19,9 @@
 - [[Cards/Sphenoid bone\|Sphenoid bone]]
 - [[Cards/Temporal Bone\|Temporal Bone]]
 - [[Cards/Occipital bone\|Occipital bone]]
+
+> [!cite]-
+> [[Sources/Video/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]
 
 # Reference
 
@@ -38,6 +41,7 @@
 | ------------------------------------------- |
 | [[Cards/Ethmoid Bone\|Ethmoid Bone]]     |
 | [[Cards/Frontal bone\|Frontal bone]]     |
+| [[Cards/Head\|Head]]                     |
 | [[Cards/Occipital bone\|Occipital bone]] |
 | [[Cards/Parietal bone\|Parietal bone]]   |
 | [[Cards/Sphenoid bone\|Sphenoid bone]]   |
@@ -48,6 +52,7 @@
 | Sources                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Video/@leedaffin2023-LFS122M10T4Lymphatic\|@leedaffin2023-LFS122M10T4Lymphatic]]                                                                                |
+| [[Sources/Video/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]                                                                                            |
 | [[Sources/Articles/Neanderthal Skeleton Discovery Changes What We Know About Human Evolution\|Neanderthal Skeleton Discovery Changes What We Know About Human Evolution]] |
 
 { .block-language-dataview}
