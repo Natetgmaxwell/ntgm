@@ -13,8 +13,6 @@
 
 # Reference
 
-- 
-
 ## Mentions
 
 | Incoming Links                                                |
