@@ -17,8 +17,9 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                      |
+| ----------------------------------- |
+| [[Cards/Thoracic 7\|Thoracic 7]] |
 
 { .block-language-dataview}
 
