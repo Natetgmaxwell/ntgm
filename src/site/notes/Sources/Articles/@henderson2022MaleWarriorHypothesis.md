@@ -20,11 +20,12 @@
 > creators:: Rob Henderson
 
 > [!Links]+
->  | Incoming Links                                                |
-> | ------------------------------------------------------------- |
-> | [[Cards/Indirect Aggression\|Indirect Aggression]]         |
-> | [[Cards/Male Warrior Hypothesis\|Male Warrior Hypothesis]] |
-> | [[Cards/Psychopathy\|Psychopathy]]                         |
+>  | Incoming Links                                                        |
+> | --------------------------------------------------------------------- |
+> | [[Cards/Indirect Aggression\|Indirect Aggression]]                 |
+> | [[Cards/Male Warrior Hypothesis\|Male Warrior Hypothesis]]         |
+> | [[Cards/Psychopathy\|Psychopathy]]                                 |
+> | [[Cards/Sex Differences in Conflict\|Sex Differences in Conflict]] |
 > 
 { .block-language-dataview}
 
