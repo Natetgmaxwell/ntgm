@@ -7,7 +7,7 @@
 > [!ontology]-
 > up:: 
 > jump:: 
-> down:: [[Cards/War\|War]]
+> down:: [[Cards/War\|War]], [[Cards/Sex Differences in Conflict\|Sex Differences in Conflict]]
 
 > [!Definition] Definition
 
@@ -17,14 +17,16 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Cards/Male Warrior Hypothesis\|Male Warrior Hypothesis]] |
 
 { .block-language-dataview}
 
-| Outgoing Links        |
-| --------------------- |
-| [[Cards/War\|War]] |
+| Outgoing Links                                                        |
+| --------------------------------------------------------------------- |
+| [[Cards/Sex Differences in Conflict\|Sex Differences in Conflict]] |
+| [[Cards/War\|War]]                                                 |
 
 { .block-language-dataview}
 
