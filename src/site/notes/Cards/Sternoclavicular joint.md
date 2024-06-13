@@ -28,20 +28,20 @@
 
 { .block-language-dataview}
 
-| Outgoing Links                        |
-| ------------------------------------- |
-| [[Cards/Clavicle\|Clavicle]]       |
-| [[Cards/Plane Joint\|Plane Joint]] |
-| [[Cards/Sternum\|Sternum]]         |
+| Outgoing Links                              |
+| ------------------------------------------- |
+| [[Cards/Axial Skeleton\|Axial Skeleton]] |
+| [[Cards/Clavicle\|Clavicle]]             |
+| [[Cards/Plane Joint\|Plane Joint]]       |
+| [[Cards/Sternum\|Sternum]]               |
 
 { .block-language-dataview}
 
-| Sources                                                                 |
-| ----------------------------------------------------------------------- |
-| [[Sources/Video/@2023-LFS122M8T1Skeletal\|@2023-LFS122M8T1Skeletal]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 ## Flashcards
 
-Where is the only direct connection of the pectoral girdle to the axial skeleton?;; [[Cards/Sternoclavicular joint\|Sternoclavicular joint]]
+Where is the only direct connection of the pectoral girdle to the [[Cards/Axial Skeleton\|axial skeleton]]?;; [[Cards/Sternoclavicular joint\|Sternoclavicular joint]]
 <!--SR:!2023-11-24,32,250-->
