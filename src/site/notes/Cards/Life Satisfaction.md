@@ -11,13 +11,16 @@
 
 > [!Definition] Definition
 
-## [[Cards/Life Satisfaction\|Life Satisfaction]] Fluctuation Based on Life Events [[Sources/Research Papers/@clark2008LagsLeadsLife\|@clark2008LagsLeadsLife]]
+## [[Cards/Life Satisfaction\|Life Satisfaction]] Fluctuation Based on Life Events 
 
 > [!quote] [[Sources/Research Papers/@clark2008LagsLeadsLife\|@clark2008LagsLeadsLife]]
 > Our most general conclusion is that research that seeks to relate measures such as life satisfaction only to an individual’s labour force and marital status at a point in time is in danger of missing important information. Just as the word ‘life’ implies a long-term process, life satisfaction seems to contain an important intertemporal dimension.
 
 ![Extras/Images/FLERCMUG.png|500](/img/user/Extras/Images/FLERCMUG.png)
 ![Extras/Images/64BH3EE3.png|500](/img/user/Extras/Images/64BH3EE3.png)
+
+> [!cite]-
+> [[Sources/Research Papers/@clark2008LagsLeadsLife\|@clark2008LagsLeadsLife]]
 
 # Reference
 
