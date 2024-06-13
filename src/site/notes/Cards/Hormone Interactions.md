@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/hormone-interactions/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/hormone-interactions/","dgPassFrontmatter":true}
 ---
 
 # Hormone Interactions
