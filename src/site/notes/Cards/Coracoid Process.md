@@ -24,7 +24,6 @@
 
 ## Mentions
 
-- [[Sources/Video/@2023-LFS122M8T1Skeletal\|@2023-LFS122M8T1Skeletal]]
 
 { .block-language-dataview}
 
