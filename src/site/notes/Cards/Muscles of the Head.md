@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":[],"dg-publish":true,"permalink":"/cards/muscles-of-the-head/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/muscles-of-the-head/","dgPassFrontmatter":true}
 ---
 
 # Muscles of the Head
@@ -14,7 +14,9 @@
 ## List of [[Cards/Head\|Head]] Muscles
 
 ![Extras/Images/6B655TFM.png](/img/user/Extras/Images/6B655TFM.png)
-[[Sources/Video/@LFS122M5T2Muscles\|@LFS122M5T2Muscles]]
+
+> [!cite]-
+> [[Sources/Video/@LFS122M5T2Muscles\|@LFS122M5T2Muscles]]
 
 - [[Cards/Epicranius\|Epicranius]]
 	- [[Cards/Front Belly of the Epicranius\|Front Belly of the Epicranius]]
