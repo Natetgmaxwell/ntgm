@@ -29,8 +29,9 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| [[Cards/Blood Flow Restriction Training for Muscle Angiogenesis\|Blood Flow Restriction Training for Muscle Angiogenesis]] |
 
 { .block-language-dataview}
 
