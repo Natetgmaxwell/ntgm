@@ -7,7 +7,7 @@
 > [!ontology]+
 > up:: [[Cards/Female\|Female]]
 > jump:: 
-> down:: 
+> down:: [[Cards/Endocrinology of Pregnancy\|Endocrinology of Pregnancy]]
 
 > [!Definition] Definition
 
