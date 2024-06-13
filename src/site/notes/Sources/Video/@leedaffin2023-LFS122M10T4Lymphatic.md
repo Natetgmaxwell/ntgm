@@ -67,7 +67,7 @@
 > [[Cards/Thymus\|Thymus]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> Red marrow is found mainly in the flat bones, such as the pelvis, sternum, [[Cards/Cranium\|Cranium]], ribs, vertebrae and scapulae, and in trabeculae at the epiphyseal ends of long bones such as the femur and humerus.  
+> Red marrow is found mainly in the flat bones, such as the pelvis, sternum, [[Cards/Cranium\|Cranium]], [[Cards/Ribs\|ribs]], vertebrae and scapulae, and in trabeculae at the epiphyseal ends of long bones such as the femur and humerus.  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > [[Cards/Pharyngeal Tonsil\|Pharyngeal Tonsil]]  
