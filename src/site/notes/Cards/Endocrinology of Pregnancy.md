@@ -25,7 +25,9 @@
 	- Stimulates uterine blood flow
 
 ![Extras/Images/CZTB8VRK.png|425](/img/user/Extras/Images/CZTB8VRK.png)
-[[Sources/Research Papers/@kuo2016EndocrineControlHuman\|@kuo2016EndocrineControlHuman]]
+
+> [!cite]-
+> [[Sources/Research Papers/@kuo2016EndocrineControlHuman\|@kuo2016EndocrineControlHuman]]
 
 # Reference
 
