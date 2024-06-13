@@ -11,7 +11,7 @@
 >  
 
 > [!Abstract]+
-> Shane Parrish  ( @ShaneAParrish ) is the entrepreneur and wisdom seeker behind  Farnam Street  and the host of   The Knowledge Project   podcast, where he focuses on mastering the best of what other people have already figured out. Shane's popular online course,   Decision by Design  , has helped thousands of executives, leaders, and managers around the world learn the repeatable behaviors that improve results. His work has been featured in nearly every major publication, including  The New York Times ,  The Wall Street Journal , and  Forbes .
+> [[Cards/Shane Parrish\|Shane Parrish]]  ( @ShaneAParrish ) is the entrepreneur and wisdom seeker behind  Farnam Street  and the host of   The Knowledge Project   podcast, where he focuses on mastering the best of what other people have already figured out. Shane's popular online course,   Decision by Design  , has helped thousands of executives, leaders, and managers around the world learn the repeatable behaviors that improve results. His work has been featured in nearly every major publication, including  The New York Times ,  The Wall Street Journal , and  Forbes .
 
 > [!Info]
 > title: Shane Parrish on Wisdom from Warren Buffett, Rules for Better Thinking, How to Reduce Blind Spots, The Dangers of Mental Models, and More
