@@ -19,7 +19,6 @@
 
 ## Mentions
 
-- [[Sources/Video/@2023-LFS122M8T1Skeletal\|@2023-LFS122M8T1Skeletal]]
 - [[Sources/Video/@colingavagan2023-LFS122M8T2Muscles\|@colingavagan2023-LFS122M8T2Muscles]]
 
 { .block-language-dataview}
