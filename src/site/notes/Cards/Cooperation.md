@@ -17,8 +17,9 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Cards/Male Warrior Hypothesis\|Male Warrior Hypothesis]] |
 
 { .block-language-dataview}
 
