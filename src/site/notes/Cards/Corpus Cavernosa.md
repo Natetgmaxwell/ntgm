@@ -19,8 +19,8 @@
 
 | Incoming Links                                                              |
 | --------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]               |
 | [[Extras/Excalidraw/Brain Diagram.excalidraw\|Brain Diagram.excalidraw]] |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]               |
 
 { .block-language-dataview}
 

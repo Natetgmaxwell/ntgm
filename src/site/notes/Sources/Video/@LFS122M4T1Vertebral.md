@@ -75,12 +75,8 @@
 
 > [!quote] (Page 4)
 > 
-> Intervertebral Joints
->
-{ #FAB845X6aNGRWR5Y4p4}
-
-
-> [!quote] (Page 5)
+> [[Cards/Intervertebral Joints\|Intervertebral Joints]]
+> [](Intervertebral%20Joints.md)!quote] (Page 5)
 > 
 > Cervical Vertebrae C3 to C7
 >

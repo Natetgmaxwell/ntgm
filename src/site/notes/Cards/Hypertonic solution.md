@@ -2,7 +2,7 @@
 {"aliases":null,"dg-publish":true,"tags":["Uni/HBIO1009","Uni/LFS103"],"permalink":"/cards/hypertonic-solution/","dgPassFrontmatter":true}
 ---
 
-# Hypertonic Solution
+# Hypertonic solution
 
 > [!Ontology]-
 > up:: [[Cards/Tonicity\|Tonicity]]

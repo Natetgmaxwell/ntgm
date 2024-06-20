@@ -37,7 +37,7 @@
 
 > [!quote-yellow] (Page 2) yellow
 > 
-> Types of human specimens collected for analysis in medical science laboratories include: – Blood – Urine – Stool (faeces) – Sputum – Bone – Aspirates and bronchial washings – Swabs/wound drainage – Ears-Nose-Throat (ENT) swabs – Cerebrospinal fluid (CSF)
+> Types of human specimens collected for analysis in medical science laboratories include: – Blood – Urine – Stool (faeces) – Sputum – Bone – Aspirates and bronchial washings – Swabs/wound drainage – Ears-Nose-Throat (ENT) swabs – [[Cards/Cerebrospinal Fluid\|Cerebrospinal fluid]] ([[Cards/Cerebrospinal Fluid\|CSF]])
 >
 { #6BS4Y48PaMQ9EWBGLp2}
 

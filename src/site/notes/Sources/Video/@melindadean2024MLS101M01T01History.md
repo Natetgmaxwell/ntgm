@@ -22,9 +22,8 @@
 > creators:: Melinda Dean
 
 > [!Links]+
->  | Incoming Links                                                                                  |
-> | ----------------------------------------------------------------------------------------------- |
-> | [[Spaces/University/Classes/Foundations in Medical Science\|Foundations in Medical Science]] |
+>  | Incoming Links |
+> | -------------- |
 > 
 { .block-language-dataview}
 

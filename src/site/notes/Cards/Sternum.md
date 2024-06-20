@@ -14,32 +14,7 @@
 ## Parts of the [[Cards/Sternum\|Sternum]]
 
 - [[Cards/Manubrium\|Manubrium]]
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-### Parts of the [[Cards/Manubrium\|Manubrium]]
-
-- [[Cards/Costal Notches\|Costal Notches]]
-- [[Cards/Suprasternal notch\|Suprasternal notch]]
-
-
-</div></div>
-
 - [[Cards/Body of the Sternum\|Body of the Sternum]]
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-### Parts of the [[Cards/Body of the Sternum\|Body of the Sternum]]
-
-- [[Cards/Costal Notches\|Costal Notches]]
-
-
-</div></div>
-
 - [[Cards/Xiphoid process\|Xiphoid process]]
 
 # Reference
@@ -48,7 +23,28 @@
 
 ## Mentions
 
-- [[Sources/Articles/2019LandmarksBody-admin\|2019LandmarksBody-admin]]
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Calendar/2023/Daily/2023-04-03 Mon\|2023-04-03 Mon]]                                                 |
+| [[Cards/Axial Skeleton\|Axial Skeleton]]                                                               |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Cards/Pectoralis\|Pectoralis]]                                                                       |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                              |
+| ----------------------------------------------------------- |
+| [[Cards/Body of the Sternum\|Body of the Sternum]]       |
+| [[Cards/Bone Tissue\|Bone Tissue]]                       |
+| [[Cards/Manubrium\|Manubrium]]                           |
+| [[Cards/Sternoclavicular joint\|Sternoclavicular joint]] |
+| [[Cards/Xiphoid process\|Xiphoid process]]               |
+
+{ .block-language-dataview}
+
+| Sources                                                                  |
+| ------------------------------------------------------------------------ |
+| [[Sources/Articles/2019LandmarksBody-admin\|2019LandmarksBody-admin]] |
 
 { .block-language-dataview}
 

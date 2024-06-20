@@ -1,12 +1,12 @@
 ---
-{"aliases":["hb"],"tags":["Uni/LFS112","Uni/LFS122"],"dg-publish":true,"permalink":"/cards/hemoglobin/","dgPassFrontmatter":true}
+{"aliases":["hb","haemoglobin"],"tags":["Uni/LFS112","Uni/LFS122"],"dg-publish":true,"permalink":"/cards/hemoglobin/","dgPassFrontmatter":true}
 ---
 
 # Hemoglobin
 
 > [!Ontology]
-> up:: [[Cards/Globular Proteins\|Globular Proteins]], [[Cards/Red Blood Cells\|Red Blood Cells]]
-> jump:: [[Cards/Oxygen\|Oxygen]], [[Cards/Anaemia\|Anaemia]]
+> up:: [[Cards/Globular Proteins\|Globular Proteins]]
+> jump:: [[Cards/Oxygen\|Oxygen]], [[Cards/Anaemia\|Anaemia]], [[Cards/Red Blood Cells\|Red Blood Cells]]
 > down:: 
 
 > [!Definition] Definition
@@ -24,6 +24,7 @@
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]] |
+| [[Cards/Spectrophotometer\|Spectrophotometer]]                   |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Leukocytes"],"tags":["Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/white-blood-cells/","dgPassFrontmatter":true}
+{"aliases":["Leukocytes","WBC"],"tags":["Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/white-blood-cells/","dgPassFrontmatter":true}
 ---
 
 # White Blood Cells
@@ -10,11 +10,14 @@
 > down:: 
 
 > [!Definition] Definition
+> *Leukocytes*, often referred to as white blood cells (WBCs), play a crucial role in the immune system. They help protect the body against infections and diseases by identifying and destroying foreign pathogens or infected cells.
+{ #e9bbcd}
+
 
 > [!quote] [[Sources/Video/@MelindaDean2024MLS101M05T01Introduction\|@MelindaDean2024MLS101M05T01Introduction]]
 > White blood cells (also called leukocytes) fight infection and some destroy bacteria by engulfing them.
 
-### Types of [[Cards/White Blood Cells\|White Blood Cells]]
+## Types of [[Cards/White Blood Cells\|White Blood Cells]]
 
 - *Little* – [[Cards/Lymphocytes\|Lymphocytes]] (25-40%)
 - *Monkeys* – [[Cards/Monocytes\|Monocytes]] (3-8%)

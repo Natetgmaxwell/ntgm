@@ -35,7 +35,7 @@
 
 > [!quote-green] (Page 2) green
 > 
-> Nephelometry
+> [[Cards/Nephelometry\|Nephelometry]]
 >
 { #2QRNERMWaP6266LLEp2}
 
@@ -71,11 +71,8 @@
 > [!quote-green] (Page 4) green
 > 
 > [[Cards/Flow Cytometry\|Flow Cytometry]]
->
-{ #AKMCWGK2aP6266LLEp4}
-
-
-> [!quote-yellow] (Page 4) yellow
+> [](Reference.md)p4
+[](Flow%20Cytometry.md)w] (Page 4) yellow
 > 
 > A technique that can be used to study the properties of particles (usually cells)
 >

@@ -30,9 +30,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                             |
-| ----------------------------------------------------------------------------------- |
-| [[Sources/Video/@leedaffin2023-LFS122M12T2Male\|@leedaffin2023-LFS122M12T2Male]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 

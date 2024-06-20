@@ -10,7 +10,9 @@
 > down:: [[Cards/Sickle Cell Anaemia\|Sickle Cell Anaemia]]
 
 > [!Definition] Definition
-> Anaemia is a medical condition characterised by a deficiency of [[Cards/Red Blood Cells\|Red Blood Cells]] or [[Cards/Hemoglobin\|Hemoglobin]] in the blood.
+> *[[Cards/Anaemia\|Anaemia]]* refers to a condition where an individual's blood lacks enough [[Cards/Red Blood Cells\|red blood cells]], which can lead to fatigue, weakness, and shortness of breath—characterised by a deficiency of [[Cards/Red Blood Cells\|Red Blood Cells]] or [[Cards/Hemoglobin\|Hemoglobin]] in the blood.
+{ #a9c3f8}
+
 
 - [[Cards/Anaemia\|Anaemia]] can be a side effect of [[Cards/Rapamycin\|Rapamycin]] [[Sources/Research Papers/@gulayan2022RapamycinBenefitsSide\|@gulayan2022RapamycinBenefitsSide]]
 
@@ -20,8 +22,9 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                                                                                  |
+| ----------------------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Foundations in Medical Science\|Foundations in Medical Science]] |
 
 { .block-language-dataview}
 

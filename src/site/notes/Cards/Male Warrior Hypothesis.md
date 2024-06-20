@@ -12,6 +12,7 @@
 > [!Definition] Definition
 
 - Males are more likely to reduce conflict within their group if they find themselves competing against an out-group.
+- Human males across societies are responsible for 90 percent of the murders and make up about 80 percent of the victims.
 
 > [!cite]-
 > [[Sources/Articles/@henderson2022MaleWarriorHypothesis\|@henderson2022MaleWarriorHypothesis]]

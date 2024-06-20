@@ -37,7 +37,7 @@
 
 > [!quote] (Page 1)
 > 
-> – Haematocrit: percentage of RBCs in centrifuged whole blood
+> – [[Cards/Haematocrit\|Haematocrit]]: percentage of RBCs in centrifuged whole blood
 >
 { #98ATJY8DaIYXLS6GPp1}
 

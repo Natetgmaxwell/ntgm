@@ -2,7 +2,7 @@
 {"aliases":null,"tags":["Uni/LFS122"],"dg-publish":true,"permalink":"/cards/sphenoid-bone/","dgPassFrontmatter":true}
 ---
 
-# Sphenoid Bone
+# Sphenoid bone
 
 > [!ontology]+
 > up:: [[Cards/Cranium\|Cranium]]

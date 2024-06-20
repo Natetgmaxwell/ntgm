@@ -12,7 +12,7 @@
 > [!Definition] Definition
 
 ![Extras/Images/image-4-x123-y159.png|500](/img/user/Extras/Images/image-4-x123-y159.png)
-[[Sources/Video/@leedaffin2023-LFS122M12T2Male\|@leedaffin2023-LFS122M12T2Male]]
+[[@leedaffin2023-LFS122M12T2Male\|@leedaffin2023-LFS122M12T2Male]]
 
 ## Parts of the [[Cards/Male Reproductive System\|Male Reproductive System]]
 

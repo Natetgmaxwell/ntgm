@@ -24,6 +24,7 @@
 > [!Links]+
 >  | Incoming Links                                    |
 > | ------------------------------------------------- |
+> | [[Cards/Haematocrit\|Haematocrit]]             |
 > | [[Cards/White Blood Cells\|White Blood Cells]] |
 > 
 { .block-language-dataview}
@@ -68,7 +69,7 @@
 
 > [!quote-yellow] (Page 6) yellow
 > 
-> % of RBCs= haematocrit
+> % of RBCs= [[Cards/Haematocrit\|haematocrit]]
 >
 { #XTMSJZBSaXBHRLIHEp6}
 

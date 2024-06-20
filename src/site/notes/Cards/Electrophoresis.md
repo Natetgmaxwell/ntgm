@@ -25,12 +25,13 @@
 
 ## Mentions
 
-| Incoming Links                                    |
-| ------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-06-08\|2022-06-08]] |
-| [[Cards/Bioengineering\|Bioengineering]]       |
-| [[Cards/Evolution\|Evolution]]                 |
-| [[Cards/Hybridization\|Hybridization]]         |
+| Incoming Links                                      |
+| --------------------------------------------------- |
+| [[Calendar/2022/Daily/2022-06-08\|2022-06-08]]   |
+| [[Cards/Bioengineering\|Bioengineering]]         |
+| [[Cards/Electrophoretogram\|Electrophoretogram]] |
+| [[Cards/Evolution\|Evolution]]                   |
+| [[Cards/Hybridization\|Hybridization]]           |
 
 { .block-language-dataview}
 

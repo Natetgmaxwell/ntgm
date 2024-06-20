@@ -17,6 +17,7 @@
 | Name                                                                                                     | Cite Key                                                                                                    | Published |
 | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------- |
 | \-                                                                                                       | [[Sources/Video/@honorhugo2023LFS122M4T2Gross\|@honorhugo2023LFS122M4T2Gross]]                           | true      |
+| <ul><li>@LFS122 M12T2 Male Reproduction</li></ul>                                                        | [[Sources/@leedaffinLFS122M12T2Male2023\|@leedaffinLFS122M12T2Male2023]]                                 | true      |
 | <ul><li>@LFS122 M4T3 General Muscle Characteristics & Configurations</li></ul>                           | [[Sources/Video/@LeeDaffin2023LFS122M4T3General\|@LeeDaffin2023LFS122M4T3General]]                       | true      |
 | <ul><li>@LFS122 M4T5 Posterior Trunk Muscles</li></ul>                                                   | [[Sources/Video/@leedaffin2023LFS122M4T5Posterior\|@leedaffin2023LFS122M4T5Posterior]]                   | true      |
 | <ul><li>@LFS122 M5T1 Skull</li></ul>                                                                     | [[Sources/Video/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]                           | true      |
@@ -30,7 +31,6 @@
 | <ul><li>LFS122 M11T2 Oesophagus, Stomach, Small and  Large Intestines, Anus</li></ul>                    | [[Sources/Video/@leedaffin2023-LFS122M11T2Oesophagus\|@leedaffin2023-LFS122M11T2Oesophagus]]             | true      |
 | <ul><li>LFS122 M11T3 Pancreas, Liver and the  Abdominopelvic Cavity</li></ul>                            | [[Sources/Video/@leedaffin2023-LFS122M11T3Pancreas\|@leedaffin2023-LFS122M11T3Pancreas]]                 | true      |
 | <ul><li>LFS122 M12T1 The Urinary System</li></ul>                                                        | [[Sources/Video/@leedaffin2023-LFS122M12T1Urinary\|@leedaffin2023-LFS122M12T1Urinary]]                   | true      |
-| <ul><li>LFS122 M12T2 Male Reproduction</li></ul>                                                         | [[Sources/Video/@leedaffin2023-LFS122M12T2Male\|@leedaffin2023-LFS122M12T2Male]]                         | true      |
 | <ul><li>LFS122 M12T3 Female Reproduction</li></ul>                                                       | [[Sources/Video/@leedaffinLFS122M12T3Female2023\|@leedaffinLFS122M12T3Female2023]]                       | true      |
 | <ul><li>LFS122 M3T1 Integumentary System</li></ul>                                                       | [[Sources/Video/@skyecash-deans2023LFS122M3T1Integumentary\|@skyecash-deans2023LFS122M3T1Integumentary]] | true      |
 | <ul><li>LFS122 M4T1 Vertebral Column and Ribs</li></ul>                                                  | [[Sources/Video/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]]                                             | true      |
@@ -417,7 +417,7 @@
 	- [[Cards/Membranous Urethra\|Membranous Urethra]] 
 	- [[Cards/Spongy Urethra\|Spongy Urethra]] (males only)
 
-###### Male Reproductive System [[Sources/Video/@leedaffin2023-LFS122M12T2Male\|@leedaffin2023-LFS122M12T2Male]]
+###### Male Reproductive System [[@leedaffin2023-LFS122M12T2Male\|@leedaffin2023-LFS122M12T2Male]]
 
 - [[Perineum\|Perineum]]
 - [[Cards/Spermatic Cord\|Spermatic Cord]]

@@ -1,5 +1,5 @@
 ---
-{"Created":"2022-06-25","aliases":["enzyme","enzymes"],"date created":"2022-06-25 Sat","edited":"2023-04-06 Thu","dg-publish":true,"tags":["on/Science/Biology/Biochemistry"],"permalink":"/cards/enzyme/","dgPassFrontmatter":true}
+{"Created":"2022-06-25","aliases":["enzyme","enzymes"],"date created":"2022-06-25 Sat","edited":"2023-04-06 Thu","dg-publish":true,"tags":["on/Science/Biology/Biochemistry"],"up":["[[Cards/Globular Proteins.md]]"],"permalink":"/cards/enzyme/","dgPassFrontmatter":true}
 ---
 
 # Enzyme

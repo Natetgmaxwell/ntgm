@@ -12,31 +12,31 @@
 | [[Sources/Books/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]       | \-          |
 | [[Sources/Books/@georgeorwell1949NineteenEightyfour\|@georgeorwell1949NineteenEightyfour]]         | Fiction     |
 | [[Sources/Books/@davidmckay2023IntroductionChemistry\|@davidmckay2023IntroductionChemistry]]       | Non-Fiction |
-| [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]   | \-          |
+| [[Sources/Books/@walterisaacson2023ElonMusk\|@walterisaacson2023ElonMusk]]                         | \-          |
 
 { .block-language-dataview}
 
 ## Film
 | Film                                                                                | Rating | genres                                                    |
 | ----------------------------------------------------------------------------------- | ------ | --------------------------------------------------------- |
+| [[Sources/Video/Catch Me If You Can (2002)\|Catch Me If You Can (2002)]]         | ★★★★★  | <ul><li>Biography</li><li>Crime</li><li>Drama</li></ul>   |
 | [[Sources/Video/Inception (2010)\|Inception (2010)]]                             | ★★★★★  | <ul><li>Action</li><li>Adventure</li><li>Sci-Fi</li></ul> |
 | [[Sources/Video/Interstellar (2014)\|Interstellar (2014)]]                       | ★★★★★  | <ul><li>Sci-Fi</li><li>Action</li><li>Adventure</li></ul> |
-| [[Sources/Video/Oppenheimer (2023)\|Oppenheimer (2023)]]                         | ★★★★★  | <ul><li>Drama</li><li>History</li></ul>                   |
 | [[Sources/Video/The Dark Knight (2008)\|The Dark Knight (2008)]]                 | ★★★★★  | <ul><li>Crime</li><li>Action</li><li>Thriller</li></ul>   |
+| [[Sources/Video/Oppenheimer (2023)\|Oppenheimer (2023)]]                         | ★★★★★  | <ul><li>Drama</li><li>History</li></ul>                   |
 | [[Sources/Video/The Wolf of Wall Street (2013)\|The Wolf of Wall Street (2013)]] | ★★★★★  | <ul><li>Biography</li><li>Comedy</li><li>Crime</li></ul>  |
-| [[Sources/Video/Catch Me If You Can (2002)\|Catch Me If You Can (2002)]]         | ★★★★★  | <ul><li>Biography</li><li>Crime</li><li>Drama</li></ul>   |
 
 { .block-language-dataview}
 
 ## Articles
 | Title                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------ |
+| [[Sources/@hanania2021FatherhoodPracticingVirtue\|@hanania2021FatherhoodPracticingVirtue]]                |
+| [[Sources/@henderson2022TaxLife\|@henderson2022TaxLife]]                                                  |
 | [[Sources/Articles/The Mysterious Origins of Human Sacrifice\|The Mysterious Origins of Human Sacrifice]] |
 | [[Sources/Articles/@mastersonPeopleDyslexiaHave2022\|@mastersonPeopleDyslexiaHave2022]]                   |
-| [[Sources/Articles/@hawkinsGenghisKhanWas2022\|@hawkinsGenghisKhanWas2022]]                               |
 | [[Sources/Articles/@chrisyabsley2023OrdinaryMenChristopher\|@chrisyabsley2023OrdinaryMenChristopher]]     |
-| [[Sources/Articles/@brighton2023NSDRSleepHack\|@brighton2023NSDRSleepHack]]                               |
-| [[Sources/Articles/@Henderson2022WhatSocialStatus\|@Henderson2022WhatSocialStatus]]                       |
+| [[Sources/Articles/@hawkinsGenghisKhanWas2022\|@hawkinsGenghisKhanWas2022]]                               |
 
 { .block-language-dataview}
 

@@ -40,7 +40,7 @@
 
 > [!quote-yellow] (Page 4) yellow
 > 
-> The most commonly used veins for [[Cards/Venipuncture\|Venipuncture]] are: – median antecubital vein – median basilic vein – median cephalic vein
+> The most commonly used veins for [[Cards/Venipuncture\|Venipuncture]] are: – median antecubital vein – median basilic vein – median [[Cards/Cephalic Vein\|cephalic vein]]
 >
 { #PT5SNAMDaWU23X7MBp4}
 

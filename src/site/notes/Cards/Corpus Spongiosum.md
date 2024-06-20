@@ -17,7 +17,20 @@
 
 ## Mentions
 
-- [[Sources/Video/@leedaffin2023-LFS122M12T2Male\|@leedaffin2023-LFS122M12T2Male]]
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
+
+{ .block-language-dataview}
+
+| Outgoing Links            |
+| ------------------------- |
+| [[Cards/Penis\|Penis]] |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 

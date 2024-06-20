@@ -6,8 +6,8 @@
 
 > [!Ontology]-
 > up:: [[Cards/Fluid Connective Tissue\|Fluid Connective Tissue]], [[Cards/Cardiovascular System\|Cardiovascular System]]
-> jump:: [[Cards/Blood Vessels\|Blood Vessels]]
-> down:: [[Cards/Red Blood Cells\|Red Blood Cells]], [[Cards/White Blood Cells\|White Blood Cells]], [[Cards/Blood Plasma\|Plasma]], [[Cards/Platelets\|Platelets]], [[Cards/Blood Volume\|Blood Volume]]
+> jump:: [[Cards/Blood Vessels\|Blood Vessels]], [[Cards/Blood Volume\|Blood Volume]]
+> down:: [[Cards/Red Blood Cells\|Red Blood Cells]], [[Cards/White Blood Cells\|White Blood Cells]], [[Cards/Blood Plasma\|Plasma]], [[Cards/Platelets\|Platelets]], [[Cards/Blood Serum\|Blood Serum]]
 
 > [!Definition] Definition
 
@@ -28,29 +28,30 @@
 
 ## Components of Blood
 
-### [[Cards/Red Blood Cells\|Red Blood Cells]]
+> [!info]
+> ###### [[Cards/Blood Serum\|Blood Serum]] = Non-clotting components
 
+### 1. [[Cards/Red Blood Cells\|Red Blood Cells]]
+
+- Oxygen-carrying cells that make up about 40-45% of blood.
 - 37-54%
 
-### [[Cards/White Blood Cells\|White Blood Cells]]
+### 2. [[Cards/White Blood Cells\|White Blood Cells]]
 
-- Immunity
+- Part of the immune system, they are present in much lower quantities than [[Cards/Red Blood Cells\|RBCs]].
 - Have a [[Cards/Nucleus\|nucleus]]
-- have organelles
+- Have organelles
 
-### [[Cards/Blood Plasma\|Plasma]]
+### 3. [[Cards/Blood Plasma\|Plasma]]
 
-- 55%
+- The liquid component of blood, containing water, proteins, and other substances.
+- ~55% of total blood volume.
 
-### [[Cards/Blood Serum\|Blood Serum]]
+### 4. [[Cards/Platelets\|Platelets]]
 
-- Non-clotting components
+- Cell fragments involved in blood clotting and wound healing processes.
 
 # Reference
-
-- [[Cards/Blood Type\|Blood Type]]
-- [[Cards/Blood Pressure\|Blood Pressure]]
-- [[Cards/Red Blood Cells\|Red Blood Cells]]
 
 ## Mentions
 
@@ -66,6 +67,8 @@
 | [[Cards/Blood clot\|Blood clot]]                                                                                                 |
 | [[Cards/Blood Flow\|Blood Flow]]                                                                                                 |
 | [[Cards/Blood pH\|Blood pH]]                                                                                                     |
+| [[Cards/Blood Pressure\|Blood Pressure]]                                                                                         |
+| [[Cards/Blood Type\|Blood Type]]                                                                                                 |
 | [[Cards/Carbon Dioxide\|Carbon Dioxide]]                                                                                         |
 | [[Cards/Carrier Proteins\|Carrier Proteins]]                                                                                     |
 | [[Cards/Cell Signalling\|Cell Signalling]]                                                                                       |
@@ -73,6 +76,7 @@
 | [[Extras/Excalidraw/Connective Tissue Diagram.excalidraw\|Connective Tissue Diagram.excalidraw]]                                 |
 | [[Cards/Diapedesis\|Diapedesis]]                                                                                                 |
 | [[Cards/Electrolytes\|Electrolytes]]                                                                                             |
+| [[Spaces/University/Classes/Foundations in Medical Science\|Foundations in Medical Science]]                                     |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]]        |
 | [[Cards/Heart\|Heart]]                                                                                                           |
 | [[Cards/Heat Acclimation\|Heat Acclimation]]                                                                                     |
@@ -83,6 +87,7 @@
 | [[Cards/Lactate\|Lactate]]                                                                                                       |
 | [[Cards/Metabolic Syndrome\|Metabolic Syndrome]]                                                                                 |
 | [[Cards/Oxygen\|Oxygen]]                                                                                                         |
+| [[Cards/Phlebotomy\|Phlebotomy]]                                                                                                 |
 | [[Cards/Pulmonary Artery\|Pulmonary Artery]]                                                                                     |
 | [[Cards/Pulmonary Vein\|Pulmonary Vein]]                                                                                         |
 | [[Cards/Saline Solutions\|Saline Solutions]]                                                                                     |
@@ -99,9 +104,7 @@
 | Outgoing Links                                                |
 | ------------------------------------------------------------- |
 | [[Cards/Blood Plasma\|Blood Plasma]]                       |
-| [[Cards/Blood Pressure\|Blood Pressure]]                   |
 | [[Cards/Blood Serum\|Blood Serum]]                         |
-| [[Cards/Blood Type\|Blood Type]]                           |
 | [[Cards/Blood Vessels\|Blood Vessels]]                     |
 | [[Cards/Blood Volume\|Blood Volume]]                       |
 | [[Cards/Cardiovascular System\|Cardiovascular System]]     |

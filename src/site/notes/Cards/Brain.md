@@ -45,7 +45,6 @@
 | [[Cards/Alcohol\|Alcohol]]                                                                             |
 | [[Cards/Autonomic Nervous System\|Autonomic Nervous System]]                                           |
 | [[Cards/Blood-brain Barrier\|Blood-brain Barrier]]                                                     |
-| [[Cards/Cerebrospinal Fluid\|Cerebrospinal Fluid]]                                                     |
 | [[Cards/Choline\|Choline]]                                                                             |
 | [[Cards/Docosahexaenoic Acid\|Docosahexaenoic Acid]]                                                   |
 | [[Cards/Enteric Nervous System\|Enteric Nervous System]]                                               |

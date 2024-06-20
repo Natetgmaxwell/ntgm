@@ -21,7 +21,20 @@
 
 ## Mentions
 
-- [[Sources/Video/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]]
+| Incoming Links |
+| -------------- |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                          |
+| ------------------------------------------------------- |
+| [[Cards/Hormone Interactions\|Hormone Interactions]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                           |
+| --------------------------------------------------------------------------------- |
+| [[Sources/Video/@lindagalloLFS112M4T1Overview\|@lindagalloLFS112M4T1Overview]] |
 
 { .block-language-dataview}
 
