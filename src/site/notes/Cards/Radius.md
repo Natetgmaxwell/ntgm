@@ -31,7 +31,7 @@
 | [[Cards/Abductor Pollicis Longus\|Abductor Pollicis Longus]]                                           |
 | [[Cards/Biceps Brachii\|Biceps Brachii]]                                                               |
 | [[Cards/Brachioradialis\|Brachioradialis]]                                                             |
-| [[Cards/Flexor digitorum superficialis\|Flexor digitorum superficialis]]                               |
+| [[Cards/Flexor Digitorum Superficialis\|Flexor Digitorum Superficialis]]                               |
 | [[Cards/Flexor pollicis longus\|Flexor pollicis longus]]                                               |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
 | [[Cards/Pronator Quadratus\|Pronator Quadratus]]                                                       |

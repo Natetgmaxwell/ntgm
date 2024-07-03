@@ -21,7 +21,6 @@
 ## Mentions
 
 - [[Sources/Articles/AnatomicalBodyPlanes2022\|AnatomicalBodyPlanes2022]]
-- [[Sources/Articles/TypesJointMovement\|TypesJointMovement]]
 
 { .block-language-dataview}
 

@@ -12,7 +12,8 @@
 > [!Definition] Definition
 
 ![image-12-x3-y122.png](/img/user/Extras/Images/image-12-x3-y122.png)
-[[Sources/Video/@colingavagan2023-LFS122M8T3Skeletal\|@colingavagan2023-LFS122M8T3Skeletal]]
+> [!cite]-
+> [[Sources/Video/@colingavagan2023-LFS122M8T3Skeletal\|@colingavagan2023-LFS122M8T3Skeletal]]
 
 ## List of the Hand Bones
 

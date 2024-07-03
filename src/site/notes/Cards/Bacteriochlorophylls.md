@@ -38,4 +38,4 @@
 ## Flashcards
 
 What is the difference between [[Cards/Cyanobacteria\|Cyanobacteria]] [[Cards/Chlorophyll\|Chlorophyll]] and [[Cards/Bacteriochlorophylls\|Bacteriochlorophylls]]?;;[[Cards/Chlorophyll\|Chlorophylls]] in plants and [[Cards/Cyanobacteria\|Cyanobacteria]] produce [[Cards/Oxygen\|Oxygen]] as a by product where as [[Cards/Bacteriochlorophylls\|Bacteriochlorophylls]] are an-oxygenic.
-<!--SR:!2024-05-24,9,250-->
+<!--SR:!2024-07-12,22,250-->

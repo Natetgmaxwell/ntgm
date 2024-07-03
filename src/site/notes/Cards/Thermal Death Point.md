@@ -37,4 +37,4 @@
 ## Flashcards
 
 [[Cards/Thermal Death Point\|Thermal Death Point]] (TDP) is the lowest temperature at which all microorganisms in a liquid suspension will be killed in?;;10 minutes
-<!--SR:!2024-06-08,24,270-->
+<!--SR:!2024-09-16,88,290-->

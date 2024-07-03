@@ -17,7 +17,7 @@
 > [!quote] [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]
 > "According to Rob Boyd and Pete Richerson, that’s our species’ Clever Trick: stealing ideas from one another’s brains. Our Clever Trick is plagiarism! Elephants have their trunks; giraffes have their long necks – and humans have their ability to plagiarize."
 
-[[Cards/Steve Stewart-Williams\|Steve Stewart-Williams]] argues that plagiarism isn't necessarily a bad thing. It allows individuals to send time dreaming new innovations rather than solving the basic ones others have already figured out [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]].
+[[Cards/Steve Stewart-Williams\|Steve Stewart-Williams]] argues that plagiarism isn't necessarily a bad thing. It allows individuals to send time dreaming new innovations rather than solving the basic ones others have already figured out.^[[[@stewart-williams2018ApeThatUnderstood\|[@stewart-williams2018ApeThatUnderstood]]]
 
 # Reference
 
@@ -25,8 +25,9 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                          |
+| --------------------------------------- |
+| [[Cards/Homo sapiens\|Homo sapiens]] |
 
 { .block-language-dataview}
 

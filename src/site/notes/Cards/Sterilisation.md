@@ -36,4 +36,4 @@
 ## Flashcards
 
 Which method is the most commonly used one for sterilization? a. Incineration b. Heating c. Freezing d. Lyophilization e. Centrifugation;;Heating
-<!--SR:!2024-05-18,12,270-->
+<!--SR:!2024-08-03,44,290-->

@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS261"],"current-class":true,"dg-publish":true,"permalink":"/spaces/university/classes/microbiology/","dgPassFrontmatter":true}
+{"aliases":["LFS261"],"current-class":false,"dg-publish":true,"permalink":"/spaces/university/classes/microbiology/","dgPassFrontmatter":true}
 ---
 
 
@@ -8,13 +8,13 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 # Microbiology
 
 ## Assessments
-| Name                                                                                             | Status      |
-| ------------------------------------------------------------------------------------------------ | ----------- |
-| [[Spaces/University/Projects/LFS261A1 Early Assessment Quiz\|LFS261A1 Early Assessment Quiz]] | Completed   |
-| [[Spaces/University/Projects/LFS261A2 Mid-term Exam\|LFS261A2 Mid-term Exam]]                 | Not Started |
-| [[Spaces/University/Projects/LFS261A3 Laboratory Portfolio\|LFS261A3 Laboratory Portfolio]]   | Not Started |
-| [[Spaces/University/Projects/LFS261A4 Final Exam\|LFS261A4 Final Exam]]                       | Not Started |
-| [[Spaces/University/Projects/MLS101A2 Review Quiz\|MLS101A2 Review Quiz]]                     | Not Started |
+| Name                                                                                             | Status    |
+| ------------------------------------------------------------------------------------------------ | --------- |
+| [[Spaces/University/Projects/LFS261A1 Early Assessment Quiz\|LFS261A1 Early Assessment Quiz]] | Completed |
+| [[Spaces/University/Projects/LFS261A2 Mid-term Exam\|LFS261A2 Mid-term Exam]]                 | Completed |
+| [[Spaces/University/Projects/LFS261A3 Laboratory Portfolio\|LFS261A3 Laboratory Portfolio]]   | Completed |
+| [[Spaces/University/Projects/LFS261A4 Final Exam\|LFS261A4 Final Exam]]                       | Completed |
+| [[Spaces/University/Projects/MLS101A2 Review Quiz\|MLS101A2 Review Quiz]]                     | Completed |
 
 { .block-language-dataview}
 

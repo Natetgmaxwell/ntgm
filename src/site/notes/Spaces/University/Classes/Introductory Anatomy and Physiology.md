@@ -1,5 +1,5 @@
 ---
-{"aliases":["HBIO1009"],"date created":"2023-01-31 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/spaces/university/classes/introductory-anatomy-and-physiology/","dgPassFrontmatter":true}
+{"aliases":["HBIO1009"],"date created":"2023-01-31 Tue","edited":"2023-04-06 Thu","dg-publish":true,"current-class":false,"permalink":"/spaces/university/classes/introductory-anatomy-and-physiology/","dgPassFrontmatter":true}
 ---
 
 

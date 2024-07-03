@@ -13,7 +13,7 @@
 > 
 
 > [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
-> The benefits of blood flow restriction training: Muscle hypertrophy at lower intensities Less stress on the joints and tendons Faster rehab and recovery from injuries Better blood flow and circulation Decreased muscle damage from exercise Increased growth hormone release Improve tendon structure and stiffness[1456] Reduces muscle atrophy from disuse Stem cell proliferation[1457] Growth of new blood vessels[1458],[1459]
+> The benefits of blood flow restriction training: Muscle hypertrophy at lower intensities Less stress on the joints and tendons Faster rehab and recovery from injuries Better blood flow and circulation Decreased [[Cards/Muscle Damage\|muscle damage]] from exercise Increased growth hormone release Improve tendon structure and stiffness[1456] Reduces muscle atrophy from disuse Stem cell proliferation[1457] Growth of new blood vessels[1458],[1459]
 
 # Reference
 - 
@@ -29,6 +29,7 @@
 | ----------------------------------------------------------------------------- |
 | [[Cards/Blood Flow Restriction Training\|Blood Flow Restriction Training]] |
 | [[Cards/Muscle Angiogenesis\|Muscle Angiogenesis]]                         |
+| [[Cards/Muscle Damage\|Muscle Damage]]                                     |
 
 { .block-language-dataview}
 

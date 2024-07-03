@@ -48,9 +48,8 @@ Steve Jobs' philosophy emphasises the importance of innovation, design, and simp
 
 { .block-language-dataview}
 
-| Sources                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Podcasts/Podcast Episodes/18 Naval Ravikant The Angel Philosopher\|18 Naval Ravikant The Angel Philosopher]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 

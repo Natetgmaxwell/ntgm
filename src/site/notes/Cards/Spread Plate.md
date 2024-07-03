@@ -45,4 +45,4 @@
 ## Flashcards
 
 What is a [[Cards/Spread Plate\|Spread Plate]]?;;A spread plate is where the [[Cards/Micro-organisms\|Microbes]] are spread into a set [[Cards/Agar\|Agar]] plate.
-<!--SR:!2024-06-09,25,270-->
+<!--SR:!2024-09-21,93,290-->

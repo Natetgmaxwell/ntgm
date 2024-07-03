@@ -44,7 +44,7 @@ A fungal sexual spore results from sexual reproduction, consisting of three phas
 <!--SR:!2024-05-16,1,230-->
 
 Fungal spores can be either asexual or sexual. Asexual spores are formed by the hyphae of one organism. When these spores germinate, they become genetically identical to the parent whereas sexual spores result from the?;;Fusion of nuclei from two opposite mating strains of the same species of fungus.
-<!--SR:!2024-05-16,1,230-->
+<!--SR:!2024-06-21,1,210-->
 
 Fungi usually grow better in an environment with a pH of about?;;5
 <!--SR:!2024-05-18,3,250-->

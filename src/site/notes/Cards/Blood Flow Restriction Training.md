@@ -32,6 +32,7 @@
 | Incoming Links                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Blood Flow Restriction Training for Muscle Angiogenesis\|Blood Flow Restriction Training for Muscle Angiogenesis]] |
+| [[Cards/Muscle Damage\|Muscle Damage]]                                                                                     |
 
 { .block-language-dataview}
 

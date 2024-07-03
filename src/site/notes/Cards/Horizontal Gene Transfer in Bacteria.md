@@ -50,7 +50,7 @@
 ## Flashcards 
 
 What are the three major forms of horizontal gene transfer in bacteria?;;Transformation, Conjugation, Transduction
-<!--SR:!2024-05-18,3,250-->
+<!--SR:!2024-06-27,7,250-->
 
 What are some differences regarding the ability of a transducing particle to transfer DNA when compared to transformation and conjugation?;;
-<!--SR:!2024-05-16,1,230-->
+<!--SR:!2024-06-22,2,230-->

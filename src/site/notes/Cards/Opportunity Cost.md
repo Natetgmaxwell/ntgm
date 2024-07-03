@@ -17,8 +17,9 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                                            |
+| --------------------------------------------------------- |
+| [[Calendar/2023/Daily/2024-06-26 Wed\|2024-06-26 Wed]] |
 
 { .block-language-dataview}
 

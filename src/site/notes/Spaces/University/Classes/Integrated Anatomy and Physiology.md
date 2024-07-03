@@ -1,5 +1,5 @@
 ---
-{"aliases":["HBIO1010"],"dg-publish":true,"permalink":"/spaces/university/classes/integrated-anatomy-and-physiology/","dgPassFrontmatter":true}
+{"aliases":["HBIO1010"],"dg-publish":true,"current-class":false,"permalink":"/spaces/university/classes/integrated-anatomy-and-physiology/","dgPassFrontmatter":true}
 ---
 
 

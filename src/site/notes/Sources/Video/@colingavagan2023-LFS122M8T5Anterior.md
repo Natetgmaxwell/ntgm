@@ -33,8 +33,8 @@
 - [[Cards/Flexor carpi radialis\|Flexor carpi radialis]]
 - [[Cards/Palmaris longus\|Palmaris longus]]
 - [[Cards/Flexor carpi ulnaris\|Flexor carpi ulnaris]]
-- [[Cards/Flexor digitorum superficialis\|Flexor digitorum superficialis]]
-- [[Cards/Flexor digitorum profundus\|Flexor digitorum profundus]]
+- [[Cards/Flexor Digitorum Superficialis\|Flexor Digitorum Superficialis]]
+- [[Cards/Flexor Digitorum Profundus\|Flexor Digitorum Profundus]]
 - [[Cards/Pronator Quadratus\|Pronator Quadratus]]
 - [[Cards/Flexor pollicis longus\|Flexor pollicis longus]]
   

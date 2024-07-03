@@ -20,7 +20,6 @@
 - [[Cards/Anconeus\|Anconeus]]
 - [[Cards/Extensor Carpi Radialis Longus\|Extensor Carpi Radialis Longus]]
 - [[Cards/Extensor Carpi Radialis Brevis\|Extensor Carpi Radialis Brevis]]
-- [[Cards/Extensor Digitorum\|Extensor Digitorum]]
 - [[Cards/Extensor Digiti Minimi\|Extensor Digiti Minimi]]
 - [[Cards/Extensor Carpi Ulnaris\|Extensor Carpi Ulnaris]]
 - [[Cards/Abductor Pollicis Longus\|Abductor Pollicis Longus]]
@@ -51,7 +50,6 @@
 | [[Cards/Extensor Carpi Radialis Longus\|Extensor Carpi Radialis Longus]] |
 | [[Cards/Extensor Carpi Ulnaris\|Extensor Carpi Ulnaris]]                 |
 | [[Cards/Extensor Digiti Minimi\|Extensor Digiti Minimi]]                 |
-| [[Cards/Extensor Digitorum\|Extensor Digitorum]]                         |
 | [[Cards/Extensor Indicis\|Extensor Indicis]]                             |
 | [[Cards/Extensor Pollicis Brevis\|Extensor Pollicis Brevis]]             |
 | [[Cards/Extensor Pollicis Longus\|Extensor Pollicis Longus]]             |

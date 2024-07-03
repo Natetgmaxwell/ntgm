@@ -36,11 +36,10 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Research Papers/@gulayan2022RapamycinBenefitsSide\|@gulayan2022RapamycinBenefitsSide]]                                                                           |
-| [[Sources/Research Papers/@sato2022-TuningAgedClock\|@sato2022-TuningAgedClock]]                                                                                           |
-| [[Sources/Podcasts/Podcast Episodes/OUTLIVE  Peter Attia’s Guide to the Science of Longevity (Part 1)\|OUTLIVE  Peter Attia’s Guide to the Science of Longevity (Part 1)]] |
+| Sources                                                                                             |
+| --------------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@gulayan2022RapamycinBenefitsSide\|@gulayan2022RapamycinBenefitsSide]] |
+| [[Sources/Research Papers/@sato2022-TuningAgedClock\|@sato2022-TuningAgedClock]]                 |
 
 { .block-language-dataview}
 

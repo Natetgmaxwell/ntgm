@@ -36,4 +36,4 @@
 ## Flashcards
 
 [[Cards/Virucide\|Virucide]] is a chemical, which inactivates?;;[[Cards/Virus\|Virus]]
-<!--SR:!2024-05-23,8,250-->
+<!--SR:!2024-07-17,27,270-->

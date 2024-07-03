@@ -17,7 +17,24 @@
 
 ## Mentions
 
-- [[Sources/Video/@leedaffin2023-LFS122M11T2Oesophagus\|@leedaffin2023-LFS122M11T2Oesophagus]]
+| Incoming Links                                                                                        |
+| ----------------------------------------------------------------------------------------------------- |
+| [[Extras/Excalidraw/Digestive System Diagram\|Digestive System Diagram]]                           |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                         |
+| [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                |
+| --------------------------------------------- |
+| [[Cards/Ascending Colon\|Ascending Colon]] |
+| [[Cards/Large Intestine\|Large Intestine]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                                         |
+| ----------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffin2023-LFS122M11T2Oesophagus\|@leedaffin2023-LFS122M11T2Oesophagus]] |
 
 { .block-language-dataview}
 

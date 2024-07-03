@@ -77,6 +77,7 @@ And A LOT MORE!
 > | [[Cards/Insulin-like growth factor 1\|Insulin-like growth factor 1]]                                                                                                                                                                                                                                                               |
 > | [[Cards/Methionine\|Methionine]]                                                                                                                                                                                                                                                                                                   |
 > | [[Cards/mTOR\|mTOR]]                                                                                                                                                                                                                                                                                                               |
+> | [[Cards/Muscle Damage\|Muscle Damage]]                                                                                                                                                                                                                                                                                             |
 > | [[Cards/Muscle Tissue\|Muscle Tissue]]                                                                                                                                                                                                                                                                                             |
 > | [[Cards/Myofibrillar Hypertrophy\|Myofibrillar Hypertrophy]]                                                                                                                                                                                                                                                                       |
 > | [[Cards/Myostatin\|Myostatin]]                                                                                                                                                                                                                                                                                                     |
@@ -810,7 +811,7 @@ And A LOT MORE!
 
 > [!quote-yellow] (Page 366) yellow
 > 
-> The benefits of blood flow restriction training: Muscle hypertrophy at lower intensities Less stress on the joints and tendons Faster rehab and recovery from injuries Better blood flow and circulation Decreased muscle damage from exercise Increased growth hormone release Improve tendon structure and stiffness[1456] Reduces muscle atrophy from disuse Stem cell proliferation[1457] Growth of new blood vessels[1458],[1459]
+> The benefits of blood flow restriction training: Muscle hypertrophy at lower intensities Less stress on the joints and tendons Faster rehab and recovery from injuries Better blood flow and circulation Decreased [[Cards/Muscle Damage\|muscle damage]] from exercise Increased growth hormone release Improve tendon structure and stiffness[1456] Reduces muscle atrophy from disuse Stem cell proliferation[1457] Growth of new blood vessels[1458],[1459]
 >
 { #DISLUVIQaJ3CKUZ5Vp366}
 

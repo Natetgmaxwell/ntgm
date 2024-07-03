@@ -19,8 +19,8 @@
 
 | Incoming Links                                                                                        |
 | ----------------------------------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                         |
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                         |
 
 { .block-language-dataview}
 

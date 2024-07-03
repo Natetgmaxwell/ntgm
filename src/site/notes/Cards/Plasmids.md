@@ -51,4 +51,4 @@ Do plasmids carry genes essential for normal cellular processes?;;no
 <!--SR:!2024-05-18,3,250-->
 
 Is there only 1 copy of a plasmid can be found inside a bacterial cell?;;no
-<!--SR:!2024-05-18,3,250-->
+<!--SR:!2024-06-27,7,250-->

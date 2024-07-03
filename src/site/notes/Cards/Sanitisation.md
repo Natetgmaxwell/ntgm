@@ -36,4 +36,4 @@
 ## Flashcards
 
 Restaurant glassware, china, and tableware are subjected to [[Cards/Sterilisation\|Sterilisation]], intended to lower microbial counts to safe public health levels and to minimise the chances of disease transmission from one user to another. The [[Cards/Sterilisation\|Sterilisation]] method used is called?;;[[Cards/Sanitisation\|Sanitisation]]
-<!--SR:!2024-05-21,6,230-->
+<!--SR:!2024-06-23,3,210-->

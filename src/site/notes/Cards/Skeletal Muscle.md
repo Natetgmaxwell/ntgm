@@ -73,7 +73,6 @@
 | [[Cards/Extensor Carpi Radialis Brevis\|Extensor Carpi Radialis Brevis]]                                                  |
 | [[Cards/Extensor Carpi Radialis Longus\|Extensor Carpi Radialis Longus]]                                                  |
 | [[Cards/Extensor Carpi Ulnaris\|Extensor Carpi Ulnaris]]                                                                  |
-| [[Cards/Extensor Digitorum\|Extensor Digitorum]]                                                                          |
 | [[Cards/Extensor Digitorum Longus\|Extensor Digitorum Longus]]                                                            |
 | [[Cards/Extensor Hallucis Longus\|Extensor Hallucis Longus]]                                                              |
 | [[Cards/Extensor Indicis\|Extensor Indicis]]                                                                              |
@@ -84,8 +83,8 @@
 | [[Cards/Flexor carpi radialis\|Flexor carpi radialis]]                                                                    |
 | [[Cards/Flexor carpi ulnaris\|Flexor carpi ulnaris]]                                                                      |
 | [[Cards/Flexor Digitorum Longus\|Flexor Digitorum Longus]]                                                                |
-| [[Cards/Flexor digitorum profundus\|Flexor digitorum profundus]]                                                          |
-| [[Cards/Flexor digitorum superficialis\|Flexor digitorum superficialis]]                                                  |
+| [[Cards/Flexor Digitorum Profundus\|Flexor Digitorum Profundus]]                                                          |
+| [[Cards/Flexor Digitorum Superficialis\|Flexor Digitorum Superficialis]]                                                  |
 | [[Cards/Flexor Hallucis Longus\|Flexor Hallucis Longus]]                                                                  |
 | [[Cards/Flexor Pollicis Brevis\|Flexor Pollicis Brevis]]                                                                  |
 | [[Cards/Flexor pollicis longus\|Flexor pollicis longus]]                                                                  |
@@ -100,7 +99,7 @@
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
 | [[Cards/Latissimus dorsi\|Latissimus dorsi]]                                                                              |
 | [[Cards/Levator Scapulae\|Levator Scapulae]]                                                                              |
-| [[Cards/Lumbrical muscles of the hand\|Lumbrical muscles of the hand]]                                                    |
+| [[Cards/Lumbrical Muscles of the Hand\|Lumbrical Muscles of the Hand]]                                                    |
 | [[Cards/Multifidus\|Multifidus]]                                                                                          |
 | [[Cards/Muscle Tension\|Muscle Tension]]                                                                                  |
 | [[Cards/Muscles of the Hand\|Muscles of the Hand]]                                                                        |

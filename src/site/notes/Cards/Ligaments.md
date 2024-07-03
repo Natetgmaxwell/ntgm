@@ -29,7 +29,7 @@
 | [[Cards/Anterior Talofibular Ligament\|Anterior Talofibular Ligament]]                                                    |
 | [[Cards/Falciform Ligament\|Falciform Ligament]]                                                                          |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
-| [[Cards/Iliofemoral Ligament\|Iliofemoral Ligament]]                                                                      |
+| [[Cards/Iliofemoral ligament\|Iliofemoral ligament]]                                                                      |
 | [[Cards/Inguinal Ligament\|Inguinal Ligament]]                                                                            |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
 | [[Cards/Ischiofemoral Ligament\|Ischiofemoral Ligament]]                                                                  |

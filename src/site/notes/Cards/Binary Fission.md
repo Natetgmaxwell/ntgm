@@ -39,4 +39,4 @@
 ## Flashcards
 
 What is binary fission?;;[[Cards/Asexual Reproduction\|Asexual Reproduction]] by separation of the body into two new bodies.
-<!--SR:!2024-06-01,17,250-->
+<!--SR:!2024-08-01,42,250-->

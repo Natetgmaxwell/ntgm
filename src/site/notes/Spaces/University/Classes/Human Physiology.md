@@ -1,5 +1,5 @@
 ---
-{"Status":"Read","year":2023,"aliases":["LFS112"],"cssclasses":["cards","wide"],"dg-publish":true,"cssclass":null,"permalink":"/spaces/university/classes/human-physiology/","dgPassFrontmatter":true}
+{"Status":"Read","year":2023,"aliases":["LFS112"],"cssclasses":["cards","wide"],"dg-publish":true,"current-class":false,"permalink":"/spaces/university/classes/human-physiology/","dgPassFrontmatter":true}
 ---
 
 # Human Physiology

@@ -1,5 +1,5 @@
 ---
-{"aliases":["MLS101"],"dg-publish":true,"current-class":true,"permalink":"/spaces/university/classes/foundations-in-medical-science/","dgPassFrontmatter":true}
+{"aliases":["MLS101"],"dg-publish":true,"current-class":false,"permalink":"/spaces/university/classes/foundations-in-medical-science/","dgPassFrontmatter":true}
 ---
 
 
@@ -8,11 +8,11 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 # Foundations in Medical Science
 
 ## Assessments
-| Name                                                                                                                                     | Status      |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Spaces/University/Projects/MLS101A1 Professional Skills Development Portfolio\|MLS101A1 Professional Skills Development Portfolio]] | In Progress |
-| [[Spaces/University/Projects/MLS101A2 Review Quiz\|MLS101A2 Review Quiz]]                                                             | Not Started |
-| [[Spaces/University/Projects/MLS101A3 End-of-Semester Exam\|MLS101A3 End-of-Semester Exam]]                                           | Not Started |
+| Name                                                                                                                                     | Status    |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [[Spaces/University/Projects/MLS101A1 Professional Skills Development Portfolio\|MLS101A1 Professional Skills Development Portfolio]] | Completed |
+| [[Spaces/University/Projects/MLS101A2 Review Quiz\|MLS101A2 Review Quiz]]                                                             | Completed |
+| [[Spaces/University/Projects/MLS101A3 End-of-Semester Exam\|MLS101A3 End-of-Semester Exam]]                                           | Completed |
 
 { .block-language-dataview}
 
@@ -209,11 +209,11 @@ Sodium fluoride is used as an additive in Phlebotomy due to its antimicrobial pr
 > [!cite]-
 > [[Cards/Hematoma#^69afc3\|Hematoma#^69afc3]]
 
-###### What is a Guthrie card, and what are two common diseases screened for in neonates using a Guthrie card?
+###### What is a [[Cards/Guthrie card\|Guthrie card]], and what are two common diseases screened for in neonates using a [[Cards/Guthrie card\|Guthrie card]]?
 
 A [[Cards/Guthrie card\|Guthrie card]] is a blood-spot test collection device used to screen newborns for certain metabolic disorders. It's named after Dr. Robert Guthrie, who developed the test.
 
-*Two common diseases screened for in neonates using a Guthrie card are:*
+*Two common diseases screened for in neonates using a [[Cards/Guthrie card\|Guthrie card]] are:*
 
 1. Phenylketonuria (PKU): A genetic disorder that affects the body's ability to break down and use phenylalanine, an amino acid found in many foods.
 2. Hypothyroidism: A condition where the thyroid gland doesn't produce enough hormones, which can cause growth and developmental delays if not treated early.

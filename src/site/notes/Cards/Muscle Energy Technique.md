@@ -1,5 +1,5 @@
 ---
-{"aliases":["MET"],"tags":null,"dg-publish":true,"permalink":"/cards/muscle-energy-technique/","dgPassFrontmatter":true}
+{"aliases":["MET"],"tags":["Uni/OMT2"],"dg-publish":true,"permalink":"/cards/muscle-energy-technique/","dgPassFrontmatter":true}
 ---
 
 # Muscle Energy Technique

@@ -10,6 +10,7 @@
 > down:: 
 
 > [!Definition] Definition
+> Active transport is a cellular process that uses energy to move molecules across a cell membrane against their concentration gradient.
 { #d7dd25}
 
 

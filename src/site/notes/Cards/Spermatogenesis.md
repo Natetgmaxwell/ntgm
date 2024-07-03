@@ -21,8 +21,8 @@
 
 | Incoming Links                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Extras/Excalidraw/Hormones of the Male Reproductive System Diagram.excalidraw\|Hormones of the Male Reproductive System Diagram.excalidraw]] |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                                               |
+| [[Extras/Excalidraw/Hormones of the Male Reproductive System Diagram.excalidraw\|Hormones of the Male Reproductive System Diagram.excalidraw]] |
 
 { .block-language-dataview}
 

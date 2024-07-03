@@ -5,11 +5,20 @@
 # Greater Trochanter
 
 > [!ontology]-
-> up:: 
-> jump:: [[Cards/Gluteus medius\|Gluteus medius]]
+> up:: [[Cards/Femur\|Femur]]
+> jump:: [[Cards/Gluteus medius\|Gluteus medius]], [[Cards/Gluteus maximus\|Gluteus maximus]], [[Cards/Tensor Fasciae Latae\|TFL]], [[Cards/Iliotibial Band\|ITB]], [[Cards/Piriformis\|Piriformis]]
 > down:: 
 
 > [!Definition] Definition
+> The greater trochanter is a prominent bony prominence located on the lateral aspect of the hip bone (femur).
+
+## Muscles that Attach to the [[Cards/Greater Trochanter\|Greater Trochanter]]
+
+- [[Cards/Gluteus maximus\|Gluteus maximus]]
+- [[Cards/Tensor Fasciae Latae\|TFL]]
+- [[Cards/Iliotibial Band\|ITB]]
+- [[Cards/Gluteus medius\|Gluteus medius]]
+- [[Cards/Piriformis\|Piriformis]]
 
 # Reference
 
@@ -17,15 +26,19 @@
 
 ## Mentions
 
-| Incoming Links            |
-| ------------------------- |
-| [[Cards/Femur\|Femur]] |
+| Incoming Links |
+| -------------- |
 
 { .block-language-dataview}
 
-| Outgoing Links                              |
-| ------------------------------------------- |
-| [[Cards/Gluteus medius\|Gluteus medius]] |
+| Outgoing Links                                          |
+| ------------------------------------------------------- |
+| [[Cards/Femur\|Femur]]                               |
+| [[Cards/Gluteus maximus\|Gluteus maximus]]           |
+| [[Cards/Gluteus medius\|Gluteus medius]]             |
+| [[Cards/Iliotibial Band\|Iliotibial Band]]           |
+| [[Cards/Piriformis\|Piriformis]]                     |
+| [[Cards/Tensor Fasciae Latae\|Tensor Fasciae Latae]] |
 
 { .block-language-dataview}
 

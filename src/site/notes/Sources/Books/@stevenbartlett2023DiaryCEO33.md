@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"9RJQSJWF","zt-attachments":["6419"],"alias":", @The Diary of a CEO: The 33 Laws of Business and Life","keywords":[],"FirstAuthor":"[[ Steven Bartlett]]","tags":["source/book"],"dg-publish":true,"permalink":"/sources/books/stevenbartlett2023-diary-ceo-33/","dgPassFrontmatter":true}
+{"zotero-key":"9RJQSJWF","zt-attachments":["6419"],"alias":", @The Diary of a CEO: The 33 Laws of Business and Life","keywords":[],"FirstAuthor":"[[ Steven Bartlett]]","tags":["source/book"],"dg-publish":true,"Status":"Reading","Priority":"Medium","Genre":"Non-Fiction","permalink":"/sources/books/stevenbartlett2023-diary-ceo-33/","dgPassFrontmatter":true}
 ---
 
 # @stevenbartlett2023DiaryCEO33
@@ -33,6 +33,7 @@ These laws will work now or in 100 years from now. Are you ready to get started?
 > [!Links]+
 >  | Incoming Links                                  |
 > | ----------------------------------------------- |
+> | [[Cards/Richard Feynman\|Richard Feynman]]   |
 > | [[Cards/Tali Sharot\|Tali Sharot]]           |
 > | [[Cards/The Five Buckets\|The Five Buckets]] |
 > 
@@ -74,7 +75,7 @@ These laws will work now or in 100 years from now. Are you ready to get started?
 
 > [!quote-yellow] (Page 27) yellow
 > 
-> ‘I couldn’t reduce it to the freshman level. That means we really don ’tunderstand it.’ Richard Feynman
+> ‘I couldn’t reduce it to the freshman level. That means we really don ’tunderstand it.’ [[Cards/Richard Feynman\|Richard Feynman]]
 >
 { #4HJ34GQ4aW8D3YCQYp27}
 

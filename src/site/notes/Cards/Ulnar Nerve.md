@@ -14,7 +14,7 @@
 ## Muscles Innervated
 
 - [[Cards/Flexor carpi ulnaris\|Flexor carpi ulnaris]]
-- [[Cards/Flexor digitorum profundus\|Flexor digitorum profundus]]
+- [[Cards/Flexor Digitorum Profundus\|Flexor Digitorum Profundus]]
 
 # Reference
 

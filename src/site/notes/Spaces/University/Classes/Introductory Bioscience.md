@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS103"],"up":["[[🎓 University|Uni]]"],"dg-publish":true,"cssclasses":["cards","wide"],"permalink":"/spaces/university/classes/introductory-bioscience/","dgPassFrontmatter":true}
+{"aliases":["LFS103"],"up":["[[🎓 University|Uni]]"],"dg-publish":true,"cssclasses":["cards","wide"],"current-class":false,"permalink":"/spaces/university/classes/introductory-bioscience/","dgPassFrontmatter":true}
 ---
 
 # Introductory Bioscience

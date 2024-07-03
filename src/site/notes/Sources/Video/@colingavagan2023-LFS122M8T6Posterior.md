@@ -49,7 +49,7 @@
 > [[Cards/Brachioradialis\|Brachioradialis]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> [[Cards/Extensor Digitorum\|Extensor Digitorum]]  
+> [[Cards/Extensor Digitorum Longus\|Extensor Digitorum Longus]]  
   
 <mark style="background-color: #ffd400">Quote</mark>  
 > Extensor Digiti Minimi  

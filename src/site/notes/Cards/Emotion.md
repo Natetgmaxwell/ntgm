@@ -28,10 +28,45 @@
 
 ## Mentions
 
-- [[Sources/Articles/2023WhatBrainFog-jackielam\|2023WhatBrainFog-jackielam]]
-- [[Sources/Articles/Real-World Study Shows The Risk of Getting 'Hangry' Is Very Real, David Nield\|Real-World Study Shows The Risk of Getting 'Hangry' Is Very Real, David Nield]]
-- [[Sources/Podcasts/Podcast Episodes/366 Shannon Curry  Johnny Depp & Amber Heard Trial  Marriage  Dating & Love\|366 Shannon Curry  Johnny Depp & Amber Heard Trial  Marriage  Dating & Love]]
-- [[Sources/Podcasts/Podcast Episodes/Decoding Emotions\|Decoding Emotions]]
-- [[Sources/Podcasts/Podcast Episodes/You 2.0  Befriending Your Inner Voice\|You 2.0  Befriending Your Inner Voice]]
+| Incoming Links                                                                                                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Cards/Cognitive Distancing\|Cognitive Distancing]]                                                                                                                                                                                |
+| [[Cards/Crow's Feet\|Crow's Feet]]                                                                                                                                                                                                  |
+| [[Cards/Facial Action Coding System\|Facial Action Coding System]]                                                                                                                                                                  |
+| [[Cards/Jealousy\|Jealousy]]                                                                                                                                                                                                        |
+| [[Cards/Language\|Language]]                                                                                                                                                                                                        |
+| [[Cards/Neurophysiology\|Neurophysiology]]                                                                                                                                                                                          |
+| [[Cards/Pain\|Pain]]                                                                                                                                                                                                                |
+| [[Cards/Pericles\|Pericles]]                                                                                                                                                                                                        |
+| [[Cards/Rationality\|Rationality]]                                                                                                                                                                                                  |
+| [[Cards/Romanticism\|Romanticism]]                                                                                                                                                                                                  |
+| [[Spaces/My Newsletter/The Importance of Empathy, Why Developing This Crucial Skill Can Benefit Your Life and Relationships\|The Importance of Empathy, Why Developing This Crucial Skill Can Benefit Your Life and Relationships]] |
+| [[Cards/Triune Brain Theory\|Triune Brain Theory]]                                                                                                                                                                                  |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                                  |
+| --------------------------------------------------------------- |
+| [[Cards/Fear\|Fear]]                                         |
+| [[Cards/High-Grade Emotions\|High-Grade Emotions]]           |
+| [[Cards/Limbic System\|Limbic System]]                       |
+| [[Cards/Love\|Love]]                                         |
+| [[Cards/Low-Grade Emotions\|Low-Grade Emotions]]             |
+| [[Cards/Lust\|Lust]]                                         |
+| [[Cards/Non-Verbal Cues\|Non-Verbal Cues]]                   |
+| [[Cards/Paul Ekman\|Paul Ekman]]                             |
+| [[Cards/Rapid Eye Movement Sleep\|Rapid Eye Movement Sleep]] |
+| [[Cards/Robert Greene\|Robert Greene]]                       |
+
+{ .block-language-dataview}
+
+| Sources                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Sources/Books/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]                                                                                              |
+| [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]                                                                                  |
+| [[Sources/Articles/2023WhatBrainFog-jackielam\|2023WhatBrainFog-jackielam]]                                                                                                       |
+| [[Sources/Podcasts/Podcast Episodes/Decoding Emotions\|Decoding Emotions]]                                                                                                        |
+| [[Sources/Articles/Real-World Study Shows The Risk of Getting 'Hangry' Is Very Real, David Nield\|Real-World Study Shows The Risk of Getting 'Hangry' Is Very Real, David Nield]] |
+| [[Sources/Podcasts/Podcast Episodes/You 2.0  Befriending Your Inner Voice\|You 2.0  Befriending Your Inner Voice]]                                                                |
 
 { .block-language-dataview}

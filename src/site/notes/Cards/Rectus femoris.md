@@ -2,7 +2,7 @@
 {"aliases":null,"tags":["on/Science/Biology/Anatomy","Uni/OMT1","Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/rectus-femoris/","dgPassFrontmatter":true}
 ---
 
-# Rectus Femoris
+# Rectus femoris
 
 > [!Ontology]+
 > up:: [[Cards/Skeletal Muscle\|Skeletal Muscle]], [[Cards/Thigh\|Thigh]], [[Cards/Quadratus femoris\|Quadratus femoris]]

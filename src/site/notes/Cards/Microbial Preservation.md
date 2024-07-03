@@ -43,4 +43,4 @@
 ## Flashcards
 
 How are microbial cultures maintained for longterm preservation?;;[[Cards/Cryopreservation\|Cryopreservation]] and [[Cards/Lyophilisation\|Lyophilisation]]
-<!--SR:!2024-06-04,20,250-->
+<!--SR:!2024-08-28,69,270-->

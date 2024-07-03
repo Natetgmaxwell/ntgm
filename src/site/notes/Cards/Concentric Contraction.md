@@ -5,8 +5,8 @@
 # Concentric Contraction
 
 > [!ontology]
-> up:: [[Cards/Isotonic Contraction\|Isotonic Contraction]]
-> jump:: 
+> up:: [[Cards/Muscle Contraction\|Muscle Contraction]]
+> jump:: [[Cards/Isotonic Contraction\|Isotonic Contraction]], [[Cards/Eccentric Contraction\|Eccentric Contraction]]
 > down:: 
 
 > [!Definition] Definition
@@ -16,7 +16,21 @@
 - 
 
 ## Mentions
+| Incoming Links |
+| -------------- |
 
+{ .block-language-dataview}
+
+| Outgoing Links                                            |
+| --------------------------------------------------------- |
+| [[Cards/Eccentric Contraction\|Eccentric Contraction]] |
+| [[Cards/Isotonic Contraction\|Isotonic Contraction]]   |
+| [[Cards/Muscle Contraction\|Muscle Contraction]]       |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 

@@ -17,6 +17,7 @@
 
 ## Mentions
 
+- [[Cards/Richard Feynman\|Richard Feynman]]
 
 { .block-language-dataview}
 

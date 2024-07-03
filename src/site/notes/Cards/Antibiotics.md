@@ -17,13 +17,12 @@
 
 ## Mentions
 
-| Incoming Links                                                                                 |
-| ---------------------------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-04-21 Sun\|2024-04-21 Sun]]                                      |
-| [[Cards/Fungal Infections\|Fungal Infections]]                                              |
-| [[Spaces/University/Classes/Introductory Bioscience\|Introductory Bioscience]]              |
-| [[Spaces/University/Projects/LFS261A3 Laboratory Portfolio\|LFS261A3 Laboratory Portfolio]] |
-| [[Spaces/University/Projects/MLS101A2 Review Quiz\|MLS101A2 Review Quiz]]                   |
+| Incoming Links                                                                    |
+| --------------------------------------------------------------------------------- |
+| [[Calendar/2023/Daily/2024-04-21 Sun\|2024-04-21 Sun]]                         |
+| [[Cards/Fungal Infections\|Fungal Infections]]                                 |
+| [[Spaces/University/Classes/Introductory Bioscience\|Introductory Bioscience]] |
+| [[Spaces/University/Projects/MLS101A2 Review Quiz\|MLS101A2 Review Quiz]]      |
 
 { .block-language-dataview}
 

@@ -16,7 +16,7 @@
 - [[Cards/Pronator teres\|Pronator teres]]
 - [[Cards/Flexor carpi radialis\|Flexor carpi radialis]]
 - [[Cards/Palmaris longus\|Palmaris longus]]
-- [[Cards/Flexor digitorum superficialis\|Flexor digitorum superficialis]]
+- [[Cards/Flexor Digitorum Superficialis\|Flexor Digitorum Superficialis]]
 - [[Cards/Flexor pollicis longus\|Flexor pollicis longus]]
 
 # Reference

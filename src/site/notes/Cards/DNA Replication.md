@@ -7,7 +7,7 @@
 > [!Ontology]+
 > up:: [[Cards/Mitosis\|Mitosis]]
 > jump::
-> down:: [[Cards/RNA Transcription\|RNA Transcription]], [[Cards/RNA Splicing\|RNA Splicing]]
+> down:: [[Cards/RNA Transcription\|RNA Transcription]], [[Cards/RNA Splicing\|RNA Splicing]], 
 
 > [!Definition] Definition
 > [[Cards/DNA Replication\|DNA Replication]] is the process by which the [[Cards/Genomes\|Genome's]] [[Cards/Deoxyribonucleic Acid\|DNA]] is replicated to be transferred into the new daughter cell.

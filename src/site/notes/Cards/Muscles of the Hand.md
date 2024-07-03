@@ -7,18 +7,18 @@
 > [!ontology]+
 > up:: [[Cards/Hand\|Hand]], [[Cards/Skeletal Muscle\|Skeletal Muscle]]
 > jump:: 
-> down:: [[Cards/Palmar Interossei\|Palmar Interossei]], [[Cards/Lumbrical muscles of the hand\|Lumbrical muscles of the hand]]
+> down:: [[Cards/Palmar Interossei\|Palmar Interossei]], [[Cards/Lumbrical Muscles of the Hand\|Lumbrical Muscles of the Hand]]
 
 > [!Definition] Definition
 
-- Abductor pollicis brevis
-- Flexor pollicis brevis
-- Opponens pollicis
+- [[Cards/Abductor Pollicis Brevis\|Abductor Pollicis Brevis]]
+- [[Cards/Flexor Pollicis Brevis\|Flexor Pollicis Brevis]]
+- [[Cards/Opponens Pollicis\|Opponens Pollicis]]
 - [[Cards/Adductor Pollicis\|Adductor Pollicis]]
-- [[Cards/Lumbrical muscles of the hand\|Lumbrical muscles of the hand]]
-- Flexor digitorum superficialis
-- Flexor digitorum profundus
-- Extensor digitorum
+- [[Cards/Lumbrical Muscles of the Hand\|Lumbrical Muscles of the Hand]]
+- [[Cards/Flexor Digitorum Superficialis\|Flexor Digitorum Superficialis]]
+- [[Cards/Flexor Digitorum Profundus\|Flexor Digitorum Profundus]]
+- [[Cards/Extensor Digitorum Longus\|Extensor Digitorum Longus]]
 - Extensor indicis
 - Extensor digiti minimi
 - Extensor pollicis longus

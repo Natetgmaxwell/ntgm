@@ -11,6 +11,9 @@
 > 
 > In addition to its immunosuppressive properties, rapamycin has been found to have a number of other potential health benefits, including anti-aging effects and improved immune function. However, rapamycin can also have side effects, and more research is needed to fully understand its potential benefits and risks.
 
+> [!quote] Origins of [[Cards/Rapamycin\|Rapamycins]] name
+> He named it rapamycin , after Rapa Nui, the native name for Easter Island ( mycin is the su ffix typically applied to antimicrobial agents).^[[[@peterattia2023OutliveScienceArt#^M4KZEKLWaTNJSBWD5p80\|[@peterattia2023OutliveScienceArt#^M4KZEKLWaTNJSBWD5p80]]]
+
 ![Pasted image 20230401124458.png|300](/img/user/Extras/Images/Pasted%20image%2020230401124458.png)
 
 > [!quote] [[Sources/Research Papers/@gulayan2022RapamycinBenefitsSide\|@gulayan2022RapamycinBenefitsSide]]

@@ -22,8 +22,9 @@
 > creators:: Lee Daffin
 
 > [!Links]+
->  | Incoming Links |
-> | -------------- |
+>  | Incoming Links                                  |
+> | ----------------------------------------------- |
+> | [[Cards/Latissimus dorsi\|Latissimus dorsi]] |
 > 
 { .block-language-dataview}
 

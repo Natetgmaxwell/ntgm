@@ -38,4 +38,4 @@
 ## Flashcards
 
 What is the [[Cards/Three-domain system\|Three-domain system]]?;;The [[Cards/Three-domain system\|Three domain system]] is a classification method that group organism into one of three categories; [[Cards/Archaea\|Archaea]], [[Cards/Bacteria\|Bacteria]] or [[Cards/Eukaryote\|Eukaryote]]
-<!--SR:!2024-05-16,1,210-->
+<!--SR:!2024-06-22,2,210-->

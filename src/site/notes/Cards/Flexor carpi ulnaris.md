@@ -2,7 +2,7 @@
 {"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/flexor-carpi-ulnaris/","dgPassFrontmatter":true}
 ---
 
-# Flexor Carpi Ulnaris
+# Flexor carpi ulnaris
 
 > [!Ontology]
 > up:: [[Cards/Skeletal Muscle\|Skeletal Muscle]]

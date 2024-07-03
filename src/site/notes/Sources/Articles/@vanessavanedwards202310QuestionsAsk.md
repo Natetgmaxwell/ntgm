@@ -20,9 +20,10 @@
 > creators:: Vanessa Van Edwards
 
 > [!Links]+
->  | Incoming Links                      |
-> | ----------------------------------- |
-> | [[Cards/Small Talk\|Small Talk]] |
+>  | Incoming Links                                                            |
+> | ------------------------------------------------------------------------- |
+> | [[Cards/Questions to Ask your Partner\|Questions to Ask your Partner]] |
+> | [[Cards/Small Talk\|Small Talk]]                                       |
 > 
 { .block-language-dataview}
 

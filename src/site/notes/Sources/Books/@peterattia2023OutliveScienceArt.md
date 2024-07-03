@@ -22,14 +22,15 @@
 > creators:: Peter Attia
 
 > [!Links]+
->  | Incoming Links                                                                                                                                                                |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Cards/Atherosclerosis\|Atherosclerosis]]                                                                                                                                 |
-> | [[Cards/Autophagy\|Autophagy]]                                                                                                                                             |
-> | [[Cards/Cholesterol\|Cholesterol]]                                                                                                                                         |
-> | [[Cards/Macadamia Nuts\|Macadamia Nuts]]                                                                                                                                   |
-> | [[Sources/Podcasts/Podcast Episodes/OUTLIVE  Peter Attia’s Guide to the Science of Longevity (Part 1)\|OUTLIVE  Peter Attia’s Guide to the Science of Longevity (Part 1)]] |
-> | [[Cards/Saturated Fats\|Saturated Fats]]                                                                                                                                   |
+>  | Incoming Links                                |
+> | --------------------------------------------- |
+> | [[Cards/Atherosclerosis\|Atherosclerosis]] |
+> | [[Cards/Autophagy\|Autophagy]]             |
+> | [[Cards/Cholesterol\|Cholesterol]]         |
+> | [[Cards/Macadamia Nuts\|Macadamia Nuts]]   |
+> | [[Cards/Peter Attia\|Peter Attia]]         |
+> | [[Cards/Rapamycin\|Rapamycin]]             |
+> | [[Cards/Saturated Fats\|Saturated Fats]]   |
 > 
 { .block-language-dataview}
 

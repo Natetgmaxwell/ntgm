@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS122"],"dg-publish":true,"cssclasses":["cards"],"up":["[[🎓 University|Uni]]"],"permalink":"/spaces/university/classes/human-anatomy/","dgPassFrontmatter":true}
+{"aliases":["LFS122"],"dg-publish":true,"cssclasses":["cards"],"up":["[[🎓 University|Uni]]"],"current-class":false,"permalink":"/spaces/university/classes/human-anatomy/","dgPassFrontmatter":true}
 ---
 
 # Human Anatomy
@@ -139,8 +139,8 @@
 - [[Cards/Flexor carpi radialis\|Flexor carpi radialis]]
 - [[Cards/Palmaris longus\|Palmaris longus]]
 - [[Cards/Flexor carpi ulnaris\|Flexor carpi ulnaris]]
-- [[Cards/Flexor digitorum superficialis\|Flexor digitorum superficialis]]
-- [[Cards/Flexor digitorum profundus\|Flexor digitorum profundus]]
+- [[Cards/Flexor Digitorum Superficialis\|Flexor Digitorum Superficialis]]
+- [[Cards/Flexor Digitorum Profundus\|Flexor Digitorum Profundus]]
 - [[Cards/Pronator Quadratus\|Pronator Quadratus]]
 - [[Cards/Flexor pollicis longus\|Flexor pollicis longus]]
 
@@ -148,7 +148,7 @@
 - [[Cards/Extensor Carpi Radialis Longus\|Extensor Carpi Radialis Longus]]
 - [[Cards/Extensor Carpi Radialis Brevis\|Extensor Carpi Radialis Brevis]]
 - [[Cards/Brachioradialis\|Brachioradialis]]
-- [[Cards/Extensor Digitorum\|Extensor Digitorum]]
+- [[Cards/Extensor Digitorum Longus\|Extensor Digitorum Longus]]
 - [[Cards/Extensor Digiti Minimi\|Extensor Digiti Minimi]]
 - [[Cards/Extensor Carpi Ulnaris\|Extensor Carpi Ulnaris]]
 - [[Cards/Anconeus\|Anconeus]]
@@ -158,7 +158,7 @@
 - [[Cards/Extensor Indicis\|Extensor Indicis]]
 - [[Cards/Extensor Pollicis Longus\|Extensor Pollicis Longus]]
 - [[Cards/Extensor Pollicis Brevis\|Extensor Pollicis Brevis]]
-- [[Cards/Lumbrical muscles of the hand\|Lumbrical muscles of the hand]]
+- [[Cards/Lumbrical Muscles of the Hand\|Lumbrical Muscles of the Hand]]
 - [[Cards/Flexor Pollicis Brevis\|Flexor Pollicis Brevis]]
 - [[Cards/Adductor Pollicis\|Adductor Pollicis]]
 - [[Cards/Dorsal Interossei\|Dorsal Interossei]]
