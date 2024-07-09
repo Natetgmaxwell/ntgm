@@ -7,10 +7,14 @@ body {
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
     background-color: #1f1f1f;
-
-    --font-default: 'iA Writer Quattro S', sans-serif;
     --h2-color: rgb(255 177 74) !important;
-    
+
+.callout {
+    background-color: 
+color-mix(in srgb, rgb(36 31 26) var(--callout-color-opacity), var(--editor-bg-color));
+    padding: 0;
+    box-shadow: var(--callout-container-shadow);
+}
     .content {
     font-size: 14px;
                                                 
