@@ -7,16 +7,16 @@
 ## Most Recent [[Atlas/MOCs/Anatomy\|Anatomy]] Notes
 | File                                                    | Last Modified            |
 | ------------------------------------------------------- | ------------------------ |
+| [[Cards/Multifidus\|Multifidus]]                     | 10:58 AM - July 09, 2024 |
+| [[Cards/Ventral Rami\|Ventral Rami]]                 | 10:45 AM - July 09, 2024 |
+| [[Cards/Trapezius\|Trapezius]]                       | 10:44 AM - July 09, 2024 |
+| [[Cards/Ligamentum nuchae\|Ligamentum nuchae]]       | 1:53 PM - July 08, 2024  |
+| [[Cards/Clavicle\|Clavicle]]                         | 1:49 PM - July 08, 2024  |
+| [[Cards/Cerebral cortex\|Cerebral cortex]]           | 12:31 PM - July 04, 2024 |
 | [[Cards/Flexor carpi ulnaris\|Flexor carpi ulnaris]] | 9:25 PM - July 03, 2024  |
 | [[Cards/Thoracic 12\|Thoracic 12]]                   | 9:14 PM - July 03, 2024  |
 | [[Cards/Rectus femoris\|Rectus femoris]]             | 10:00 AM - July 03, 2024 |
 | [[Cards/Frontal lobe\|Frontal lobe]]                 | 7:21 PM - July 01, 2024  |
-| [[Cards/Foot\|Foot]]                                 | 12:57 PM - June 30, 2024 |
-| [[Cards/Hand\|Hand]]                                 | 12:41 PM - June 30, 2024 |
-| [[Cards/Talocrural Joint\|Talocrural Joint]]         | 9:54 AM - June 27, 2024  |
-| [[Cards/Levers\|Levers]]                             | 9:54 AM - June 27, 2024  |
-| [[Cards/Sacrum\|Sacrum]]                             | 2:56 PM - June 21, 2024  |
-| [[Cards/Pelvic Gridle\|Pelvic Gridle]]               | 2:56 PM - June 21, 2024  |
 
 { .block-language-dataview}
 

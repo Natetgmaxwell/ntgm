@@ -2,7 +2,7 @@
 {"alias":"TMJ","aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/temporomandibular-joint/","dgPassFrontmatter":true}
 ---
 
-# Temporomandibular Joint
+# Temporomandibular joint
 
 > [!ontology]+
 > up:: [[Cards/Hinge Joint\|Hinge Joint]]

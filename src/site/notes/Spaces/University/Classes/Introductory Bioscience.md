@@ -22,15 +22,15 @@
 
 { .block-language-dataview}
 
-| Name                                                                       | Cite Key                                                                                                  | Published |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------- |
-| <ul><li>LFS103 M11T2 Eukaryotic vs prokaryotic cells</li></ul>             | [[Sources/Video/@nicolemastersLFS103M11T2Eukaryotic\|@nicolemastersLFS103M11T2Eukaryotic]]             | \-        |
-| <ul><li>LFS103 M11T3 Bacterial classification</li></ul>                    | [[Sources/Video/@nicolemastersLFS103M11T3Bacterial\|@nicolemastersLFS103M11T3Bacterial]]               | \-        |
-| <ul><li>LFS103 M12T1 Microbes and disease: historical highlights</li></ul> | [[Sources/Video/@nicolemasters2023LFS103M12T1Microbes\|@nicolemasters2023LFS103M12T1Microbes]]         | \-        |
-| <ul><li>LFS103 M12T6 Introduction to epidemiology</li></ul>                | [[Sources/Video/@nicolemasters2023LFS103M12T6Introduction\|@nicolemasters2023LFS103M12T6Introduction]] | \-        |
-| <ul><li>LFS103 M1T3 Video Metals and non-metals</li></ul>                  | [[Sources/Video/@nicolemastersLFS103M1T3Video\|@nicolemastersLFS103M1T3Video]]                         | \-        |
-| <ul><li>LFS103 M6T1 Cell membrane permeability</li></ul>                   | [[Sources/Video/@georgiakafer2023-LFS103M6T1Cell\|@georgiakafer2023-LFS103M6T1Cell]]                   | \-        |
-| <ul><li>SCI105 M02T04 Covalent Nomenclature</li></ul>                      | [[Sources/Video/@davidmckay2024SCI105M02T04Covalent\|@davidmckay2024SCI105M02T04Covalent]]             | true      |
+| Name                                                                       | Cite Key                                                                                            | Published |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------- |
+| <ul><li>@LFS103 M12T6 Introduction to epidemiology</li></ul>               | [[Sources/@nicolemasters2023LFS103M12T6Introduction\|@nicolemasters2023LFS103M12T6Introduction]] | true      |
+| <ul><li>LFS103 M11T2 Eukaryotic vs prokaryotic cells</li></ul>             | [[Sources/Video/@nicolemastersLFS103M11T2Eukaryotic\|@nicolemastersLFS103M11T2Eukaryotic]]       | \-        |
+| <ul><li>LFS103 M11T3 Bacterial classification</li></ul>                    | [[Sources/Video/@nicolemastersLFS103M11T3Bacterial\|@nicolemastersLFS103M11T3Bacterial]]         | \-        |
+| <ul><li>LFS103 M12T1 Microbes and disease: historical highlights</li></ul> | [[Sources/Video/@nicolemasters2023LFS103M12T1Microbes\|@nicolemasters2023LFS103M12T1Microbes]]   | \-        |
+| <ul><li>LFS103 M1T3 Video Metals and non-metals</li></ul>                  | [[Sources/Video/@nicolemastersLFS103M1T3Video\|@nicolemastersLFS103M1T3Video]]                   | \-        |
+| <ul><li>LFS103 M6T1 Cell membrane permeability</li></ul>                   | [[Sources/Video/@georgiakafer2023-LFS103M6T1Cell\|@georgiakafer2023-LFS103M6T1Cell]]             | \-        |
+| <ul><li>SCI105 M02T04 Covalent Nomenclature</li></ul>                      | [[Sources/Video/@davidmckay2024SCI105M02T04Covalent\|@davidmckay2024SCI105M02T04Covalent]]       | true      |
 
 { .block-language-dataview}
 

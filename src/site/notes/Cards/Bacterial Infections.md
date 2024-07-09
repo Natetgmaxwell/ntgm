@@ -7,7 +7,7 @@
 > [!Ontology]
 > up:: [[Cards/Infection\|Infection]]
 > jump::
-> down:: [[Cards/Pathogens\|Pathogens]]
+> down:: [[Pathogens\|Pathogens]]
 
 > [!Definition] Definition
 > A bacterial infection is a condition that occurs when harmful microorganisms, such as bacteria, enter the body and cause damage or disease.
@@ -39,7 +39,6 @@ There are many different types of bacterial infections that can affect various p
 | ----------------------------------------------------------------- |
 | [[Cards/Blood-brain Barrier\|Blood-brain Barrier]]             |
 | [[Cards/Infection\|Infection]]                                 |
-| [[Cards/Pathogens\|Pathogens]]                                 |
 | [[Cards/Spinal cord\|Spinal cord]]                             |
 | [[Cards/Staphylococcal Infections\|Staphylococcal Infections]] |
 | [[Cards/Staphylococcus\|Staphylococcus]]                       |

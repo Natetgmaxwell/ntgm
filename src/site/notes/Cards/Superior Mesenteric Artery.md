@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/superior-mesenteric-artery/","dgPassFrontmatter":true}
+{"aliases":["SMA"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/superior-mesenteric-artery/","dgPassFrontmatter":true}
 ---
 
 # Superior Mesenteric Artery
@@ -10,6 +10,7 @@
 > down:: 
 
 > [!Definition] Definition
+> The superior mesenteric artery (SMA) is a vital branch of the abdominal aorta that supplies oxygenated blood to the small intestine, pancreas, and other abdominal organs.
 
 # Reference
 
@@ -17,7 +18,25 @@
 
 ## Mentions
 
-- [[Sources/Video/@leedaffin2023-LFS122M10T2Systemic\|@leedaffin2023-LFS122M10T2Systemic]]
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Cards/Hepatic Portal System\|Hepatic Portal System]]     |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                                  |
+| --------------------------------------------------------------- |
+| [[Cards/Arteries\|Arteries]]                                 |
+| [[Cards/Lumbar 1\|Lumbar 1]]                                 |
+| [[Cards/Mesentery\|Mesentery]]                               |
+| [[Cards/Superior Mesenteric Vein\|Superior Mesenteric Vein]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                                     |
+| ------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffin2023-LFS122M10T2Systemic\|@leedaffin2023-LFS122M10T2Systemic]] |
 
 { .block-language-dataview}
 

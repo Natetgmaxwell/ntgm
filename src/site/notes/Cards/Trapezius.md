@@ -22,7 +22,7 @@
 
 ## Innervation
 
-[[Cards/Ventral rami\|Ventral rami]] ([[Cards/Cervical 3\|Cervical 3]] - [[Cards/Cervical 4\|Cervical 4]])
+[[Cards/Ventral Rami\|Ventral Rami]] ([[Cards/Cervical 3\|Cervical 3]] - [[Cards/Cervical 4\|Cervical 4]])
 
 # Reference
 

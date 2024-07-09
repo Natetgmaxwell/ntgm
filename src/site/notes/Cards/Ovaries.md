@@ -10,6 +10,7 @@
 > down:: [[Cards/Ovarian Cycle\|Ovarian Cycle]]
 
 > [!Definition] Definition
+> Ovaries are two almond-shaped organs located deep within a female's abdomen. They are responsible for producing and releasing eggs during the menstrual cycle.
 
 # Reference
 

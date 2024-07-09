@@ -36,7 +36,7 @@
 | [[Cards/Skeletal Muscle\|Skeletal Muscle]]                                                                                |
 | [[Cards/Superior Fibular Nerve\|Superior Fibular Nerve]]                                                                  |
 | [[Cards/Tibial nerve\|Tibial nerve]]                                                                                      |
-| [[Cards/Ventral rami\|Ventral rami]]                                                                                      |
+| [[Cards/Ventral Rami\|Ventral Rami]]                                                                                      |
 
 { .block-language-dataview}
 

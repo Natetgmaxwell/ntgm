@@ -17,34 +17,34 @@
 > - Flashcard format is `{question};;{answer}`
 
 ## Recently Created Cards
-| File Name                                                       | Date Modified |
-| --------------------------------------------------------------- | ------------- |
-| [[Cards/Acetyl coenzyme A\|Acetyl coenzyme A]]               | July 03, 2024 |
-| [[Cards/Active Transport\|Active Transport]]                 | July 03, 2024 |
-| [[Cards/Bones of the Hand\|Bones of the Hand]]               | July 03, 2024 |
-| [[Cards/Concentric Contraction\|Concentric Contraction]]     | July 03, 2024 |
-| [[Cards/Electromagnetic Spectrum\|Electromagnetic Spectrum]] | July 03, 2024 |
-| [[Cards/Flexor carpi ulnaris\|Flexor carpi ulnaris]]         | July 03, 2024 |
-| [[Cards/High Blood Pressure\|High Blood Pressure]]           | July 03, 2024 |
-| [[Cards/Iliofemoral ligament\|Iliofemoral ligament]]         | July 03, 2024 |
-| [[Cards/Lumbosacral Plexus\|Lumbosacral Plexus]]             | July 03, 2024 |
-| [[Cards/Palatine Tonsil\|Palatine Tonsil]]                   | July 03, 2024 |
+| File Name                                                             | Date Modified |
+| --------------------------------------------------------------------- | ------------- |
+| [[Cards/Acetyl coenzyme A\|Acetyl coenzyme A]]                     | July 09, 2024 |
+| [[Cards/Attitude\|Attitude]]                                       | July 09, 2024 |
+| [[Cards/Cervix\|Cervix]]                                           | July 09, 2024 |
+| [[Cards/Co-Dominance\|Co-Dominance]]                               | July 09, 2024 |
+| [[Cards/Conjugate acid\|Conjugate acid]]                           | July 09, 2024 |
+| [[Cards/Endosymbiotic theory\|Endosymbiotic theory]]               | July 09, 2024 |
+| [[Cards/Energy Transfer\|Energy Transfer]]                         | July 09, 2024 |
+| [[Cards/Flavin adenine dinucleotide\|Flavin adenine dinucleotide]] | July 09, 2024 |
+| [[Cards/Food Chains\|Food Chains]]                                 | July 09, 2024 |
+| [[Cards/Foramina\|Foramina]]                                       | July 09, 2024 |
 
 { .block-language-dataview}
 
 ## Recent Sources
 | File Name                                                                                           | Date Modified | Type    |
 | --------------------------------------------------------------------------------------------------- | ------------- | ------- |
+| [[Sources/Video/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]             | July 09, 2024 | Video   |
+| [[Sources/Video/@leedaffin2023-LFS122M12T1Urinary\|@leedaffin2023-LFS122M12T1Urinary]]           | July 09, 2024 | \-      |
+| [[Sources/@nicolemasters2023LFS103M12T6Introduction\|@nicolemasters2023LFS103M12T6Introduction]] | July 08, 2024 | Video   |
 | [[Sources/@griscom2023OUTLIVEPartPeter\|@griscom2023OUTLIVEPartPeter]]                           | July 02, 2024 | Podcast |
 | [[Sources/@fridman2023ShannonCurryJohnny\|@fridman2023ShannonCurryJohnny]]                       | July 02, 2024 | Podcast |
 | [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] | July 01, 2024 | \-      |
 | [[Sources/@williamson20243MMIdentityConnection\|@williamson20243MMIdentityConnection]]           | July 01, 2024 | \-      |
-| [[Sources/Video/@colingavagan2023-LFS122M8T5Anterior\|@colingavagan2023-LFS122M8T5Anterior]]     | June 30, 2024 | \-      |
 | [[Sources/Video/@colingavagan2023-LFS122M8T6Posterior\|@colingavagan2023-LFS122M8T6Posterior]]   | June 30, 2024 | \-      |
+| [[Sources/Video/@colingavagan2023-LFS122M8T5Anterior\|@colingavagan2023-LFS122M8T5Anterior]]     | June 30, 2024 | \-      |
 | [[Sources/@parrish2017NavalRavikantAngel\|@parrish2017NavalRavikantAngel]]                       | June 29, 2024 | Podcast |
-| [[Sources/Books/@stevenbartlett2023DiaryCEO33\|@stevenbartlett2023DiaryCEO33]]                   | June 28, 2024 | Book    |
-| [[Sources/@jorgenson2020AlmanackNavalRavikant\|@jorgenson2020AlmanackNavalRavikant]]             | June 28, 2024 | Book    |
-| [[Sources/@feynman2011SixEasyPieces\|@feynman2011SixEasyPieces]]                                 | June 28, 2024 | Book    |
 
 { .block-language-dataview}
 

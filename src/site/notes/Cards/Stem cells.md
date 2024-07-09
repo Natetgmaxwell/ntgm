@@ -2,7 +2,7 @@
 {"edited":"2023-04-06 Thu","date created":"2022-02-24 Thu","dg-publish":true,"permalink":"/cards/stem-cells/","dgPassFrontmatter":true}
 ---
 
-# Stem Cells
+# Stem cells
 
 > [!Ontology]-
 > up:: [[Cards/Cells\|Cells]]
@@ -16,7 +16,9 @@
 > Stem cells are unspecialized cells derived from adult body tissues and embryos that differentiate into any cell of an organism and capable of self-regeneration.
 
 ![Extras/Images/PVAGAVGV.png|550](/img/user/Extras/Images/PVAGAVGV.png)
-[[Sources/Research Papers/@goodellStemCellsHealthy2015\|@goodellStemCellsHealthy2015]]
+
+> [!cite]-
+> [[Sources/Research Papers/@goodellStemCellsHealthy2015\|@goodellStemCellsHealthy2015]]
 
 > [!quote] [[Sources/Research Papers/@goodellStemCellsHealthy2015\|@goodellStemCellsHealthy2015]]
 > After organismal growth ceases, stem cells effectively maintain tissues through the peak reproductive years.

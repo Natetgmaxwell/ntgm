@@ -7,7 +7,7 @@
 > [!ontology]
 > up:: [[Cards/Spine\|Spine]]
 > jump:: [[Cards/Intervertebral Joints\|Intervertebral Joints]]
-> down:: [[Anulosus Fibrosis\|Anulosus Fibrosis]], [[Nucleuosus Pulposus\|Nucleuosus Pulposus]]
+> down:: [[• Inbox/Annulus Fibrosus\|Annulus Fibrosus]], [[• Inbox/Nucleus Pulposus\|Nucleus Pulposus]]
 
 > [!Definition] Definition
 
@@ -17,7 +17,23 @@
 
 ## Mentions
 
-- [[Spaces/University/Projects/OMT1A3 Practical Assessment\|OMT1A3 Practical Assessment]]
+| Incoming Links                                                                             |
+| ------------------------------------------------------------------------------------------ |
+| [[Spaces/University/Projects/OMT1A3 Practical Assessment\|OMT1A3 Practical Assessment]] |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                            |
+| --------------------------------------------------------- |
+| [[• Inbox/Annulus Fibrosus\|Annulus Fibrosus]]         |
+| [[Cards/Intervertebral Joints\|Intervertebral Joints]] |
+| [[• Inbox/Nucleus Pulposus\|Nucleus Pulposus]]         |
+| [[Cards/Spine\|Spine]]                                 |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 

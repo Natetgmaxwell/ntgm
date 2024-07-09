@@ -203,7 +203,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 10. **Myeloid and Lymphoid Stem Cells:**
     
     - Pluripotent stem cells from bone marrow produce myeloid or lymphoid stem cells.
-    - Myeloid stem cells yield granulocytes, [[Cards/Platelets\|Platelets]], [[Cards/Red Blood Cells\|erythrocytes]], [[Cards/Monocytes\|monocytes]], [[Cards/Mast cells\|mast cells]].
+    - Myeloid stem cells yield [[Cards/Granulocytes\|granulocytes]], [[Cards/Platelets\|Platelets]], [[Cards/Red Blood Cells\|erythrocytes]], [[Cards/Monocytes\|monocytes]], [[Cards/Mast cells\|mast cells]].
     - Lymphoid stem cells yield T [[Cards/Lymphocytes\|lymphocytes]], B [[Cards/Lymphocytes\|lymphocytes]] (plasma cells), natural killer cells.
 11. **Cell Migration and Production:**
     
@@ -219,7 +219,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 1. **Innate and Adaptive Immunity:**
     
-    - [[Cards/Innate immunity\|Innate immunity]] includes granulocytes ([[Cards/Basophils\|basophil]], [[Cards/Eosinophils\|eosinophil]], [[Cards/Neutrophils\|neutrophil]]) and agranulocytes (mast cell, nitrochlear cell, dendritic cell) and complement system.
+    - [[Cards/Innate immunity\|Innate immunity]] includes [[Cards/Granulocytes\|granulocytes]] ([[Cards/Basophils\|basophil]], [[Cards/Eosinophils\|eosinophil]], [[Cards/Neutrophils\|neutrophil]]) and agranulocytes (mast cell, nitrochlear cell, dendritic cell) and complement system.
     - Adaptive immunity has humoral and cellular responses mediated by B cells and T cells.
 2. **Humoral and Cellular Immunity:**
     

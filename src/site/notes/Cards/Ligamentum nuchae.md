@@ -2,7 +2,7 @@
 {"aliases":["nuchal ligament"],"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Anatomy"],"date created":"2023-03-11 Sat","dg-publish":true,"permalink":"/cards/ligamentum-nuchae/","dgPassFrontmatter":true}
 ---
 
-# Ligamentum Nuchae
+# Ligamentum nuchae
 
 > [!Ontology]-
 > up:: [[Cards/Ligaments\|Ligaments]]
@@ -20,6 +20,23 @@
 
 ## Mentions
 
+| Incoming Links                                    |
+| ------------------------------------------------- |
+| [[Cards/Spinalis cervicis\|Spinalis cervicis]] |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                            |
+| --------------------------------------------------------- |
+| [[Cards/Ligaments\|Ligaments]]                         |
+| [[Cards/Skull\|Skull]]                                 |
+| [[Cards/Supraspinous ligament\|Supraspinous ligament]] |
+| [[Cards/Trapezius\|Trapezius]]                         |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 

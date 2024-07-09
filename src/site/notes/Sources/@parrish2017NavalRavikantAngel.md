@@ -24,6 +24,7 @@
 > [!Links]+
 >  | Incoming Links                                |
 > | --------------------------------------------- |
+> | [[Cards/Naval Ravikant\|Naval Ravikant]]   |
 > | [[Cards/Richard Feynman\|Richard Feynman]] |
 > 
 { .block-language-dataview}

@@ -28,7 +28,6 @@
 | Incoming Links                                    |
 | ------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-04-12\|2022-04-12]] |
-| [[Atlas/MOCs/History\|History]]                |
 | [[Cards/Peloponnesian War\|Peloponnesian War]] |
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"aliases":["unconscious"],"edited":"2023-04-06 Thu","date created":"2023-03-13 Mon","dg-publish":true,"permalink":"/cards/unconsciousness/","dgPassFrontmatter":true}
+{"aliases":"unconscious","edited":"2023-04-06 Thu","date created":"2023-03-13 Mon","dg-publish":true,"permalink":"/cards/unconsciousness/","dgPassFrontmatter":true}
 ---
 
 # Unconsciousness

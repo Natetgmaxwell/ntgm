@@ -12,12 +12,12 @@
 ## How Do You Show [[Cards/Energy Transfer\|Energy Transfer]]?
 
 - By Utilising [[Cards/Food Chains\|Food Chains]] & [[Cards/Food Webs\|Food Webs]]
-- [[Cards/Trophic levels\|Trophic levels]]
+- [[Cards/Trophic Levels\|Trophic Levels]]
 
 ## Acquisition of Energy
 
 - **Self Reliant** - [[Cards/Autotrophs\|Autotrophs]] (e.g. [[Cards/Photoautotrophs\|Photoautotrophs]], [[Cards/Chemoautotrophs\|Chemoautotrophs]])
-- **Dependent** - [[Cards/Heterotrophs\|Heterotrophs]] (e.g. [[Carnivore\|Carnivore]], [[Cards/Omnivore\|Omnivore]], [[Cards/Herbivore\|Herbivore]])
+- **Dependent** - [[Cards/Heterotrophs\|Heterotrophs]] (e.g. [[Cards/Carnivore\|Carnivore]], [[Cards/Omnivore\|Omnivore]], [[Cards/Herbivore\|Herbivore]])
 
 ## Revision
 
@@ -55,6 +55,7 @@ What are some ways that [[Cards/Energy Transfer\|Energy Transfer]] can be shown?
 | --------------------------------------------- |
 | [[Cards/Autotrophs\|Autotrophs]]           |
 | [[Cards/Biocoenosis\|Biocoenosis]]         |
+| [[Cards/Carnivore\|Carnivore]]             |
 | [[Cards/Chemoautotrophs\|Chemoautotrophs]] |
 | [[Atlas/MOCs/Ecology\|Ecology]]            |
 | [[Cards/Food Chains\|Food Chains]]         |
@@ -63,7 +64,7 @@ What are some ways that [[Cards/Energy Transfer\|Energy Transfer]] can be shown?
 | [[Cards/Heterotrophs\|Heterotrophs]]       |
 | [[Cards/Omnivore\|Omnivore]]               |
 | [[Cards/Photoautotrophs\|Photoautotrophs]] |
-| [[Cards/Trophic levels\|Trophic levels]]   |
+| [[Cards/Trophic Levels\|Trophic Levels]]   |
 
 { .block-language-dataview}
 

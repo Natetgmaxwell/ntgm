@@ -22,7 +22,7 @@
 
 ## Revision
 
-#flashcards/biology 
+flashcards/biology 
 
 What are the four types of [[Cards/Interspecific Interactions\|Interspecific Interactions]]?:: [[Cards/Predation\|Predation]], [[Cards/Interspecific Competition\|Competition]], [[Cards/Mutualism\|Mutualism]], and [[Cards/Commensalism\|Commensalism]].
 <!--SR:!2022-08-23,23,250-->

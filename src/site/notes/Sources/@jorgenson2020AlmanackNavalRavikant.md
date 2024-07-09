@@ -24,7 +24,9 @@
 > [!Links]+
 >  | Incoming Links                              |
 > | ------------------------------------------- |
+> | [[Cards/Competition\|Competition]]       |
 > | [[Cards/Microeconomics\|Microeconomics]] |
+> | [[Cards/Naval Ravikant\|Naval Ravikant]] |
 > 
 { .block-language-dataview}
 

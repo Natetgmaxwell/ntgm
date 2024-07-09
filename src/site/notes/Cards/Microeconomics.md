@@ -7,7 +7,7 @@
 > [!ontology]-
 > up:: 
 > jump:: 
-> down:: 
+> down:: [[Cards/Rivalry (economics)\|Rivalry (economics)]]
 
 > [!Definition] Definition
 > Microeconomics is a branch of economics that deals with the behaviour of individual economic entities, such as households, firms, and industries, in making economic decisions.
@@ -22,12 +22,14 @@
 | Incoming Links                    |
 | --------------------------------- |
 | [[Cards/Economics\|Economics]] |
+| [[Cards/Scarcity\|Scarcity]]   |
 
 { .block-language-dataview}
 
-| Outgoing Links                              |
-| ------------------------------------------- |
-| [[Cards/Naval Ravikant\|Naval Ravikant]] |
+| Outgoing Links                                        |
+| ----------------------------------------------------- |
+| [[Cards/Naval Ravikant\|Naval Ravikant]]           |
+| [[Cards/Rivalry (economics)\|Rivalry (economics)]] |
 
 { .block-language-dataview}
 

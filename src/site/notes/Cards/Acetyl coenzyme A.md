@@ -2,7 +2,7 @@
 {"alias":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/acetyl-coenzyme-a/","dgPassFrontmatter":true}
 ---
 
-# Acetyl coenzyme A
+# Acetyl Coenzyme A
 
 > [!ontology]
 > up:: [[Cards/Cellular Respiration\|Cellular Respiration]]

@@ -13,7 +13,7 @@
 
 ## For Reaction to Occur [[Sources/Video/@DavidMcKay2024SCI105M03T03Collision\|@DavidMcKay2024SCI105M03T03Collision]]:
 
-- Sufficient kinetic energy 
+- Sufficient [[Cards/Kinetic Energy\|kinetic energy]] 
 - Collision
 - Correct orientation
 
@@ -23,14 +23,14 @@
 
 ## Mentions
 
-| Incoming Links                              |
-| ------------------------------------------- |
-| [[Cards/Kinetic Energy\|Kinetic Energy]] |
+| Incoming Links |
+| -------------- |
 
 { .block-language-dataview}
 
-| Outgoing Links |
-| -------------- |
+| Outgoing Links                              |
+| ------------------------------------------- |
+| [[Cards/Kinetic Energy\|Kinetic Energy]] |
 
 { .block-language-dataview}
 

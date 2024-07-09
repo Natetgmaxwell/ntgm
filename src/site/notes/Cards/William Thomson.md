@@ -19,9 +19,8 @@
 
 ## Mentions
 
-| Incoming Links                     |
-| ---------------------------------- |
-| [[Atlas/MOCs/History\|History]] |
+| Incoming Links |
+| -------------- |
 
 { .block-language-dataview}
 

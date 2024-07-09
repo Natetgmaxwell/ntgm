@@ -44,7 +44,7 @@
 ## Flashcards
 
 What are the three main subatomic particles and their charges?;;The main subatomic particles are electrons (negative charge), protons (positive charge), and neutrons (no charge).
-<!--SR:!2024-06-26,51,210-->
+<!--SR:!2024-12-02,151,230-->
 
 Where are protons and neutrons located in an atom?;;Protons and neutrons are found in the nucleus of an atom.
-<!--SR:!2024-06-18,43,210-->
+<!--SR:!2024-11-09,128,230-->

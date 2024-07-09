@@ -1,8 +1,8 @@
 ---
-{"aliases":["Endosymbiosis"],"tags":["Uni/LFS261","flashcards/LFS261"],"dg-publish":true,"permalink":"/cards/endosymbiotic-theory/","dgPassFrontmatter":true}
+{"aliases":"Endosymbiosis","tags":["Uni/LFS261","flashcards/LFS261"],"dg-publish":true,"permalink":"/cards/endosymbiotic-theory/","dgPassFrontmatter":true}
 ---
 
-# Endosymbiotic theory
+# Endosymbiotic Theory
 
 > [!ontology]-
 > up:: [[Cards/Micro-organisms\|microorganism]]

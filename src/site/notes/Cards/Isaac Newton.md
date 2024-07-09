@@ -10,11 +10,12 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Cards/Isaac Newton\|Isaac Newton]]
 > I can calculate the motion of heavenly bodies, but not the madness of people.
+
 # Reference
+
 - 
 
 ## Mentions
@@ -34,4 +35,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
