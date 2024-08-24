@@ -1,23 +1,23 @@
 ---
-{"aliases":["CNX","CN10"],"relations":["[[Cards/Cranial Nerves\|Cranial Nerves]]","[[Autonomic Nervous System]]","[[Cards/Heart Rate\|Heart Rate]]","[[Cards/Digestive System\|Digestive System]]","[[Cards/Parasympathetic State\|Parasympathetic State]]"],"dg-publish":true,"permalink":"/cards/vagus-nerve/","dgPassFrontmatter":true}
+{"aliases":["CNX","CN10"],"dg-publish":true,"permalink":"/cards/vagus-nerve/","dgPassFrontmatter":true}
 ---
 
 # Vagus Nerve
 
 > [!Ontology]
-> up:: [[Cranial Nerves]], [[Cards/Autonomic Nervous System\|ANS]]
+> up:: [[Cards/Cranial Nerves\|Cranial Nerves]], [[Cards/Autonomic Nervous System\|ANS]]
 > jump::
 > down:: 
 
 > [!Definition] Definition
-> The [[Cards/Vagus Nerve\|Vagus Nerve]] is the longest cranial nerve, responsible for regulating many vital functions such as [[Heart Rate]] and stimulation of the [[Digestive System]].
+> The [[Cards/Vagus Nerve\|Vagus Nerve]] is the longest cranial nerve, responsible for regulating many vital functions such as [[Cards/Heart Rate\|Heart Rate]] and stimulation of the [[Cards/Digestive System\|Digestive System]].
 
 > [!quote] [[Sources/Research Papers/@porgesCardiacVagalTone1995\|@porgesCardiacVagalTone1995]]
 > The vagus is not a single neural pathway, but a complex bidirectional system with myelinated branches linking the brainstem and various target organs.
 
 # Reference
 
-- [[Parasympathetic State]]
+- [[Cards/Parasympathetic State\|Parasympathetic State]]
 
 ## Mentions
 
