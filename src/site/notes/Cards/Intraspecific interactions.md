@@ -1,8 +1,8 @@
 ---
-{"aliases":["Social Interaction"],"date created":"2022-12-20 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/intraspecific-interactions/","dgPassFrontmatter":true}
+{"aliases":"Social Interaction","date created":"2022-12-20 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/intraspecific-interactions/","dgPassFrontmatter":true}
 ---
 
-# Intraspecific interactions
+# Intraspecific Interactions
 
 > [!Ontology]
 > up:: [[Communication\|Communication]]

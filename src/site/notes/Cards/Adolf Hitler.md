@@ -1,5 +1,5 @@
 ---
-{"aliases":["Hitler"],"tags":["on/People","on/History"],"dg-publish":true,"permalink":"/cards/adolf-hitler/","dgPassFrontmatter":true}
+{"aliases":["Hitler"],"tags":["on/People","History"],"dg-publish":true,"permalink":"/cards/adolf-hitler/","dgPassFrontmatter":true}
 ---
 
 # Adolf Hitler

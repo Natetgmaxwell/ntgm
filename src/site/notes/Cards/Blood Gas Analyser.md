@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-### A blood gas analyser measures several key parameters in a sample of arterial blood, including:
+### A Blood Gas Analyser Measures Several Key Parameters in a Sample of Arterial Blood, Including:
 
 1. **Partial pressure of oxygen (PaO2)** - The amount of oxygen pressure in the blood.
 

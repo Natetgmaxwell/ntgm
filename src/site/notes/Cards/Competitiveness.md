@@ -1,5 +1,5 @@
 ---
-{"tags":["School","on/Business"],"date created":"2022-01-06 Thu","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/competitiveness/","dgPassFrontmatter":true}
+{"tags":["School","Business"],"date created":"2022-01-06 Thu","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/competitiveness/","dgPassFrontmatter":true}
 ---
 
 # Competitiveness

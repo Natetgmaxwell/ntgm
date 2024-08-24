@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/Business"],"dg-publish":true,"permalink":"/cards/outsourcing/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Business"],"dg-publish":true,"permalink":"/cards/outsourcing/","dgPassFrontmatter":true}
 ---
 
 # Outsourcing

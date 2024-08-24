@@ -4,7 +4,7 @@
 
 # Lingual Tonsil
 
-> [!ontology]+
+> [!ontology]-
 > up:: [[Cards/Tonsils\|Tonsils]]
 > jump:: 
 > down:: 
@@ -17,7 +17,21 @@
 
 ## Mentions
 
-- [[Sources/Video/@leedaffin2023-LFS122M10T4Lymphatic\|@leedaffin2023-LFS122M10T4Lymphatic]]
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
+
+{ .block-language-dataview}
+
+| Outgoing Links                |
+| ----------------------------- |
+| [[Cards/Tonsils\|Tonsils]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                                       |
+| --------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffin2023-LFS122M10T4Lymphatic\|@leedaffin2023-LFS122M10T4Lymphatic]] |
 
 { .block-language-dataview}
 

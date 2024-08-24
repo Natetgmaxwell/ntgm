@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/History","on/People"],"dg-publish":true,"permalink":"/cards/anton-chekhov/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["History","on/People"],"dg-publish":true,"permalink":"/cards/anton-chekhov/","dgPassFrontmatter":true}
 ---
 
 # Anton Chekhov

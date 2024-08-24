@@ -42,7 +42,7 @@
 | [[Cards/Keratin\|Keratin]]                                                                                                |
 | [[Cards/Palpation\|Palpation]]                                                                                            |
 | [[Cards/Sebaceous glands\|Sebaceous glands]]                                                                              |
-| [[Cards/Skins effect on Thermoregulation\|Skins effect on Thermoregulation]]                                              |
+| [[Cards/Skins Effect on Thermoregulation\|Skins Effect on Thermoregulation]]                                              |
 | [[Cards/Stratum Corneum\|Stratum Corneum]]                                                                                |
 | [[Cards/Subcutaneous Tissue\|Subcutaneous Tissue]]                                                                        |
 | [[Cards/Sweat Glands\|Sweat Glands]]                                                                                      |

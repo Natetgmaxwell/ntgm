@@ -10,7 +10,7 @@
 > down:: 
 
 > [!Definition] Definition
-> The semi-circle at the base of the [[Cards/Nails\|nail]].
+> The lunula is the crescent-shaped whitish area at the base of a fingernail or toenail, visible on some people's nails.
 
 # Reference
 

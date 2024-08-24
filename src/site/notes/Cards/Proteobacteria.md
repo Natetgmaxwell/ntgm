@@ -30,7 +30,7 @@
 | ------------------------------------------------------------------------------------------------------- |
 | [[Cards/Bacteria\|Bacteria]]                                                                         |
 | [[Extras/Excalidraw/Drawing 2024-05-17 20.01.55.excalidraw\|Drawing 2024-05-17 20.01.55.excalidraw]] |
-| [[Spaces/University/Classes/Microbiology\|Microbiology]]                                             |
+| [[Spaces/University/Classes/Introductory Microbiology\|Introductory Microbiology]]                   |
 
 { .block-language-dataview}
 

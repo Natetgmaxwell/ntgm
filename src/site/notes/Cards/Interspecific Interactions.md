@@ -20,14 +20,44 @@
 
 [[Cards/The Theory of Evolution by Natural Selection\|The Theory of Evolution by Natural Selection]] can have an impact on [[Cards/Interspecific Interactions\|Interspecific Interactions]], as the competition over resources becomes scares resulting in [[Cards/Competitive Exclusion\|Competitive Exclusion]]. Such as [[Cards/Predation\|predators]] may be forced to [[Cards/Predation\|predate]] other organisms outside their usual diet.
 
-## Revision
-
-flashcards/biology 
-
-What are the four types of [[Cards/Interspecific Interactions\|Interspecific Interactions]]?:: [[Cards/Predation\|Predation]], [[Cards/Interspecific Competition\|Competition]], [[Cards/Mutualism\|Mutualism]], and [[Cards/Commensalism\|Commensalism]].
-<!--SR:!2022-08-23,23,250-->
-
 # Reference
 
 - [[Cards/Interspecific Interactions\|Interspecific Interactions]] can lead to [[Cards/Energy Transfer\|Energy Transfer]]
 - [[Cards/Keystone Species\|Keystone Species]]
+
+## Mentions
+
+| Incoming Links                                    |
+| ------------------------------------------------- |
+| [[Calendar/2022/Daily/2022-02-07\|2022-02-07]] |
+| [[Calendar/2022/Daily/2022-03-01\|2022-03-01]] |
+| [[Calendar/2022/Daily/2022-08-08\|2022-08-08]] |
+| [[Cards/Co-evolution\|Co-evolution]]           |
+| [[Cards/Decomposers\|Decomposers]]             |
+| [[Atlas/MOCs/Taxonomy\|Taxonomy]]              |
+| [[Cards/Trophic Cascade\|Trophic Cascade]]     |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                                                                          |
+| ------------------------------------------------------------------------------------------------------- |
+| [[Cards/Commensalism\|Commensalism]]                                                                 |
+| [[Cards/Competitive Exclusion\|Competitive Exclusion]]                                               |
+| [[Cards/Energy Transfer\|Energy Transfer]]                                                           |
+| [[Cards/Interspecific Competition\|Interspecific Competition]]                                       |
+| [[Cards/Keystone Species\|Keystone Species]]                                                         |
+| [[Cards/Mutualism\|Mutualism]]                                                                       |
+| [[Cards/Predation\|Predation]]                                                                       |
+| [[Cards/The Theory of Evolution by Natural Selection\|The Theory of Evolution by Natural Selection]] |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
+
+{ .block-language-dataview}
+
+## Flashcards
+
+What are the four types of [[Cards/Interspecific Interactions\|Interspecific Interactions]]?:: [[Cards/Predation\|Predation]], [[Cards/Interspecific Competition\|Competition]], [[Cards/Mutualism\|Mutualism]], and [[Cards/Commensalism\|Commensalism]].
+<!--SR:!2022-08-23,23,250-->

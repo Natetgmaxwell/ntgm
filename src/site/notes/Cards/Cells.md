@@ -11,6 +11,11 @@
 
 > [!Definition] Definition
 
+## Types of Cells
+
+- [[Cards/Prokaryotic Cells\|Prokaryotic Cells]]
+- [[Cards/Eukaryotic Cells\|Eukaryotic Cells]]
+
 ## [[Cards/Organelles\|Organelles]]
 
 
@@ -51,11 +56,13 @@
 | ----------------------------------------------------------------------------------------------- |
 | [[Cards/Cell Division\|Cell Division]]                                                       |
 | [[Cards/Coagulation\|Coagulation]]                                                           |
+| [[Cards/Eukaryotic Cells\|Eukaryotic Cells]]                                                 |
 | [[Cards/Extracellular Receptors\|Extracellular Receptors]]                                   |
 | [[Cards/Levels of Organisation in the Human Body\|Levels of Organisation in the Human Body]] |
 | [[Cards/Myocyte\|Myocyte]]                                                                   |
 | [[Cards/Organelles\|Organelles]]                                                             |
 | [[Cards/Osteocyte\|Osteocyte]]                                                               |
+| [[Cards/Prokaryotic Cells\|Prokaryotic Cells]]                                               |
 | [[Cards/Stem cells\|Stem cells]]                                                             |
 | [[Cards/Unicellular Organisms\|Unicellular Organisms]]                                       |
 

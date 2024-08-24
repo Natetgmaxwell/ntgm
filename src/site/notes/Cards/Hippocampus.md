@@ -5,7 +5,7 @@
 # Hippocampus
 
 > [!Ontology]
-> up:: [[Cards/Temporal lobe\|Temporal lobe]]
+> up:: [[Cards/Temporal Lobe\|Temporal Lobe]]
 > jump::
 > down:: [[Cards/Short-Term Memory\|Short-Term Memory]]
 
@@ -30,7 +30,7 @@
 | Outgoing Links                                    |
 | ------------------------------------------------- |
 | [[Cards/Short-Term Memory\|Short-Term Memory]] |
-| [[Cards/Temporal lobe\|Temporal lobe]]         |
+| [[Cards/Temporal Lobe\|Temporal Lobe]]         |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["Transformation"],"tags":["Uni/LFS261","flashcards/LFS261"],"dg-publish":true,"permalink":"/cards/bacterial-gene-transformation/","dgPassFrontmatter":true}
+{"aliases":"Transformation","tags":["Uni/LFS261","flashcards/LFS261"],"dg-publish":true,"permalink":"/cards/bacterial-gene-transformation/","dgPassFrontmatter":true}
 ---
 
 # Bacterial Gene Transformation
@@ -12,9 +12,8 @@
 > [!Definition] Definition
 > The uptake of DNA fragments from it's environment into it's genome.
 
-
-
 # Reference
+
 - 
 
 ## Mentions
@@ -36,4 +35,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards

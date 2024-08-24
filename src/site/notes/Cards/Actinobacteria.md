@@ -12,10 +12,10 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@ipekkurtboke2024LFS261M09T01Prokaryotic\|@ipekkurtboke2024LFS261M09T01Prokaryotic]]
+> [!quote] [[Sources/Video/@ipekkurtboke2024LFS261M09T01Prokaryotic\|@ipekkurtboke2024LFS261M09T01Prokaryotic]]
 > They are commonly described as filamentous bacteria, which resemble that of the filamentous fungi.
 
-> [!quote] [[Sources/@ipekkurtboke2024LFS261M09T01Prokaryotic\|@ipekkurtboke2024LFS261M09T01Prokaryotic]]
+> [!quote] [[Sources/Video/@ipekkurtboke2024LFS261M09T01Prokaryotic\|@ipekkurtboke2024LFS261M09T01Prokaryotic]]
 > This morphology also gives the organism a much higher surface-to-volume ratio and improves its nutritional efficiency in the highly competitive soil environment.
 
 - Common in soil
@@ -38,9 +38,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                           |
-| ------------------------------------------------------------------------------------------------- |
-| [[Sources/@ipekkurtboke2024LFS261M09T01Prokaryotic\|@ipekkurtboke2024LFS261M09T01Prokaryotic]] |
+| Sources                                                                                                 |
+| ------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@ipekkurtboke2024LFS261M09T01Prokaryotic\|@ipekkurtboke2024LFS261M09T01Prokaryotic]] |
 
 { .block-language-dataview}
 

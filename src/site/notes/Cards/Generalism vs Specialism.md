@@ -25,15 +25,15 @@
 
 { .block-language-dataview}
 
-| Outgoing Links                                                                                              |
-| ----------------------------------------------------------------------------------------------------------- |
-| [[Sources/@jonathanrowson2024PhilosopherSocialScientist\|@jonathanrowson2024PhilosopherSocialScientist]] |
-| [[Cards/Jonathan Rowson\|Jonathan Rowson]]                                                               |
+| Outgoing Links                                |
+| --------------------------------------------- |
+| [[Cards/Jonathan Rowson\|Jonathan Rowson]] |
 
 { .block-language-dataview}
 
-| Sources |
-| ------- |
+| Sources                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@jonathanrowson2024PhilosopherSocialScientist\|@jonathanrowson2024PhilosopherSocialScientist]] |
 
 { .block-language-dataview}
 

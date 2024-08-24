@@ -11,9 +11,5 @@
 
 ## Notes with ``#on/Leadership`
 
-- [[Cards/Alexander the Great\|Alexander the Great]]
-- [[Cards/Ernest Henry Shackleton\|Ernest Henry Shackleton]]
-- [[Cards/Franklin Roosevelt\|Franklin Roosevelt]]
-- [[Cards/Management Styles\|Management Styles]]
 
 { .block-language-dataview}

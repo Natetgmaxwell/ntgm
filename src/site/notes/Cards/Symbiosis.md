@@ -17,9 +17,9 @@
 
 ## Mentions
 
-| Incoming Links                                              |
-| ----------------------------------------------------------- |
-| [[Spaces/University/Classes/Microbiology\|Microbiology]] |
+| Incoming Links                                                                        |
+| ------------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Introductory Microbiology\|Introductory Microbiology]] |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["RSA"],"tags":null,"dg-publish":true,"permalink":"/cards/respiratory-sinus-arrhythmia/","dgPassFrontmatter":true}
+{"aliases":"RSA","tags":null,"dg-publish":true,"permalink":"/cards/respiratory-sinus-arrhythmia/","dgPassFrontmatter":true}
 ---
 
 # Respiratory Sinus Arrhythmia
@@ -23,8 +23,21 @@
 
 ## Mentions
 
-- [[Sources/Research Papers/@ben-tal2012EvaluatingPhysiologicalSignificance\|@ben-tal2012EvaluatingPhysiologicalSignificance]]
-- [[Sources/Research Papers/@porges1995-CardiacVagalTone\|@porges1995-CardiacVagalTone]]
+| Incoming Links |
+| -------------- |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                              |
+| ----------------------------------------------------------- |
+| [[Cards/Heart Rate\|Heart Rate]]                         |
+| [[Cards/Heart Rate Variability\|Heart Rate Variability]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@ben-tal2012EvaluatingPhysiologicalSignificance\|@ben-tal2012EvaluatingPhysiologicalSignificance]] |
 
 { .block-language-dataview}
 

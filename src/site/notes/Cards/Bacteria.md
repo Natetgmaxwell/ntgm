@@ -35,6 +35,7 @@
 | Incoming Links                                                                          |
 | --------------------------------------------------------------------------------------- |
 | [[Calendar/2024/Daily/2024-03-12 Tue\|2024-03-12 Tue]]                               |
+| [[Cards/Bacterial Gene Regulation\|Bacterial Gene Regulation]]                       |
 | [[Cards/Bacterial Gene Transduction\|Bacterial Gene Transduction]]                   |
 | [[Cards/Bacteriophages\|Bacteriophages]]                                             |
 | [[Cards/Bioluminescent bacteria\|Bioluminescent bacteria]]                           |

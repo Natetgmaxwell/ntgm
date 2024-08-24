@@ -1,11 +1,11 @@
 ---
-{"aliases":["HR"],"tags":null,"dg-publish":true,"permalink":"/cards/resting-heart-rate/","dgPassFrontmatter":true}
+{"aliases":"RHR","tags":null,"dg-publish":true,"permalink":"/cards/resting-heart-rate/","dgPassFrontmatter":true}
 ---
 
 # Resting Heart Rate
 
 > [!ontology]-
-> up:: [[Cards/Heart Rate\|Heart Rate]]
+> up:: 
 > jump:: 
 > down:: 
 
@@ -22,9 +22,8 @@
 
 { .block-language-dataview}
 
-| Outgoing Links                      |
-| ----------------------------------- |
-| [[Cards/Heart Rate\|Heart Rate]] |
+| Outgoing Links |
+| -------------- |
 
 { .block-language-dataview}
 

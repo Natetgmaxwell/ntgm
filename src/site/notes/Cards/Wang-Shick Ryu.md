@@ -27,9 +27,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                           |
-| ----------------------------------------------------------------- |
-| [[Sources/@ryu2017ChapterVirusLife\|@ryu2017ChapterVirusLife]] |
+| Sources                                                                           |
+| --------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@ryu2017ChapterVirusLife\|@ryu2017ChapterVirusLife]] |
 
 { .block-language-dataview}
 

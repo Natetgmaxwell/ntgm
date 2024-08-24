@@ -1,5 +1,5 @@
 ---
-{"aliases":["CF"],"Created:":"2022-05-09","tags":["on/Health"],"date created":"2022-05-09 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/cystic-fibrosis/","dgPassFrontmatter":true}
+{"aliases":"CF","Created:":"2022-05-09","tags":["on/Health"],"date created":"2022-05-09 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/cystic-fibrosis/","dgPassFrontmatter":true}
 ---
 
 # Cystic Fibrosis
@@ -31,5 +31,8 @@
 
 { .block-language-dataview}
 
----
+## Flashcards
 
+The type of inheritance pattern observed in cystic fibrosis is?;;[[Cards/Autosomal Recessive Disorders\|autosomal recessive]]
+
+A mutation in the CFTR gene affects the transport of which ion?;;[[Cards/Chloride\|Chloride]]

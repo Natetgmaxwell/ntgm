@@ -1,5 +1,5 @@
 ---
-{"aliases":["001"],"tags":["effort","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"/spaces/ntm-digital-mind-site/digital-mind-home/","dgPassFrontmatter":true}
+{"aliases":"001","tags":["effort","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"/spaces/ntm-digital-mind-site/digital-mind-home/","dgPassFrontmatter":true}
 ---
 
 # Digital Mind Home
@@ -17,34 +17,36 @@
 > - Flashcard format is `{question};;{answer}`
 
 ## Recently Created Cards
-| File Name                                                             | Date Modified |
-| --------------------------------------------------------------------- | ------------- |
-| [[Cards/Acetyl coenzyme A\|Acetyl coenzyme A]]                     | July 09, 2024 |
-| [[Cards/Attitude\|Attitude]]                                       | July 09, 2024 |
-| [[Cards/Cervix\|Cervix]]                                           | July 09, 2024 |
-| [[Cards/Co-Dominance\|Co-Dominance]]                               | July 09, 2024 |
-| [[Cards/Conjugate acid\|Conjugate acid]]                           | July 09, 2024 |
-| [[Cards/Endosymbiotic theory\|Endosymbiotic theory]]               | July 09, 2024 |
-| [[Cards/Energy Transfer\|Energy Transfer]]                         | July 09, 2024 |
-| [[Cards/Flavin adenine dinucleotide\|Flavin adenine dinucleotide]] | July 09, 2024 |
-| [[Cards/Food Chains\|Food Chains]]                                 | July 09, 2024 |
-| [[Cards/Foramina\|Foramina]]                                       | July 09, 2024 |
+
+| File Name                                                             | Date Modified   |
+| --------------------------------------------------------------------- | --------------- |
+| [[Cards/RNA Transcription\|RNA Transcription]]                     | August 24, 2024 |
+| [[Cards/Acebutolol\|Acebutolol]]                                   | August 24, 2024 |
+| [[Cards/Atenolol\|Atenolol]]                                       | August 24, 2024 |
+| [[Cards/Autonomy\|Autonomy]]                                       | August 24, 2024 |
+| [[Cards/Bacterial Gene Regulation\|Bacterial Gene Regulation]]     | August 24, 2024 |
+| [[Cards/Beta Blockers\|Beta Blockers]]                             | August 24, 2024 |
+| [[Cards/Betaxolol\|Betaxolol]]                                     | August 24, 2024 |
+| [[Cards/Brisoprolol\|Brisoprolol]]                                 | August 24, 2024 |
+| [[Cards/Esmolol\|Esmolol]]                                         | August 24, 2024 |
+| [[Cards/Ethics in Clinical Genetics\|Ethics in Clinical Genetics]] | August 24, 2024 |
 
 { .block-language-dataview}
 
 ## Recent Sources
-| File Name                                                                                           | Date Modified | Type    |
-| --------------------------------------------------------------------------------------------------- | ------------- | ------- |
-| [[Sources/Video/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]             | July 09, 2024 | Video   |
-| [[Sources/Video/@leedaffin2023-LFS122M12T1Urinary\|@leedaffin2023-LFS122M12T1Urinary]]           | July 09, 2024 | \-      |
-| [[Sources/@nicolemasters2023LFS103M12T6Introduction\|@nicolemasters2023LFS103M12T6Introduction]] | July 08, 2024 | Video   |
-| [[Sources/@griscom2023OUTLIVEPartPeter\|@griscom2023OUTLIVEPartPeter]]                           | July 02, 2024 | Podcast |
-| [[Sources/@fridman2023ShannonCurryJohnny\|@fridman2023ShannonCurryJohnny]]                       | July 02, 2024 | Podcast |
-| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] | July 01, 2024 | \-      |
-| [[Sources/@williamson20243MMIdentityConnection\|@williamson20243MMIdentityConnection]]           | July 01, 2024 | \-      |
-| [[Sources/Video/@colingavagan2023-LFS122M8T6Posterior\|@colingavagan2023-LFS122M8T6Posterior]]   | June 30, 2024 | \-      |
-| [[Sources/Video/@colingavagan2023-LFS122M8T5Anterior\|@colingavagan2023-LFS122M8T5Anterior]]     | June 30, 2024 | \-      |
-| [[Sources/@parrish2017NavalRavikantAngel\|@parrish2017NavalRavikantAngel]]                       | June 29, 2024 | Podcast |
+
+| File Name                                                                                                                     | Date Modified   | Type           |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------- |
+| [[Sources/@eamens2024BIM263M04T01ArrhythmiasTheir\|@eamens2024BIM263M04T01ArrhythmiasTheir]]                               | August 22, 2024 | Video          |
+| [[Sources/@chan2011PersonalizedMedicineProgress\|@chan2011PersonalizedMedicineProgress]]                                   | August 20, 2024 | Research Paper |
+| [[Sources/@goetz2018PersonalizedMedicineMotivation\|@goetz2018PersonalizedMedicineMotivation]]                             | August 20, 2024 | Research Paper |
+| [[Sources/@russell2024BIM263M02T05AcetylcholinesteraseEnzyme\|@russell2024BIM263M02T05AcetylcholinesteraseEnzyme]]         | August 12, 2024 | Video          |
+| [[Sources/@russell2024BIM263M03T02Noradrenaline\|@russell2024BIM263M03T02Noradrenaline]]                                   | August 12, 2024 | Video          |
+| [[Sources/@russell2024BIM263M02T04AcetylcholinesteraseInhibitors\|@russell2024BIM263M02T04AcetylcholinesteraseInhibitors]] | August 12, 2024 | Video          |
+| [[Sources/@mcmillan2024LFS252M02T04DNAReplication\|@mcmillan2024LFS252M02T04DNAReplication]]                               | August 05, 2024 | Video          |
+| [[Sources/@mcmillan2024LFS252M02T03GenesMutations\|@mcmillan2024LFS252M02T03GenesMutations]]                               | August 05, 2024 | Video          |
+| [[Sources/@mcmillan2024LFS252M02T02GeneticCode\|@mcmillan2024LFS252M02T02GeneticCode]]                                     | August 04, 2024 | Video          |
+| [[Sources/@jelocnik2024LFS252M01T02WhatMolecular\|@jelocnik2024LFS252M01T02WhatMolecular]]                                 | August 04, 2024 | Video          |
 
 { .block-language-dataview}
 
@@ -69,4 +71,4 @@
 - [PDF Editor and Reader](https://pdfexpert.com/)
 - [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
 
-##### Github Repo can be found at: https://github.com/Natetgmaxwell/ntgm
+##### Github Repo Can Be Found At: https://github.com/Natetgmaxwell/ntgm

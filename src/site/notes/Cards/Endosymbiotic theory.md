@@ -20,10 +20,10 @@
 
 ## Mentions
 
-| Incoming Links                                              |
-| ----------------------------------------------------------- |
-| [[Spaces/University/Classes/Microbiology\|Microbiology]] |
-| [[Cards/Symbiosis\|Symbiosis]]                           |
+| Incoming Links                                                                        |
+| ------------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Introductory Microbiology\|Introductory Microbiology]] |
+| [[Cards/Symbiosis\|Symbiosis]]                                                     |
 
 { .block-language-dataview}
 

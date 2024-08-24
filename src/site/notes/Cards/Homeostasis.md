@@ -2,7 +2,6 @@
 {"edited":"2023-04-06 Thu","date created":"2022-04-03 Sun","tags":["moc","on/Science/Biology","Uni/HBIO1009","flashcards/hbio1010","Uni/LFS112","flashcards/LFS112"],"dg-publish":true,"cssclasses":[],"permalink":"/cards/homeostasis/","dgPassFrontmatter":true}
 ---
 
-
 # Homeostasis
 
 > [!Ontology]

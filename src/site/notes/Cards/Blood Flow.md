@@ -23,7 +23,7 @@
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                          |
 | [[Cards/Psychological sigh\|Psychological sigh]]                                                                          |
-| [[Cards/Skins effect on Thermoregulation\|Skins effect on Thermoregulation]]                                              |
+| [[Cards/Skins Effect on Thermoregulation\|Skins Effect on Thermoregulation]]                                              |
 | [[Cards/Sympathetic Nervous System\|Sympathetic Nervous System]]                                                          |
 
 { .block-language-dataview}

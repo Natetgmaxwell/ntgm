@@ -1,5 +1,5 @@
 ---
-{"tags":["moc","on/History"],"date created":"2022-04-08 Fri","edited":"2023-04-06 Thu","relations":["[[Greek Philosophy]]","[[Greek Mythology]]","[[Ancient Civilizations]]","[[Democracy]]"],"dg-publish":true,"permalink":"/cards/ancient-greece/","dgPassFrontmatter":true}
+{"tags":["moc","History"],"date created":"2022-04-08 Fri","edited":"2023-04-06 Thu","relations":["[[Greek Philosophy]]","[[Greek Mythology]]","[[Ancient Civilizations]]","[[Democracy]]"],"dg-publish":true,"permalink":"/cards/ancient-greece/","dgPassFrontmatter":true}
 ---
 
 # Ancient Greece

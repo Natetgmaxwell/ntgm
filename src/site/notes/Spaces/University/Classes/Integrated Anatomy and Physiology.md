@@ -48,7 +48,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 - [[Atlas/MOCs/Genetics\|Genetics]]
 	- [[Cards/Chromosomes\|Chromosomes]]
 	- [[Cards/Nucleic Acids\|Nucleic Acids]]
-		- [[Cards/Chemical Bases\|Chemical Bases]]
+		- [[Cards/Nucleotide Bases\|Nucleotide Bases]]
 			- [[Cards/Pyrimidine Bases\|Pyrimidine Bases]]
 				- [[Cards/Vitamin B1\|Thiamine]] ([[Cards/Uracil\|Uracil]] in [[Cards/Ribonucleic Acid\|RNA]])
 				- [[Cards/Cytosine\|Cytosine]]

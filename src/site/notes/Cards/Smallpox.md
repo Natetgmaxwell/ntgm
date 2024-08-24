@@ -5,7 +5,7 @@
 # Smallpox
 
 > [!ontology]-
-> up:: 
+> up:: [[Cards/Virus\|Virus]]
 > jump:: 
 > down:: 
 
@@ -20,12 +20,12 @@
 | Incoming Links                            |
 | ----------------------------------------- |
 | [[Cards/Edward Jenner\|Edward Jenner]] |
-| [[Cards/Virus\|Virus]]                 |
 
 { .block-language-dataview}
 
-| Outgoing Links |
-| -------------- |
+| Outgoing Links            |
+| ------------------------- |
+| [[Cards/Virus\|Virus]] |
 
 { .block-language-dataview}
 

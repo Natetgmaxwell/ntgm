@@ -27,6 +27,7 @@
 > | [[Cards/Contractions of Smooth Muscle within the Digestive Tract\|Contractions of Smooth Muscle within the Digestive Tract]] |
 > | [[Cards/Digestion\|Digestion]]                                                                                               |
 > | [[Cards/Digestive System\|Digestive System]]                                                                                 |
+> | [[Cards/Segmentation\|Segmentation]]                                                                                         |
 > | [[Cards/Small Intestine\|Small Intestine]]                                                                                   |
 > 
 { .block-language-dataview}

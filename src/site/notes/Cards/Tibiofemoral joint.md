@@ -1,5 +1,5 @@
 ---
-{"aliases":["knee joint"],"edited":"2023-04-06 Thu","tags":["Uni/OMT1","on/Science/Biology/Anatomy"],"date created":"2023-03-27 Mon","dg-publish":true,"permalink":"/cards/tibiofemoral-joint/","dgPassFrontmatter":true}
+{"aliases":"knee joint","edited":"2023-04-06 Thu","tags":["Uni/OMT1","on/Science/Biology/Anatomy"],"date created":"2023-03-27 Mon","dg-publish":true,"permalink":"/cards/tibiofemoral-joint/","dgPassFrontmatter":true}
 ---
 
 # Tibiofemoral Joint

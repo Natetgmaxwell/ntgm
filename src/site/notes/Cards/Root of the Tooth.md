@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-> [!quote] [@leedaffin2023-LFS122M11T1Oral]
+> [!quote] [[Sources/Video/@leedaffinLFS122M11T1Oral2023\|@leedaffinLFS122M11T1Oral2023]]
 > "A tooth may have multiple roots or just one root (depending upon its tooth type)."
 
 # Reference
@@ -20,6 +20,20 @@
 
 ## Mentions
 
+| Incoming Links |
+| -------------- |
+
+{ .block-language-dataview}
+
+| Outgoing Links            |
+| ------------------------- |
+| [[Cards/Teeth\|Teeth]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                           |
+| --------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffinLFS122M11T1Oral2023\|@leedaffinLFS122M11T1Oral2023]] |
 
 { .block-language-dataview}
 

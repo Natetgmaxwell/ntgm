@@ -45,6 +45,7 @@
 | [[Cards/Core Body Temperature\|Core Body Temperature]]                             |
 | [[Cards/Denaturation\|Denaturation]]                                               |
 | [[Cards/Enzyme Deactivation\|Enzyme Deactivation]]                                 |
+| [[Cards/Enzymes Inhibitor\|Enzymes Inhibitor]]                                     |
 | [[Cards/Epigenetic Regulators\|Epigenetic Regulators]]                             |
 | [[Cards/Histamine N-methyltransferase\|Histamine N-methyltransferase]]             |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                   |

@@ -7,7 +7,7 @@
 > [!ontology]
 > up:: [[Cards/Spine\|Spine]]
 > jump:: [[Cards/Intervertebral Joints\|Intervertebral Joints]]
-> down:: [[• Inbox/Annulus Fibrosus\|Annulus Fibrosus]], [[• Inbox/Nucleus Pulposus\|Nucleus Pulposus]]
+> down:: [[Cards/Annulus Fibrosus\|Annulus Fibrosus]], [[Cards/Nucleus Pulposus\|Nucleus Pulposus]]
 
 > [!Definition] Definition
 
@@ -25,9 +25,9 @@
 
 | Outgoing Links                                            |
 | --------------------------------------------------------- |
-| [[• Inbox/Annulus Fibrosus\|Annulus Fibrosus]]         |
+| [[Cards/Annulus Fibrosus\|Annulus Fibrosus]]           |
 | [[Cards/Intervertebral Joints\|Intervertebral Joints]] |
-| [[• Inbox/Nucleus Pulposus\|Nucleus Pulposus]]         |
+| [[Cards/Nucleus Pulposus\|Nucleus Pulposus]]           |
 | [[Cards/Spine\|Spine]]                                 |
 
 { .block-language-dataview}

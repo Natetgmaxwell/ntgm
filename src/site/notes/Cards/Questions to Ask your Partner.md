@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@williamson20243MMIdentityConnection\|@williamson20243MMIdentityConnection]]
+> [!quote] [[Sources/Articles/@williamson20243MMIdentityConnection\|@williamson20243MMIdentityConnection]]
 > 3 deep questions to connect with your partner.  
 > 1. What feelings are hard for you to communicate? How can I make it  easier?
 > 2. What is a compromise you've had to make since meeting me?  
@@ -54,7 +54,7 @@
 | Sources                                                                                            |
 | -------------------------------------------------------------------------------------------------- |
 | [[Sources/Articles/@vanessavanedwards202310QuestionsAsk\|@vanessavanedwards202310QuestionsAsk]] |
-| [[Sources/@williamson20243MMIdentityConnection\|@williamson20243MMIdentityConnection]]          |
+| [[Sources/Articles/@williamson20243MMIdentityConnection\|@williamson20243MMIdentityConnection]] |
 
 { .block-language-dataview}
 

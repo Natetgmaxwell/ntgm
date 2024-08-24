@@ -12,10 +12,10 @@
 > [!Definition] Definition
 > 
 
-> [!quote] [[Sources/@ipekkurtboke2024LFS261M09T01Prokaryotic\|@ipekkurtboke2024LFS261M09T01Prokaryotic]]
+> [!quote] [[Sources/Video/@ipekkurtboke2024LFS261M09T01Prokaryotic\|@ipekkurtboke2024LFS261M09T01Prokaryotic]]
 > The genus name Verrucomicrobium derives from Greek roots meaning “warty” due to the multiple projecting prosthecae.
 
-> [!quote] [[Sources/@ipekkurtboke2024LFS261M09T01Prokaryotic\|@ipekkurtboke2024LFS261M09T01Prokaryotic]]
+> [!quote] [[Sources/Video/@ipekkurtboke2024LFS261M09T01Prokaryotic\|@ipekkurtboke2024LFS261M09T01Prokaryotic]]
 > [[Cards/Verrucomicrobiota\|Verrucomicrobiota]] has cytoplasmic appendages called prostheca.
 
 # Reference
@@ -34,9 +34,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                           |
-| ------------------------------------------------------------------------------------------------- |
-| [[Sources/@ipekkurtboke2024LFS261M09T01Prokaryotic\|@ipekkurtboke2024LFS261M09T01Prokaryotic]] |
+| Sources                                                                                                 |
+| ------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@ipekkurtboke2024LFS261M09T01Prokaryotic\|@ipekkurtboke2024LFS261M09T01Prokaryotic]] |
 
 { .block-language-dataview}
 

@@ -20,8 +20,9 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                                            |
+| --------------------------------------------------------- |
+| [[Calendar/2023/Daily/2024-07-31 Wed\|2024-07-31 Wed]] |
 
 { .block-language-dataview}
 

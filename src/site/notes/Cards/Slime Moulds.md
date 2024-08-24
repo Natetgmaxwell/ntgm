@@ -10,9 +10,9 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
@@ -33,6 +33,6 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 What are slime molds?;;Several kinds of unrelated eukaryotic organisms that can live freely as single cells but can aggregate together to form multicellular reproductive structures. Cellular slime molds are typical eukaryotic cells that resemble amoebas. Plasmodial slime molds belong to a separate phylum.

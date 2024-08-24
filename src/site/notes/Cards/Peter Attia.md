@@ -31,7 +31,7 @@
 | Sources                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Podcasts/Podcast Episodes/ 239 ‒ The science of strength  muscle  and training for longevity   Andy Galpin  Ph.D. (PART I)\| 239 ‒ The science of strength  muscle  and training for longevity   Andy Galpin  Ph.D. (PART I)]] |
-| [[Sources/@griscom2023OUTLIVEPartPeter\|@griscom2023OUTLIVEPartPeter]]                                                                                                                                                                   |
+| [[Sources/Podcasts/@griscom2023OUTLIVEPartPeter\|@griscom2023OUTLIVEPartPeter]]                                                                                                                                                          |
 | [[Sources/Books/@peterattia2023OutliveScienceArt\|@peterattia2023OutliveScienceArt]]                                                                                                                                                     |
 | [[Sources/Podcasts/Podcast Shows/The Peter Attia Drive\|The Peter Attia Drive]]                                                                                                                                                          |
 

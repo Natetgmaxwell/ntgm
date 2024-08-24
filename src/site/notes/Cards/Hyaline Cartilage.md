@@ -6,7 +6,7 @@
 
 > [!Ontology]
 > up:: [[Cards/Cartilage\|Cartilage]]
-> jump:: [[Cards/Cartilaginous joints\|Cartilaginous joints]]
+> jump:: [[Cards/Cartilaginous Joints\|Cartilaginous Joints]]
 > down:: 
 
 > [!Definition] Definition

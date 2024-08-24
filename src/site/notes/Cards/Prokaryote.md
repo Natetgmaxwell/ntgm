@@ -22,6 +22,8 @@
 | [[Calendar/2022/Daily/2022-07-13\|2022-07-13]]                                |
 | [[Cards/Eukaryote\|Eukaryote]]                                                |
 | [[Spaces/University/Projects/LFS261A2 Mid-term Exam\|LFS261A2 Mid-term Exam]] |
+| [[Cards/Prokaryotic Cells\|Prokaryotic Cells]]                                |
+| [[Cards/Ribonucleic Acid\|Ribonucleic Acid]]                                  |
 | [[Cards/Types of Organism\|Types of Organism]]                                |
 
 { .block-language-dataview}

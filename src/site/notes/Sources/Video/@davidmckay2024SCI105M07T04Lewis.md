@@ -22,9 +22,10 @@
 > creators:: David McKay
 
 > [!Links]+
->  | Incoming Links                            |
-> | ----------------------------------------- |
-> | [[Cards/Free Radicals\|Free Radicals]] |
+>  | Incoming Links                                            |
+> | --------------------------------------------------------- |
+> | [[Cards/Free Radicals\|Free Radicals]]                 |
+> | [[Cards/Lewis Line Structures\|Lewis Line Structures]] |
 > 
 { .block-language-dataview}
 

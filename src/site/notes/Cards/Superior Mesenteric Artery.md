@@ -1,5 +1,5 @@
 ---
-{"aliases":["SMA"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/superior-mesenteric-artery/","dgPassFrontmatter":true}
+{"aliases":"SMA","tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/superior-mesenteric-artery/","dgPassFrontmatter":true}
 ---
 
 # Superior Mesenteric Artery

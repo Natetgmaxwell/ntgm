@@ -22,6 +22,7 @@
 >  | Incoming Links                                                      |
 > | ------------------------------------------------------------------- |
 > | [[Cards/Elements of the Human Body\|Elements of the Human Body]] |
+> | [[Cards/Ribosomes\|Ribosomes]]                                   |
 > 
 { .block-language-dataview}
 

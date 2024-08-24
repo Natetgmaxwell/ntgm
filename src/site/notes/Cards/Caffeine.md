@@ -5,7 +5,7 @@
 # Caffeine
 
 > [!Ontology]+
-> up:: 
+> up:: [[Cards/Drugs\|Drugs]]
 > jump:: [[Cards/Blood-brain Barrier\|BBB]]
 > down:: [[Cards/Tea\|Tea]], [[Cards/Sleep\|Sleep]], [[Cards/Coffee\|Coffee]]
 
@@ -30,6 +30,7 @@
 | ----------------------------------------------------- |
 | [[Cards/Blood-brain Barrier\|Blood-brain Barrier]] |
 | [[Cards/Coffee\|Coffee]]                           |
+| [[Cards/Drugs\|Drugs]]                             |
 | [[Cards/Sleep\|Sleep]]                             |
 | [[Cards/Tea\|Tea]]                                 |
 

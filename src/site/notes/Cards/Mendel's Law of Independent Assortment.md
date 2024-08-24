@@ -9,7 +9,7 @@ Links: [[Calendar/2022/Daily/2022-05-24\|2022-05-24]]
 
 > [!Ontology]+
 > up:: [[Cards/Gregor Mendel\|Gregor Mendel]]
-> jump:: [[Cards/Mendel's law of Segregation\|Mendel's law of Segregation]]
+> jump:: [[Cards/Mendel's Law of Segregation\|Mendel's Law of Segregation]]
 > down:: 
 
 > [!Definition] Definition
@@ -18,3 +18,7 @@ Links: [[Calendar/2022/Daily/2022-05-24\|2022-05-24]]
 # Reference
 
 - [[Cards/Gametes\|Gametes]]
+
+## Flashcards
+
+What is [[Cards/Mendel's Law of Independent Assortment\|Mendel's Law of Independent Assortment]]?;;

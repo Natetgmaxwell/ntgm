@@ -808,7 +808,7 @@ Many [[Cards/Organ Systems\|organ systems]] together perform functions on an ind
 
 #### Classification of [[Cards/Joints\|Joints]]
 - [[Cards/Fibrous joints\|Fibrous joints]]
-- [[Cards/Cartilaginous joints\|Cartilaginous joints]]
+- [[Cards/Cartilaginous Joints\|Cartilaginous Joints]]
 - [[Cards/Synovial joints\|Synovial joints]]
 	- [[Cards/Pivot Joint\|Pivot Joint]]
 	- [[Cards/Hinge Joint\|Hinge Joint]]

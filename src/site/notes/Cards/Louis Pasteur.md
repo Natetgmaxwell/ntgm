@@ -23,10 +23,10 @@
 
 ## Mentions
 
-| Incoming Links                                              |
-| ----------------------------------------------------------- |
-| [[Cards/Germ Theory of Disease\|Germ Theory of Disease]] |
-| [[Spaces/University/Classes/Microbiology\|Microbiology]] |
+| Incoming Links                                                                        |
+| ------------------------------------------------------------------------------------- |
+| [[Cards/Germ Theory of Disease\|Germ Theory of Disease]]                           |
+| [[Spaces/University/Classes/Introductory Microbiology\|Introductory Microbiology]] |
 
 { .block-language-dataview}
 

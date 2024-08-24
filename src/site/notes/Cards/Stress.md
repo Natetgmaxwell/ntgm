@@ -30,6 +30,7 @@
 
 | Incoming Links                                                         |
 | ---------------------------------------------------------------------- |
+| [[Cards/Chronic Stress\|Chronic Stress]]                            |
 | [[Spaces/University/Projects/HBIO1010A1 Poster\|HBIO1010A1 Poster]] |
 | [[Cards/L-theanine\|L-theanine]]                                    |
 | [[Cards/Nervousness\|Nervousness]]                                  |
@@ -54,7 +55,6 @@
 
 | Sources                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Research Papers/@porges1995-CardiacVagalTone\|@porges1995-CardiacVagalTone]]                       |
 | [[Sources/Research Papers/@russellHumanStressResponse2019\|@russellHumanStressResponse2019]]                 |
 | [[Sources/Research Papers/@søvold2021-PrioritizingMentalHealth\|@søvold2021-PrioritizingMentalHealth]]       |
 | [[Sources/Books/Respiratory Contagion by Mieczyslaw Pokorski\|Respiratory Contagion by Mieczyslaw Pokorski]] |

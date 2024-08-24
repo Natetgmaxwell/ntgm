@@ -1,5 +1,5 @@
 ---
-{"aliases":["joint capsule"],"tags":["on/Science/Biology/Anatomy","Uni/LFS122","flashcards/LFS122"],"date created":"2022-12-10 Sat","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/articular-capsule/","dgPassFrontmatter":true}
+{"aliases":"joint capsule","tags":["on/Science/Biology/Anatomy","Uni/LFS122","flashcards/LFS122"],"date created":"2022-12-10 Sat","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/articular-capsule/","dgPassFrontmatter":true}
 ---
 
 # Articular Capsule
@@ -21,6 +21,7 @@
 | Incoming Links                                            |
 | --------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-12-10 Sat\|2022-12-10 Sat]] |
+| [[Cards/Capsular Ligaments\|Capsular Ligaments]]       |
 
 { .block-language-dataview}
 

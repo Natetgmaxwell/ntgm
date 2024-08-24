@@ -1,5 +1,5 @@
 ---
-{"aliases":["viruses"],"tags":["Uni/LFS261"],"dg-publish":true,"permalink":"/cards/virus/","dgPassFrontmatter":true}
+{"aliases":"viruses","tags":["Uni/LFS261"],"dg-publish":true,"permalink":"/cards/virus/","dgPassFrontmatter":true}
 ---
 
 # Virus
@@ -14,7 +14,7 @@
 ![Extras/Images/MBZD5I5D.png](/img/user/Extras/Images/MBZD5I5D.png)
 
 > [!cite]-
-> [[Sources/@ryu2017ChapterVirusLife\|@ryu2017ChapterVirusLife]]
+> [[Sources/Research Papers/@ryu2017ChapterVirusLife\|@ryu2017ChapterVirusLife]]
 
 # Reference
 
@@ -22,10 +22,11 @@
 
 ## Mentions
 
-| Incoming Links                                              |
-| ----------------------------------------------------------- |
-| [[Cards/Bacteriophages\|Bacteriophages]]                 |
-| [[Spaces/University/Classes/Microbiology\|Microbiology]] |
+| Incoming Links                                                                        |
+| ------------------------------------------------------------------------------------- |
+| [[Cards/Bacteriophages\|Bacteriophages]]                                           |
+| [[Cards/DNA Virus\|DNA Virus]]                                                     |
+| [[Spaces/University/Classes/Introductory Microbiology\|Introductory Microbiology]] |
 
 { .block-language-dataview}
 
@@ -37,9 +38,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                           |
-| ----------------------------------------------------------------- |
-| [[Sources/@ryu2017ChapterVirusLife\|@ryu2017ChapterVirusLife]] |
+| Sources                                                                           |
+| --------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@ryu2017ChapterVirusLife\|@ryu2017ChapterVirusLife]] |
 
 { .block-language-dataview}
 

@@ -7,7 +7,7 @@
 > [!Ontology]+
 > up:: [[Cards/Chromosomes\|Chromosomes]]
 > jump::
-> down:: [[Cards/Dominate Allele\|Dominate Allele]], [[Cards/Recessive Allele\|Recessive Allele]]
+> down:: [[Cards/Dominate Allele\|Dominate Allele]], [[Cards/Recessive Allele\|Recessive Allele]], [[Cards/Co-Dominance\|Co-Dominance]]
 
 An [[Cards/Allele\|Allele]] is a half of the [[Cards/Chromosomes\|chromosome]] that is inherited from each parent. Dominant alleles and recessive alleles determine where or not the trait is shown.
 

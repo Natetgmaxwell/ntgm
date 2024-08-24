@@ -1,5 +1,5 @@
 ---
-{"tags":["on/History","on/People"],"date created":"2022-04-13 Wed","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/pericles/","dgPassFrontmatter":true}
+{"tags":["History","on/People"],"date created":"2022-04-13 Wed","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/pericles/","dgPassFrontmatter":true}
 ---
 
 # Pericles

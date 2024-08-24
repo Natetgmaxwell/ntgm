@@ -1,5 +1,5 @@
 ---
-{"tags":["on/Business","School"],"date created":"2022-11-08 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/performance-management/","dgPassFrontmatter":true}
+{"tags":["Business","School"],"date created":"2022-11-08 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/performance-management/","dgPassFrontmatter":true}
 ---
 
 # Performance Management

@@ -29,10 +29,10 @@
 
 { .block-language-dataview}
 
-| Sources                                                       |
-| ------------------------------------------------------------- |
-| [[Sources/@ruffle2019TatWillTell\|@ruffle2019TatWillTell]] |
-| [[Sources/Articles/WhyAlcoholLowers\|WhyAlcoholLowers]]    |
+| Sources                                                                       |
+| ----------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@ruffle2019TatWillTell\|@ruffle2019TatWillTell]] |
+| [[Sources/Articles/WhyAlcoholLowers\|WhyAlcoholLowers]]                    |
 
 { .block-language-dataview}
 

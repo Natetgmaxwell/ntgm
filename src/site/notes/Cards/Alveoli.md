@@ -17,6 +17,25 @@
 
 ## Mentions
 
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                       |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Extras/Excalidraw/Respiratory System Diagram\|Respiratory System Diagram]]                           |
+
+{ .block-language-dataview}
+
+| Outgoing Links                          |
+| --------------------------------------- |
+| [[Cards/Bronchioles\|Bronchioles]]   |
+| [[Cards/Gas Exchange\|Gas Exchange]] |
+| [[Cards/Lungs\|Lungs]]               |
+| [[Cards/Respiration\|Respiration]]   |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 

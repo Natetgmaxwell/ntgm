@@ -1,5 +1,5 @@
 ---
-{"aliases":["ACTH"],"dg-publish":true,"tags":["Uni/LFS112"],"permalink":"/cards/adrenocorticotropic-hormone/","dgPassFrontmatter":true}
+{"aliases":"ACTH","dg-publish":true,"tags":["Uni/LFS112"],"permalink":"/cards/adrenocorticotropic-hormone/","dgPassFrontmatter":true}
 ---
 
 # Adrenocorticotropic Hormone

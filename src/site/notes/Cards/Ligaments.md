@@ -50,6 +50,7 @@
 
 | Outgoing Links                                                                                        |
 | ----------------------------------------------------------------------------------------------------- |
+| [[Cards/Capsular Ligaments\|Capsular Ligaments]]                                                   |
 | [[Cards/Connective Tissue\|Connective Tissue]]                                                     |
 | [[Cards/Ileofemoral ligament\|Ileofemoral ligament]]                                               |
 | [[Cards/Ligaments of the Female Reproductive System\|Ligaments of the Female Reproductive System]] |
@@ -65,7 +66,7 @@
 
 ## Questions
 
-How are ligaments connecting bone to bone classified?;;[[capsular ligaments\|capsular ligaments]], [[Extra-capsular ligaments\|Extra-capsular ligaments]], [[Intra-capsular ligaments\|Intra-capsular ligaments]]
+How are ligaments connecting bone to bone classified?;;[[Cards/Capsular Ligaments\|Capsular Ligaments]], [[Extra-capsular ligaments\|Extra-capsular ligaments]], [[Intra-capsular ligaments\|Intra-capsular ligaments]]
 <!--SR:!2023-10-27,4,170-->
 
 What are specialised structures found in [[Cards/Synovial joints\|synovial joints]]?;;[[Intra-articular discs\|Intra-articular discs]], [[Labrum\|Labrum]]

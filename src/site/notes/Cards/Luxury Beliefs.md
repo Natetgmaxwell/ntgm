@@ -30,10 +30,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                    |
-| ------------------------------------------------------------------------------------------ |
-| [[Sources/Articles/@henderson2022-DawnEverythingNew\|@henderson2022-DawnEverythingNew]] |
-| [[Sources/Articles/@Henderson2022LuxuryBeliefsAre\|@Henderson2022LuxuryBeliefsAre]]     |
+| Sources                                                                                |
+| -------------------------------------------------------------------------------------- |
+| [[Sources/Articles/@Henderson2022LuxuryBeliefsAre\|@Henderson2022LuxuryBeliefsAre]] |
 
 { .block-language-dataview}
 

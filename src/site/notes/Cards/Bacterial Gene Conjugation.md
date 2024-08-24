@@ -36,7 +36,7 @@
 - Possess all genes necessary for construction of conjugal bridge.
 
 ### Mobilisable [[Cards/Plasmids\|Plasmids]]
-- Require the help of self transmissible plasmids for transfer
+- Require the help of self transmissible [[Cards/Plasmids\|plasmids]] for transfer
 - Lacks genes necessary for conjugal bridge.
 
 # Reference

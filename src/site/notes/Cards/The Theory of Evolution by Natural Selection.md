@@ -1,5 +1,5 @@
 ---
-{"Created:":"2022-06-02","aliases":["Natural Selection"],"tags":["on/Science/Biology","School"],"date created":"2022-06-02 Thu","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/the-theory-of-evolution-by-natural-selection/","dgPassFrontmatter":true}
+{"Created:":"2022-06-02","aliases":"Natural Selection","tags":["on/Science/Biology","School"],"date created":"2022-06-02 Thu","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/the-theory-of-evolution-by-natural-selection/","dgPassFrontmatter":true}
 ---
 
 # The Theory of Evolution by Natural Selection

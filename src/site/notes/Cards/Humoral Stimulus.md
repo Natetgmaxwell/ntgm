@@ -17,6 +17,20 @@
 
 ## Mentions
 
+| Incoming Links                                                              |
+| --------------------------------------------------------------------------- |
+| [[Cards/Stimuli for Hormonal Secretion\|Stimuli for Hormonal Secretion]] |
+
+{ .block-language-dataview}
+
+| Outgoing Links                  |
+| ------------------------------- |
+| [[Cards/Hormones\|Hormones]] |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 

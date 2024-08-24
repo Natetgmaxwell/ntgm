@@ -12,7 +12,7 @@
 > [!Definition] Definition
 
 > [!quote] [[Cards/Naval Ravikant\|Naval Ravikant]]
-> “Escape competition through authenticity.” Basically, when you’re competing with people, it’s because you’re copying them.^[extracted from [[Sources/@jorgenson2020AlmanackNavalRavikant\|@jorgenson2020AlmanackNavalRavikant]]]
+> “Escape competition through authenticity.” Basically, when you’re competing with people, it’s because you’re copying them.^[extracted from [[Sources/Books/@jorgenson2020AlmanackNavalRavikant\|@jorgenson2020AlmanackNavalRavikant]]]
 
 # Reference
 
@@ -34,9 +34,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                 |
-| --------------------------------------------------------------------------------------- |
-| [[Sources/@jorgenson2020AlmanackNavalRavikant\|@jorgenson2020AlmanackNavalRavikant]] |
+| Sources                                                                                       |
+| --------------------------------------------------------------------------------------------- |
+| [[Sources/Books/@jorgenson2020AlmanackNavalRavikant\|@jorgenson2020AlmanackNavalRavikant]] |
 
 { .block-language-dataview}
 

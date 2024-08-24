@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/phosphate/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/LFS112"],"dg-publish":true,"permalink":"/cards/phosphate/","dgPassFrontmatter":true}
 ---
 
 # Phosphate

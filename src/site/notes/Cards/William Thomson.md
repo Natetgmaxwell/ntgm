@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/People","on/History"],"dg-publish":true,"permalink":"/cards/william-thomson/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["on/People","History"],"dg-publish":true,"permalink":"/cards/william-thomson/","dgPassFrontmatter":true}
 ---
 
 # William Thomson

@@ -47,7 +47,7 @@
 | [[Cards/Integumentary System\|Integumentary System]]                                                                      |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
 | [[Cards/Sebaceous glands\|Sebaceous glands]]                                                                              |
-| [[Cards/Skins effect on Thermoregulation\|Skins effect on Thermoregulation]]                                              |
+| [[Cards/Skins Effect on Thermoregulation\|Skins Effect on Thermoregulation]]                                              |
 | [[Cards/Sleep\|Sleep]]                                                                                                    |
 | [[Cards/Sweat Glands\|Sweat Glands]]                                                                                      |
 

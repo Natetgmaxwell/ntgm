@@ -41,9 +41,9 @@
 | [[Cards/Germ Theory of Disease\|Germ Theory of Disease]]                                           |
 | [[Cards/Gut microbiome\|Gut microbiome]]                                                           |
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
+| [[Spaces/University/Classes/Introductory Microbiology\|Introductory Microbiology]]                 |
 | [[Cards/Koch’s Postulates\|Koch’s Postulates]]                                                     |
 | [[Spaces/University/Projects/LFS261A2 Mid-term Exam\|LFS261A2 Mid-term Exam]]                      |
-| [[Spaces/University/Classes/Microbiology\|Microbiology]]                                           |
 | [[Spaces/University/Projects/MLS101A2 Review Quiz\|MLS101A2 Review Quiz]]                          |
 | [[Cards/Organism\|Organism]]                                                                       |
 | [[Cards/Pour Plate\|Pour Plate]]                                                                   |

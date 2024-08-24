@@ -26,7 +26,7 @@
 	- Physical distortion of wall
 
 1. Neural Control
-	- Stretch & Chemo receptors -> [[Cards/Peristalsis\|peristalsis]] and segmentation
+	- Stretch & Chemo receptors -> [[Cards/Peristalsis\|peristalsis]] and [[Cards/Segmentation\|segmentation]]
 
 1. Hormonal Control
 	- Secretary cells

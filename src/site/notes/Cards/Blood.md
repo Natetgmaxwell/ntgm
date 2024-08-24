@@ -91,7 +91,7 @@
 | [[Cards/Pulmonary Artery\|Pulmonary Artery]]                                                                                     |
 | [[Cards/Pulmonary Vein\|Pulmonary Vein]]                                                                                         |
 | [[Cards/Saline Solutions\|Saline Solutions]]                                                                                     |
-| [[Cards/Skins effect on Thermoregulation\|Skins effect on Thermoregulation]]                                                     |
+| [[Cards/Skins Effect on Thermoregulation\|Skins Effect on Thermoregulation]]                                                     |
 | [[Cards/Stroke Volume\|Stroke Volume]]                                                                                           |
 | [[Cards/Supramaximal Interval Training for Increasing Blood Volume\|Supramaximal Interval Training for Increasing Blood Volume]] |
 | [[Cards/Triglycerides\|Triglycerides]]                                                                                           |

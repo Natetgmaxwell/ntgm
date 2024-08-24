@@ -1,5 +1,5 @@
 ---
-{"alias":null,"tags":["on/History"],"dg-publish":true,"permalink":"/cards/zeus/","dgPassFrontmatter":true}
+{"alias":null,"tags":["History"],"dg-publish":true,"permalink":"/cards/zeus/","dgPassFrontmatter":true}
 ---
 
 # Zeus

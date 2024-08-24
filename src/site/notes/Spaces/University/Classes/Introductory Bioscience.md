@@ -1,10 +1,11 @@
 ---
-{"aliases":["LFS103"],"up":["[[🎓 University|Uni]]"],"dg-publish":true,"cssclasses":["cards","wide"],"current-class":false,"permalink":"/spaces/university/classes/introductory-bioscience/","dgPassFrontmatter":true}
+{"aliases":"LFS103","up":["[[🎓 University|Uni]]"],"dg-publish":true,"cssclasses":["cards","wide"],"current-class":false,"permalink":"/spaces/university/classes/introductory-bioscience/","dgPassFrontmatter":true}
 ---
 
 # Introductory Bioscience
 
 ## Projects
+
 | Project Name                                                                             |
 | ---------------------------------------------------------------------------------------- |
 | [[Spaces/University/Projects/LFS103A2 Mid Semester Exam\|LFS103A2 Mid Semester Exam]] |
@@ -22,15 +23,15 @@
 
 { .block-language-dataview}
 
-| Name                                                                       | Cite Key                                                                                            | Published |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------- |
-| <ul><li>@LFS103 M12T6 Introduction to epidemiology</li></ul>               | [[Sources/@nicolemasters2023LFS103M12T6Introduction\|@nicolemasters2023LFS103M12T6Introduction]] | true      |
-| <ul><li>LFS103 M11T2 Eukaryotic vs prokaryotic cells</li></ul>             | [[Sources/Video/@nicolemastersLFS103M11T2Eukaryotic\|@nicolemastersLFS103M11T2Eukaryotic]]       | \-        |
-| <ul><li>LFS103 M11T3 Bacterial classification</li></ul>                    | [[Sources/Video/@nicolemastersLFS103M11T3Bacterial\|@nicolemastersLFS103M11T3Bacterial]]         | \-        |
-| <ul><li>LFS103 M12T1 Microbes and disease: historical highlights</li></ul> | [[Sources/Video/@nicolemasters2023LFS103M12T1Microbes\|@nicolemasters2023LFS103M12T1Microbes]]   | \-        |
-| <ul><li>LFS103 M1T3 Video Metals and non-metals</li></ul>                  | [[Sources/Video/@nicolemastersLFS103M1T3Video\|@nicolemastersLFS103M1T3Video]]                   | \-        |
-| <ul><li>LFS103 M6T1 Cell membrane permeability</li></ul>                   | [[Sources/Video/@georgiakafer2023-LFS103M6T1Cell\|@georgiakafer2023-LFS103M6T1Cell]]             | \-        |
-| <ul><li>SCI105 M02T04 Covalent Nomenclature</li></ul>                      | [[Sources/Video/@davidmckay2024SCI105M02T04Covalent\|@davidmckay2024SCI105M02T04Covalent]]       | true      |
+| Name                                                                       | Cite Key                                                                                                  | Published |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------- |
+| <ul><li>@LFS103 M12T6 Introduction to epidemiology</li></ul>               | [[Sources/Video/@nicolemasters2023LFS103M12T6Introduction\|@nicolemasters2023LFS103M12T6Introduction]] | true      |
+| <ul><li>LFS103 M11T2 Eukaryotic vs prokaryotic cells</li></ul>             | [[Sources/Video/@nicolemastersLFS103M11T2Eukaryotic\|@nicolemastersLFS103M11T2Eukaryotic]]             | \-        |
+| <ul><li>LFS103 M11T3 Bacterial classification</li></ul>                    | [[Sources/Video/@nicolemastersLFS103M11T3Bacterial\|@nicolemastersLFS103M11T3Bacterial]]               | \-        |
+| <ul><li>LFS103 M12T1 Microbes and disease: historical highlights</li></ul> | [[Sources/Video/@nicolemasters2023LFS103M12T1Microbes\|@nicolemasters2023LFS103M12T1Microbes]]         | \-        |
+| <ul><li>LFS103 M1T3 Video Metals and non-metals</li></ul>                  | [[Sources/Video/@nicolemastersLFS103M1T3Video\|@nicolemastersLFS103M1T3Video]]                         | \-        |
+| <ul><li>LFS103 M6T1 Cell membrane permeability</li></ul>                   | [[Sources/Video/@georgiakafer2023-LFS103M6T1Cell\|@georgiakafer2023-LFS103M6T1Cell]]                   | \-        |
+| <ul><li>SCI105 M02T04 Covalent Nomenclature</li></ul>                      | [[Sources/Video/@davidmckay2024SCI105M02T04Covalent\|@davidmckay2024SCI105M02T04Covalent]]             | true      |
 
 { .block-language-dataview}
 
@@ -83,7 +84,7 @@
     - [[Cards/Metals\|Metals]] dominate the left side, while non-[[Cards/Metals\|Metals]] are on the right.
     - [[Cards/Metalloids\|Metalloids]] have properties intermediate between [[Cards/Metals\|Metals]] and non-[[Cards/Metals\|Metals]].
 
-### 1.3 [[Cards/Metals\|Metals]] and [[Cards/Non-Metals\|Non-Metals]]
+### 1.3 [[Cards/Metals\|Metals]] And [[Cards/Non-Metals\|Non-Metals]]
 
 1. **Introduction to [[Cards/Metals\|Metals]] and [[Cards/Non-Metals\|Nonmetals]]:**
     
@@ -110,7 +111,7 @@
     - [[Cards/Metalloids\|Metalloids]] can conduct electricity to some extent.
     - Often used as semiconductors in electronics for digital circuit boards.
 
-### 1.4 [[Cards/Atoms\|Atoms]] and their subatomic particles
+### 1.4 [[Cards/Atoms\|Atoms]] And Their Subatomic Particles
 
 1. **Atomic Structure and Definition:**
     
@@ -176,15 +177,15 @@
 
 ### 10. Genetics and Inheritance
 
-###### What is the definition of a gamete, and how does it relate to sexual reproduction?
+###### What is the Definition of a Gamete, and how Does it Relate to Sexual Reproduction?
 
 - A [[Cards/Gametes\|gamate]] is a specialised [[Cards/Haploid Number\|Haploid]] cell that is responsible [[Cards/Sexual Reproduction\|Sexual Reproduction]]. Having a [[Cards/Haploid Number\|haploid]] gamete allows for the genetic makeup of offspring to bee split between the two parents.
 
-###### What is the role of genes in the process of inheritance, and how do they carry genetic information from one generation to the next?
+###### What is the Role of Genes in the Process of Inheritance, and how Do They Carry Genetic Information from One Generation to the Next?
 
 - [[Cards/Genes\|Genes]] are segments of [[Cards/Deoxyribonucleic Acid\|DNA]]. Every child carries two genes for a trait—one from each parent. These genes code for proteins which determines an organisms traits.
 
-###### What is the difference between [[Cards/Autosomal Chromosomes\|Autosomal]] and [[Cards/Sex Chromosomes\|Sex Chromosomes]]?
+###### What is the Difference between [[Cards/Autosomal Chromosomes\|Autosomal]] and [[Cards/Sex Chromosomes\|Sex Chromosomes]]?
 
 | [[Cards/Autosomal Chromosomes\|Autosomal Chromosomes]]                               | [[Cards/Sex Chromosomes\|Sex Chromosomes]]                 |
 | ------------------------------------------------------- | ----------------------------------- |
@@ -192,25 +193,25 @@
 | Carries traits that are not reliant on an organisms sex | Traits tied to an organisms [[Cards/Sex\|Sex]] |
 | 22 Pairs                                                | 1 Pair                              | 
 
-###### How does genetic variation results in offspring diversity?
+###### How Does Genetic Variation Results in Offspring Diversity?
 
 - Each [[Cards/Gametes\|gamete]] contains a differing [[Cards/Deoxyribonucleic Acid\|DNA]] due to the chance occurrence in crossing over during mitosis. The diversity is multiplied by the crossing over of one gamete from each parent. 
 
-###### Explain the principles of Mendelian genetics and provide an example of a Mendelian trait.
+###### Explain the Principles of Mendelian Genetics and provide an Example of a Mendelian Trait.
 
 **The Key Principles of Mendelian Genetics**
 - [[Cards/Dominate Allele\|Dominate]] and [[Cards/Recessive Allele\|Recessive Allele]]
-- [[Cards/Mendel's law of Segregation\|Mendel's law of Segregation]]
+- [[Cards/Mendel's Law of Segregation\|Mendel's Law of Segregation]]
 - [[Cards/Mendel's Law of Independent Assortment\|Mendel's Law of Independent Assortment]]
 
 - An example of a mendelian trait is [[Cards/Dimples\|Dimples]].
 
-###### Define [[Cards/Pleiotropy\|Pleiotropy]] and provide an example of a trait that exhibits [[Cards/Pleiotropy\|Pleiotropy]].
+###### Define [[Cards/Pleiotropy\|Pleiotropy]] and provide an Example of a Trait that Exhibits [[Cards/Pleiotropy\|Pleiotropy]].
 
 - [[Cards/Pleiotropy\|Pleiotropy]] is when a [[Cards/Genes\|gene]] effects two or more characteristics.
 - An example of a [[Cards/Pleiotropy\|Pleiotropy]] trait in [[Cards/Sickle Cell Anaemia\|Sickle Cell Anaemia]]
 
-###### Describe the four alterations to chromosome structure and their potential consequences.
+###### Describe the Four Alterations to Chromosome Structure and Their Potential Consequences.
 
 1. Deletion
 2. Duplication
@@ -219,21 +220,21 @@
 
 ### 11. Microbiology and Infection Control
 
-###### What are the cellular components found in a typical prokaryotic cell?
+###### What Are the Cellular Components Found in a Typical Prokaryotic Cell?
 
 - Small Ribosomes
 - [[Cards/Cell Wall\|Cell Wall]]
 - No [[Cards/Plasma Membranes\|cell membranes]]
 
-###### List and describe the three basic structural shapes of bacteria.
+###### List and Describe the Three Basic Structural Shapes of Bacteria.
 
 - Rod
 - Round
 
-###### How do the cell walls of Gram-negative and Gram-positive bacteria differ, and what are their respective characteristics?
+###### How Do the Cell Walls of Gram-negative and Gram-positive Bacteria Differ, and what Are Their Respective Characteristics?
 
-###### What is the process for naming, classifying, and identifying bacteria?
+###### What is the Process for Naming, Classifying, and Identifying Bacteria?
 
-###### Explain the concept of [[Cards/Bacterial Gene Conjugation\|conjugation]] as a mechanism for gene transfer in bacteria.
+###### Explain the Concept of [[Cards/Bacterial Gene Conjugation\|conjugation]] as a Mechanism for Gene Transfer in Bacteria.
 
-###### Describe the principle behind how bacteria develop [[Cards/Antibiotics\|antibiotic]] resistance, and identify the main factors contributing to the spread of [[Cards/Antibiotics\|antibiotic]] resistance.
+###### Describe the Principle behind how Bacteria Develop [[Cards/Antibiotics\|antibiotic]] Resistance, and Identify the Main Factors Contributing to the Spread of [[Cards/Antibiotics\|antibiotic]] Resistance.

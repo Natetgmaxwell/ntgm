@@ -45,6 +45,7 @@
 | [[Cards/Gamma-Aminobutyric Acid\|Gamma-Aminobutyric Acid]]                                                   |
 | [[Cards/Glycine\|Glycine]]                                                                                   |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                             |
+| [[Spaces/University/Classes/Introduction to Pharmacology\|Introduction to Pharmacology]]                     |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]       |
 | [[Extras/Excalidraw/Negative Feedback Loops.excalidraw\|Negative Feedback Loops.excalidraw]]                 |
 

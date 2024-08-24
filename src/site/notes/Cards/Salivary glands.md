@@ -19,6 +19,9 @@
 - [[Cards/Submandibular Glands\|Submandibular Glands]]
 - [[Cards/Sublingual Glands\|Sublingual Glands]]
 
+> [!cite]-
+> [[Sources/Video/@leedaffinLFS122M11T1Oral2023\|@leedaffinLFS122M11T1Oral2023]]
+
 # Reference
 
 - 
@@ -46,8 +49,9 @@
 
 { .block-language-dataview}
 
-| Sources |
-| ------- |
+| Sources                                                                           |
+| --------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffinLFS122M11T1Oral2023\|@leedaffinLFS122M11T1Oral2023]] |
 
 { .block-language-dataview}
 

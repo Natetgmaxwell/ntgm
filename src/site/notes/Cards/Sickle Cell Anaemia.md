@@ -20,6 +20,7 @@
 
 | Incoming Links                                                                    |
 | --------------------------------------------------------------------------------- |
+| [[Calendar/2023/Daily/2024-08-21 Wed\|2024-08-21 Wed]]                         |
 | [[Spaces/University/Classes/Introductory Bioscience\|Introductory Bioscience]] |
 
 { .block-language-dataview}

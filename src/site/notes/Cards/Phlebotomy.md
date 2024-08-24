@@ -10,7 +10,6 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 ## Steps for Collection of a [[Cards/Blood\|Blood]] Sample
 
@@ -36,6 +35,7 @@
 	- Clearly label each vacutainer tube with the patient's name, date of collection, and any relevant information. Store them securely at an appropriate temperature before transporting to the laboratory for analysis.
 
 # Reference
+
 - 
 
 ## Mentions
@@ -57,4 +57,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards

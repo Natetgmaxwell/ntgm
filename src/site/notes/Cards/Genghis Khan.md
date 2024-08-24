@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/History","on/People"],"date created":"2022-03-06 Sun","dg-publish":true,"permalink":"/cards/genghis-khan/","dgPassFrontmatter":true}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["History","on/People"],"date created":"2022-03-06 Sun","dg-publish":true,"permalink":"/cards/genghis-khan/","dgPassFrontmatter":true}
 ---
 
 # Genghis Khan

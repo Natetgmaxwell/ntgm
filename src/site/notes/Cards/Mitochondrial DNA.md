@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/mitochondrial-dna/","dgPassFrontmatter":true}
+{"aliases":"mtDNA","tags":["Uni/BIM202","flashcards/BIM202"],"dg-publish":true,"permalink":"/cards/mitochondrial-dna/","dgPassFrontmatter":true}
 ---
 
 # Mitochondrial DNA
@@ -10,6 +10,9 @@
 > down:: 
 
 > [!Definition] Definition
+
+> [!quote] [[Sources/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]
+> The mitochondria of the fertilized zygote are inherited almost exclusively from the oocyte, leading to the maternal pa ern of inheritance that characterizes many mitochondrial disorders (p. 286).
 
 # Reference
 
@@ -32,7 +35,11 @@
 | Sources                                                                                  |
 | ---------------------------------------------------------------------------------------- |
 | [[Sources/Articles/@laurabaisas2022-SexNotViolence\|@laurabaisas2022-SexNotViolence]] |
+| [[Sources/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]    |
 
 { .block-language-dataview}
 
 ## Flashcards
+
+How many genes does [[Cards/Mitochondrial DNA\|Mitochondrial DNA]] code for?;;37 genes.
+<!--SR:!2024-08-23,2,210-->

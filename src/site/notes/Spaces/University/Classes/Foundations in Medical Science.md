@@ -19,7 +19,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 ## Sources
 | Name                                                                     | Cite Key                                                                                                          | Published |
 | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | --------- |
-| <ul><li>@MLS101 M05T04 Venipuncture Considerations</li></ul>             | [[Sources/@melindadean2024MLS101M05T04Venipuncture\|@melindadean2024MLS101M05T04Venipuncture]]                 | true      |
+| <ul><li>@MLS101 M05T04 Venipuncture Considerations</li></ul>             | [[Sources/Video/@melindadean2024MLS101M05T04Venipuncture\|@melindadean2024MLS101M05T04Venipuncture]]           | true      |
 | <ul><li>@MLS101 M09T01 Flow Cytometry</li></ul>                          | [[Sources/Video/@MelindaDean2024MLS101M09T01Flow\|@MelindaDean2024MLS101M09T01Flow]]                           | true      |
 | <ul><li>@MLS101 M09T02 Electrophoresis and Serum Proteins</li></ul>      | [[Sources/Video/@MelindaDean2024MLS101M09T02Electrophoresis\|@MelindaDean2024MLS101M09T02Electrophoresis]]     | true      |
 | <ul><li>@MLS101 M09T03 Spectrophotometer</li></ul>                       | [[Sources/Video/@MelindaDean2024MLS101M09T03Spectrophotometer\|@MelindaDean2024MLS101M09T03Spectrophotometer]] | true      |
@@ -111,7 +111,7 @@ Platelets, also known as thrombocytes, play a crucial role in blood clotting and
 > [!cite]-
 > [[Cards/White Blood Cells#Types of White Blood Cells\|White Blood Cells#Types of White Blood Cells]]
 
-###### Which sections of a pathology laboratory would use whole blood?
+###### Which sections of a [[Cards/Pathology\|Pathology]] laboratory would use whole blood?
 
 - Clinical Biochemistry
 - Immudohaematology
@@ -200,7 +200,7 @@ Sodium fluoride is used as an additive in Phlebotomy due to its antimicrobial pr
 > [!cite]-
 > [[Cards/Venipuncture#Tourniquets during Venipuncture\|Venipuncture#Tourniquets during Venipuncture]]
 
-###### What can cause a haematoma during venepuncture?
+###### What can cause a [[Cards/Hematoma\|haematoma]] during venepuncture?
 
 1. Inadequate pressure applied to the puncture site after blood draw.
 2. Improper needle placement, causing damage to blood vessels.
@@ -281,11 +281,11 @@ The basic principle of a spectrophotometer (or colorimeter) involves measuring t
 > [!cite]-
 > [[Cards/Spectrophotometer#^11ab39\|Spectrophotometer#^11ab39]]
 
-###### What is a normal control and abnormal control in relation to pathology tests?
+###### What is a normal control and abnormal control in relation to [[Cards/Pathology\|Pathology]] tests?
 
 A *normal control* refers to the baseline values or ranges that are considered typical for a specific test or biomarker. These values help establish a reference point for comparison when assessing an individual's results.
 
-An *abnormal control*, on the other hand, indicates that the tested values fall outside of the expected range or are indicative of a potential health issue. This information can be crucial in diagnosing and monitoring conditions through pathology tests.
+An *abnormal control*, on the other hand, indicates that the tested values fall outside of the expected range or are indicative of a potential health issue. This information can be crucial in diagnosing and monitoring conditions through [[Cards/Pathology\|Pathology]] tests.
 
 ###### Briefly describe the difference between assayed and un-assayed control materials used for internal quality control in a laboratory.
 

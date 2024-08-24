@@ -1,11 +1,11 @@
 ---
-{"Created":"2022-03-07","tags":["School","on/Science/Biology/Genetics"],"date created":"2022-03-08 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/chromosomes/","dgPassFrontmatter":true}
+{"Created":"2022-03-07","tags":["School","on/Science/Biology/Genetics","Uni/BIM202"],"date created":"2022-03-08 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/chromosomes/","dgPassFrontmatter":true}
 ---
 
 # Chromosomes
 
 > [!Ontology]-
-> up:: [[Atlas/MOCs/Genetics\|Genetics]]
+> up:: [[Atlas/MOCs/Genetics\|Genetics]], [[Cards/Nucleus\|Nucleus]]
 > jump::
 > down:: [[Cards/Autosomal Chromosomes\|Autosomal Chromosomes]], [[Cards/Sex Chromosomes\|Sex Chromosomes]]
 
@@ -37,6 +37,8 @@
 | [[Calendar/2022/Daily/2022-08-18\|2022-08-18]]                                                     |
 | [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                             |
 | [[Cards/Aneuploidy\|Aneuploidy]]                                                                   |
+| [[Cards/Chromosomal Disorders\|Chromosomal Disorders]]                                             |
+| [[Cards/Chromosome 22\|Chromosome 22]]                                                             |
 | [[Cards/Chromosome Mutation\|Chromosome Mutation]]                                                 |
 | [[Cards/Diploid Number\|Diploid Number]]                                                           |
 | [[Cards/Haploid Number\|Haploid Number]]                                                           |
@@ -46,8 +48,7 @@
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
 | [[Cards/Locus\|Locus]]                                                                             |
 | [[Cards/Meiosis\|Meiosis]]                                                                         |
-| [[Cards/Recessive Allele\|Recessive Allele]]                                                       |
-| [[Cards/Sex-Linked Disorders\|Sex-Linked Disorders]]                                               |
+| [[Cards/Sex Linked Traits\|Sex Linked Traits]]                                                     |
 
 { .block-language-dataview}
 
@@ -62,6 +63,7 @@
 | [[Cards/Gametes\|Gametes]]                             |
 | [[Atlas/MOCs/Genetics\|Genetics]]                      |
 | [[Cards/Mitosis\|Mitosis]]                             |
+| [[Cards/Nucleus\|Nucleus]]                             |
 | [[Cards/Polyploidy\|Polyploidy]]                       |
 | [[Cards/Sex Chromosomes\|Sex Chromosomes]]             |
 

@@ -21,8 +21,10 @@
 > [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 
 ![Extras/Images/E4A7PK44.png|400](/img/user/Extras/Images/E4A7PK44.png)
+
 > [!cite]-
 > [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+
 # Reference
 
 - 
@@ -65,6 +67,7 @@
 | [[Sources/Podcasts/Podcast Episodes/Understanding & Controlling Aggression   Episode 71\|Understanding & Controlling Aggression   Episode 71]] |
 
 { .block-language-dataview}
+
 ## Flashcards
 
 Which cells produce testosterone?;;[[Cards/Leydig cells\|Leydig cells]]

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/Business","School"],"dg-publish":true,"permalink":"/cards/rebranding/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Business","School"],"dg-publish":true,"permalink":"/cards/rebranding/","dgPassFrontmatter":true}
 ---
 
 # Rebranding

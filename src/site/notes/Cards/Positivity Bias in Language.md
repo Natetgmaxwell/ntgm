@@ -11,8 +11,6 @@
 
 > [!Definition] Definition
 
-[[Sources/Research Papers/@doddsHumanLanguageReveals2014\|@doddsHumanLanguageReveals2014]]
-
 # Reference
 
 - 
@@ -31,9 +29,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                       |
-| --------------------------------------------------------------------------------------------- |
-| [[Sources/Research Papers/@doddsHumanLanguageReveals2014\|@doddsHumanLanguageReveals2014]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 

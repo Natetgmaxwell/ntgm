@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":[],"dg-publish":true,"permalink":"/cards/increasing-testosterone/","dgPassFrontmatter":true}
+{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/increasing-testosterone/","dgPassFrontmatter":true}
 ---
 
 # Increasing Testosterone
@@ -67,6 +67,26 @@ Engaging in regular resistance training, particularly [[Cards/Compound Movements
 
 ## Mentions
 
+| Incoming Links |
+| -------------- |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                                                                      |
+| --------------------------------------------------------------------------------------------------- |
+| [[Cards/Compound Movements\|Compound Movements]]                                                 |
+| [[Cards/Diet for Increasing Testosterone\|Diet for Increasing Testosterone]]                     |
+| [[Cards/Hypertrophy\|Hypertrophy]]                                                               |
+| [[Cards/Osteoporosis\|Osteoporosis]]                                                             |
+| [[Cards/Red Blood Cells\|Red Blood Cells]]                                                       |
+| [[Cards/Resistance training\|Resistance training]]                                               |
+| [[Cards/Resistance Training Effect on Testosterone\|Resistance Training Effect on Testosterone]] |
+| [[Cards/Testosterone\|Testosterone]]                                                             |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 

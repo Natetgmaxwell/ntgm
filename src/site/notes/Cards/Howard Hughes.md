@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/People","on/History"],"date created":"2023-03-30 Thu","dg-publish":true,"permalink":"/cards/howard-hughes/","dgPassFrontmatter":true}
+{"aliases":null,"edited":"2023-04-06 Thu","tags":["on/People","History"],"date created":"2023-03-30 Thu","dg-publish":true,"permalink":"/cards/howard-hughes/","dgPassFrontmatter":true}
 ---
 
 # Howard Hughes

@@ -1,5 +1,5 @@
 ---
-{"aliases":["USP"],"tags":["on/Business"],"dg-publish":true,"permalink":"/cards/unique-selling-point/","dgPassFrontmatter":true}
+{"aliases":["USP"],"tags":["Business"],"dg-publish":true,"permalink":"/cards/unique-selling-point/","dgPassFrontmatter":true}
 ---
 
 # Unique Selling Point

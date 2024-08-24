@@ -12,6 +12,7 @@
 > [!Definition] Definition
 > [[Cards/Polymodal\|Polymodal]] describes a distribution with multiple peaks, suggesting that data is grouped into several primary modes or categories.
 [](Polymodal.md)eference
+
 - 
 
 ## Mentions
@@ -32,4 +33,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards

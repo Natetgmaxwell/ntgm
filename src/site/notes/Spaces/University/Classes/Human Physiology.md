@@ -27,7 +27,6 @@
 | Name                                                                            | Cite Key                                                                                                    | Published |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------- |
 | <ul><li>@LFS112 M4T3 Thyroid and Parathyroid glands</li></ul>                   | [[Sources/Video/@LFS112M4T3Thyroid2023\|@LFS112M4T3Thyroid2023]]                                         | true      |
-| <ul><li>@LFS112 M6T5 Innate Immunity</li></ul>                                  | [[Sources/@LFS112M6T5Innate2023\|@LFS112M6T5Innate2023]]                                                 | true      |
 | <ul><li>Fundamentals of anatomy & physiology</li></ul>                          | [[Sources/Books/@martini2015-FundamentalsAnatomyPhysiology\|@martini2015-FundamentalsAnatomyPhysiology]] | true      |
 | <ul><li>LFS112 M1T1 Video Core principles in physiology</li></ul>               | [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]]                             | true      |
 | <ul><li>LFS112 M3T1 Functional organisation of skeletal muscle fibres</li></ul> | [[Sources/Video/@chrisaskewLFS112M3T1Functional\|@chrisaskewLFS112M3T1Functional]]                       | true      |

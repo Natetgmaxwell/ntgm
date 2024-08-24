@@ -10,9 +10,9 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
@@ -32,7 +32,7 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 Seasonal changes in nutrients, light, and temperature cause fluctuations in algal populations known as?;;[[Cards/Algal Blooms\|Algal Blooms]]
 <!--SR:!2024-05-16,1,230-->

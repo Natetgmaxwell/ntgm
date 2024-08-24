@@ -1,9 +1,9 @@
 ---
-{"tags":["School","on/Business"],"date created":"2022-02-08 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/open-source-licensing/","dgPassFrontmatter":true}
+{"tags":["School","Business"],"date created":"2022-02-08 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/open-source-licensing/","dgPassFrontmatter":true}
 ---
 
 up:: [[Cards/Licensing Services\|Licensing Services]]
-tags:: #School #on/Business 
+tags:: #School #Business 
 
 # Open Source Licensing
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["moc","on/Science/Biology","School"],"date created":"2022-04-21 Thu","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/mutation/","dgPassFrontmatter":true}
+{"tags":["moc","on/Science/Biology","School","Uni/BIM202","flashcards/BIM202"],"date created":"2022-04-21 Thu","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/mutation/","dgPassFrontmatter":true}
 ---
 
 # Mutation
@@ -13,6 +13,19 @@
 - Errors in [[Cards/DNA Replication\|DNA Replication]] can lead to [[Cards/Mutation\|mutations]] when these errors are not corrected by proofreading enzymes ([[Cards/Polymerase\|Polymerase]]).
 
 ## Types of Mutations
+
+#### Base Substitutions
+
+- [[Cards/Silent Mutation\|Silent Mutation]]
+- [[Cards/Missense Mutation\|Missense Mutation]]
+- [[Cards/Nonsense Mutation\|Nonsense Mutation]]
+
+#### Insertions or Deletions
+
+- [[Single Mutation\|Single Mutation]]
+- [[Multiple Mutation\|Multiple Mutation]]
+- [[Cards/Frameshift Mutation\|Frameshift Mutation]]
+- [[Large Scale Mutations\|Large Scale Mutations]]
 
 ### Location of the Mutation
 
@@ -44,7 +57,3 @@
 - [[Cards/Missense Mutation\|Missense Mutation]]
 - [[Cards/Nonsense Mutation\|Nonsense Mutation]]
 - [[Cards/Frameshift Mutation\|Frameshift Mutation]]
-
-## [[Cards/Abiotic Factors\|Abiotic Factors]] Factors
-
-External factors like radiation, chemicals, and viruses can also induce mutations. Ionising radiation damages DNA molecules directly through ionisation or indirectly by creating reactive oxygen species (ROS), leading to base modifications or chromosomal aberrations. Chemicals can act as mutagens when they interact with DNA, altering its structure and disrupting the replication process. Viruses can integrate their genetic material into host cells during infection, introducing new mutations and potentially triggering oncogenic transformation in some cases.

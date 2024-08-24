@@ -10,9 +10,14 @@
 > down:: 
 
 > [!Definition] Definition
-> Translation is the production of chains of [[Cards/Amino Acids\|Amino Acids]] using [[Cards/Ribonucleic Acid#mRNA - **Messenger**\|mRNA]] as a code template, adding the complimenting [[Cards/Chemical Bases\|Chemical Bases]].
+> Translation is the production of chains of [[Cards/Amino Acids\|Amino Acids]] using [[Cards/Ribonucleic Acid#mRNA - **Messenger**\|mRNA]] as a code template, adding the complimenting [[Cards/Nucleotide Bases\|Nucleotide Bases]].
 { #0fbfdd}
 
+
+![Extras/Images/4JHCVU65.png|350](/img/user/Extras/Images/4JHCVU65.png)
+
+> [!cite]-
+> [[Sources/@kuballa2024BIM202M02T02GeneExpression\|@kuballa2024BIM202M02T02GeneExpression]]
 
 - Occurs in the [[Cards/Ribosomes\|Ribosomes]]
 - Where the [[Cards/Codon\|Codon]] of the [[Cards/Ribonucleic Acid#mRNA - **Messenger**\|mRNA]] joins with the [[Cards/Ribonucleic Acid#tRNA - **Transfer**\|tRNA]]
@@ -21,6 +26,7 @@
 # Reference
 
 ## Mentions
+
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-03-11\|2022-03-11]]                                                                            |
@@ -34,8 +40,8 @@
 | Outgoing Links                                    |
 | ------------------------------------------------- |
 | [[Cards/Amino Acids\|Amino Acids]]             |
-| [[Cards/Chemical Bases\|Chemical Bases]]       |
 | [[Cards/Codon\|Codon]]                         |
+| [[Cards/Nucleotide Bases\|Nucleotide Bases]]   |
 | [[Cards/Polypeptide\|Polypeptide]]             |
 | [[Cards/Protein Synthesis\|Protein Synthesis]] |
 | [[Cards/Ribonucleic Acid\|Ribonucleic Acid]]   |
@@ -43,8 +49,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                         |
-| --------------------------------------------------------------- |
-| [[Sources/Other/HBIO1010 M1T1 Slides\|HBIO1010 M1T1 Slides]] |
+| Sources                                                                                       |
+| --------------------------------------------------------------------------------------------- |
+| [[Sources/@kuballa2024BIM202M02T02GeneExpression\|@kuballa2024BIM202M02T02GeneExpression]] |
+| [[Sources/Other/HBIO1010 M1T1 Slides\|HBIO1010 M1T1 Slides]]                               |
 
 { .block-language-dataview}

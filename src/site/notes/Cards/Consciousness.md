@@ -51,10 +51,10 @@ Consciousness, at its simplest, is awareness of internal and external existence.
 
 | Sources                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Sources/Books/Blink by Malcolm Gladwell\|Blink by Malcolm Gladwell]]                                                                                                                  |
-| [[Sources/Books/12 Rules for Life by Jordan B Peterson\|12 Rules for Life by Jordan B Peterson]]                                                                                        |
 | [[Sources/Articles/What is Time, St Augustine on Temporality and Consciousness\|What is Time, St Augustine on Temporality and Consciousness]]                                           |
 | [[Sources/Articles/Emergence- What is it and how could it help solve consciousness- - New Scientist\|Emergence- What is it and how could it help solve consciousness- - New Scientist]] |
+| [[Sources/Books/Blink by Malcolm Gladwell\|Blink by Malcolm Gladwell]]                                                                                                                  |
+| [[Sources/Books/12 Rules for Life by Jordan B Peterson\|12 Rules for Life by Jordan B Peterson]]                                                                                        |
 
 { .block-language-dataview}
 

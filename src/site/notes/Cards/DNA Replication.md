@@ -7,19 +7,17 @@
 > [!Ontology]+
 > up:: [[Cards/Mitosis\|Mitosis]]
 > jump::
-> down:: [[Cards/RNA Transcription\|RNA Transcription]], [[Cards/RNA Splicing\|RNA Splicing]], 
+> down:: 
 
 > [!Definition] Definition
-> [[Cards/DNA Replication\|DNA Replication]] is the process by which the [[Cards/Genomes\|Genome's]] [[Cards/Deoxyribonucleic Acid\|DNA]] is replicated to be transferred into the new daughter cell.
-
-## Can Be Broken into Two Stages
-
-1. [[Cards/RNA Transcription\|RNA Transcription]]
-2. [[Cards/RNA Splicing\|RNA Splicing]]
-
-![Pasted image 20220308104145.png](/img/user/Extras/Images/Pasted%20image%2020220308104145.png)
+> [[Cards/DNA Replication\|DNA Replication]] is the process by which the [[Genomes\|Genome's]] [[Cards/Deoxyribonucleic Acid\|DNA]] is replicated to be transferred into the new daughter cell.
 
 ## Steps
+
+![Extras/Images/SXLMIA7K.png](/img/user/Extras/Images/SXLMIA7K.png)
+
+> [!cite]-
+> [[Sources/@kuballa2024BIM202M02T01MolecularBasis\|@kuballa2024BIM202M02T01MolecularBasis]]
 
 1. [[Cards/Helicase\|Helicase]] unwinds the parental double helix
 2. The leading strand is synthesised continuously in the 5'-> 3' direction by DNA [[Cards/Polymerase\|Polymerase]].

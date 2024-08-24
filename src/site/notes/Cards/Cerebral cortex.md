@@ -7,7 +7,7 @@
 > [!Ontology]
 > up:: [[Cards/Brain\|Brain]]
 > jump::
-> down:: [[Cards/Frontal lobe\|Frontal lobe]], [[Cards/Parietal lobe\|Parietal lobe]], [[Cards/Temporal lobe\|Temporal lobe]], [[Cards/Occipital lobe\|Occipital lobe]]
+> down:: [[Cards/Frontal lobe\|Frontal lobe]], [[Cards/Parietal lobe\|Parietal lobe]], [[Cards/Temporal Lobe\|Temporal Lobe]], [[Cards/Occipital lobe\|Occipital lobe]]
 
 > [!Definition] Definition
 > The cerebral cortex is the outer layer of the brain that covers and protects the inner structures. It is composed of gray and white matter, with gray matter consisting of neurons and synapses, and white matter consisting of myelinated axons that connect different regions. The cerebral cortex is responsible for most of the higher cognitive functions, such as reasoning, perception, memory, language, and decision making. It also contains various regions that specialize in different tasks, such as visual, auditory, motor, and somatosensory processing.
@@ -16,7 +16,7 @@
 
 - [[Cards/Frontal lobe\|Frontal lobe]]
 - [[Cards/Parietal lobe\|Parietal lobe]]
-- [[Cards/Temporal lobe\|Temporal lobe]]
+- [[Cards/Temporal Lobe\|Temporal Lobe]]
 - [[Cards/Occipital lobe\|Occipital lobe]]
 
 # Reference
@@ -50,7 +50,7 @@
 | [[Cards/Occipital lobe\|Occipital lobe]]                     |
 | [[Cards/Parietal lobe\|Parietal lobe]]                       |
 | [[Cards/Pyrroloquinoline quinone\|Pyrroloquinoline quinone]] |
-| [[Cards/Temporal lobe\|Temporal lobe]]                       |
+| [[Cards/Temporal Lobe\|Temporal Lobe]]                       |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"alias":[],"tags":["on/Science/Biology/Genetics"],"date created":"2023-01-09 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/nucleotides/","dgPassFrontmatter":true}
+{"alias":null,"tags":["on/Science/Biology/Genetics"],"date created":"2023-01-09 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/nucleotides/","dgPassFrontmatter":true}
 ---
 
 # Nucleotides

@@ -25,6 +25,8 @@
 >  | Incoming Links                                                |
 > | ------------------------------------------------------------- |
 > | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
+> | [[Cards/Root of the Tooth\|Root of the Tooth]]             |
+> | [[Cards/Salivary glands\|Salivary glands]]                 |
 > 
 { .block-language-dataview}
 

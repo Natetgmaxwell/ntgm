@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/History"],"dg-publish":true,"cssclasses":[],"permalink":"/cards/macedonia/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["History"],"dg-publish":true,"cssclasses":[],"permalink":"/cards/macedonia/","dgPassFrontmatter":true}
 ---
 
 # Macedonia

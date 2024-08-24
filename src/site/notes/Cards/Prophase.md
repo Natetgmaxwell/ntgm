@@ -17,9 +17,11 @@
 
 ## Mentions
 
-| Incoming Links                |
-| ----------------------------- |
-| [[Cards/Mitosis\|Mitosis]] |
+| Incoming Links                                            |
+| --------------------------------------------------------- |
+| [[Calendar/2023/Daily/2024-07-26 Fri\|2024-07-26 Fri]] |
+| [[Cards/Cell Cycle\|Cell Cycle]]                       |
+| [[Cards/Mitosis\|Mitosis]]                             |
 
 { .block-language-dataview}
 

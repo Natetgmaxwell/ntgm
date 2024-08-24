@@ -1,5 +1,5 @@
 ---
-{"aliases":["LFS122"],"dg-publish":true,"cssclasses":["cards"],"up":["[[🎓 University|Uni]]"],"current-class":false,"permalink":"/spaces/university/classes/human-anatomy/","dgPassFrontmatter":true}
+{"dg-publish":true,"cssclasses":["cards"],"up":["[[🎓 University|Uni]]"],"current-class":false,"aliases":"LFS122","permalink":"/spaces/university/classes/human-anatomy/","dgPassFrontmatter":true}
 ---
 
 # Human Anatomy
@@ -14,14 +14,15 @@
 { .block-language-dataview}
 
 ## Sources
+
 | Name                                                                                                     | Cite Key                                                                                                    | Published |
 | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------- |
 | \-                                                                                                       | [[Sources/Video/@honorhugo2023LFS122M4T2Gross\|@honorhugo2023LFS122M4T2Gross]]                           | true      |
-| <ul><li>@LFS122 M12T2 Male Reproduction</li></ul>                                                        | [[Sources/@leedaffinLFS122M12T2Male2023\|@leedaffinLFS122M12T2Male2023]]                                 | true      |
+| <ul><li>@LFS122 M12T2 Male Reproduction</li></ul>                                                        | [[Sources/Video/@leedaffinLFS122M12T2Male2023\|@leedaffinLFS122M12T2Male2023]]                           | true      |
 | <ul><li>@LFS122 M4T3 General Muscle Characteristics & Configurations</li></ul>                           | [[Sources/Video/@LeeDaffin2023LFS122M4T3General\|@LeeDaffin2023LFS122M4T3General]]                       | true      |
 | <ul><li>@LFS122 M4T5 Posterior Trunk Muscles</li></ul>                                                   | [[Sources/Video/@leedaffin2023LFS122M4T5Posterior\|@leedaffin2023LFS122M4T5Posterior]]                   | true      |
 | <ul><li>@LFS122 M5T1 Skull</li></ul>                                                                     | [[Sources/Video/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]                           | true      |
-| <ul><li>@LFS122 M8T1 Skeletal Structures and Articulations of the Pectoral Girdle and Brachium</li></ul> | [[Sources/@colingavaganLFS122M8T1Skeletal2023\|@colingavaganLFS122M8T1Skeletal2023]]                     | true      |
+| <ul><li>@LFS122 M8T1 Skeletal Structures and Articulations of the Pectoral Girdle and Brachium</li></ul> | [[Sources/Video/@colingavaganLFS122M8T1Skeletal2023\|@colingavaganLFS122M8T1Skeletal2023]]               | true      |
 | <ul><li>LFS112 M5T1 Building blocks of life</li></ul>                                                    | [[Sources/Video/@nicolemastersLFS112M5T1Building2023\|@nicolemastersLFS112M5T1Building2023]]             | true      |
 | <ul><li>LFS122 M10T1 Systemic Arteries and Veins of  the Upper and Lower Limbs</li></ul>                 | [[Sources/Video/@leedaffin2023-LFS122M10T1Systemic\|@leedaffin2023-LFS122M10T1Systemic]]                 | true      |
 | <ul><li>LFS122 M10T2 Systemic Arteries & Veins Inferior to the Heart</li></ul>                           | [[Sources/Video/@leedaffin2023-LFS122M10T2Systemic\|@leedaffin2023-LFS122M10T2Systemic]]                 | true      |
@@ -52,6 +53,7 @@
 ### 5. Head and Neck
 
 ###### Skull [[Sources/Video/@LeeDaffin2023LFS122M5T1Skull\|@LeeDaffin2023LFS122M5T1Skull]]
+
 - [[Cards/Cranium\|Cranium]]
 	- [[Cards/Frontal bone\|Frontal bone]]
 	- [[Cards/Parietal bone\|Parietal bone]]
@@ -104,6 +106,7 @@
 	- [[Cards/Maxillary Sinus\|Maxillary Sinus]]
 
 ###### Muscles of the Neck and [[Cards/Head\|Head]] [[Sources/Video/@LFS122M5T2Muscles\|@LFS122M5T2Muscles]]
+
 - [[Cards/Epicranius\|Epicranius]]
 - [[Cards/Orbicularis Oris\|Orbicularis Oris]]
 - [[Cards/Temporalis\|Temporalis]]
@@ -118,7 +121,8 @@
 - [[Cards/Trapezius\|Trapezius]]
 - [[Cards/Levator Scapulae\|Levator Scapulae]]
 
-###### [[Cards/Brain\|Brain]] and [[Cards/Cranial Nerves\|Cranial Nerves]] [[Sources/Video/@leedaffin2023LFS122M5T3Brain\|@leedaffin2023LFS122M5T3Brain]]
+###### [[Cards/Brain\|Brain]] And [[Cards/Cranial Nerves\|Cranial Nerves]] [[Sources/Video/@leedaffin2023LFS122M5T3Brain\|@leedaffin2023LFS122M5T3Brain]]
+
 - [[Cards/Cerebral cortex\|Cerebrum]]
 - [[Cards/Cerebellum\|Cerebellum]]
 - [[Cards/Hypothalamus\|Hypothalamus]]
@@ -132,9 +136,11 @@
 - [[Cards/Cranial Gyri\|Cranial Gyri]]
 	- [[Postcentral Gyrus\|Postcentral Gyrus]]
 	- [[Precentral Gyrus\|Precentral Gyrus]]
+
 ### 8. Upper Limb
 
 ###### Anterior Compartment of the [[Cards/Ante-brachium\|Ante-brachium]] [[Sources/Video/@colingavagan2023-LFS122M8T5Anterior\|@colingavagan2023-LFS122M8T5Anterior]]
+
 - [[Cards/Pronator teres\|Pronator teres]]
 - [[Cards/Flexor carpi radialis\|Flexor carpi radialis]]
 - [[Cards/Palmaris longus\|Palmaris longus]]
@@ -145,6 +151,7 @@
 - [[Cards/Flexor pollicis longus\|Flexor pollicis longus]]
 
 ###### Posterior Compartment of the [[Cards/Ante-brachium\|Ante-brachium]] [[Sources/Video/@colingavagan2023-LFS122M8T6Posterior\|@colingavagan2023-LFS122M8T6Posterior]]
+
 - [[Cards/Extensor Carpi Radialis Longus\|Extensor Carpi Radialis Longus]]
 - [[Cards/Extensor Carpi Radialis Brevis\|Extensor Carpi Radialis Brevis]]
 - [[Cards/Brachioradialis\|Brachioradialis]]
@@ -166,7 +173,7 @@
 - [[Flexor Retinaculum\|Flexor Retinaculum]]
 - [[Cards/Carpal Tunnel\|Carpal Tunnel]]
 
-### 9. [[Cards/Respiratory system\|Respiratory system]] and [[Cards/Thoracic Cavity\|Thoracic Cavity]]
+### 9. [[Cards/Respiratory system\|Respiratory system]] And [[Cards/Thoracic Cavity\|Thoracic Cavity]]
 
 ###### Upper Respiratory System [[@leedaffin2023-LFS122M9T1Respiratory\|@leedaffin2023-LFS122M9T1Respiratory]]
 
@@ -220,6 +227,7 @@
 	- [[Cards/Oblique Fissure of the Left Lung\|Oblique Fissure of the Left Lung]]
 	- [[Cards/Inferior Lobe of the Right Lung\|Inferior Lobe of the Right Lung]]
 	- [[Cards/Inferior Lobe of the Left Lung\|Inferior Lobe of the Left Lung]]
+
 ### 10. [[Cards/Cardiovascular System\|Circulatory System]]
 
 ###### Upper Limb [[Sources/Video/@leedaffin2023-LFS122M10T1Systemic\|@leedaffin2023-LFS122M10T1Systemic]]
@@ -311,6 +319,7 @@
 ### 11. [[Cards/Digestive System\|Digestive System]]
 
 ###### Mouth [[Sources/Video/@leedaffinLFS122M11T1Oral2023\|@leedaffinLFS122M11T1Oral2023]]
+
 - [[Cards/Foliate Papillae\|Foliate Papillae]]
 - [[Cards/Vallate Papillae\|Vallate Papillae]]
 - [[Cards/Fungiform Papillae\|Fungiform Papillae]]

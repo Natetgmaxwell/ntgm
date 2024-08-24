@@ -1,10 +1,11 @@
 ---
-{"aliases":["SCI110"],"up":["[[🎓 University|Uni]]"],"dg-publish":true,"current-class":false,"permalink":"/spaces/university/classes/science-research-methods/","dgPassFrontmatter":true}
+{"aliases":"SCI110","up":["[[🎓 University|Uni]]"],"dg-publish":true,"current-class":false,"permalink":"/spaces/university/classes/science-research-methods/","dgPassFrontmatter":true}
 ---
 
 # Science Research Methods
 
 ## [[Spaces/University/Classes/Science Research Methods\|SCI110]] Projects
+
 - [[Spaces/University/Projects/SCI110A2B Group Project\|SCI110A2B Group Project]]
 
 ## Dates

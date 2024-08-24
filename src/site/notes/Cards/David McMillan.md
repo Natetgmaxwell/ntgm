@@ -29,6 +29,9 @@
 
 | Sources                                                                                         |
 | ----------------------------------------------------------------------------------------------- |
+| [[Sources/@mcmillan2024LFS252M02T02GeneticCode\|@mcmillan2024LFS252M02T02GeneticCode]]       |
+| [[Sources/@mcmillan2024LFS252M02T03GenesMutations\|@mcmillan2024LFS252M02T03GenesMutations]] |
+| [[Sources/@mcmillan2024LFS252M02T04DNAReplication\|@mcmillan2024LFS252M02T04DNAReplication]] |
 | [[Sources/Video/@mcmillan2024LFS261M10T02Plasmids\|@mcmillan2024LFS261M10T02Plasmids]]       |
 | [[Sources/Video/@mcmillan2024LFS261M10T03Conjugation\|@mcmillan2024LFS261M10T03Conjugation]] |
 

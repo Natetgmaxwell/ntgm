@@ -1,5 +1,5 @@
 ---
-{"tags":["moc","on/Business"],"date created":"2022-04-19 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/marketing/","dgPassFrontmatter":true}
+{"tags":["moc","Business"],"date created":"2022-04-19 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/marketing/","dgPassFrontmatter":true}
 ---
 
 # Marketing

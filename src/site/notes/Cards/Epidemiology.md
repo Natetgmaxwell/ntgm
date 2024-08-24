@@ -15,7 +15,7 @@
 ![Extras/Images/FFFXC8HX.png](/img/user/Extras/Images/FFFXC8HX.png)
 
 > [!cite]-
-> [[Sources/@nicolemasters2023LFS103M12T6Introduction\|@nicolemasters2023LFS103M12T6Introduction]]
+> [[Sources/Video/@nicolemasters2023LFS103M12T6Introduction\|@nicolemasters2023LFS103M12T6Introduction]]
 
 # Reference
 - 
@@ -33,9 +33,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                             |
-| --------------------------------------------------------------------------------------------------- |
-| [[Sources/@nicolemasters2023LFS103M12T6Introduction\|@nicolemasters2023LFS103M12T6Introduction]] |
+| Sources                                                                                                   |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@nicolemasters2023LFS103M12T6Introduction\|@nicolemasters2023LFS103M12T6Introduction]] |
 
 { .block-language-dataview}
 

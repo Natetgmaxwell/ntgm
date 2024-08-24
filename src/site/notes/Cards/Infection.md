@@ -5,7 +5,7 @@
 # Infection
 
 > [!Ontology]+
-> up:: [[Pathology\|Pathology]]
+> up:: [[Cards/Pathology\|Pathology]]
 > jump::
 > down:: [[Cards/Bacterial Infections\|Bacterial Infections]], [[Cards/Viral Infections\|Viral Infections]], [[Cards/Fungal Infections\|Fungal Infections]], [[Cards/Fungal Infections\|Fungal Infections]]
 

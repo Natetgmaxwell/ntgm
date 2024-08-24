@@ -17,11 +17,11 @@
 
 ## Mentions
 
-| Incoming Links                                              |
-| ----------------------------------------------------------- |
-| [[Cards/Infection\|Infection]]                           |
-| [[Cards/Magnesium\|Magnesium]]                           |
-| [[Spaces/University/Classes/Microbiology\|Microbiology]] |
+| Incoming Links                                                                        |
+| ------------------------------------------------------------------------------------- |
+| [[Cards/Infection\|Infection]]                                                     |
+| [[Spaces/University/Classes/Introductory Microbiology\|Introductory Microbiology]] |
+| [[Cards/Magnesium\|Magnesium]]                                                     |
 
 { .block-language-dataview}
 

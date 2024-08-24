@@ -17,12 +17,12 @@
 
 ## Mentions
 
-| Incoming Links                                                                   |
-| -------------------------------------------------------------------------------- |
-| [[Spaces/University/Projects/LFS261A2 Mid-term Exam\|LFS261A2 Mid-term Exam]] |
-| [[Spaces/University/Classes/Microbiology\|Microbiology]]                      |
-| [[Cards/Prokaryote\|Prokaryote]]                                              |
-| [[Cards/Three-domain system\|Three-domain system]]                            |
+| Incoming Links                                                                        |
+| ------------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Introductory Microbiology\|Introductory Microbiology]] |
+| [[Spaces/University/Projects/LFS261A2 Mid-term Exam\|LFS261A2 Mid-term Exam]]      |
+| [[Cards/Prokaryote\|Prokaryote]]                                                   |
+| [[Cards/Three-domain system\|Three-domain system]]                                 |
 
 { .block-language-dataview}
 

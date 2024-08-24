@@ -7,7 +7,7 @@
 > [!ontology]+
 > up:: [[Cards/Types of Organism\|Types of Organism]]
 > jump:: [[Cards/Prokaryote\|Prokaryote]]
-> down:: 
+> down:: [[Cards/Eukaryotic Cells\|Eukaryotic Cells]]
 
 > [!Definition] Definition
 
@@ -30,6 +30,7 @@ The first [[Cards/Eukaryote\|Eukaryote]] organism was created by one [[Cards/Pro
 | ------------------------------------------------- |
 | [[Cards/Types of Organism\|Types of Organism]] |
 | [[Cards/Prokaryote\|Prokaryote]]               |
+| [[Cards/Eukaryotic Cells\|Eukaryotic Cells]]   |
 | [[Cards/Eukaryote\|Eukaryote]]                 |
 
 { .block-language-dataview}

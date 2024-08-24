@@ -21,10 +21,10 @@
 
 ## Mentions
 
-| Incoming Links                                              |
-| ----------------------------------------------------------- |
-| [[Cards/Bacteria\|Bacteria]]                             |
-| [[Spaces/University/Classes/Microbiology\|Microbiology]] |
+| Incoming Links                                                                        |
+| ------------------------------------------------------------------------------------- |
+| [[Cards/Bacteria\|Bacteria]]                                                       |
+| [[Spaces/University/Classes/Introductory Microbiology\|Introductory Microbiology]] |
 
 { .block-language-dataview}
 

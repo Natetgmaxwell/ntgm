@@ -5,7 +5,7 @@
 # Segmentation
 
 > [!ontology]-
-> up:: 
+> up:: [[Cards/Digestion\|Digestion]]
 > jump:: 
 > down:: 
 
@@ -13,6 +13,9 @@
 > Contraction of non adjacent segments to mechanically break up food.
 { #870821}
 
+
+> [!quote] [[Sources/Video/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]
+> Segmentation à contraction & relaxation of nonadjacent segments to mechanically break down food
 
 # Reference
 
@@ -26,13 +29,15 @@
 
 { .block-language-dataview}
 
-| Outgoing Links |
-| -------------- |
+| Outgoing Links                    |
+| --------------------------------- |
+| [[Cards/Digestion\|Digestion]] |
 
 { .block-language-dataview}
 
-| Sources |
-| ------- |
+| Sources                                                                                   |
+| ----------------------------------------------------------------------------------------- |
+| [[Sources/Video/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]] |
 
 { .block-language-dataview}
 

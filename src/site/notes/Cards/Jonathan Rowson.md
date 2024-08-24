@@ -25,15 +25,15 @@
 
 { .block-language-dataview}
 
-| Outgoing Links                                                                                              |
-| ----------------------------------------------------------------------------------------------------------- |
-| [[Sources/@jonathanrowson2024PhilosopherSocialScientist\|@jonathanrowson2024PhilosopherSocialScientist]] |
-| [[Cards/Generalism vs Specialism\|Generalism vs Specialism]]                                             |
+| Outgoing Links                                                  |
+| --------------------------------------------------------------- |
+| [[Cards/Generalism vs Specialism\|Generalism vs Specialism]] |
 
 { .block-language-dataview}
 
-| Sources |
-| ------- |
+| Sources                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@jonathanrowson2024PhilosopherSocialScientist\|@jonathanrowson2024PhilosopherSocialScientist]] |
 
 { .block-language-dataview}
 

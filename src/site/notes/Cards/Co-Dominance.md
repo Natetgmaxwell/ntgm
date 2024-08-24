@@ -1,11 +1,11 @@
 ---
-{"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Genetics","School"],"date created":"2022-05-19 Thu","dg-publish":true,"permalink":"/cards/co-dominance/","dgPassFrontmatter":true}
+{"edited":"2023-04-06 Thu","tags":["on/Science/Biology/Genetics","School","Uni/BIM202"],"date created":"2022-05-19 Thu","dg-publish":true,"permalink":"/cards/co-dominance/","dgPassFrontmatter":true}
 ---
 
 # Co-Dominance
 
 > [!Ontology]-
-> up:: [[Cards/Phenotype\|Phenotype]]
+> up:: [[Cards/Phenotype\|Phenotype]], [[Cards/Allele\|Allele]]
 > jump:: [[Cards/Dominate Allele\|Dominate Allele]], [[Cards/Recessive Allele\|Recessive Allele]]
 > down:: 
 

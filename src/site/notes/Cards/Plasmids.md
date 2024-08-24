@@ -6,33 +6,36 @@
 
 > [!ontology]-
 > up:: 
-> jump:: 
+> jump:: [[Cards/Bacterial Gene Conjugation\|Conjugation]]
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Video/@mcmillan2024LFS261M10T02Plasmids\|@mcmillan2024LFS261M10T02Plasmids]]
 > A plasmid is an extrachromosomal DNA molecule
 
+- [[Cards/Plasmids\|Plasmids]] are required for [[Cards/Bacterial Gene Conjugation\|Bacterial Gene Conjugation]].
+
 ![Extras/Images/HTBYI7UW.png|300](/img/user/Extras/Images/HTBYI7UW.png)
+
 > [!cite]-
 > [[Sources/Video/@mcmillan2024LFS261M10T02Plasmids\|@mcmillan2024LFS261M10T02Plasmids]]
 
 # Reference
+
 - 
 
 ## Mentions
 
 | Incoming Links                                                            |
 | ------------------------------------------------------------------------- |
-| [[Cards/Bacterial Gene Conjugation\|Bacterial Gene Conjugation]]       |
 | [[Cards/Bacterial Gene Transformation\|Bacterial Gene Transformation]] |
 
 { .block-language-dataview}
 
-| Outgoing Links |
-| -------------- |
+| Outgoing Links                                                      |
+| ------------------------------------------------------------------- |
+| [[Cards/Bacterial Gene Conjugation\|Bacterial Gene Conjugation]] |
 
 { .block-language-dataview}
 
@@ -42,7 +45,7 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards
 
 Can Plasmids replicate outside a bacterial cell?;;no
 <!--SR:!2024-05-18,3,250-->

@@ -1,5 +1,5 @@
 ---
-{"aliases":["ELISA"],"tags":["Uni/LFS261","flashcards/LFS261"],"dg-publish":true,"permalink":"/cards/enzyme-linked-immunosorbent-assay/","dgPassFrontmatter":true}
+{"aliases":"ELISA","tags":["Uni/LFS261","flashcards/LFS261"],"dg-publish":true,"permalink":"/cards/enzyme-linked-immunosorbent-assay/","dgPassFrontmatter":true}
 ---
 
 # Enzyme-linked Immunosorbent Assay

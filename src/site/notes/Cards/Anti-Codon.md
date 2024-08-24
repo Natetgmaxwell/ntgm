@@ -1,5 +1,5 @@
 ---
-{"Created:":"2022-03-15","tags":["on/Science/Biology/Genetics","School"],"date created":"2022-05-15 Sun","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/anti-codon/","dgPassFrontmatter":true}
+{"Created:":"2022-03-15","tags":["on/Science/Biology/Genetics","School","Uni/LFS252","flashcards/LFS252"],"date created":"2022-05-15 Sun","edited":"2023-04-06 Thu","dg-publish":true,"aliases":"anticodon","permalink":"/cards/anti-codon/","dgPassFrontmatter":true}
 ---
 
 # Anti-Codon
@@ -37,3 +37,7 @@
 | ------- |
 
 { .block-language-dataview}
+
+## Flashcards
+
+What is the purpose of the anticodon on a tRNA molecule?;;The anticodon matches up with a specific codon on the mRNA molecule to add the correct amino acid to the protein chain.

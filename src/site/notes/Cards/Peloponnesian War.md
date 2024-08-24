@@ -1,5 +1,5 @@
 ---
-{"heading":"Greece--History--Peloponnesian War, 431-404 B.C.--Campaigns","uri":"https://id.loc.gov/authorities/subjects/sh2002008898","narrower":["Arginusae, Battle of, Greece, 406 B.C.","Delium, Battle of, Greece, 424 B.C.","Pylos, Battle of, Greece, 425 B.C."],"tags":["on/History"],"dg-publish":true,"permalink":"/cards/peloponnesian-war/","dgPassFrontmatter":true}
+{"heading":"Greece--History--Peloponnesian War, 431-404 B.C.--Campaigns","uri":"https://id.loc.gov/authorities/subjects/sh2002008898","narrower":["Arginusae, Battle of, Greece, 406 B.C.","Delium, Battle of, Greece, 424 B.C.","Pylos, Battle of, Greece, 425 B.C."],"tags":["History"],"dg-publish":true,"permalink":"/cards/peloponnesian-war/","dgPassFrontmatter":true}
 ---
 
 # Peloponnesian War
