@@ -58,7 +58,6 @@
 
 | Sources                                                                                         |
 | ----------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@2023-LFS112M6T5Innate\|@2023-LFS112M6T5Innate]]                             |
 | [[Sources/Books/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]] |
 
 { .block-language-dataview}

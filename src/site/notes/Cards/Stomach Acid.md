@@ -28,9 +28,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                             |
-| ------------------------------------------------------------------- |
-| [[Sources/Video/@2023-LFS112M6T5Innate\|@2023-LFS112M6T5Innate]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 

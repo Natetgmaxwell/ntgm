@@ -1,5 +1,5 @@
 ---
-{"Created":"2022-03-08","tags":["School","on/Science/Biology/Genetics"],"date created":"2022-03-08 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/dna-replication/","dgPassFrontmatter":true}
+{"Created":"2022-03-08","tags":["School","on/Science/Biology/Genetics","Uni/LFS252","flashcards/LFS252"],"date created":"2022-03-08 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/dna-replication/","dgPassFrontmatter":true}
 ---
 
 # DNA Replication
@@ -30,3 +30,42 @@
 - [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]]
 - [[Cards/Ribonucleic Acid\|Ribonucleic Acid]]
 - [[Cards/Introns\|Introns]], [[Cards/Exons\|Exons]]
+
+## Mentions
+
+| Incoming Links                                    |
+| ------------------------------------------------- |
+| [[Calendar/2022/Daily/2022-03-08\|2022-03-08]] |
+| [[Calendar/2022/Daily/2022-04-26\|2022-04-26]] |
+| [[Cards/Chromosomes\|Chromosomes]]             |
+| [[Cards/Gene Mutation\|Gene Mutation]]         |
+| [[Cards/HOX Gene\|HOX Gene]]                   |
+| [[Cards/Mutation\|Mutation]]                   |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                            |
+| --------------------------------------------------------- |
+| [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]] |
+| [[Cards/Exons\|Exons]]                                 |
+| [[Cards/Helicase\|Helicase]]                           |
+| [[Cards/Introns\|Introns]]                             |
+| [[Cards/Mitosis\|Mitosis]]                             |
+| [[Cards/Polymerase\|Polymerase]]                       |
+| [[Cards/Primase\|Primase]]                             |
+| [[Cards/Ribonucleic Acid\|Ribonucleic Acid]]           |
+| [[Cards/RNA Splicing\|RNA Splicing]]                   |
+| [[Cards/RNA Transcription\|RNA Transcription]]         |
+
+{ .block-language-dataview}
+
+| Sources                                                                                       |
+| --------------------------------------------------------------------------------------------- |
+| [[Sources/@kuballa2024BIM202M02T01MolecularBasis\|@kuballa2024BIM202M02T01MolecularBasis]] |
+
+{ .block-language-dataview}
+
+## Flashcards
+
+Which cluster of terms accurately reflects the nature of DNA replication in prokaryotes?;;Fixed point of initiation, bidirectional, semiconservative
+<!--SR:!2024-09-02,1,230-->

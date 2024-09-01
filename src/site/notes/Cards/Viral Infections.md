@@ -1,5 +1,5 @@
 ---
-{"aliases":["Viral Infection"],"tags":null,"dg-publish":true,"permalink":"/cards/viral-infections/","dgPassFrontmatter":true}
+{"aliases":"Viral Infection","tags":null,"dg-publish":true,"permalink":"/cards/viral-infections/","dgPassFrontmatter":true}
 ---
 
 # Viral Infections
@@ -28,8 +28,9 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                                                  |
+| --------------------------------------------------------------- |
+| [[Cards/Primary Immunodeficiency\|Primary Immunodeficiency]] |
 
 { .block-language-dataview}
 

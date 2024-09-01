@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"NJKADHHM","zt-attachments":["17233"],"alias":", @MBT254M02T02 Methods of drug discovery","keywords":[],"FirstAuthor":"[[ Tomer Ventura]]","tags":["source/video"],"dg-publish":true,"title":"MBT254M02T02 Methods of drug discovery","citekey":"ventura2024MBT254M02T02MethodsDrug","permalink":"/sources/ventura2024-mbt-254-m02-t02-methods-drug/","dgPassFrontmatter":true}
+{"zotero-key":"NJKADHHM","zt-attachments":["17233"],"aliases":["@MBT254M02T02 Methods of drug discovery"],"keywords":null,"FirstAuthor":"[[ Tomer Ventura]]","tags":["source/video","Uni/MBT254"],"dg-publish":true,"title":"MBT254M02T02 Methods of drug discovery","citekey":"ventura2024MBT254M02T02MethodsDrug","permalink":"/sources/ventura2024-mbt-254-m02-t02-methods-drug/","dgPassFrontmatter":true}
 ---
 
 # ventura2024MBT254M02T02MethodsDrug

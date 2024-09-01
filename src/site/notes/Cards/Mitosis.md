@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > Mitosis makes new cells for **growth** and **recovery**.
 
-*Before mitosis starts, the parent cell grows and replicates its DNA ([[Cards/DNA Replication\|DNA Replication]]) during interphase.*
+*Before mitosis starts, the parent cell grows and replicates its [[Cards/Deoxyribonucleic Acid\|DNA]] ([[Cards/DNA Replication\|DNA Replication]]) during interphase.*
 
 ## Steps of Mitosis (PMAT)
 

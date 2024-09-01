@@ -21,5 +21,32 @@
 
 ## Mentions
 
+| Incoming Links                                                                                            |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Cards/Frameshift Mutation\|Frameshift Mutation]]                                                     |
+| [[Cards/Gene Mutation\|Gene Mutation]]                                                                 |
+| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
 
 { .block-language-dataview}
+
+| Outgoing Links                                            |
+| --------------------------------------------------------- |
+| [[Cards/Adenine\|Adenine]]                             |
+| [[Cards/Cytosine\|Cytosine]]                           |
+| [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]] |
+| [[Cards/Guanine\|Guanine]]                             |
+| [[Cards/Ligase\|Ligase]]                               |
+| [[Cards/Phosphate\|Phosphate]]                         |
+| [[Cards/Ribonucleic Acid\|Ribonucleic Acid]]           |
+| [[Cards/Thymine\|Thymine]]                             |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
+
+{ .block-language-dataview}
+
+## Flashcards
+
+The purpose of the nucleotide excision repair mechanism is to?;;Excise a nucleotide lesion, like a thymidine dimer, which can then be repaired by DNA polymerase and DNA [[Cards/Ligase\|ligase]]

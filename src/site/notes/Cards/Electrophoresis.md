@@ -37,6 +37,7 @@
 
 | Outgoing Links                                                    |
 | ----------------------------------------------------------------- |
+| [[Cards/Antigens\|Antigens]]                                   |
 | [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]]         |
 | [[Cards/Nucleus\|Nucleus]]                                     |
 | [[Cards/Plasma Membranes\|Plasma Membranes]]                   |
@@ -55,5 +56,5 @@
 
 ## Flashcard
 
-Western blotting is used to identify bacterial antigens in patient’s serum. HIV and lyme disease are often diagnosed using this technique. In this technique proteins in the patient’s serum are separated by a technique called?;;[[Cards/Electrophoresis\|Electrophoresis]]
+Western blotting is used to identify bacterial [[Cards/Antigens\|antigens]] in patient’s serum. HIV and lyme disease are often diagnosed using this technique. In this technique proteins in the patient’s serum are separated by a technique called?;;[[Cards/Electrophoresis\|Electrophoresis]]
 <!--SR:!2024-05-25,10,270-->

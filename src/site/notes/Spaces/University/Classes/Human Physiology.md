@@ -27,6 +27,7 @@
 | Name                                                                            | Cite Key                                                                                                    | Published |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------- |
 | <ul><li>@LFS112 M4T3 Thyroid and Parathyroid glands</li></ul>                   | [[Sources/Video/@LFS112M4T3Thyroid2023\|@LFS112M4T3Thyroid2023]]                                         | true      |
+| <ul><li>@LFS112 M6T5 Innate Immunity</li></ul>                                  | [[Sources/Video/@LFS112M6T5Innate2023\|@LFS112M6T5Innate2023]]                                           | true      |
 | <ul><li>Fundamentals of anatomy & physiology</li></ul>                          | [[Sources/Books/@martini2015-FundamentalsAnatomyPhysiology\|@martini2015-FundamentalsAnatomyPhysiology]] | true      |
 | <ul><li>LFS112 M1T1 Video Core principles in physiology</li></ul>               | [[Sources/Video/@georgiakaferLFS112M1T1Video\|@georgiakaferLFS112M1T1Video]]                             | true      |
 | <ul><li>LFS112 M3T1 Functional organisation of skeletal muscle fibres</li></ul> | [[Sources/Video/@chrisaskewLFS112M3T1Functional\|@chrisaskewLFS112M3T1Functional]]                       | true      |
@@ -41,7 +42,6 @@
 | <ul><li>LFS112 M6T2 Red blood cells + oxygen transport</li></ul>                | [[Sources/Video/@katemounsey2023LFS112M6T2Red\|@katemounsey2023LFS112M6T2Red]]                           | true      |
 | <ul><li>LFS112 M6T3 Platelets and haemostasis</li></ul>                         | [[Sources/Video/@2023-LFS112M6T3Platelets\|@2023-LFS112M6T3Platelets]]                                   | true      |
 | <ul><li>LFS112 M6T4 Overview of the lymphatic + immune systems</li></ul>        | [[Sources/Video/@2023-LFS112M6T4Overview\|@2023-LFS112M6T4Overview]]                                     | true      |
-| <ul><li>LFS112 M6T5 Innate Immunity</li></ul>                                   | [[Sources/Video/@2023-LFS112M6T5Innate\|@2023-LFS112M6T5Innate]]                                         | true      |
 | <ul><li>LFS112 M6T6 Adaptive Immunity</li></ul>                                 | [[Sources/Video/@2023-LFS112M6T6Adaptive\|@2023-LFS112M6T6Adaptive]]                                     | true      |
 | <ul><li>LFS112 M7T1 Overview of the digestive system</li></ul>                  | [[Sources/Video/@LindaGallo2023LFS112M7T1Overview\|@LindaGallo2023LFS112M7T1Overview]]                   | true      |
 | <ul><li>LFS112 M7T2 Functions of digestive organs</li></ul>                     | [[Sources/Video/@lindagalloLFS112M7T2Functions2023\|@lindagalloLFS112M7T2Functions2023]]                 | true      |
@@ -250,7 +250,7 @@ The [[Cards/Hypothalamus\|hypothalamus]] and the pituitary gland work in close c
 
 ###### What are the mechanisms of oxygen and carbon dioxide exchange across the [[Cards/Respiratory Membrane\|Respiratory Membrane]] and at the tissue level?
 
-- [[Cards/Diffusion\|Diffusion]] - The oxygen and carbon dioxide diffuse into and out of the [[Cards/Capillaries\|Capillaries]] to equal out the concentration gradient. This simple diffusion is facilitated through the [[Cards/Simple Squamous Epithelium\|Simple Squamous Epithelium]].
+- [[Cards/Diffusion\|Diffusion]] - The oxygen and carbon dioxide diffuse into and out of the [[Cards/Capillaries\|Capillaries]] to equal out the concentration gradient. This [[Cards/Simple Diffusion\|simple diffusion]] is facilitated through the [[Cards/Simple Squamous Epithelium\|Simple Squamous Epithelium]].
 
 ###### Compare and contrast how oxygen and carbon dioxide are transported in the blood, including the molecules involved and their binding characteristics.
 

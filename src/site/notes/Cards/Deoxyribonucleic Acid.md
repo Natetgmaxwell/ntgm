@@ -7,7 +7,7 @@
 > [!Ontology]-
 > up:: [[Cards/Genes\|Genes]], [[Cards/Nucleic Acids\|Nucleic Acids]]
 > jump::
-> down:: [[Cards/Nucleotide Bases\|Nucleotide Bases]]
+> down:: [[Cards/Nucleotide Bases\|Nucleotide Bases]], [[Cards/Nuclear DNA\|Nuclear DNA]], [[Cards/Mitochondrial DNA\|Mitochondrial DNA]]
 
 A polymer is composed of a double helix carrying [[Cards/Genes\|genetic]] instructions. 
 - A group of 3 bases is called a [[Cards/Codon\|Codon]].
@@ -71,11 +71,15 @@ A polymer is composed of a double helix carrying [[Cards/Genes\|genetic]] instru
 | [[Cards/Mitosis\|Mitosis]]                                                                                                |
 | [[Cards/Mutation\|Mutation]]                                                                                              |
 | [[Cards/Nucleotides\|Nucleotides]]                                                                                        |
+| [[Cards/Plasmids\|Plasmids]]                                                                                              |
 | [[Cards/Polymerase Chain Reaction\|Polymerase Chain Reaction]]                                                            |
+| [[• Inbox/Pre-initiation Complex\|Pre-initiation Complex]]                                                                |
 | [[Cards/Primase\|Primase]]                                                                                                |
 | [[Cards/Protein Synthesis\|Protein Synthesis]]                                                                            |
 | [[Cards/Restriction Enzyme\|Restriction Enzyme]]                                                                          |
 | [[Cards/RNA Transcription\|RNA Transcription]]                                                                            |
+| [[Cards/TATA Box\|TATA Box]]                                                                                              |
+| [[• Inbox/Topoisomerase\|Topoisomerase]]                                                                                  |
 
 { .block-language-dataview}
 
@@ -112,10 +116,13 @@ A polymer is composed of a double helix carrying [[Cards/Genes\|genetic]] instru
 ## Flashcards
 
 The structure of DNA was described in which year?;;1953
-<!--SR:!2024-08-23,2,210-->
+<!--SR:!2024-09-14,13,230-->
 
 What is the difference between the template strand and the non-template strand of DNA?;;The template strand is the side of the DNA that is copied, while the non-template strand is not copied.
-<!--SR:!2024-08-23,2,230-->
+<!--SR:!2024-09-03,6,230-->
 
 If we extracted DNA from thyroid and neural tissues, we would find the CALCA gene in both types of cells?;;yes
-<!--SR:!2024-08-23,2,248-->
+<!--SR:!2024-09-10,9,248-->
+
+What charge does DNA posses?;;A negative charge
+<!--SR:!2024-09-03,2,244-->

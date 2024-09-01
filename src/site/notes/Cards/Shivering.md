@@ -18,7 +18,22 @@
 
 ## Mentions
 
-- [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]]
+| Incoming Links                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                          |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                            |
+| --------------------------------------------------------- |
+| [[Cards/Core Body Temperature\|Core Body Temperature]] |
+| [[Cards/Thermoregulation\|Thermoregulation]]           |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 

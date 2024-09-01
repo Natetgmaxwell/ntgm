@@ -142,7 +142,7 @@
 >   
   
 <mark style="background-color: #ffd400">Quote</mark>  
-> Antibody: Protein secreted by B cells (plasma cells) that binds a specific antigen and facilitates its removal from tissue. Also known as Immunoglobulin (Ig)  
+> Antibody: Protein secreted by [[Cards/B Lymphocytes\|B cells]] (plasma cells) that binds a specific antigen and facilitates its removal from tissue. Also known as Immunoglobulin (Ig)  
   
   
 >   

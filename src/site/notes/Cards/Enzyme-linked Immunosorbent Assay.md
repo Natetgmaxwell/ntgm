@@ -23,8 +23,9 @@
 
 { .block-language-dataview}
 
-| Outgoing Links |
-| -------------- |
+| Outgoing Links                      |
+| ----------------------------------- |
+| [[Cards/Antibodies\|Antibodies]] |
 
 { .block-language-dataview}
 
@@ -35,5 +36,5 @@
 
 ## Flashcards
 
-In a direct [[Cards/Enzyme-linked Immunosorbent Assay\|ELISA]], known antibodies are placed in the wells of a microplate, and an unknown type of bacterium is added to each well. A reaction between the known antibodies and the bacterium provides identification of the bacteria. The full name of this test is?;;[[Cards/Enzyme-linked Immunosorbent Assay\|Enzyme-linked Immunosorbent Assay]]
+In a direct [[Cards/Enzyme-linked Immunosorbent Assay\|ELISA]], known [[Cards/Antibodies\|antibodies]] are placed in the wells of a microplate, and an unknown type of bacterium is added to each well. A reaction between the known [[Cards/Antibodies\|antibodies]] and the bacterium provides identification of the bacteria. The full name of this test is?;;[[Cards/Enzyme-linked Immunosorbent Assay\|Enzyme-linked Immunosorbent Assay]]
 <!--SR:!2024-05-16,1,210-->

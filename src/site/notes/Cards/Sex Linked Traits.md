@@ -21,10 +21,11 @@
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-04-28\|2022-04-28]]         |
-| [[Calendar/2023/Daily/2024-07-22 Mon\|2024-07-22 Mon]] |
+| Incoming Links                                                  |
+| --------------------------------------------------------------- |
+| [[Calendar/2022/Daily/2022-04-28\|2022-04-28]]               |
+| [[Calendar/2023/Daily/2024-07-22 Mon\|2024-07-22 Mon]]       |
+| [[Cards/Primary Immunodeficiency\|Primary Immunodeficiency]] |
 
 { .block-language-dataview}
 

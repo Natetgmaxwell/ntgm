@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"HSGBFUVZ","zt-attachments":["1306"],"aliases":["@LFS112 M6T5 Innate Immunity"],"keywords":[],"FirstAuthor":"[[ Nicole Masters]]","tags":["source/video"],"dg-publish":true,"alias":", @LFS112 M6T5 Innate Immunity","permalink":"/sources/video/lfs-112-m6-t5-innate2023/","dgPassFrontmatter":true}
+{"zotero-key":"HSGBFUVZ","zt-attachments":["1306"],"aliases":["@LFS112 M6T5 Innate Immunity"],"keywords":null,"FirstAuthor":"[[ Nicole Masters]]","tags":["source/video","Uni/LFS112"],"dg-publish":true,"permalink":"/sources/video/lfs-112-m6-t5-innate2023/","dgPassFrontmatter":true}
 ---
 
 # @LFS112M6T5Innate2023
@@ -40,7 +40,7 @@
 
 > [!quote-yellow] (Page 1) yellow
 > 
-> Cellular components – Neutrophils, Eosinophils, Basophils, Mast Cells, Macrophages, Dendritic Cells, Natural Killer Cells
+> Cellular components – Neutrophils, Eosinophils, Basophils, Mast Cells, Macrophages, Dendritic Cells, [[Cards/Natural Killer Cells\|Natural Killer Cells]]
 >
 { #6RE6MYA5aHVS5EMWUp1}
 
@@ -54,7 +54,7 @@
 
 > [!quote-yellow] (Page 4) yellow
 > 
-> “Apprehend the target” – By Phagocytosis (neutrophils, macrophages, dendritic cells) – By releasing toxic chemicals that destroy pathogen (eosinophils, natural killer cells, macrophages)
+> “Apprehend the target” – By Phagocytosis (neutrophils, macrophages, dendritic cells) – By releasing toxic chemicals that destroy pathogen (eosinophils, [[Cards/Natural Killer Cells\|natural killer cells]], macrophages)
 >
 { #CNDDW6QLaHVS5EMWUp4}
 

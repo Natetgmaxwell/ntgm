@@ -42,4 +42,4 @@
 ## Flashcards
 
 How many genes does [[Cards/Mitochondrial DNA\|Mitochondrial DNA]] code for?;;37 genes.
-<!--SR:!2024-08-23,2,210-->
+<!--SR:!2024-08-29,1,190-->

@@ -36,7 +36,6 @@
 | [[Cards/Gene Expression\|Gene Expression]]                                                             |
 | [[Cards/Glutamic acid\|Glutamic acid]]                                                                 |
 | [[Cards/Glycoprotein\|Glycoprotein]]                                                                   |
-| [[Cards/Histone\|Histone]]                                                                             |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                       |
 | [[Spaces/School/IA3 Research Investigation\|IA3 Research Investigation]]                               |
 | [[Cards/Interleukin 15\|Interleukin 15]]                                                               |
@@ -47,6 +46,7 @@
 | [[Cards/Osteocalcin\|Osteocalcin]]                                                                     |
 | [[Cards/Oxidative Priority of Foods\|Oxidative Priority of Foods]]                                     |
 | [[Cards/Peptide bonds\|Peptide bonds]]                                                                 |
+| [[Cards/Post Translation Modification\|Post Translation Modification]]                                 |
 | [[Cards/Protein Breakdown\|Protein Breakdown]]                                                         |
 | [[Cards/Protein Synthesis\|Protein Synthesis]]                                                         |
 | [[Cards/Protein Turnover\|Protein Turnover]]                                                           |

@@ -36,7 +36,7 @@
 > 
 > 
 > ---
-> How does RNA ploymerase recognise a specific DNA sequence?;;A promoter region
+> How does RNA ploymerase recognise a specific DNA sequence?;;A [[Cards/Promoter Sequence\|promoter region]]
 >
 { #48EYHJ44aBJA3Q22Vp5}
 
@@ -46,7 +46,7 @@
 > 
 > 
 > ---
-> What are the step within the initiation phase of RNA transciption?;;Polymerase binds to the promoter sequence, Polymerase forms a transcription bubble.
+> What are the step within the initiation phase of RNA transciption?;;Polymerase binds to the [[Cards/Promoter Sequence\|promoter sequence]], Polymerase forms a transcription bubble.
 >
 { #LY6GVSAHaBJA3Q22Vp5}
 
@@ -500,7 +500,7 @@ That RNA polymerase needs to know where to start.
 
 102
 00:06:08,800 --> 00:06:13,440
-The place that's going to start is a promoter sequence.
+The place that's going to start is a [[Cards/Promoter Sequence\|promoter sequence]].
 
 103
 00:06:13,440 --> 00:06:15,120
@@ -748,7 +748,7 @@ is exactly the same.
 
 164
 00:09:38,620 --> 00:09:42,460
-So after binding to that promoter sequence,
+So after binding to that [[Cards/Promoter Sequence\|promoter sequence]],
 
 165
 00:09:42,460 --> 00:09:45,060
@@ -940,7 +940,7 @@ We're going to draw our gene in the middle.
 
 212
 00:12:31,000 --> 00:12:35,440
-Up here is our promoter sequence,
+Up here is our [[Cards/Promoter Sequence\|promoter sequence]],
 
 213
 00:12:35,440 --> 00:12:36,700

@@ -63,6 +63,7 @@ A single-strandard polymeric molecule, similar to [[Cards/Deoxyribonucleic Acid\
 | [[Cards/Protein Synthesis\|Protein Synthesis]]                                                                            |
 | [[Cards/Purine Bases\|Purine Bases]]                                                                                      |
 | [[Cards/Pyrimidine Bases\|Pyrimidine Bases]]                                                                              |
+| [[• Inbox/RNA Polymerase II\|RNA Polymerase II]]                                                                          |
 | [[Cards/RNA Translation\|RNA Translation]]                                                                                |
 
 { .block-language-dataview}
@@ -92,7 +93,7 @@ A single-strandard polymeric molecule, similar to [[Cards/Deoxyribonucleic Acid\
 ## Flashcards
 
 What is the difference between prokaryotic and eukaryotic mRNA?;;Prokaryotic mRNA can encode multiple genes, while eukaryotic mRNA typically encodes only one gene.
-<!--SR:!2024-08-23,2,230-->
+<!--SR:!2024-09-02,1,190-->
 
 If we extracted mRNA from thyroid and neuronal cells, we would find the same sets of mature mRNA molecules in both types of cells?;;no
-<!--SR:!2024-08-24,3,250-->
+<!--SR:!2024-09-04,7,250-->

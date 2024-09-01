@@ -75,7 +75,7 @@
 
 > [!quote-yellow] (Page 11) yellow
 > 
-> • Cleavage of the DNA strand  – endonuclease  • Removal of damaged region  – exonuclease  • Insertion of new bases  – DNA polymerase  • Sealing the break  – DNA ligase
+> • Cleavage of the DNA strand  – endonuclease  • Removal of damaged region  – exonuclease  • Insertion of new bases  – DNA polymerase  • Sealing the break  – DNA [[Cards/Ligase\|ligase]]
 >
 { #4MVUWE67aTZ5QFQACp11}
 

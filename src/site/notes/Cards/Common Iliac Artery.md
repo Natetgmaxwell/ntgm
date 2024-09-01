@@ -17,8 +17,24 @@
 
 ## Mentions
 
-- [[Sources/Video/@leedaffin2023-LFS122M10T2Systemic\|@leedaffin2023-LFS122M10T2Systemic]]
+| Incoming Links                                                          |
+| ----------------------------------------------------------------------- |
+| [[Cards/Abdominal Aortic Bifurcation\|Abdominal Aortic Bifurcation]] |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]           |
 
 { .block-language-dataview}
+
+| Outgoing Links                                            |
+| --------------------------------------------------------- |
+| [[Cards/Abdominal Aorta\|Abdominal Aorta]]             |
+| [[Cards/External Iliac Artery\|External Iliac Artery]] |
+
+{ .block-language-dataview}
+
+| Sources                                                                                     |
+| ------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffin2023-LFS122M10T2Systemic\|@leedaffin2023-LFS122M10T2Systemic]] |
+
+{ .block-language-dataview}``
 
 ## Flashcards

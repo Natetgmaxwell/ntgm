@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS252"],"dg-publish":true,"permalink":"/cards/sigma-factors/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/LFS252","flashcards/LFS252"],"dg-publish":true,"permalink":"/cards/sigma-factors/","dgPassFrontmatter":true}
 ---
 
 # Sigma Factors
@@ -25,8 +25,9 @@
 
 { .block-language-dataview}
 
-| Outgoing Links |
-| -------------- |
+| Outgoing Links                                    |
+| ------------------------------------------------- |
+| [[Cards/Promoter Sequence\|Promoter Sequence]] |
 
 { .block-language-dataview}
 
@@ -36,3 +37,6 @@
 { .block-language-dataview}
 
 ## Flashcards
+
+What is the role of the sigma factor in transcription?;;It lets RNA polymerase bind to a specific [[Cards/Promoter Sequence\|promoter sequence]]
+<!--SR:!2024-09-04,3,250-->

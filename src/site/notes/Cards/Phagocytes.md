@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/HBIO1010"],"dg-publish":true,"permalink":"/cards/phagocytes/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112","Uni/BIM202","flashcards/BIM202"],"dg-publish":true,"permalink":"/cards/phagocytes/","dgPassFrontmatter":true}
 ---
 
 # Phagocytes
@@ -32,3 +32,6 @@
 { .block-language-dataview}
 
 ## Flashcards
+
+What are the two major cell types involved in phagocytosis?;;[[Cards/Macrophages\|Macrophages]] and [[Cards/Neutrophils\|Neutrophils]]
+<!--SR:!2024-08-31,3,250-->

@@ -7,10 +7,10 @@
 > [!Ontology]+
 > up:: [[Cards/White Blood Cells\|White Blood Cells]], [[Cards/Immune System\|Immune System]]
 > jump::
-> down:: 
+> down:: [[Cards/T Lymphocytes\|T Lymphocytes]], [[Cards/B Lymphocytes\|B Lymphocytes]]
 
 > [!Definition] Definition
-> Lymphocytes are a type of white blood cell that play a key role in the immune system. They help protect the body against infections and diseases by producing antibodies, stimulating other immune cells, and recognising foreign substances or pathogens. There are two main types of lymphocytes: B cells and T cells. B cells produce antibodies that bind to specific antigens on the surface of invading microorganisms. T cells can directly kill infected cells or activate other immune responses. Lymphocytes are part of the lymphatic system, which is a network of tissues and organs that drains excess fluid from the body and transports immune cells throughout the body.
+> Lymphocytes are a type of white blood cell that play a key role in the immune system. They help protect the body against infections and diseases by producing [[Cards/Antibodies\|antibodies]], stimulating other immune cells, and recognising foreign substances or pathogens. There are two main types of lymphocytes: [[Cards/B Lymphocytes\|B cells]] and T cells. [[Cards/B Lymphocytes\|B cells]] produce [[Cards/Antibodies\|antibodies]] that bind to specific [[Cards/Antigens\|antigens]] on the surface of invading microorganisms. T cells can directly kill infected cells or activate other immune responses. Lymphocytes are part of the lymphatic system, which is a network of tissues and organs that drains excess fluid from the body and transports immune cells throughout the body.
 
 # Reference
 
@@ -28,7 +28,11 @@
 
 | Outgoing Links                                    |
 | ------------------------------------------------- |
+| [[Cards/Antibodies\|Antibodies]]               |
+| [[Cards/Antigens\|Antigens]]                   |
+| [[Cards/B Lymphocytes\|B Lymphocytes]]         |
 | [[Cards/Immune System\|Immune System]]         |
+| [[Cards/T Lymphocytes\|T Lymphocytes]]         |
 | [[Cards/White Blood Cells\|White Blood Cells]] |
 
 { .block-language-dataview}

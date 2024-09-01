@@ -41,3 +41,4 @@
 ## Flashcards
 
 What is the purpose of the anticodon on a tRNA molecule?;;The anticodon matches up with a specific codon on the mRNA molecule to add the correct amino acid to the protein chain.
+<!--SR:!2024-09-04,3,250-->

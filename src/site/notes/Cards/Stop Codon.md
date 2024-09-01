@@ -40,3 +40,4 @@
 ## Flashcards
 
 What is the purpose of the stop codon in mRNA?;;The stop codon is where translation ends.
+<!--SR:!2024-09-04,3,250-->

@@ -39,7 +39,7 @@
 
 > [!quote-green] (Page 4) green
 > 
-> Topoisomerase
+> [[• Inbox/Topoisomerase\|Topoisomerase]]
 >
 { #5DV96IG8aVN7N8IPGp4}
 

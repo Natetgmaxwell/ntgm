@@ -20,6 +20,8 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 | Name                                                                                                          | dg-publish |
 | ------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[Sources/@kuballa2024BIM202M02T02GeneExpression\|@kuballa2024BIM202M02T02GeneExpression]]                 | true       |
+| [[Sources/@kuballa2024BIM202M06T02InnateImmunity\|@kuballa2024BIM202M06T02InnateImmunity]]                 | true       |
+| [[Sources/@kuballa2024BIM202M06T03SpecificAcquired\|@kuballa2024BIM202M06T03SpecificAcquired]]             | true       |
 | [[Sources/Video/@annakuballa2024BIM202M01T01Introduction\|@annakuballa2024BIM202M01T01Introduction]]       | true       |
 | [[Sources/Video/@annakuballa2024BIM202M01T02CourseOverview\|@annakuballa2024BIM202M01T02CourseOverview]]   | true       |
 | [[Sources/Video/@annakuballa2024BIM202M01T03HistoryGenetics\|@annakuballa2024BIM202M01T03HistoryGenetics]] | true       |
@@ -38,6 +40,8 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 | [[Calendar/2023/Daily/2024-08-05 Mon\|2024-08-05 Mon]] |
 | [[Calendar/2023/Daily/2024-08-12 Mon\|2024-08-12 Mon]] |
 | [[Calendar/2023/Daily/2024-08-21 Wed\|2024-08-21 Wed]] |
+| [[Calendar/2023/Daily/2024-08-26 Mon\|2024-08-26 Mon]] |
+| [[Calendar/2023/Daily/2024-08-28 Wed\|2024-08-28 Wed]] |
 
 { .block-language-dataview}
 

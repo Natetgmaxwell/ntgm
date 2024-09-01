@@ -1,5 +1,5 @@
 ---
-{"tags":["School","on/Science/Biology/Genetics"],"date created":"2022-03-08 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/rna-transcription/","dgPassFrontmatter":true}
+{"tags":["School","on/Science/Biology/Genetics","Uni/LFS252","flashcards/LFS252"],"date created":"2022-03-08 Tue","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/rna-transcription/","dgPassFrontmatter":true}
 ---
 
 # RNA Transcription
@@ -21,12 +21,33 @@
 
 ## The Three Steps of [[Cards/RNA Transcription\|RNA Transcription]]
 
+### In [[Cards/Eukaryote\|Eukaryotes]]
+
 1. Initiation
 2. Elongation
 3. Termination
 
 > [!cite]-
 > [[Sources/@kuballa2024BIM202M02T02GeneExpression\|@kuballa2024BIM202M02T02GeneExpression]]
+
+### In [[Cards/Bacteria\|Bacteria]]
+
+1. Initiation
+
+	![Extras/Images/8WNPPPZY.png|500](/img/user/Extras/Images/8WNPPPZY.png)
+
+2. Elongation
+	
+	![Extras/Images/CY3BF47T.png|500](/img/user/Extras/Images/CY3BF47T.png)
+
+3. Termination
+	- A hairpin loop forms resulting in the dissociation of the [[Cards/Polymerase\|Polymerase]]
+
+		![Extras/Images/ZCLY4JB2.png|500](/img/user/Extras/Images/ZCLY4JB2.png)
+		![Extras/Images/MQRF9YRW.png|550](/img/user/Extras/Images/MQRF9YRW.png)
+
+> [!cite]-
+> [[Sources/@mcmillan2024LFS252M05T02BacterialTranscription\|@mcmillan2024LFS252M05T02BacterialTranscription]]
 
 ## Regulation of [[Cards/RNA Transcription\|RNA Transcription]]
 
@@ -49,6 +70,7 @@
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
 | [[Cards/Helicase\|Helicase]]                                                                                              |
 | [[Cards/HOX Gene\|HOX Gene]]                                                                                              |
+| [[Cards/Promoter Sequence\|Promoter Sequence]]                                                                            |
 | [[Cards/Protein Synthesis\|Protein Synthesis]]                                                                            |
 | [[Cards/RNA Alternative Splicing\|RNA Alternative Splicing]]                                                              |
 
@@ -56,7 +78,9 @@
 
 | Outgoing Links                                            |
 | --------------------------------------------------------- |
+| [[Cards/Bacteria\|Bacteria]]                           |
 | [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]] |
+| [[Cards/Eukaryote\|Eukaryote]]                         |
 | [[Cards/Gene Expression\|Gene Expression]]             |
 | [[Cards/Genes\|Genes]]                                 |
 | [[Cards/Operons\|Operons]]                             |
@@ -67,10 +91,16 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                       |
-| --------------------------------------------------------------------------------------------- |
-| [[Sources/@kuballa2024BIM202M02T02GeneExpression\|@kuballa2024BIM202M02T02GeneExpression]] |
-| [[Sources/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]         |
-| [[Sources/Other/HBIO1010 M1T1 Slides\|HBIO1010 M1T1 Slides]]                               |
+| Sources                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------- |
+| [[Sources/@kuballa2024BIM202M02T02GeneExpression\|@kuballa2024BIM202M02T02GeneExpression]]                   |
+| [[Sources/@mcmillan2024LFS252M05T02BacterialTranscription\|@mcmillan2024LFS252M05T02BacterialTranscription]] |
+| [[Sources/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]                           |
+| [[Sources/Other/HBIO1010 M1T1 Slides\|HBIO1010 M1T1 Slides]]                                                 |
 
 { .block-language-dataview}
+
+## Flashcards
+
+How do bacteria stop the making of mRNA?;;By using inverted repeats that form hairpin structures.
+<!--SR:!2024-09-04,3,250-->

@@ -7,14 +7,14 @@
 > [!Ontology]
 > up:: [[Cards/Organ Systems\|Body Systems]]
 > jump::
-> down:: [[Cards/Adaptive Immunity\|Adaptive Immunity]], [[Cards/Innate immunity\|Innate immunity]]
+> down:: [[Cards/Adaptive Immunity\|Adaptive Immunity]], [[Cards/Innate Immunity\|Innate Immunity]]
 
 > [!Definition] Definition
 > [[Cards/Immune System\|Immune System]], is the complex group of defence responses found in humans and other advanced vertebrates that helps repel disease-causing organisms (pathogens).
 
-### Differences Between [[Cards/Adaptive Immunity\|Adaptive Immunity]] and [[Cards/Innate immunity\|Innate immunity]]
+### Differences Between [[Cards/Adaptive Immunity\|Adaptive Immunity]] and [[Cards/Innate Immunity\|Innate Immunity]]
 
-| [[Cards/Innate immunity\|Innate]] | [[Cards/Adaptive Immunity\|Adaptive]] |
+| [[Cards/Innate Immunity\|Innate]] | [[Cards/Adaptive Immunity\|Adaptive]] |
 | --------------------------- | ------------------------------- |
 | Non-Specific                | Specific                        |
 | Low-potency                | Potent                          | 

@@ -20,9 +20,9 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 ## Sources
 | Name                                                                                      | Cite Key                                                                                                        | Published |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------- |
+| \-                                                                                        | [[Sources/Video/@davidmckay2024SCI105M07T04Lewis\|@davidmckay2024SCI105M07T04Lewis]]                         | true      |
 | \-                                                                                        | [[Sources/Video/@davidmckay2024SCI105M08T02Light\|@davidmckay2024SCI105M08T02Light]]                         | true      |
 | \-                                                                                        | [[Sources/Video/@davidmckay2024SCI105M07T03Electronic\|@davidmckay2024SCI105M07T03Electronic]]               | true      |
-| \-                                                                                        | [[Sources/Video/@davidmckay2024SCI105M07T04Lewis\|@davidmckay2024SCI105M07T04Lewis]]                         | true      |
 | <ul><li>@SCI105 M06T01 Chemical equilibria</li></ul>                                      | [[Sources/Video/@davidmckay2024SCI105M06T01Chemical\|@davidmckay2024SCI105M06T01Chemical]]                   | true      |
 | <ul><li>@SCI105 M06T02 Shifting equilibria: Le Chatelier's principle</li></ul>            | [[Sources/Video/@DavidMcKay2024SCI105M06T02Shifting\|@DavidMcKay2024SCI105M06T02Shifting]]                   | true      |
 | <ul><li>@SCI105 M06T03 Acids and bases</li></ul>                                          | [[Sources/Video/@DavidMcKay2024SCI105M06T03Acids\|@DavidMcKay2024SCI105M06T03Acids]]                         | true      |

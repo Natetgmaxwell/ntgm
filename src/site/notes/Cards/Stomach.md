@@ -5,7 +5,7 @@
 # Stomach
 
 > [!Ontology]+
-> up:: [[Cards/Digestive System\|Digestive System]], [[Cards/Innate immunity\|Innate immunity]], [[Cards/Abdominopelvic Cavity\|Abdominopelvic Cavity]]
+> up:: [[Cards/Digestive System\|Digestive System]], [[Cards/Innate Immunity\|Innate Immunity]], [[Cards/Abdominopelvic Cavity\|Abdominopelvic Cavity]]
 > jump:: [[Cards/Lower Esophageal Sphincter\|Lower Esophageal Sphincter]]
 > down:: [[Cards/Greater Curvature of the Stomach\|Greater Curvature of the Stomach]], [[Cards/Lesser Curvature of the Stomach\|Lesser Curvature of the Stomach]], [[Cards/Fundus of the Stomach\|Fundus of the Stomach]], [[Cards/Body of the Stomach\|Body of the Stomach]], [[Cards/Pyloric Sphincter\|Pyloric Sphincter]]
 

@@ -10,5 +10,4 @@
 
 ## Topic
 
-- Duchenne muscular dystrophy?
-- Hereditary Haemochromatosis?
+- **Duchenne muscular dystrophy**

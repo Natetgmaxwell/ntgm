@@ -15,5 +15,5 @@ A gene is **the basic physical and functional unit of heredity** made up of [[Ca
 
 - [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]]
 - [[Cards/Ribonucleic Acid\|Ribonucleic Acid]]
-- [[Cards/Gene Regulation\|Gene Regulation]]
+- [[Cards/Eukaryotic Gene Regulation\|Eukaryotic Gene Regulation]]
 - [[Cards/Locus\|Locus]]

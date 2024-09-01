@@ -38,4 +38,4 @@
 ## Flashcards
 
 How many genes are there in the [[Cards/Mitochondrial Genome\|Mitochondrial Genome]]?;;37 genes
-<!--SR:!2024-08-22,1,210-->
+<!--SR:!2024-08-30,2,210-->

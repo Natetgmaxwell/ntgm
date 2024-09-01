@@ -18,35 +18,35 @@
 
 ## Recently Created Cards
 
-| File Name                                                             | Date Modified   |
-| --------------------------------------------------------------------- | --------------- |
-| [[Cards/RNA Transcription\|RNA Transcription]]                     | August 24, 2024 |
-| [[Cards/Acebutolol\|Acebutolol]]                                   | August 24, 2024 |
-| [[Cards/Atenolol\|Atenolol]]                                       | August 24, 2024 |
-| [[Cards/Autonomy\|Autonomy]]                                       | August 24, 2024 |
-| [[Cards/Bacterial Gene Regulation\|Bacterial Gene Regulation]]     | August 24, 2024 |
-| [[Cards/Beta Blockers\|Beta Blockers]]                             | August 24, 2024 |
-| [[Cards/Betaxolol\|Betaxolol]]                                     | August 24, 2024 |
-| [[Cards/Brisoprolol\|Brisoprolol]]                                 | August 24, 2024 |
-| [[Cards/Esmolol\|Esmolol]]                                         | August 24, 2024 |
-| [[Cards/Ethics in Clinical Genetics\|Ethics in Clinical Genetics]] | August 24, 2024 |
+| File Name                                                 | Date Modified      |
+| --------------------------------------------------------- | ------------------ |
+| [[Cards/Anti-Codon\|Anti-Codon]]                       | September 01, 2024 |
+| [[Cards/Conditional Mutations\|Conditional Mutations]] | September 01, 2024 |
+| [[Cards/DNA Replication\|DNA Replication]]             | September 01, 2024 |
+| [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]] | September 01, 2024 |
+| [[Cards/Facilitated Diffusion\|Facilitated Diffusion]] | September 01, 2024 |
+| [[Cards/Histone\|Histone]]                             | September 01, 2024 |
+| [[Cards/Ligase\|Ligase]]                               | September 01, 2024 |
+| [[Cards/Mitosis\|Mitosis]]                             | September 01, 2024 |
+| [[Cards/Nonsense Mutation\|Nonsense Mutation]]         | September 01, 2024 |
+| [[Cards/Nucleotides\|Nucleotides]]                     | September 01, 2024 |
 
 { .block-language-dataview}
 
 ## Recent Sources
 
-| File Name                                                                                                                     | Date Modified   | Type           |
-| ----------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------- |
-| [[Sources/@eamens2024BIM263M04T01ArrhythmiasTheir\|@eamens2024BIM263M04T01ArrhythmiasTheir]]                               | August 22, 2024 | Video          |
-| [[Sources/@chan2011PersonalizedMedicineProgress\|@chan2011PersonalizedMedicineProgress]]                                   | August 20, 2024 | Research Paper |
-| [[Sources/@goetz2018PersonalizedMedicineMotivation\|@goetz2018PersonalizedMedicineMotivation]]                             | August 20, 2024 | Research Paper |
-| [[Sources/@russell2024BIM263M02T05AcetylcholinesteraseEnzyme\|@russell2024BIM263M02T05AcetylcholinesteraseEnzyme]]         | August 12, 2024 | Video          |
-| [[Sources/@russell2024BIM263M03T02Noradrenaline\|@russell2024BIM263M03T02Noradrenaline]]                                   | August 12, 2024 | Video          |
-| [[Sources/@russell2024BIM263M02T04AcetylcholinesteraseInhibitors\|@russell2024BIM263M02T04AcetylcholinesteraseInhibitors]] | August 12, 2024 | Video          |
-| [[Sources/@mcmillan2024LFS252M02T04DNAReplication\|@mcmillan2024LFS252M02T04DNAReplication]]                               | August 05, 2024 | Video          |
-| [[Sources/@mcmillan2024LFS252M02T03GenesMutations\|@mcmillan2024LFS252M02T03GenesMutations]]                               | August 05, 2024 | Video          |
-| [[Sources/@mcmillan2024LFS252M02T02GeneticCode\|@mcmillan2024LFS252M02T02GeneticCode]]                                     | August 04, 2024 | Video          |
-| [[Sources/@jelocnik2024LFS252M01T02WhatMolecular\|@jelocnik2024LFS252M01T02WhatMolecular]]                                 | August 04, 2024 | Video          |
+| File Name                                                                                             | Date Modified      | Type  |
+| ----------------------------------------------------------------------------------------------------- | ------------------ | ----- |
+| [[Sources/@kuballa2024BIM202M06T03SpecificAcquired\|@kuballa2024BIM202M06T03SpecificAcquired]]     | September 01, 2024 | Video |
+| [[Sources/@kuballa2024BIM202M02T01MolecularBasis\|@kuballa2024BIM202M02T01MolecularBasis]]         | September 01, 2024 | Video |
+| [[Sources/@mcmillan2024LFS252M02T04DNAReplication\|@mcmillan2024LFS252M02T04DNAReplication]]       | September 01, 2024 | Video |
+| [[Sources/@mcmillan2024LFS252M02T02GeneticCode\|@mcmillan2024LFS252M02T02GeneticCode]]             | September 01, 2024 | Video |
+| [[Sources/@cummins2024LFS252M06T01OverviewEukaryotic\|@cummins2024LFS252M06T01OverviewEukaryotic]] | September 01, 2024 | Video |
+| [[Sources/@kuballa2024BIM202M06T02InnateImmunity\|@kuballa2024BIM202M06T02InnateImmunity]]         | August 29, 2024    | Video |
+| [[Sources/@kuballa2024BIM202M06T04BloodGroups\|@kuballa2024BIM202M06T04BloodGroups]]               | August 29, 2024    | Video |
+| [[Sources/Video/@2023-LFS112M6T6Adaptive\|@2023-LFS112M6T6Adaptive]]                               | August 27, 2024    | \-    |
+| [[Sources/Video/@LFS112M6T5Innate2023\|@LFS112M6T5Innate2023]]                                     | August 27, 2024    | Video |
+| [[Sources/ventura2024MBT254M02T02MethodsDrug\|ventura2024MBT254M02T02MethodsDrug]]                 | August 25, 2024    | Video |
 
 { .block-language-dataview}
 
@@ -70,5 +70,6 @@
 - [Arc - Browser of Choice](https://arc.net/)
 - [PDF Editor and Reader](https://pdfexpert.com/)
 - [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
+- [Aerospace - Tiling Window Manager](https://github.com/nikitabobko/AeroSpace)
 
 ##### Github Repo Can Be Found At: https://github.com/Natetgmaxwell/ntgm

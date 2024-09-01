@@ -195,7 +195,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 8. **[[Cards/Spleen\|Spleen]]'s Immunological Functions:**
     
     - [[Cards/Spleen\|Spleen]] located below ribs in abdominal region.
-    - Stores, controls, and destroys old [[Cards/Red Blood Cells\|red blood cells]]; produces antibodies via B [[Cards/Lymphocytes\|lymphocytes]].
+    - Stores, controls, and destroys old [[Cards/Red Blood Cells\|red blood cells]]; produces [[Cards/Antibodies\|antibodies]] via B [[Cards/Lymphocytes\|lymphocytes]].
 9. **Lymphatic Nodules and Defense Mechanisms:**
     
     - Lymphatic nodules are egg-shaped tissues in tracts (GI, urinary, reproductive, respiratory).
@@ -204,7 +204,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
     
     - Pluripotent stem cells from bone marrow produce myeloid or lymphoid stem cells.
     - Myeloid stem cells yield [[Cards/Granulocytes\|granulocytes]], [[Cards/Platelets\|Platelets]], [[Cards/Red Blood Cells\|erythrocytes]], [[Cards/Monocytes\|monocytes]], [[Cards/Mast cells\|mast cells]].
-    - Lymphoid stem cells yield T [[Cards/Lymphocytes\|lymphocytes]], B [[Cards/Lymphocytes\|lymphocytes]] (plasma cells), natural killer cells.
+    - Lymphoid stem cells yield T [[Cards/Lymphocytes\|lymphocytes]], B [[Cards/Lymphocytes\|lymphocytes]] (plasma cells), [[Cards/Natural Killer Cells\|natural killer cells]].
 11. **Cell Migration and Production:**
     
     - Immune cells migrate via endothelial sinusoids from bone marrow to [[Cards/Cardiovascular System\|circulatory system]].
@@ -219,16 +219,16 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 1. **Innate and Adaptive Immunity:**
     
-    - [[Cards/Innate immunity\|Innate immunity]] includes [[Cards/Granulocytes\|granulocytes]] ([[Cards/Basophils\|basophil]], [[Cards/Eosinophils\|eosinophil]], [[Cards/Neutrophils\|neutrophil]]) and agranulocytes (mast cell, nitrochlear cell, dendritic cell) and complement system.
-    - Adaptive immunity has humoral and cellular responses mediated by B cells and T cells.
+    - [[Cards/Innate Immunity\|Innate Immunity]] includes [[Cards/Granulocytes\|granulocytes]] ([[Cards/Basophils\|basophil]], [[Cards/Eosinophils\|eosinophil]], [[Cards/Neutrophils\|neutrophil]]) and agranulocytes (mast cell, nitrochlear cell, dendritic cell) and complement system.
+    - Adaptive immunity has humoral and cellular responses mediated by [[Cards/B Lymphocytes\|B cells]] and T cells.
 2. **Humoral and Cellular Immunity:**
     
-    - Humoral response is by B cells secreting antibodies; cellular response involves T cells.
-    - Antibodies neutralise extracellular [[Cards/Micro-organisms\|microbes]], while cellular response targets intracellular pathogens.
+    - Humoral response is by [[Cards/B Lymphocytes\|B cells]] secreting [[Cards/Antibodies\|antibodies]]; cellular response involves T cells.
+    - [[Cards/Antibodies\|Antibodies]] neutralise extracellular [[Cards/Micro-organisms\|microbes]], while cellular response targets intracellular pathogens.
 3. **Helper T [[Cards/Lymphocytes\|Lymphocytes]] in Cellular Immunity:**
     
     - Helper T cells aid [[Cards/Macrophages\|macrophages]] and [[Cards/Neutrophils\|neutrophils]] against intracellular pathogens.
-    - Cytotoxic T cells destroy infected cells, exposing pathogens for antibody action.
+    - Cytotoxic T cells destroy infected cells, exposing pathogens for [[Cards/Antibodies\|antibody]] action.
 4. **Antigen Processing and Receptors:**
     
     - Immune responses rely on exogenous antigen (MHC type 2) for extracellular pathogens.
@@ -241,18 +241,18 @@ up:: [[Atlas/🎓 University\|🎓 University]]
     
     - Antigen elimination phase activates humoral and cellular immunity against [[Cards/Infection\|infection]].
     - Contraction phase follows, where many cells die, allowing renewal and homeostasis.
-7. **Functions of Antibodies (Immunoglobulins):**
+7. **Functions of [[Cards/Antibodies\|Antibodies]] ([[Cards/Antibodies\|Immunoglobulins]]):**
     
-    - Antibodies neutralise, immobilise, agglutinate, precipitate pathogens.
+    - [[Cards/Antibodies\|Antibodies]] neutralise, immobilise, agglutinate, precipitate pathogens.
     - They activate complement system enzymes and phagocytosis.
-8. **Immune Globulins and Antibody Types:**
+8. **Immune Globulins and [[Cards/Antibodies\|Antibody]] Types:**
     
-    - Immune globulins (antibodies) like IgG, IgA, IgM, and IgE are found in different body areas.
-    - Antibodies have Y-shaped structures and perform various immune functions.
+    - Immune globulins ([[Cards/Antibodies\|antibodies]]) like IgG, IgA, IgM, and IgE are found in different body areas.
+    - [[Cards/Antibodies\|Antibodies]] have Y-shaped structures and perform various immune functions.
 9. **Cytokines and Immune Activation:**
     
     - Activated B and T cells release cytokines that mediate inflammation, swelling, and mucus secretion.
-    - Plasma cells (B cells) secrete antibodies; cytotoxic T cells directly attack infected cells.
+    - Plasma cells ([[Cards/B Lymphocytes\|B cells]]) secrete [[Cards/Antibodies\|antibodies]]; cytotoxic T cells directly attack infected cells.
 10. **Assessing Immune Response:**
     
     - A formula assesses immune response based on lymphocyte and leukocyte percentages in blood.
@@ -260,7 +260,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 11. **Barriers and Non-Specific Defenses:**
     
     - Skin, mucus, and membranes serve as initial barriers to pathogens.
-    - Non-specific defenses include phagocytic cells, natural killer cells, inflammation, and fever.
+    - Non-specific defenses include phagocytic cells, [[Cards/Natural Killer Cells\|natural killer cells]], inflammation, and fever.
 12. **Specific Immune Responses:**
     
     - Pathogens bypass barriers; if successful, non-specific defenses are activated.

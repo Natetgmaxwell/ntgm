@@ -23,7 +23,7 @@
     - [[Cards/Nutrients\|Nutrients]]
     - Hormones
     - Metabolic Waste
-    - Antibodies
+    - [[Cards/Antibodies\|Antibodies]]
     - Clotting Factors
 
 ## Components of Blood
@@ -103,6 +103,7 @@
 
 | Outgoing Links                                                |
 | ------------------------------------------------------------- |
+| [[Cards/Antibodies\|Antibodies]]                           |
 | [[Cards/Blood Plasma\|Blood Plasma]]                       |
 | [[Cards/Blood Serum\|Blood Serum]]                         |
 | [[Cards/Blood Vessels\|Blood Vessels]]                     |

@@ -18,7 +18,6 @@
 
 ## Mentions
 
-- [[Sources/Video/@2023-LFS112M6T5Innate\|@2023-LFS112M6T5Innate]]
 
 { .block-language-dataview}
 

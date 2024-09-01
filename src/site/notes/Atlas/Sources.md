@@ -32,14 +32,14 @@
 
 ## Articles
 
-| Title                                                                                                  |
-| ------------------------------------------------------------------------------------------------------ |
-| [[Sources/Articles/@henderson2024FriendshipSocialFitness\|@henderson2024FriendshipSocialFitness]]   |
-| [[Sources/Articles/@williamson20243MMIdentityConnection\|@williamson20243MMIdentityConnection]]     |
-| [[Sources/Articles/@chriswilliamson20243MMShadowsWidowers\|@chriswilliamson20243MMShadowsWidowers]] |
-| [[Sources/Articles/@parrish2024Apprenticeship\|@parrish2024Apprenticeship]]                         |
-| [[Sources/Articles/@hendersonDawnEverythingNew2022\|@hendersonDawnEverythingNew2022]]               |
-| [[Sources/Articles/@henderson2024RemnantNewYork\|@henderson2024RemnantNewYork]]                     |
+| Title                                                                                                |
+| ---------------------------------------------------------------------------------------------------- |
+| [[Sources/Articles/@williamson20243MMIdentityConnection\|@williamson20243MMIdentityConnection]]   |
+| [[Sources/Articles/@parrish2024Apprenticeship\|@parrish2024Apprenticeship]]                       |
+| [[Sources/Articles/@hendersonDawnEverythingNew2022\|@hendersonDawnEverythingNew2022]]             |
+| [[Sources/Articles/@henderson2024RemnantNewYork\|@henderson2024RemnantNewYork]]                   |
+| [[Sources/Articles/@henderson2022TaxLife\|@henderson2022TaxLife]]                                 |
+| [[Sources/Articles/@henderson2024FriendshipSocialFitness\|@henderson2024FriendshipSocialFitness]] |
 
 { .block-language-dataview}
 
@@ -59,8 +59,8 @@
 
 | File                                                                                              | Keywords                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/@chan2011PersonalizedMedicineProgress\|@chan2011PersonalizedMedicineProgress]]       | <ul><li>Humans</li><li>Precision Medicine</li><li>Disease</li><li>Genetic Predisposition to Disease</li><li>Genome</li><li>Human</li><li>Pharmacogenetics</li><li>Preventive Medicine</li></ul>                                              |
 | [[Sources/@goetz2018PersonalizedMedicineMotivation\|@goetz2018PersonalizedMedicineMotivation]] | <ul></ul>                                                                                                                                                                                                                                    |
+| [[Sources/@chan2011PersonalizedMedicineProgress\|@chan2011PersonalizedMedicineProgress]]       | <ul><li>Humans</li><li>Precision Medicine</li><li>Disease</li><li>Genetic Predisposition to Disease</li><li>Genome</li><li>Human</li><li>Pharmacogenetics</li><li>Preventive Medicine</li></ul>                                              |
 | [[Sources/@morrowTeachingCriticalReflection2011\|@morrowTeachingCriticalReflection2011]]       | <ul><li>critical thinking</li><li>reflection</li></ul>                                                                                                                                                                                       |
 | [[Sources/Research Papers/@porgesCardiacVagalTone1995\|@porgesCardiacVagalTone1995]]           | <ul><li>Autonomic nervous system</li><li>Heart rate</li><li>Respiratory sinus arrhythmia</li><li>Stress</li><li>Vagal tone</li></ul>                                                                                                         |
 | [[Sources/Research Papers/@ruffle2019TatWillTell\|@ruffle2019TatWillTell]]                     | <ul><li>Experimental economics</li><li>Impulsivity</li><li>Tattoo</li><li>Time preferences</li></ul>                                                                                                                                         |

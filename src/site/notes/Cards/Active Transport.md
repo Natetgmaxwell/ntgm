@@ -25,6 +25,7 @@
 | [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                 |
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]     |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Cards/Plasma Membrane Transport\|Plasma Membrane Transport]]                                         |
 
 { .block-language-dataview}
 

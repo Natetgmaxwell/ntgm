@@ -1,13 +1,13 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/operons/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/LFS252","flashcards/LFS252"],"dg-publish":true,"permalink":"/cards/operons/","dgPassFrontmatter":true}
 ---
 
 # Operons
 
 > [!ontology]-
 > up:: 
-> jump:: 
-> down:: 
+> jump:: [[Cards/Promoter Sequence\|Promoter Sequence]]
+> down:: [[Cards/Genes\|Genes]]
 
 > [!Definition] Definition
 
@@ -23,8 +23,10 @@
 
 { .block-language-dataview}
 
-| Outgoing Links |
-| -------------- |
+| Outgoing Links                                    |
+| ------------------------------------------------- |
+| [[Cards/Genes\|Genes]]                         |
+| [[Cards/Promoter Sequence\|Promoter Sequence]] |
 
 { .block-language-dataview}
 
@@ -34,3 +36,6 @@
 { .block-language-dataview}
 
 ## Flashcards
+
+What are operons in a genetic context?;;A group of co-regulated genes with related functions
+<!--SR:!2024-09-02,1,230-->

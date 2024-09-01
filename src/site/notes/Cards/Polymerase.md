@@ -7,7 +7,7 @@
 > [!Ontology]-
 > up:: [[Cards/DNA Replication\|DNA Replication]], [[Cards/Enzyme\|Enzyme]]
 > jump::
-> down:: [[Cards/Sigma Factors\|Sigma Factors]]
+> down:: [[Cards/Sigma Factors\|Sigma Factors]], [[• Inbox/RNA Polymerase II\|RNA Polymerase II]]
 
 - An [[Cards/Enzyme\|Enzyme]] that synthesises [[Cards/Nucleic Acids\|Nucleic Acids]].
 
@@ -24,16 +24,18 @@
 | [[Cards/Mutation\|Mutation]]                                   |
 | [[Cards/Polymerase Chain Reaction\|Polymerase Chain Reaction]] |
 | [[Cards/RNA Transcription\|RNA Transcription]]                 |
+| [[Cards/Somatic Hypermutation\|Somatic Hypermutation]]         |
 
 { .block-language-dataview}
 
-| Outgoing Links                                  |
-| ----------------------------------------------- |
-| [[Cards/DNA Replication\|DNA Replication]]   |
-| [[Cards/Enzyme\|Enzyme]]                     |
-| [[Cards/Nucleic Acids\|Nucleic Acids]]       |
-| [[Cards/Ribonucleic Acid\|Ribonucleic Acid]] |
-| [[Cards/Sigma Factors\|Sigma Factors]]       |
+| Outgoing Links                                      |
+| --------------------------------------------------- |
+| [[Cards/DNA Replication\|DNA Replication]]       |
+| [[Cards/Enzyme\|Enzyme]]                         |
+| [[Cards/Nucleic Acids\|Nucleic Acids]]           |
+| [[Cards/Ribonucleic Acid\|Ribonucleic Acid]]     |
+| [[• Inbox/RNA Polymerase II\|RNA Polymerase II]] |
+| [[Cards/Sigma Factors\|Sigma Factors]]           |
 
 { .block-language-dataview}
 

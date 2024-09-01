@@ -12,7 +12,7 @@
 > [!Definition] Definition
 
 > [!quote] [[Sources/Video/@mcmillan2024LFS261M10T02Plasmids\|@mcmillan2024LFS261M10T02Plasmids]]
-> A plasmid is an extrachromosomal DNA molecule
+> A plasmid is an extrachromosomal [[Cards/Deoxyribonucleic Acid\|DNA]] molecule
 
 - [[Cards/Plasmids\|Plasmids]] are required for [[Cards/Bacterial Gene Conjugation\|Bacterial Gene Conjugation]].
 
@@ -36,6 +36,7 @@
 | Outgoing Links                                                      |
 | ------------------------------------------------------------------- |
 | [[Cards/Bacterial Gene Conjugation\|Bacterial Gene Conjugation]] |
+| [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]]           |
 
 { .block-language-dataview}
 

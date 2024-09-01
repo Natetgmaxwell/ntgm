@@ -1,5 +1,5 @@
 ---
-{"aliases":["Bacterial Infection"],"date created":"2022-12-09 Fri","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/bacterial-infections/","dgPassFrontmatter":true}
+{"aliases":"Bacterial Infection","date created":"2022-12-09 Fri","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/bacterial-infections/","dgPassFrontmatter":true}
 ---
 
 # Bacterial Infections
@@ -29,9 +29,10 @@ There are many different types of bacterial infections that can affect various p
 
 ## Mentions
 
-| Incoming Links                  |
-| ------------------------------- |
-| [[Cards/Bacteria\|Bacteria]] |
+| Incoming Links                                                  |
+| --------------------------------------------------------------- |
+| [[Cards/Bacteria\|Bacteria]]                                 |
+| [[Cards/Primary Immunodeficiency\|Primary Immunodeficiency]] |
 
 { .block-language-dataview}
 

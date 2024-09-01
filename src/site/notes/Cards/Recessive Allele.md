@@ -50,3 +50,4 @@
 ## Flashcards
 
 How can a recessive lethal mutation be identified in a laboratory setting?;;By crossing heterozygous organisms and looking for offspring that do not survive
+<!--SR:!2024-09-04,3,250-->
