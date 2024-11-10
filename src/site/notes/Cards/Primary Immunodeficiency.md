@@ -6,7 +6,7 @@
 
 > [!ontology]-
 > up:: 
-> jump:: 
+> jump:: [[Cards/Secondary Immunodeficiency\|Secondary Immunodeficiency]]
 > down:: 
 
 > [!Definition] Definition
@@ -49,6 +49,7 @@
 | [[Cards/Bacterial Infections\|Bacterial Infections]]                   |
 | [[Cards/Immunodeficiency Disorders\|Immunodeficiency Disorders]]       |
 | [[Cards/Inheritance\|Inheritance]]                                     |
+| [[Cards/Secondary Immunodeficiency\|Secondary Immunodeficiency]]       |
 | [[Cards/Sex Linked Traits\|Sex Linked Traits]]                         |
 | [[Cards/T Lymphocytes\|T Lymphocytes]]                                 |
 | [[Cards/Viral Infections\|Viral Infections]]                           |

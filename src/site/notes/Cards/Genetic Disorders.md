@@ -1,5 +1,5 @@
 ---
-{"Created:":"2022-04-28","edited":"2023-04-06 Thu","tags":["on/Science/Biology/Genetics","School"],"date created":"2022-04-28 Thu","dg-publish":true,"aliases":"genetic diseases","permalink":"/cards/genetic-disorders/","dgPassFrontmatter":true}
+{"Created:":"2022-04-28","edited":"2023-04-06 Thu","tags":["on/Science/Biology/Genetics","School","Uni/BIM202","flashcards/BIM202"],"date created":"2022-04-28 Thu","dg-publish":true,"aliases":"genetic diseases","permalink":"/cards/genetic-disorders/","dgPassFrontmatter":true}
 ---
 
 # Genetic Disorders
@@ -62,3 +62,6 @@
 - [[Cards/Gene Mutation\|Gene Mutation]]
 
 ## Flashcards
+
+Give several examples of treatments of genetic disease that do not involve [[Cards/Gene Therapy\|Gene Therapy]];;Dietary modification, drug treatment, recombinant dna, tissue removal.
+<!--SR:!2024-10-24,8,250-->

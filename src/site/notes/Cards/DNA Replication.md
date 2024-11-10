@@ -14,10 +14,10 @@
 
 ## Steps
 
-![Extras/Images/SXLMIA7K.png](/img/user/Extras/Images/SXLMIA7K.png)
+![[Extras/Images/SXLMIA7K.png\|Extras/Images/SXLMIA7K.png]]
 
 > [!cite]-
-> [[Sources/@kuballa2024BIM202M02T01MolecularBasis\|@kuballa2024BIM202M02T01MolecularBasis]]
+> [[Sources/Video/@kuballa2024BIM202M02T01MolecularBasis\|@kuballa2024BIM202M02T01MolecularBasis]]
 
 1. [[Cards/Helicase\|Helicase]] unwinds the parental double helix
 2. The leading strand is synthesised continuously in the 5'-> 3' direction by DNA [[Cards/Polymerase\|Polymerase]].
@@ -59,13 +59,13 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                       |
-| --------------------------------------------------------------------------------------------- |
-| [[Sources/@kuballa2024BIM202M02T01MolecularBasis\|@kuballa2024BIM202M02T01MolecularBasis]] |
+| Sources                                                                                             |
+| --------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@kuballa2024BIM202M02T01MolecularBasis\|@kuballa2024BIM202M02T01MolecularBasis]] |
 
 { .block-language-dataview}
 
 ## Flashcards
 
 Which cluster of terms accurately reflects the nature of DNA replication in prokaryotes?;;Fixed point of initiation, bidirectional, semiconservative
-<!--SR:!2024-09-02,1,230-->
+<!--SR:!2024-12-06,32,250-->

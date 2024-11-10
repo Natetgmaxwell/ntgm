@@ -14,7 +14,7 @@
 { #995883}
 
 
-> [!quote] [[Sources/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]
+> [!quote] [[Sources/Books/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]
 > The process whereby genetic information is transmitted from DNA to RNA is called transcription .
 
 - Transcription is performed by enzymes called **[[Cards/Polymerase\|Polymerase]]**.
@@ -28,26 +28,26 @@
 3. Termination
 
 > [!cite]-
-> [[Sources/@kuballa2024BIM202M02T02GeneExpression\|@kuballa2024BIM202M02T02GeneExpression]]
+> [[Sources/Video/@kuballa2024BIM202M02T02GeneExpression\|@kuballa2024BIM202M02T02GeneExpression]]
 
 ### In [[Cards/Bacteria\|Bacteria]]
 
 1. Initiation
 
-	![Extras/Images/8WNPPPZY.png|500](/img/user/Extras/Images/8WNPPPZY.png)
+	![[Extras/Images/8WNPPPZY.png\|500]]
 
 2. Elongation
 	
-	![Extras/Images/CY3BF47T.png|500](/img/user/Extras/Images/CY3BF47T.png)
+	![[Extras/Images/CY3BF47T.png\|500]]
 
 3. Termination
 	- A hairpin loop forms resulting in the dissociation of the [[Cards/Polymerase\|Polymerase]]
 
-		![Extras/Images/ZCLY4JB2.png|500](/img/user/Extras/Images/ZCLY4JB2.png)
-		![Extras/Images/MQRF9YRW.png|550](/img/user/Extras/Images/MQRF9YRW.png)
+		![[Extras/Images/ZCLY4JB2.png\|500]]
+		![[Extras/Images/MQRF9YRW.png\|550]]
 
 > [!cite]-
-> [[Sources/@mcmillan2024LFS252M05T02BacterialTranscription\|@mcmillan2024LFS252M05T02BacterialTranscription]]
+> [[Sources/Video/@mcmillan2024LFS252M05T02BacterialTranscription\|@mcmillan2024LFS252M05T02BacterialTranscription]]
 
 ## Regulation of [[Cards/RNA Transcription\|RNA Transcription]]
 
@@ -91,16 +91,16 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------- |
-| [[Sources/@kuballa2024BIM202M02T02GeneExpression\|@kuballa2024BIM202M02T02GeneExpression]]                   |
-| [[Sources/@mcmillan2024LFS252M05T02BacterialTranscription\|@mcmillan2024LFS252M05T02BacterialTranscription]] |
-| [[Sources/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]                           |
-| [[Sources/Other/HBIO1010 M1T1 Slides\|HBIO1010 M1T1 Slides]]                                                 |
+| Sources                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@kuballa2024BIM202M02T02GeneExpression\|@kuballa2024BIM202M02T02GeneExpression]]                   |
+| [[Sources/Video/@mcmillan2024LFS252M05T02BacterialTranscription\|@mcmillan2024LFS252M05T02BacterialTranscription]] |
+| [[Sources/Books/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]                           |
+| [[Sources/Other/HBIO1010 M1T1 Slides\|HBIO1010 M1T1 Slides]]                                                       |
 
 { .block-language-dataview}
 
 ## Flashcards
 
 How do bacteria stop the making of mRNA?;;By using inverted repeats that form hairpin structures.
-<!--SR:!2024-09-04,3,250-->
+<!--SR:!2024-11-07,2,190-->

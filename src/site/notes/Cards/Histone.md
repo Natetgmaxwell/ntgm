@@ -16,11 +16,16 @@
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]] |
-| [[Cards/Epigenetic Regulators\|Epigenetic Regulators]] |
-| [[Cards/Nucleosome\|Nucleosome]]                       |
+| Incoming Links                                                  |
+| --------------------------------------------------------------- |
+| [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]       |
+| [[Cards/Epigenetic Regulators\|Epigenetic Regulators]]       |
+| [[Cards/Epigenetics\|Epigenetics]]                           |
+| [[Cards/Histone Deacetylation\|Histone Deacetylation]]       |
+| [[Cards/Histone Hyperacetylation\|Histone Hyperacetylation]] |
+| [[Cards/Histone Methylation\|Histone Methylation]]           |
+| [[Cards/Histone Modification\|Histone Modification]]         |
+| [[Cards/Nucleosome\|Nucleosome]]                             |
 
 { .block-language-dataview}
 

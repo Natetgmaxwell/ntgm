@@ -23,4 +23,4 @@
 ## Flashcards
 
 Do [[Cards/Arterioles\|Arterioles]] carry oxygenated or deoxygenated blood?;;Oxygenated
-<!--SR:!2024-05-14,8,170-->
+<!--SR:!2024-09-15,13,170-->

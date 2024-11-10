@@ -23,4 +23,4 @@
 ## Flashcards
 
 What is the function of the semicircular canals in the inner ear?;;To detect the changes in head position and acceleration.
-<!--SR:!2024-05-07,1,130-->
+<!--SR:!2024-09-03,1,130-->

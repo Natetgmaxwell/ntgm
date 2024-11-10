@@ -16,7 +16,7 @@
 ## Diversity of Antigen Receptor on [[Cards/T Lymphocytes\|T Cells]]
 
 > [!cite]-
-> [[Sources/@kuballa2024BIM202M06T03SpecificAcquired\|@kuballa2024BIM202M06T03SpecificAcquired]]
+> [[Sources/Video/@kuballa2024BIM202M06T03SpecificAcquired\|@kuballa2024BIM202M06T03SpecificAcquired]]
 
 - Multiple germline gene segments
 - VDJ somatic recombination
@@ -44,9 +44,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                           |
-| ------------------------------------------------------------------------------------------------- |
-| [[Sources/@kuballa2024BIM202M06T03SpecificAcquired\|@kuballa2024BIM202M06T03SpecificAcquired]] |
+| Sources                                                                                                 |
+| ------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@kuballa2024BIM202M06T03SpecificAcquired\|@kuballa2024BIM202M06T03SpecificAcquired]] |
 
 { .block-language-dataview}
 

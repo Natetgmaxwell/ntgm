@@ -29,6 +29,7 @@
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-12-10 Sat\|2022-12-10 Sat]]                                                                    |
+| [[Calendar/2023/Daily/2024-10-14 Mon\|2024-10-14 Mon]]                                                                    |
 | [[Cards/Adipose Tissue\|Adipose Tissue]]                                                                                  |
 | [[Cards/Body Landmarks\|Body Landmarks]]                                                                                  |
 | [[Cards/Collagen\|Collagen]]                                                                                              |

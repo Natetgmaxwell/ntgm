@@ -26,4 +26,4 @@
 ## Flashcards
 
 How is [[Cards/Carbon Dioxide\|Carbon Dioxide]] transported in the [[Cards/Blood\|Blood]], and their ratios?;;[[Cards/Bicarbonate\|Bicarbonate]] in the [[Cards/Blood Plasma\|Plasma]] (70%), bound to [[Cards/Hemoglobin\|Hemoglobin]] (23%) and dissolved in [[Cards/Blood Plasma\|Plasma]] (7%)
-<!--SR:!2024-05-11,5,130-->
+<!--SR:!2024-09-10,8,130-->

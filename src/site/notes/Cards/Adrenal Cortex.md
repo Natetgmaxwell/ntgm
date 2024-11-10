@@ -67,3 +67,4 @@
 ## Flashcards
 
 What hormones are produced in the [[Cards/Adrenal Cortex\|Adrenal Cortex]]?;;Corticosteroid hormones (mineralocorticoids, [[Cards/Glucocorticoids\|glucocorticoids]], and gonadocorticoids)
+<!--SR:!2024-09-05,3,250-->

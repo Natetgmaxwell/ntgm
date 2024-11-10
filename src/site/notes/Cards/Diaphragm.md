@@ -28,7 +28,7 @@
 | [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]]                                    |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                       |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
-| [[• Inbox/Physio Roger Swimming\|Physio Roger Swimming]]                                               |
+| [[Cards/Physio Roger Swimming\|Physio Roger Swimming]]                                                 |
 | [[Extras/Excalidraw/Respiratory System Diagram\|Respiratory System Diagram]]                           |
 
 { .block-language-dataview}

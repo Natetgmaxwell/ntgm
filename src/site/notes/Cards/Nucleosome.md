@@ -37,3 +37,4 @@
 ## Flashcards
 
 What is the function of nucleosomes in eukaryotic DNA?;;To compact DNA into a smaller space
+<!--SR:!2024-11-07,2,210-->

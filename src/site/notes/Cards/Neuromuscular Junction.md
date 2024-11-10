@@ -23,4 +23,4 @@
 ## Flashcards
 
 What is the neuromuscular junction (NMJ)?;; The connection between a [[Cards/Motor Neurons\|motor neuron]] and a [[Cards/Myofibril\|muscle fibre]], where acetylcholine is released to initiate muscle excitation.
-<!--SR:!2023-12-22,76,250-->
+<!--SR:!2025-05-26,266,270-->

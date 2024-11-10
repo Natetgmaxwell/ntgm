@@ -40,10 +40,10 @@
 ## Flashcards
 
 What are the two main types of thyroid hormone and how many [[Cards/Iodine\|iodine]] atoms do they contain?;;Thyroid hormone includes [[Cards/Thyroxine\|thyroxine]] (T4) with four [[Cards/Iodine\|iodine]] atoms and [[Cards/Triiodothyronine\|triiodothyronine]] (T3) with three [[Cards/Iodine\|iodine]] atoms. T3 is the more biologically active form.
-<!--SR:!2024-05-08,2,130-->
+<!--SR:!2024-09-06,4,150-->
 
 What are the major functions of thyroid hormone?;;It regulates metabolic rate, body temperature, tissue growth, skeletal and nervous system development, and heart function.
-<!--SR:!2024-05-08,2,130-->
+<!--SR:!2024-09-05,3,130-->
 
 What is the normal cascade for thyroid hormone secretion?;;[[Cards/Hypothalamus\|Hypothalamus]] -> [[Cards/Thyrotropin-releasing hormone\|Thyrotropin-releasing hormone]] -> [[Cards/Anterior Pituitary Gland\|Anterior Pituitary Gland]] -> [[Cards/Thyroid-Stimulating Hormone\|Thyroid-Stimulating Hormone]] -> [[Cards/Thyroid Gland\|Thyroid Gland]] -> [[Cards/Thyroid Hormone\|Thyroid Hormone]]
-<!--SR:!2023-10-22,1,130-->
+<!--SR:!2024-09-03,1,130-->

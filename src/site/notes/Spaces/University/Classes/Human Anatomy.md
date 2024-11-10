@@ -482,7 +482,7 @@
 - [[Cervical Canal\|Cervical Canal]]
 - [[External os\|External os]]
 - [[Formix\|Formix]]
-- [[Vaginal Canal\|Vaginal Canal]]
+- [[Cards/Vaginal Canal\|Vaginal Canal]]
 - [[Vaginal Rugae\|Vaginal Rugae]]
 - [[Labium Majus\|Labium Majus]]
 - [[Labium Minus\|Labium Minus]]

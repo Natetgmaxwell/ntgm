@@ -47,7 +47,7 @@
 ## Flashcards
 
 The trochlea is found on which bone?;;Distal [[Cards/Humerus\|Humerus]]
-<!--SR:!2023-11-01,9,250-->
+<!--SR:!2024-09-08,6,230-->
 
 The [[Cards/Rotator Cuff\|rotator cuff]] muscles attach to the humerus at which structures?;;[[Cards/Greater Tubercle of the Humerus\|Greater Tubercle of the Humerus]], [[Cards/Lesser Tubercle of the Humerus\|Lesser Tubercle of the Humerus]]
 <!--SR:!2023-10-31,8,250-->

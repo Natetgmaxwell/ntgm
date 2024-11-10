@@ -23,7 +23,7 @@
 ## Flashcards
 
 Which hormone is responsible for regulating water reabsorption in the kidneys?;;[[Cards/Anti-diuretic hormone\|ADH]]
-<!--SR:!2024-05-10,4,150-->
+<!--SR:!2024-09-08,6,150-->
 
 Which part of the [[Cards/Nephron\|nephron]] is responsible for the reabsorption of most of the filtered water?;;[[Cards/Proximal convoluted tubule\|Proximal convoluted tubule]]
-<!--SR:!2024-05-18,12,190-->
+<!--SR:!2024-09-24,22,190-->

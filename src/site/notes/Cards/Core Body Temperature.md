@@ -64,4 +64,4 @@
 ## Flashcards
 
 What is the [[Cards/Normal Range\|Normal Range]] of core body temperature for humans?;;Between 36.7 and 37.2 degrees Celsius.
-<!--SR:!2024-05-20,14,170-->
+<!--SR:!2024-09-28,26,170-->

@@ -24,4 +24,4 @@
 ## Flashcards
 
 Which of the following contractile proteins of skeletal muscle is involved in ATP hydrolysis?;;[[Cards/Myosin\|Myosin]]
-<!--SR:!2024-05-08,2,230-->
+<!--SR:!2024-09-08,6,230-->

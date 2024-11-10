@@ -50,4 +50,4 @@
 ## Flashcards
 
 Explain the difference between the pulmonary and systemic circuits in the [[Cards/Cardiovascular System\|cardiovascular system]].;;The pulmonary circuit carries blood to and from the lungs for oxygenation. The systemic circuit delivers oxygenated blood to the body's tissues. Blood flows from the heart to [[Cards/Arteries\|arteries]], [[Cards/Arterioles\|arterioles]], capillaries, venules, and veins.
-<!--SR:!2024-06-14,39,210-->
+<!--SR:!2024-12-27,116,230-->

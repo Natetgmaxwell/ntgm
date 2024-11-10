@@ -14,7 +14,7 @@
 ![Extras/Images/CF86J7CV.png|450](/img/user/Extras/Images/CF86J7CV.png)
 
 > [!cite]-
-> [[Sources/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]
+> [[Sources/Books/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]
 
 # Reference
 
@@ -35,9 +35,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                               |
-| ------------------------------------------------------------------------------------- |
-| [[Sources/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]] |
+| Sources                                                                                     |
+| ------------------------------------------------------------------------------------------- |
+| [[Sources/Books/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]] |
 
 { .block-language-dataview}
 

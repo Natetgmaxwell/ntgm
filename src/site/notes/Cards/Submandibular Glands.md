@@ -23,4 +23,4 @@
 ## Flashcards
 
 Saliva is secreted via a duct either side of the [[Cards/Lingual Frenulum\|Lingual Frenulum]] by the {{[[Cards/Submandibular Glands\|Submandibular Glands]]}}
-<!--SR:!2023-10-24,1,130-->
+<!--SR:!2024-09-03,1,130-->

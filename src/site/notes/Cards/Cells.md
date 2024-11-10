@@ -7,7 +7,7 @@
 > [!Ontology]-
 > up:: [[Cards/Levels of Organisation in the Human Body\|Levels of Organisation in the Human Body]]
 > jump:: [[Cards/Unicellular Organisms\|Unicellular Organisms]], [[Multicellular Organisms\|Multicellular Organisms]]
-> down:: [[Cards/Organelles\|Organelles]], [[Cards/Myocyte\|Myocyte]], [[Cards/Osteocyte\|Osteocyte]], [[Cards/Extracellular Receptors\|Extracellular Receptors]], [[Cards/Stem cells\|Stem cells]], [[Cards/Cell Division\|Cell Division]], [[Cards/Coagulation\|Coagulation]]
+> down:: [[Cards/Organelles\|Organelles]], [[Cards/Myocyte\|Myocyte]], [[Cards/Osteocyte\|Osteocyte]], [[Cards/Extracellular Receptors\|Extracellular Receptors]], [[Cards/Stem Cells\|Stem Cells]], [[Cards/Cell Division\|Cell Division]], [[Cards/Coagulation\|Coagulation]]
 
 > [!Definition] Definition
 
@@ -63,7 +63,7 @@
 | [[Cards/Organelles\|Organelles]]                                                             |
 | [[Cards/Osteocyte\|Osteocyte]]                                                               |
 | [[Cards/Prokaryotic Cells\|Prokaryotic Cells]]                                               |
-| [[Cards/Stem cells\|Stem cells]]                                                             |
+| [[Cards/Stem Cells\|Stem Cells]]                                                             |
 | [[Cards/Unicellular Organisms\|Unicellular Organisms]]                                       |
 
 { .block-language-dataview}

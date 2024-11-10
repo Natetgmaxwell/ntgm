@@ -18,10 +18,10 @@
 ## Layers of the [[Cards/Epidermis\|Epidermis]]
 
 - [[Cards/Stratum Corneum\|Stratum Corneum]]
-- [[Cards/Stratum Lucidum\|Stratum Lucidum]] (**Only found on the soles of the feet and palms of the hands**)
+- [[Stratum Lucidum\|Stratum Lucidum]] (**Only found on the soles of the feet and palms of the hands**)
 - [[Cards/Stratum Granulosum\|Stratum Granulosum]]
-- [[Cards/Stratum Spinosum\|Stratum Spinosum]]
-- [[Cards/Stratum Basale\|Stratum Basale]]
+- [[Stratum Spinosum\|Stratum Spinosum]]
+- [[Stratum Basale\|Stratum Basale]]
 
 ### [[Cards/Epidermal Ridges\|Epidermal Ridges]]
 
@@ -43,5 +43,5 @@ What are the layers of the epidermis, from inner to outer?;;The layers of the ep
 Where does [[Cards/Vitamin D\|vitamin D]] synthesis occur, and what is needed for it?;;[[Cards/Vitamin D\|Vitamin D]] synthesis occurs in the epidermis, mainly in the stratum spinosum and [[Cards/Stratum Basale\|stratum basale]] layers. It requires sunlight to activate the enzymatic reaction that converts [[Cards/Cholesterol\|cholesterol]] into [[Cards/Vitamin D\|vitamin D]].
 <!--SR:!2023-10-23,8,170-->
 
-How does aging affect the skin's epidermal layer?;;Reduces cell activity and division, leads to thinner epidermis and paler skin.
+How does [[Cards/Aging\|aging]] affect the skin's epidermal layer?;;Reduces cell activity and division, leads to thinner epidermis and paler skin.
 <!--SR:!2023-10-29,8,150-->

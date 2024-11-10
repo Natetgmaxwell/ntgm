@@ -40,7 +40,7 @@
 ## Flashcards
 
 How many [[Cards/Oocytes\|Oocytes]] does [[Cards/Oogenesis\|Oogenesis]] produce;;[[Cards/Oogenesis\|Oogenesis]] results in one primary [[Cards/Oocytes\|Oocytes]]
-<!--SR:!2023-11-01,11,190-->
+<!--SR:!2024-09-09,7,170-->
 
 What are the main hormones involved in the [[Cards/Female Reproductive System\|Female Reproductive System]]?;;[[Cards/Gonadotropin-Releasing Hormone\|GnRH]], [[Cards/Luteinising Hormone\|LH]], [[Cards/Follicle Stimulating Hormone\|FSH]], [[Cards/Progesterone\|Progesterone]] and [[Cards/Estrogen\|Estrogen]].
-<!--SR:!2023-10-28,7,170-->
+<!--SR:!2024-09-13,11,170-->

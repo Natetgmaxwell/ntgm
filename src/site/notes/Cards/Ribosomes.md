@@ -1,5 +1,5 @@
 ---
-{"aliases":"ribosome","tags":["on/Science/Biology/CellBiology","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/ribosomes/","dgPassFrontmatter":true}
+{"aliases":"ribosome","tags":["on/Science/Biology/CellBiology","Uni/LFS112","Uni/LFS252","flashcards/LFS252"],"dg-publish":true,"permalink":"/cards/ribosomes/","dgPassFrontmatter":true}
 ---
 
 # Ribosomes
@@ -23,3 +23,5 @@
 { .block-language-dataview}
 
 ## Flashcards
+
+The “molecular ruler” in ribosomes checks?;;if an anticodon matches a codon

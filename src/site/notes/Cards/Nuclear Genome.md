@@ -38,4 +38,4 @@
 ## Flashcards
 
 How many genes are there in the [[Cards/Nuclear Genome\|Nuclear Genome]]?;;20,000 genes
-<!--SR:!2024-08-29,1,190-->
+<!--SR:!2024-10-17,8,170-->

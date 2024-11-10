@@ -180,4 +180,4 @@ What are biarticulate muscles?;;Muscles that cross two joints
 <!--SR:!2024-09-25,142,230-->
 
 What are the connective tissue layers surrounding skeletal muscle?;;Epimysium, perimysium, endomysium.
-<!--SR:!2023-11-06,16,230-->
+<!--SR:!2024-10-13,41,230-->

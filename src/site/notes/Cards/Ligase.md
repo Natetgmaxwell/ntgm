@@ -21,23 +21,22 @@
 | --------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-03-10\|2022-03-10]]         |
 | [[Calendar/2023/Daily/2024-07-31 Wed\|2024-07-31 Wed]] |
+| [[Cards/Nucleotides\|Nucleotides]]                     |
 
 { .block-language-dataview}
 
-| Outgoing Links                        |
-| ------------------------------------- |
-| [[Cards/Enzyme\|Enzyme]]           |
-| [[Cards/Nucleotides\|Nucleotides]] |
+| Outgoing Links              |
+| --------------------------- |
+| [[Cards/Enzyme\|Enzyme]] |
 
 { .block-language-dataview}
 
-| Sources                                                                                       |
-| --------------------------------------------------------------------------------------------- |
-| [[Sources/@kuballa2024BIM202M02T01MolecularBasis\|@kuballa2024BIM202M02T01MolecularBasis]] |
+| Sources                                                                                             |
+| --------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@kuballa2024BIM202M02T01MolecularBasis\|@kuballa2024BIM202M02T01MolecularBasis]] |
 
 { .block-language-dataview}
 
 ## Flashcards
 
-What is the function of [[Cards/Ligase\|Ligase]]?;;removal of [[Cards/Nucleotides\|Nucleotides]]
-<!--SR:!2024-09-02,1,230-->
+What is the function of [[Cards/Ligase\|Ligase]]?;;joins two pieces of DNA together

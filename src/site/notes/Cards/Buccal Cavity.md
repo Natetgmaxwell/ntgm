@@ -23,4 +23,4 @@
 ## Flashcards
 
 What [[Cards/Gastrointestinal tract\|Gastrointestinal]] channel is the [[Cards/Buccal Cavity\|Buccal Cavity]] a part of?;;[[Cards/Gastrointestinal tract#Food Channel\|Gastrointestinal tract#Food Channel]]
-<!--SR:!2023-08-19,3,250-->
+<!--SR:!2024-09-10,8,250-->

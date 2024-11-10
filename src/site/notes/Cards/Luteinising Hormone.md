@@ -49,4 +49,4 @@
 ## Flashcards
 
 What hormone stimulates [[Cards/Ovulation\|Ovulation]]?;;[[Cards/Luteinising Hormone\|Luteinising Hormone]]
-<!--SR:!2023-08-20,4,210-->
+<!--SR:!2024-09-04,2,190-->

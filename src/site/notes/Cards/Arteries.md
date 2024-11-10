@@ -25,4 +25,4 @@
 ## Flashcards
 
 Which blood vessels have the thickest walls?;;[[Cards/Arteries\|Arteries]]
-<!--SR:!2024-05-10,4,170-->
+<!--SR:!2024-09-14,12,190-->

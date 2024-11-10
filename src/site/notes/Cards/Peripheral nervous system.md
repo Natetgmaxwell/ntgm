@@ -26,7 +26,7 @@ tags:: #on/Science/Biology/Anatomy #Uni/LFS112 #flashcards/LFS112
 ## Flashcards
 
 What are the afferent and efferent divisions of the PNS?;; The afferent division carries information to the CNS, while the efferent division transmits signals from the CNS to effector organs.
-<!--SR:!2023-12-18,72,250-->
+<!--SR:!2025-05-12,252,270-->
 
 What does the Peripheral Nervous System (PNS) consist of?;; The PNS is made up of cranial and spinal nerves, responsible for body system functioning.
-<!--SR:!2024-05-07,1,140-->
+<!--SR:!2024-09-03,1,140-->

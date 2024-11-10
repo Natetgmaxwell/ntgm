@@ -1,5 +1,5 @@
 ---
-{"aliases":["HLT140"],"current-class":false,"dg-publish":true,"permalink":"/spaces/university/classes/think-health/","dgPassFrontmatter":true}
+{"aliases":"HLT140","current-class":false,"dg-publish":true,"permalink":"/spaces/university/classes/think-health/","dgPassFrontmatter":true}
 ---
 
 
@@ -8,6 +8,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 # Think Health
 
 ## Assessments
+
 | Name                                                                                             | Status    |
 | ------------------------------------------------------------------------------------------------ | --------- |
 | [[Spaces/University/Projects/HLT140A1 Online Quiz\|HLT140A1 Online Quiz]]                     | Completed |

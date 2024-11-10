@@ -20,6 +20,7 @@
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
 | [[Cards/Immunodeficiency Disorders\|Immunodeficiency Disorders]] |
+| [[Cards/Primary Immunodeficiency\|Primary Immunodeficiency]]     |
 
 { .block-language-dataview}
 

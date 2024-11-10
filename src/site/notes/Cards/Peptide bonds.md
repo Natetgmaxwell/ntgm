@@ -1,8 +1,8 @@
 ---
-{"aliases":null,"tags":["Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/peptide-bonds/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/HBIO1009","Uni/LFS252","flashcards/LFS252"],"dg-publish":true,"permalink":"/cards/peptide-bonds/","dgPassFrontmatter":true}
 ---
 
-# Peptide bonds
+# Peptide Bonds
 
 > [!Ontology]-
 > up:: [[Cards/Covalent Bonds\|Covalent Bonds]]
@@ -22,3 +22,6 @@
 { .block-language-dataview}
 
 ## Flashcards
+
+Covalent bonds enable some flexibility in proteins but define their structure. What types of covalent bonds are found in proteins?;;Peptide bonds
+<!--SR:!2024-11-06,1,230-->

@@ -44,4 +44,4 @@
 ## Flashcards
 
 How many base pairs does a human diploid cell contain?;;6.4 billion
-<!--SR:!2024-09-05,8,230-->
+<!--SR:!2024-10-22,19,230-->

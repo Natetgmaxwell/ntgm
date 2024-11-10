@@ -19,10 +19,11 @@
 
 ## Mentions
 
-| Incoming Links                  |
-| ------------------------------- |
-| [[Cards/Alcohol\|Alcohol]]   |
-| [[Cards/Pyruvate\|Pyruvate]] |
+| Incoming Links                                                        |
+| --------------------------------------------------------------------- |
+| [[Cards/Alcohol\|Alcohol]]                                         |
+| [[Cards/Energy Metabolism Disorders\|Energy Metabolism Disorders]] |
+| [[Cards/Pyruvate\|Pyruvate]]                                       |
 
 { .block-language-dataview}
 

@@ -21,6 +21,7 @@
 - [[Psychological Disorders\|Psychological Disorders]]
 - [[Sexual Disorders\|Sexual Disorders]]
 - [[Cards/Somatic Disorder\|Somatic Disorder]]
+- [[Biochemical Disorders\|Biochemical Disorders]]
 
 # Reference
 

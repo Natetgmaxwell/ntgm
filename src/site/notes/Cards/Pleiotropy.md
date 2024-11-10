@@ -23,5 +23,5 @@
 ## Flashcards
 
 What does [[Cards/Pleiotropy\|Pleiotropy]] refer to in inheritance?;;1 [[Cards/Genes\|gene]] coding for 2 or more traits
-<!--SR:!2024-09-02,12,150-->
+<!--SR:!2024-10-29,26,150-->
 

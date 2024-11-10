@@ -1,5 +1,5 @@
 ---
-{"aliases":["X Chromosome"],"tags":["Uni/LFS103","flashcards/LFS103"],"dg-publish":true,"permalink":"/cards/female-sex-chromosome/","dgPassFrontmatter":true}
+{"aliases":"X Chromosome","tags":["Uni/LFS103","flashcards/LFS103"],"dg-publish":true,"permalink":"/cards/female-sex-chromosome/","dgPassFrontmatter":true}
 ---
 
 # Female Sex Chromosome

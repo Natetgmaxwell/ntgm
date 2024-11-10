@@ -54,4 +54,4 @@ What are the muscles of the anterior medial compartment of the [[Cards/Thigh\|Th
 <!--SR:!2023-12-14,70,230-->
 
 The greater and lesser ________ are two prominent bony landmarks at the proximal end of the femur?;;trochanter
-<!--SR:!2023-11-16,42,268-->
+<!--SR:!2024-12-23,112,268-->

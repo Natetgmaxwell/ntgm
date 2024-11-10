@@ -38,4 +38,4 @@
 ## Flashcards
 
 What is the effect of an inotropic drug?;;Increased [[Cards/Myocardium\|Myocardium]] contractility.
-<!--SR:!2024-08-24,2,230-->
+<!--SR:!2024-11-07,1,150-->

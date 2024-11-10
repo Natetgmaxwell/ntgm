@@ -27,4 +27,4 @@ Identify the vessel that is easy to find in most people and is used to obtain bl
 <!--SR:!2023-10-26,2,150-->
 
 The median cubital vein runs obliquely across the [[Cards/Cubital Fossa\|Cubital Fossa]], bridging between the cephalic and basilic veins (T/F);;True
-<!--SR:!2023-10-25,2,150-->
+<!--SR:!2024-09-03,1,130-->

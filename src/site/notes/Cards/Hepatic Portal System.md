@@ -27,4 +27,4 @@ Identify the veins that constitute the hepatic portal system;;[[Cards/Hepatic Po
 <!--SR:!2023-10-25,1,130-->
 
 The hepatic portal system drains areas that correspond to the approximate areas supplied by the celiac trunk, the [[Cards/Superior Mesenteric Artery\|superior mesenteric artery]] and the inferior mesenteric artery (T/F);;True
-<!--SR:!2023-10-26,2,150-->
+<!--SR:!2024-09-05,3,150-->

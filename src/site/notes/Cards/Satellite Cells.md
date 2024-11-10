@@ -5,7 +5,7 @@
 # Satellite Cells
 
 > [!ontology]-
-> up:: [[Cards/Stem cells\|Stem cells]]
+> up:: [[Cards/Stem Cells\|Stem Cells]]
 > jump:: 
 > down:: 
 
@@ -27,7 +27,7 @@
 
 | Outgoing Links                      |
 | ----------------------------------- |
-| [[Cards/Stem cells\|Stem cells]] |
+| [[Cards/Stem Cells\|Stem Cells]] |
 
 { .block-language-dataview}
 

@@ -12,6 +12,7 @@
 > [!Definition] Definition
 > [[Cards/Bimodal\|Bimodal]] refers to a distribution with two distinct peaks, indicating that data is grouped into two main modes or categories.
 [](Bimodal.md) Reference
+
 - 
 
 ## Mentions
@@ -32,4 +33,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards

@@ -28,6 +28,7 @@
 | [[Cards/Bile acids\|Bile acids]]                                             |
 | [[Cards/Diet for Increasing Testosterone\|Diet for Increasing Testosterone]] |
 | [[Cards/Epidermis\|Epidermis]]                                               |
+| [[Cards/Hypercholesterolemia\|Hypercholesterolemia]]                         |
 | [[Cards/Lipid Hormones\|Lipid Hormones]]                                     |
 | [[Cards/Plasma Membranes\|Plasma Membranes]]                                 |
 

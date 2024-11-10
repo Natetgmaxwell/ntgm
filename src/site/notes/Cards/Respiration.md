@@ -73,7 +73,7 @@
 ## Flashcards
 
 Describe Boyle's law and its application to mathematical problems and principles of respiration (inhalation and exhalation).;;Boyle's law states that pressure and volume are inversely proportional at constant temperature. It explains lung expansion during inhalation and compression during exhalation in respiration.
-<!--SR:!2024-07-13,9,170-->
+<!--SR:!2024-09-22,20,190-->
 
 What area of the brain control [[Cards/Unconsciousness\|unconscious]] breathing?;;[[Cards/Medulla Oblongata\|Medulla Oblongata]] and [[Cards/Pons\|Pons]]
-<!--SR:!2024-07-07,3,130-->
+<!--SR:!2024-09-06,4,130-->

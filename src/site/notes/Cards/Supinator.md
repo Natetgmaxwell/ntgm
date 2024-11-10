@@ -32,4 +32,4 @@
 ## Flashcards
 
 What side of the [[Cards/Ante-brachium\|Ante-brachium]] is the [[Cards/Supinator\|Supinator]] on?;;Posterior
-<!--SR:!2023-10-26,2,150-->
+<!--SR:!2024-09-05,3,150-->

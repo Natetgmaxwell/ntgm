@@ -11,7 +11,7 @@
 
 A single-strandard polymeric molecule, similar to [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]]. Essential in [[Cards/Sexual Reproduction\|Sexual Reproduction]].
 
-- Nitrogenous base Uracil not Thymine^[[Sources/@kuballa2024BIM202M02T02GeneExpression\|@kuballa2024BIM202M02T02GeneExpression]]
+- Nitrogenous base Uracil not Thymine^[[Sources/Video/@kuballa2024BIM202M02T02GeneExpression\|@kuballa2024BIM202M02T02GeneExpression]]
 
 ## Types of RNA
 
@@ -49,21 +49,25 @@ A single-strandard polymeric molecule, similar to [[Cards/Deoxyribonucleic Acid\
 | [[Calendar/2022/Daily/2022-03-10\|2022-03-10]]                                                                            |
 | [[Calendar/2022/Daily/2022-03-11\|2022-03-11]]                                                                            |
 | [[Calendar/2023/Daily/2024-07-26 Fri\|2024-07-26 Fri]]                                                                    |
+| [[Calendar/2023/Daily/2024-10-14 Mon\|2024-10-14 Mon]]                                                                    |
 | [[Cards/Anti-Codon\|Anti-Codon]]                                                                                          |
 | [[Cards/DNA Replication\|DNA Replication]]                                                                                |
 | [[Cards/Electrophoresis\|Electrophoresis]]                                                                                |
+| [[Cards/Epigenetics\|Epigenetics]]                                                                                        |
 | [[Cards/Exons\|Exons]]                                                                                                    |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
 | [[Cards/Helicase\|Helicase]]                                                                                              |
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]                        |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
+| [[Cards/Non-coding RNA\|Non-coding RNA]]                                                                                  |
 | [[Cards/Nucleotides\|Nucleotides]]                                                                                        |
 | [[Cards/Polymerase\|Polymerase]]                                                                                          |
 | [[Cards/Primase\|Primase]]                                                                                                |
 | [[Cards/Protein Synthesis\|Protein Synthesis]]                                                                            |
 | [[Cards/Purine Bases\|Purine Bases]]                                                                                      |
 | [[Cards/Pyrimidine Bases\|Pyrimidine Bases]]                                                                              |
-| [[• Inbox/RNA Polymerase II\|RNA Polymerase II]]                                                                          |
+| [[• Inbox/Ribozymes\|Ribozymes]]                                                                                          |
+| [[Cards/RNA Polymerase II\|RNA Polymerase II]]                                                                            |
 | [[Cards/RNA Translation\|RNA Translation]]                                                                                |
 
 { .block-language-dataview}
@@ -80,6 +84,7 @@ A single-strandard polymeric molecule, similar to [[Cards/Deoxyribonucleic Acid\
 | [[Cards/Ribosomes\|Ribosomes]]                         |
 | [[Cards/RNA Transcription\|RNA Transcription]]         |
 | [[Cards/Sexual Reproduction\|Sexual Reproduction]]     |
+| [[Cards/siRNA\|siRNA]]                                 |
 | [[Cards/Thymine\|Thymine]]                             |
 | [[Cards/Uracil\|Uracil]]                               |
 
@@ -93,7 +98,19 @@ A single-strandard polymeric molecule, similar to [[Cards/Deoxyribonucleic Acid\
 ## Flashcards
 
 What is the difference between prokaryotic and eukaryotic mRNA?;;Prokaryotic mRNA can encode multiple genes, while eukaryotic mRNA typically encodes only one gene.
-<!--SR:!2024-09-02,1,190-->
+<!--SR:!2024-11-07,2,130-->
 
 If we extracted mRNA from thyroid and neuronal cells, we would find the same sets of mature mRNA molecules in both types of cells?;;no
-<!--SR:!2024-09-04,7,250-->
+<!--SR:!2024-11-15,43,250-->
+
+What is a secondary and tertiary RNA structure? How are these structures formed?;;2nd RNA strutures and based on complementary based paired hydrogen bonds. 3rd RNA structures and more complex the 2nd with electrostatic forces (Van wals forces)
+<!--SR:!2024-11-21,17,217-->
+
+What are some uses of secondary and tertiary structured RNAs in eukaryotic cells?;;2nd RNA uses include gene regulation and protein translation. 3rd RNA can catalyze biochemical reactions
+<!--SR:!2024-11-06,1,130-->
+
+Describe two similarities between the miRNA and [[Cards/siRNA\|siRNA]] pathways;;Both pathways involve the dicer and RISC complex
+<!--SR:!2024-11-08,4,214-->
+
+Describe two differences between the miRNA and [[Cards/siRNA\|siRNA]] pathways;;miRNAs are endogenously expressed by the host genome. In contrast, siRNAs are typically introduced into the cell through transfection or other means
+<!--SR:!2024-11-21,17,214-->

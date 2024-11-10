@@ -155,7 +155,10 @@ the  oxidative  cycle  increases  due  to  an  improvement  in  efficiency”
 ## Flashcards
 
 What are the two broad types of muscle contractions based on muscle length changes?;;Isotonic and isometric muscle contractions.
+<!--SR:!2024-09-06,4,270-->
 
 What is the length-tension relationship?;;Optimal muscle length generates maximum tension, overly stretched or shortened reduces tension.
+<!--SR:!2024-09-06,4,270-->
 
 How does cardiac muscle differ from skeletal muscle in terms of structure and function?;;Cardiac muscle is striated and involuntary. It forms branching networks with intercalated discs, allowing synchronized contractions. Unlike skeletal muscle, it contracts rhythmically without fatigue.
+<!--SR:!2024-09-05,3,250-->

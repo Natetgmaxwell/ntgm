@@ -20,7 +20,7 @@
 
 ## Two Parts
 
-1. [[Cards/Parasympathetic Nervous System\|Parasympathetic Nervous System]]
+1. [[Parasympathetic Nervous System\|Parasympathetic Nervous System]]
 2. [[Cards/Sympathetic Nervous System\|Sympathetic Nervous System]]
 
 ## Functions of the [[Cards/Autonomic Nervous System\|Autonomic Nervous System]]
@@ -79,11 +79,11 @@
 ## Flashcards
 
 What is the autonomic nervous system responsible for?;; The autonomic nervous system automatically regulates smooth and cardiac muscles, glands, and [[Cards/Adipose Tissue\|Adipose Tissue]]. It includes the [[Cards/Parasympathetic Nervous System\|parasympathetic]] (rest and digest) and sympathetic (fight or flight) divisions.
-<!--SR:!2024-05-18,12,160-->
+<!--SR:!2024-09-30,28,180-->
 
 What is the Autonomic Nervous System (ANS) responsible for?;; The ANS controls involuntary functions of visceral effectors like smooth and cardiac muscles, glands, and adipocytes.
-<!--SR:!2023-12-20,74,250-->
+<!--SR:!2025-05-19,259,270-->
 
 How does the ANS differ from the somatic nervous system?;; The ANS has a two-neuron system with autonomic ganglia between the [[Cards/Spinal cord\|spinal cord]] and effector organs, while the somatic nervous system has a one-neuron system with direct control over skeletal muscles.
-<!--SR:!2024-05-30,24,180-->
+<!--SR:!2024-11-02,61,200-->
 

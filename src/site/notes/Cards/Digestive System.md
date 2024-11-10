@@ -102,13 +102,13 @@ Takes food ≈6hrs to pass through the Digestive System.
 ## Flashcards
 
 What are the primary functions of the digestive system, and how are they achieved?;;The primary functions are ingestion (food intake), digestion (breakdown of food), absorption (nutrient uptake), and elimination (waste removal). Achieved through mechanical and chemical processes.
-<!--SR:!2023-10-23,8,250-->
+<!--SR:!2024-09-29,27,270-->
 
 Name the major and accessory organs of the digestive system;;Major organs include the mouth, [[Cards/Esophagus\|esophagus]], stomach, [[Cards/Small Intestine\|small intestine]], and large intestine. Accessory organs are the liver, pancreas, [[Cards/Gallbladder\|gallbladder]], and [[Cards/Salivary glands\|salivary glands]].
-<!--SR:!2024-06-11,36,270-->
+<!--SR:!2024-12-07,96,270-->
 
 How are functions of the digestive system regulated?;;Regulation involves hormonal and neural mechanisms. Hormones like gastrin, secretin, and cholecystokinin control digestion and absorption. Nerves, such as the [[Cards/Vagus Nerve\|vagus nerve]], coordinate digestive processes.
-<!--SR:!2024-05-20,14,230-->
+<!--SR:!2024-10-03,31,230-->
 
 Compare and contrast the digestion and absorption processes for carbohydrates, proteins, and fats, including key enzymes;;Carbohydrates are broken down by [[Cards/Amylase\|amylase]] into sugars, absorbed as glucose. Proteins are digested by pepsin and trypsin into amino acids. Fats are emulsified by bile and digested by lipase into fatty acids and glycerol.
-<!--SR:!2023-10-26,5,230-->
+<!--SR:!2024-09-05,3,210-->

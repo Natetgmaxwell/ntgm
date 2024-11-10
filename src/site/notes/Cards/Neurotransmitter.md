@@ -78,13 +78,13 @@
 ## Flashcards
 
 The structure in which neurotransmitters are stored in is called?;;[[Cards/Synaptic Vesicles\|Synaptic Vesicles]]
-<!--SR:!2024-07-09,64,270-->
+<!--SR:!2025-02-21,172,270-->
 
 What are neurotransmitters?;;Chemicals stored in [[Cards/Synaptic Vesicles\|synaptic vesicles]] for communication between cells.
-<!--SR:!2023-10-30,9,230-->
+<!--SR:!2024-09-22,20,230-->
 
 What neurotransmitter is used in excitatory synapses?;;[[Cards/Glutamate\|Glutamate]].
-<!--SR:!2024-05-14,8,210-->
+<!--SR:!2024-09-06,4,190-->
 
 How are neurotransmitters removed after transmission?;;Enzymes like acetylcholinesterase degrade them or they are reabsorbed and recycled.
-<!--SR:!2024-06-11,36,230-->
+<!--SR:!2024-11-22,81,230-->

@@ -50,4 +50,4 @@
 ## Flashcards
 
 What are the main divisions of the nervous system?;; The nervous system has the central nervous system (CNS) comprising the brain and [[Cards/Spinal cord\|spinal cord]], and the peripheral nervous system (PNS) consisting of [[Cards/Cranial Nerves\|cranial nerves]] and spinal nerves.
-<!--SR:!2024-05-26,20,190-->
+<!--SR:!2024-10-11,39,190-->

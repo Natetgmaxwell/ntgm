@@ -23,4 +23,4 @@
 ## Flashcards
 
 What are ion channels, and how do they function?;; Ion channels are selective protein channels in the cell membrane that allow the passive movement of ions down the concentration gradient. They can be chemically, voltage, or mechanically gated.
-<!--SR:!2024-05-11,5,150-->
+<!--SR:!2024-09-11,9,150-->

@@ -49,5 +49,7 @@
 ## Flashcards
 
 What is the function of calcitonin and what triggers its release?;;Calcitonin is produced by [[Cards/Parafollicular cells\|C cells]] and is stimulated by increased blood calcium levels. It targets the [[Cards/Kidneys\|kidneys]] to increase calcium excretion.
+<!--SR:!2024-09-05,3,250-->
 
 What gland releases [[Cards/Calcitonin\|Calcitonin]]?;;The [[Cards/Thyroid Gland\|Thyroid Gland]]
+<!--SR:!2024-09-05,3,250-->

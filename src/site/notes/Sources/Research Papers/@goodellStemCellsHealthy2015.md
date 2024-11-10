@@ -22,7 +22,7 @@
 > [!Links]+
 >  | Incoming Links                      |
 > | ----------------------------------- |
-> | [[Cards/Stem cells\|Stem cells]] |
+> | [[Cards/Stem Cells\|Stem Cells]] |
 > 
 { .block-language-dataview}
 

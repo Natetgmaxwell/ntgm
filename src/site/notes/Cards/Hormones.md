@@ -104,10 +104,10 @@ One hormone can have different effects on different cells. An example being [[Ca
 ## Flashcards
 
 What are the main types of hormones?;;[[Cards/Amino Acid-Peptide Hormones\|Amino Acid-Peptide Hormones]], [[Cards/Lipid Hormones\|Lipid Hormones]]
-<!--SR:!2024-05-22,16,170-->
+<!--SR:!2024-09-29,27,170-->
 
 How do you differentiate between water soluble hormones and lipid-soluble hormones?;;Water soluble hormones act via attaching the membrane receptors, while lipid-soluble hormones enter the cell and bind to intercellular receptors.
-<!--SR:!2024-05-21,15,170-->
+<!--SR:!2024-09-27,25,170-->
 
 What are the three stimuli that trigger hormone release?;;Humoral, Neural and hormonal.
-<!--SR:!2024-05-11,5,150-->
+<!--SR:!2024-09-10,8,150-->

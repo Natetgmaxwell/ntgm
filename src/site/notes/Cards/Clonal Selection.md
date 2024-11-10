@@ -16,7 +16,7 @@
 
 
 > [!cite]-
-> [[Sources/@kuballa2024BIM202M06T03SpecificAcquired\|@BIM202M06T03 Specific acquired immunity]]
+> [[Sources/Video/@kuballa2024BIM202M06T03SpecificAcquired\|@BIM202M06T03 Specific acquired immunity]]
 
 # Reference
 
@@ -36,13 +36,13 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                           |
-| ------------------------------------------------------------------------------------------------- |
-| [[Sources/@kuballa2024BIM202M06T03SpecificAcquired\|@kuballa2024BIM202M06T03SpecificAcquired]] |
+| Sources                                                                                                 |
+| ------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@kuballa2024BIM202M06T03SpecificAcquired\|@kuballa2024BIM202M06T03SpecificAcquired]] |
 
 { .block-language-dataview}
 
 ## Flashcards
 
 What is clonal selection?;;The process by which a single T cell or B cell recognises an antigen and then divides to produce a large population of genetically identical cells that can respond to the same antigen
-<!--SR:!2024-08-31,3,250-->
+<!--SR:!2024-11-15,43,250-->

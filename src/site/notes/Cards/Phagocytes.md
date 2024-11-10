@@ -34,4 +34,4 @@
 ## Flashcards
 
 What are the two major cell types involved in phagocytosis?;;[[Cards/Macrophages\|Macrophages]] and [[Cards/Neutrophils\|Neutrophils]]
-<!--SR:!2024-08-31,3,250-->
+<!--SR:!2024-10-27,24,250-->

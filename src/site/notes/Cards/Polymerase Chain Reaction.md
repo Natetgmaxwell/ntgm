@@ -29,8 +29,9 @@ Links: [[Calendar/2022/Daily/2022-06-07\|2022-06-07]]
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                                            |
+| --------------------------------------------------------- |
+| [[Calendar/2023/Daily/2024-10-21 Mon\|2024-10-21 Mon]] |
 
 { .block-language-dataview}
 

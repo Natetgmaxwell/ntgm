@@ -18,9 +18,10 @@
 
 ## Mentions
 
-| Incoming Links                            |
-| ----------------------------------------- |
-| [[Cards/Gene Mutation\|Gene Mutation]] |
+| Incoming Links                                |
+| --------------------------------------------- |
+| [[Cards/Gene Mutation\|Gene Mutation]]     |
+| [[Cards/RNA Translation\|RNA Translation]] |
 
 { .block-language-dataview}
 
@@ -40,4 +41,4 @@
 ## Flashcards
 
 What is the purpose of the stop codon in mRNA?;;The stop codon is where translation ends.
-<!--SR:!2024-09-04,3,250-->
+<!--SR:!2024-12-25,51,250-->

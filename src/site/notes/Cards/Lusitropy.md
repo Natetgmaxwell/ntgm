@@ -37,4 +37,4 @@
 ## Flashcards
 
 What does [[Cards/Lusitropy\|Lusitropy]] refer to?;;the rate of [[Cards/Myocardium\|myocardial]] relaxation.
-<!--SR:!2024-08-23,1,210-->
+<!--SR:!2024-11-07,1,130-->

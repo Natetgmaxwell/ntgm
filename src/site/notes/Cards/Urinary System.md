@@ -29,5 +29,7 @@
 ## Flashcards
 
 Name the components of the renal system.;; [[Cards/Kidneys\|Kidneys]], [[Cards/Ureters\|Ureters]], bladder, [[Cards/Urethra\|Urethra]].
+<!--SR:!2024-09-05,3,250-->
 11
 Under normal conditions, what is the main force contributing to glomerular filtration?;;Glomerular hydrostatic pressure
+<!--SR:!2024-09-05,3,250-->

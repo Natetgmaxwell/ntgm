@@ -7,7 +7,7 @@
 > [!Ontology]
 > up:: [[Atlas/MOCs/Genetics\|Genetics]]
 > jump:: [[Cards/Reproduction\|Reproduction]]
-> down:: [[Cards/Pedigree Analysis\|Pedigree Analysis]]
+> down:: [[Cards/Pedigree Analysis\|Pedigree Analysis]], [[Cards/Punnett Square\|Punnett Square]], [[Cards/Genetic Disorders\|Genetic Disorders]]
 
 > [!Definition] Definition
 
@@ -21,11 +21,36 @@
 
 # Reference
 
-- [[Cards/Genetic Disorders\|Genetic Disorders]]
-
 ## Mentions
 
-- [[Sources/Podcasts/Podcast Episodes/The Science & Treatment of Obsessive-Compulsive Disorder (OCD)\|The Science & Treatment of Obsessive-Compulsive Disorder (OCD)]]
+| Incoming Links                                                  |
+| --------------------------------------------------------------- |
+| [[Calendar/2022/Daily/2022-03-07\|2022-03-07]]               |
+| [[Calendar/2022/Daily/2022-04-28\|2022-04-28]]               |
+| [[Cards/Cystic Fibrosis\|Cystic Fibrosis]]                   |
+| [[Cards/Dihybrid Cross\|Dihybrid Cross]]                     |
+| [[Cards/Epigenetics\|Epigenetics]]                           |
+| [[Cards/Pleiotropy\|Pleiotropy]]                             |
+| [[Cards/Primary Immunodeficiency\|Primary Immunodeficiency]] |
+| [[Cards/Sexual Reproduction\|Sexual Reproduction]]           |
+| [[Cards/Trihybrid Cross\|Trihybrid Cross]]                   |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                    |
+| ------------------------------------------------- |
+| [[Cards/Blood Type\|Blood Type]]               |
+| [[Cards/Genetic Disorders\|Genetic Disorders]] |
+| [[Atlas/MOCs/Genetics\|Genetics]]              |
+| [[Cards/Pedigree Analysis\|Pedigree Analysis]] |
+| [[Cards/Punnett Square\|Punnett Square]]       |
+| [[Cards/Reproduction\|Reproduction]]           |
+
+{ .block-language-dataview}
+
+| Sources                                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Podcasts/Podcast Episodes/The Science & Treatment of Obsessive-Compulsive Disorder (OCD)\|The Science & Treatment of Obsessive-Compulsive Disorder (OCD)]] |
 
 { .block-language-dataview}
 

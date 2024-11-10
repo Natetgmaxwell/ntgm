@@ -23,4 +23,4 @@
 ## Flashcards
 
 How is acetylcholine removed from the postsynaptic membrane?;;[[Cards/Enzyme Deactivation\|Enzyme Deactivation]]
-<!--SR:!2024-05-15,9,150-->
+<!--SR:!2024-09-19,17,170-->

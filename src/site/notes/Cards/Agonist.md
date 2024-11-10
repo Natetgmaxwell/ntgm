@@ -25,4 +25,4 @@
 ## Flashcards
 
 What does the [[Cards/Agonist\|Agonist]] refer to in pharmacology?;;the response to stimulus.
-<!--SR:!2024-08-29,7,250-->
+<!--SR:!2024-11-17,40,250-->

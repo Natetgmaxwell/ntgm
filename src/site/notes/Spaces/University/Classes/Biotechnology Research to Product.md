@@ -12,7 +12,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 | Name                                                                                       | Status      |
 | ------------------------------------------------------------------------------------------ | ----------- |
 | [[Spaces/University/Projects/MBT254A2 Written Assignment\|MBT254A2 Written Assignment]] | In Progress |
-| [[Spaces/University/Projects/MBT254A3 Oral Presentation\|MBT254A3 Oral Presentation]]   | Not Started |
+| [[Spaces/University/Projects/MBT254A3 Oral Presentation\|MBT254A3 Oral Presentation]]   | Completed   |
 
 { .block-language-dataview}
 

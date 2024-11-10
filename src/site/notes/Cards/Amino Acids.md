@@ -1,5 +1,5 @@
 ---
-{"edited":"2023-04-06 Thu","date created":"2022-10-16 Sun","heading":"Amino acids","uri":"https://id.loc.gov/authorities/subjects/sh85004486","broader":["Organic acids","Amino compounds"],"narrower":["Ornithine","Mycosporine-like amino acids","Domoic acid"],"related":["Peptides"],"dg-publish":true,"permalink":"/cards/amino-acids/","dgPassFrontmatter":true}
+{"tags":["Uni/LFS252","flashcards/LFS252"],"edited":"2023-04-06 Thu","date created":"2022-10-16 Sun","dg-publish":true,"permalink":"/cards/amino-acids/","dgPassFrontmatter":true}
 ---
 
 # Amino Acids
@@ -33,8 +33,6 @@
 - A [[Cards/Codon\|Codon]] codes for an amino acid
 - [[Cards/Gene Expression\|Gene Expression]] is shown through the synthesised [[Cards/Amino Acids\|Amino Acids]]
 
-## Related
+## Flashcards
 
-- [[Cards/Peptides\|Peptides]]
-
-{ .block-language-dataview}
+Side groups of amino acids are typically classified under?;;Polar and Non-Polar

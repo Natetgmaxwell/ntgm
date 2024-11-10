@@ -35,4 +35,4 @@
 ## Flashcards
 
 What is the function of human leukocyte antigen (HLA) genes?;;To encode proteins that serve as identification tags on the surface of cells
-<!--SR:!2024-08-29,1,230-->
+<!--SR:!2024-10-18,2,170-->

@@ -11,8 +11,8 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/@russell2024BIM263M02T05AcetylcholinesteraseEnzyme\|@russell2024BIM263M02T05AcetylcholinesteraseEnzyme]]
-> ![Extras/Images/SH7VGM3Z.png](/img/user/Extras/Images/SH7VGM3Z.png)
+> [!quote] [[Sources/Video/@russell2024BIM263M02T05AcetylcholinesteraseEnzyme\|@russell2024BIM263M02T05AcetylcholinesteraseEnzyme]]
+> ![[Extras/Images/SH7VGM3Z.png\|Extras/Images/SH7VGM3Z.png]]
 
 # Reference
 
@@ -31,9 +31,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/@russell2024BIM263M02T05AcetylcholinesteraseEnzyme\|@russell2024BIM263M02T05AcetylcholinesteraseEnzyme]] |
+| Sources                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@russell2024BIM263M02T05AcetylcholinesteraseEnzyme\|@russell2024BIM263M02T05AcetylcholinesteraseEnzyme]] |
 
 { .block-language-dataview}
 

@@ -11,6 +11,10 @@
 
 > [!Definition] Definition
 
+- Analysis of a gene or group of genes (sequencing, SNP) to predict drug response
+- Prediction of sensitivity to beneficial or adverse effects
+- Development of drugs tailored to individuals genetic make-up
+
 ## What is [[Cards/Personalised Medicine\|Personalised Medicine]]?
 
 Personalised medicine is a system of clinical medical practice that is rapidly revolutionising health care strategies. The concept of [[Cards/Personalised Medicine\|Personalised Medicine]] is based on the idea that individuals possess unique characteristics at a molecular, physiological and an epigenetic level^[[[@goetz2018PersonalizedMedicineMotivation\|[@goetz2018PersonalizedMedicineMotivation]]]. Therefore differentiating itself by considering each persons nuanced characteristics (influenced by the aforementioned factors) when determining optimal treatment and prevention strategies^[[[@chan2011PersonalizedMedicineProgress\|[@chan2011PersonalizedMedicineProgress]]]. Health care that embraces [[Cards/Personalised Medicine\|Personalised Medicine]] utilises the understanding of molecular [[Cards/Pathology\|Pathology]] to assess an individuals susceptibility to [[Cards/Disease\|Disease]] thus providing an optimised preventative strategies. 
@@ -60,10 +64,10 @@ A patients genome greatly influences the patients susceptibility to a particular
 
 { .block-language-dataview}
 
-| Sources                                                                                           |
-| ------------------------------------------------------------------------------------------------- |
-| [[Sources/@chan2011PersonalizedMedicineProgress\|@chan2011PersonalizedMedicineProgress]]       |
-| [[Sources/@goetz2018PersonalizedMedicineMotivation\|@goetz2018PersonalizedMedicineMotivation]] |
+| Sources                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@chan2011PersonalizedMedicineProgress\|@chan2011PersonalizedMedicineProgress]]       |
+| [[Sources/Research Papers/@goetz2018PersonalizedMedicineMotivation\|@goetz2018PersonalizedMedicineMotivation]] |
 
 { .block-language-dataview}
 

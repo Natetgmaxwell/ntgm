@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]
+> [!quote] [[Sources/Books/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]
 > The mitochondria of the fertilized zygote are inherited almost exclusively from the oocyte, leading to the maternal pa ern of inheritance that characterizes many mitochondrial disorders (p. 286).
 
 # Reference
@@ -20,8 +20,9 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                                                        |
+| --------------------------------------------------------------------- |
+| [[Cards/Energy Metabolism Disorders\|Energy Metabolism Disorders]] |
 
 { .block-language-dataview}
 
@@ -32,14 +33,14 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                  |
-| ---------------------------------------------------------------------------------------- |
-| [[Sources/Articles/@laurabaisas2022-SexNotViolence\|@laurabaisas2022-SexNotViolence]] |
-| [[Sources/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]    |
+| Sources                                                                                     |
+| ------------------------------------------------------------------------------------------- |
+| [[Sources/Articles/@laurabaisas2022-SexNotViolence\|@laurabaisas2022-SexNotViolence]]    |
+| [[Sources/Books/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]] |
 
 { .block-language-dataview}
 
 ## Flashcards
 
 How many genes does [[Cards/Mitochondrial DNA\|Mitochondrial DNA]] code for?;;37 genes.
-<!--SR:!2024-08-29,1,190-->
+<!--SR:!2024-10-25,16,210-->

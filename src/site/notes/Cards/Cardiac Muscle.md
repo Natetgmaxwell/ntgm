@@ -23,7 +23,7 @@
 ## Flashcards
 
 In which muscle tissue would I find [[Cards/Intercalated Discs\|Intercalated Discs]]?;;[[Cards/Cardiac Muscle\|Cardiac Muscle]]
-<!--SR:!2024-05-21,15,150-->
+<!--SR:!2024-10-05,33,170-->
 
 Summarise the key events of cardiac muscle contraction;;Cardiac muscle contraction starts with an electrical impulse (action potential) from the SA node. It involves calcium influx, actin-myosin interaction, and results in muscle contraction. Relaxation occurs when calcium is pumped back into the [[Cards/Sarcoplasmic Reticulum\|sarcoplasmic reticulum]].
-<!--SR:!2024-05-11,5,150-->
+<!--SR:!2024-09-13,11,170-->

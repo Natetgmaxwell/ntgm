@@ -32,7 +32,7 @@
 What are the tissues around the [[Cards/Glenohumeral Joint\|Glenohumeral Joint]]?;;[[Cards/Deltoid\|Deltoid]], [[Cards/Trapezius\|Trapezius]] and [[Cards/Pectoralis\|Pectoralis]]
 <!--SR:!2024-04-27,298,290-->
 What is the anatomical name for the shoulder joint?;;[[Cards/Glenohumeral Joint\|Glenohumeral Joint]]
-<!--SR:!2024-04-05,276,270-->
+<!--SR:!2026-09-16,744,270-->
 
 What type of joint is the Gleno-humeral joint?;;[[Cards/Ball and socket joint\|Ball and socket joint]]
 

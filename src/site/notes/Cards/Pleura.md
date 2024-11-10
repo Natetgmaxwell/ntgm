@@ -23,4 +23,4 @@
 ## Flashcards
 
 What is the name for the serous membrane that lines the pleural cavity?;;[[Cards/Pleura\|Pleura]]
-<!--SR:!2024-05-07,1,130-->
+<!--SR:!2024-09-03,1,130-->

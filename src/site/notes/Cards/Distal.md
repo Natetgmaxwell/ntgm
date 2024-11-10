@@ -38,4 +38,4 @@
 ## Flashcards
 
 What term refers to structures located further away from the trunk of the body?;;[[Cards/Distal\|Distal]]
-<!--SR:!2023-12-15,101,290-->
+<!--SR:!2025-10-13,406,310-->

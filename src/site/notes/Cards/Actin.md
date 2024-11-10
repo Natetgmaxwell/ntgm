@@ -23,4 +23,4 @@
 ## Flashcards
 
 What protein covers active binding sites on actin?;;Tropomyosin.
-<!--SR:!2023-10-24,9,170-->
+<!--SR:!2024-09-18,16,170-->

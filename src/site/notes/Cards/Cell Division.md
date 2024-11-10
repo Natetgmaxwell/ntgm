@@ -28,4 +28,4 @@
 ## Flashcards
 
 Mitosis results in the production of {{[[Cards/Diploid Number\|Diploid]]}} cells, whereas meiosis results in the production of {{[[Cards/Haploid Number\|Haploid]]}} cells.
-<!--SR:!2024-05-09,3,150!2024-05-09,3,150-->
+<!--SR:!2024-09-07,5,150!2024-09-08,6,150-->

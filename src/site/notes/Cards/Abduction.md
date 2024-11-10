@@ -27,6 +27,6 @@
 ## Flashcards
 
 What is [[Cards/Abduction\|Abduction]]?;;; Movement away from the midline of the body.
-<!--SR:!2023-07-04,79,250!2023-10-05,172,270-->
+<!--SR:!2023-07-04,79,250!2025-12-09,463,270-->
 
 What term refers to moving a body part away from the midline of the body?;;[[Cards/Abduction\|Abduction]]

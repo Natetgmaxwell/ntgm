@@ -20,7 +20,7 @@
 - Reduced stress on the [[Cards/Joints\|Joints]] and [[Cards/Tendons\|Tendons]] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]].
 - Increased [[Cards/Growth hormone\|Growth hormone]] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]].
 - Reduces [[Cards/Muscle Tissue\|Muscle Tissue]] atrophy from disuse [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]].
-- [[Cards/Stem cells\|Stem Cell]] proliferation [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]].
+- [[Cards/Stem Cells\|Stem Cell]] proliferation [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]].
 - Growth of new [[Cards/Blood Vessels\|Blood Vessels]] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]].
 
 # Reference
@@ -43,7 +43,7 @@
 | [[Cards/Hypertrophy\|Hypertrophy]]       |
 | [[Cards/Joints\|Joints]]                 |
 | [[Cards/Muscle Tissue\|Muscle Tissue]]   |
-| [[Cards/Stem cells\|Stem cells]]         |
+| [[Cards/Stem Cells\|Stem Cells]]         |
 | [[Cards/Tendons\|Tendons]]               |
 
 { .block-language-dataview}

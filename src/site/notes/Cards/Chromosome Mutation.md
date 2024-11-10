@@ -32,4 +32,4 @@
 ## Flashcards
 
 What are 4 types of chromosomal structure alternations?;;Deletion, Duplication, Inversion and Translocation.
-<!--SR:!2024-07-07,3,130-->
+<!--SR:!2024-09-06,4,130-->

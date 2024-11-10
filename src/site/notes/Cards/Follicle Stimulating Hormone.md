@@ -23,6 +23,7 @@
 ## Flashcards
 
 Which hormone causes an [[Cards/Ovum\|Ovum]] to mature in the [[Cards/Ovaries\|ovaries]]?;;[[Cards/Follicle Stimulating Hormone\|Follicle Stimulating Hormone]]
-<!--SR:!2024-05-08,2,190-->
+<!--SR:!2024-09-03,1,170-->
 
 What is the effect of [[Cards/Follicle Stimulating Hormone\|FSH]] in the [[Cards/Male\|Male]] body?;;Increases the production of [[Cards/Testosterone\|Testosterone]].
+<!--SR:!2024-09-05,3,264-->

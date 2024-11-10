@@ -23,4 +23,4 @@
 ## Flashcards
 
 What are the supporting cells of the seminiferous tubules of the [[Cards/Testes\|testes]]?;;[[Cards/Nurse Cells\|Nurse Cells]]
-<!--SR:!2023-10-23,2,150-->
+<!--SR:!2024-09-03,1,130-->

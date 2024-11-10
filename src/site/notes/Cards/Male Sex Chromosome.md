@@ -23,4 +23,4 @@
 ## Flashcards
 
 Which human chromosome contains the fewest genes?;;The [[Cards/Male Sex Chromosome\|Male Sex Chromosome]]
-<!--SR:!2024-09-16,26,270-->
+<!--SR:!2024-11-20,35,250-->

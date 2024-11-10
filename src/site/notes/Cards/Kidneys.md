@@ -42,7 +42,7 @@
 ## Flashcards
 
 Why is the right kidney lower?;;it is displaced by the [[Cards/Liver\|Liver]].
-<!--SR:!2024-05-30,24,250-->
+<!--SR:!2024-09-14,12,230-->
 
 Where in the body can you find fenestrated capillaries?;;[[Cards/Kidneys\|Kidneys]]
-<!--SR:!2024-05-08,2,140-->
+<!--SR:!2024-09-03,1,130-->

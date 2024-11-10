@@ -79,10 +79,10 @@
 ## Flashcards
 
 What is thermoregulation?;;It is the process of maintaining a stable [[Cards/Core Body Temperature\|Core Body Temperature]] through [[Cards/Negative Feedback Loops\|negative feedback]] mechanisms.
-<!--SR:!2024-06-04,29,190-->
+<!--SR:!2024-11-19,78,210-->
 
 How does the body regulate heat loss or retention through [[Cards/Blood Vessels\|blood vessels]]?;;[[Cards/Vasoconstriction\|Vasoconstriction]] reduces blood flow to the [[Cards/Skin\|skin]] to conserve heat, while vasodilation increases blood flow to the [[Cards/Skin\|skin]] to release heat.
-<!--SR:!2024-06-03,28,190-->
+<!--SR:!2024-11-16,75,210-->
 
 What are the consequences of [[Cards/Hypothermia\|hypothermia]] and [[Cards/Hyperthermia\|hyperthermia]]?;;[[Cards/Hypothermia\|Hypothermia]] can lead to impaired organ function and, at extreme levels, cell damage. [[Cards/Hyperthermia\|Hyperthermia]] can cause convulsions, cell death, and, at very high temperatures, death.
-<!--SR:!2024-05-29,23,170-->
+<!--SR:!2024-10-28,56,190-->

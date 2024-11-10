@@ -10,6 +10,7 @@
 > down:: [[Cards/Genes\|Genes]]
 
 > [!Definition] Definition
+> An operon is a cluster of DNA under the control of a single promoter.
 
 # Reference
 
@@ -37,5 +38,5 @@
 
 ## Flashcards
 
-What are operons in a genetic context?;;A group of co-regulated genes with related functions
-<!--SR:!2024-09-02,1,230-->
+What are operons in a genetic context?;;A group of co-regulated genes with related functions that function under the same promoter.
+<!--SR:!2024-11-12,8,230-->

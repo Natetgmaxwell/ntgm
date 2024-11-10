@@ -23,4 +23,4 @@
 ## Flashcards
 
 Troponin binds to calcium during skeletal muscle contraction? (True or False);;True
-<!--SR:!2024-05-08,2,230-->
+<!--SR:!2024-09-03,1,210-->

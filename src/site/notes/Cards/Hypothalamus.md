@@ -69,4 +69,4 @@
 ## Flashcards
 
 What is the role of the hypothalamus in digestion initiation?;; It's stimulated by senses like [[Cards/Olfaction\|smell]] and taste to trigger [[Cards/Saliva\|Saliva]] production and prepare for food intake.
-<!--SR:!2024-06-06,31,270-->
+<!--SR:!2024-11-27,86,270-->

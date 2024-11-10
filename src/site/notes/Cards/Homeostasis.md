@@ -32,25 +32,31 @@
 ## Flashcards
 
 The ability of an organism to maintain constant internal conditions despite external changes;;[[Cards/Homeostasis\|Homeostasis]]
+<!--SR:!2024-09-05,3,250-->
 
 <!--SR:!2024-09-19,136,310-->
 
 Something that triggers a behaviour or other response;;Stimulus
+<!--SR:!2024-09-05,3,250-->
 
 <!--SR:!2024-10-25,172,270-->
 
 Component of a homeostatic control mechanism, such as a gland or an organ, that acts on a signal from the control centre to move the variable toward the set point;;Effector
+<!--SR:!2024-09-05,3,250-->
 
 <!--SR:!2023-10-10,55,270-->
 
 Control mechanism that serves to reduce an excessive response and keep a variable within its [[Cards/Normal Range\|normal range]];;[[Cards/Negative Feedback Loops\|Negative Feedback Loops]]
+<!--SR:!2024-09-06,4,270-->
 
 <!--SR:!2024-08-08,94,290-->
 
 Physiologically optimum value for a given biological variable such as body temperature;;Set Point
+<!--SR:!2024-09-06,4,270-->
 
 <!--SR:!2024-08-16,102,250-->
 
 Spread of values around the set point of a biological variable such as body temperature that is considered normal, which no negative effects on health;;[[Cards/Normal Range\|Normal Range]]
+<!--SR:!2024-09-06,4,270-->
 
 <!--SR:!2024-08-14,100,258-->

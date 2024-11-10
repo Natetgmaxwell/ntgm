@@ -24,4 +24,4 @@
 ## Flashcards
 
 What is the role of the sarcoplasmic reticulum?;;Stores and releases calcium for muscle contraction.
-<!--SR:!2024-05-18,12,170-->
+<!--SR:!2024-10-04,32,190-->

@@ -1,5 +1,5 @@
 ---
-{"edited":"2023-04-06 Thu","date created":"2022-11-25 Fri","aliases":["Levels or Organisation"],"tags":["CertIII_Fitness","on/Science/Biology/Anatomy","Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/levels-of-organisation-in-the-human-body/","dgPassFrontmatter":true}
+{"edited":"2023-04-06 Thu","date created":"2022-11-25 Fri","aliases":"Levels or Organisation","tags":["CertIII_Fitness","on/Science/Biology/Anatomy","Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/levels-of-organisation-in-the-human-body/","dgPassFrontmatter":true}
 ---
 
 # Levels of Organisation in the Human Body

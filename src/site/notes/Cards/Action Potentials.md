@@ -31,10 +31,10 @@ What ion is responsible for the falling phase of the [[Cards/Action Potentials\|
 <!--SR:!2024-12-14,222,230-->
 
 Describe the process of an action potential;; An action potential is an all-or-nothing event that occurs when [[Cards/Graded Potentials\|graded potentials]] reach the threshold. Sodium channels open, leading to [[Cards/Depolarisation\|Depolarisation]], followed by potassium channels opening, leading to [[Cards/Repolarisation\|Repolarisation]].
-<!--SR:!2023-10-29,8,167-->
+<!--SR:!2024-09-20,18,187-->
 
 What is summation in [[Cards/Synaptic transmission\|Synaptic transmission]]?;;When excitatory and inhibitory signals combine to determine if an action potential will occur.
-<!--SR:!2024-05-08,2,168-->
+<!--SR:!2024-09-08,6,188-->
 
 What is an [[Cards/Action Potentials\|action potential]]?;;A **coordinated** change in the membrane potential that allows for **long distance transmission**, that are **all-or-nothing** events.
-<!--SR:!2024-05-15,9,170-->
+<!--SR:!2024-09-26,24,190-->

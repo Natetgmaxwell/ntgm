@@ -38,6 +38,8 @@ The structure of a lipid consists of three parts: a glycerol backbone, two fatty
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                       |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
 | [[Cards/Lipid Hormones\|Lipid Hormones]]                                                               |
+| [[Cards/Lipid Metabolism\|Lipid Metabolism]]                                                           |
+| [[Cards/Lipid Storage Diseases\|Lipid Storage Diseases]]                                               |
 | [[Cards/Lipogenesis\|Lipogenesis]]                                                                     |
 | [[Cards/Lipolysis\|Lipolysis]]                                                                         |
 | [[Cards/Nutrients\|Nutrients]]                                                                         |

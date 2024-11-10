@@ -26,4 +26,4 @@
 ## Flashcards
 
 Food and liquid, once swallowed, must pass through what two regions of the pharynx, in order, before it enters the oesophagus?;;[[Cards/Oropharynx\|Oropharynx]] & [[Cards/Laryngopharynx\|Laryngopharynx]]
-<!--SR:!2024-05-07,1,130-->
+<!--SR:!2024-09-03,1,130-->

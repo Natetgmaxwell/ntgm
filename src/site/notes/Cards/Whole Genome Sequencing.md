@@ -35,4 +35,4 @@
 ## Flashcards
 
 What does the acronym WGS stand for?;;[[Cards/Whole Genome Sequencing\|Whole Genome Sequencing]]
-<!--SR:!2024-09-10,13,250-->
+<!--SR:!2024-11-05,33,250-->

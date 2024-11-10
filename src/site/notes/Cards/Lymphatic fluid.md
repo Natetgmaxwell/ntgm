@@ -1,5 +1,5 @@
 ---
-{"aliases":["Lymph"],"dg-publish":true,"permalink":"/cards/lymphatic-fluid/","dgPassFrontmatter":true}
+{"aliases":"Lymph","dg-publish":true,"permalink":"/cards/lymphatic-fluid/","dgPassFrontmatter":true}
 ---
 
 # Lymphatic Fluid

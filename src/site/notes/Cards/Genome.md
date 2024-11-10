@@ -17,11 +17,12 @@
 
 ## Mentions
 
-| Incoming Links                                          |
-| ------------------------------------------------------- |
-| [[Cards/Genetic Variation\|Genetic Variation]]       |
-| [[Cards/Mitochondrial Genome\|Mitochondrial Genome]] |
-| [[Cards/Nuclear Genome\|Nuclear Genome]]             |
+| Incoming Links                                            |
+| --------------------------------------------------------- |
+| [[Calendar/2023/Daily/2024-10-09 Wed\|2024-10-09 Wed]] |
+| [[Cards/Genetic Variation\|Genetic Variation]]         |
+| [[Cards/Mitochondrial Genome\|Mitochondrial Genome]]   |
+| [[Cards/Nuclear Genome\|Nuclear Genome]]               |
 
 { .block-language-dataview}
 
@@ -39,4 +40,4 @@
 ## Flashcards
 
 The word genome refers to?;;The entire DNA sequence of a cell.
-<!--SR:!2024-09-09,19,250-->
+<!--SR:!2024-11-14,66,270-->

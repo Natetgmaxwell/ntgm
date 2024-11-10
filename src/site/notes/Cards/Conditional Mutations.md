@@ -37,4 +37,4 @@
 ## Flashcards
 
 What is the purpose of using a conditional mutant instead of a simple mutation?;;To allow the organism to grow normally under certain conditions and then study the effect of the mutation under other conditions
-<!--SR:!2024-09-04,3,250-->
+<!--SR:!2024-12-24,50,250-->

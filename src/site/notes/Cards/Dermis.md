@@ -44,6 +44,7 @@
 
 | Outgoing Links                                    |
 | ------------------------------------------------- |
+| [[Cards/Aging\|Aging]]                         |
 | [[Cards/Blood Vessels\|Blood Vessels]]         |
 | [[Cards/Collagen\|Collagen]]                   |
 | [[Cards/Elastic fibres\|Elastic fibres]]       |
@@ -71,10 +72,10 @@
 ## Flashcards
 
 What does the dermis contain, and what are its functions?;;The dermis contains [[Cards/Blood Vessels\|blood vessels]], nerves, and connective tissues. Its functions include providing nutrients to the [[Cards/Epidermis\|epidermis]], supporting sensory receptors for touch, pressure, and temperature, and protecting underlying soft tissues.
-<!--SR:!2023-11-02,12,160-->
+<!--SR:!2024-10-02,30,180-->
 
 What are some types of sensory receptors found in the dermis?;;Sensory receptors in the dermis include free nerve endings, root hair plexus, tactile discs, bulbous corpuscles, lamellar corpuscles, and tactile corpuscles, responsible for touch, pressure, and temperature sensations.
-<!--SR:!2024-05-11,5,130-->
+<!--SR:!2024-09-05,3,130-->
 
-Describe the changes in the dermal layer due to aging.;;Slower regeneration, reduction in collagen and elastin production, leading to wrinkles.
+Describe the changes in the dermal layer due to [[Cards/Aging\|aging]].;;Slower regeneration, reduction in collagen and elastin production, leading to wrinkles.
 <!--SR:!2024-11-19,197,250-->

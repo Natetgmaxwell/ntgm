@@ -20,8 +20,9 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                |
+| ----------------------------- |
+| [[Cards/Heparin\|Heparin]] |
 
 { .block-language-dataview}
 

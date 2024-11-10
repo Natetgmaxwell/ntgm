@@ -24,4 +24,4 @@
 ## Flashcards
 
 What are graded potentials?;; Graded potentials are small local changes in membrane potential away from [[Cards/Resting Potential\|Resting Potential]], resulting from ion channel opening or closing in response to stimuli.
-<!--SR:!2024-05-21,15,170-->
+<!--SR:!2024-10-01,29,170-->

@@ -40,14 +40,16 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                   |
-| ----------------------------------------------------------------------------------------- |
-| [[Sources/@mcmillan2024LFS252M02T02GeneticCode\|@mcmillan2024LFS252M02T02GeneticCode]] |
+| Sources                                                                                         |
+| ----------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@mcmillan2024LFS252M02T02GeneticCode\|@mcmillan2024LFS252M02T02GeneticCode]] |
 
 { .block-language-dataview}
 
 ## Flashcards
 
 What is the region where RNA polymerase can bind to initiate transcription?;;Promoter region
+<!--SR:!2024-11-10,25,230-->
 
 What are the three types of promoters in eukaryotes?;;[[Cards/TATA Box\|TATA box]], initiator, and [[Cards/CpG Islands\|CpG Islands]]
+<!--SR:!2024-11-10,25,230-->

@@ -39,4 +39,4 @@
 ## Flashcards
 
 What is the role of the sigma factor in transcription?;;It lets RNA polymerase bind to a specific [[Cards/Promoter Sequence\|promoter sequence]]
-<!--SR:!2024-09-04,3,250-->
+<!--SR:!2024-11-26,22,250-->

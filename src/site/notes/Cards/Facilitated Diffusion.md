@@ -31,6 +31,7 @@
 | ----------------------------------------------- |
 | [[Cards/Carrier Proteins\|Carrier Proteins]] |
 | [[Cards/Diffusion\|Diffusion]]               |
+| [[Cards/Porins\|Porins]]                     |
 | [[Cards/Simple Diffusion\|Simple Diffusion]] |
 
 { .block-language-dataview}
@@ -44,5 +45,5 @@
 
 ## Flashcards
 
-Trans-membrane [[Cards/Carrier Proteins\|carrier proteins]] called porins form channels through the outer membrane of bacterial cell wall to allow entry of ions and small hydrophilic metabolites via?;;[[Cards/Facilitated Diffusion\|Facilitated Diffusion]]
-<!--SR:!2024-09-05,4,210-->
+Trans-membrane [[Cards/Carrier Proteins\|carrier proteins]] called [[Cards/Porins\|Porins]] form channels through the outer membrane of bacterial cell wall to allow entry of ions and small hydrophilic metabolites via?;;[[Cards/Facilitated Diffusion\|Facilitated Diffusion]]
+<!--SR:!2024-11-08,4,190-->

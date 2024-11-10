@@ -34,6 +34,7 @@
 | [[Cards/Myocyte\|Myocyte]]                                                                                                |
 | [[Cards/Nuclear DNA\|Nuclear DNA]]                                                                                        |
 | [[Cards/Nuclear Genome\|Nuclear Genome]]                                                                                  |
+| [[Cards/Nuclear Receptors\|Nuclear Receptors]]                                                                            |
 | [[Cards/Stratum Granulosum\|Stratum Granulosum]]                                                                          |
 | [[Cards/Synapse\|Synapse]]                                                                                                |
 

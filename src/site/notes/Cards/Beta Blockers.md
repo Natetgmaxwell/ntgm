@@ -63,4 +63,4 @@
 ## Flashcards
 
 What is the target of [[Cards/Beta Blockers\|Beta Blockers]]?;;$\beta$-[[Cards/Adrenergic receptors#$ beta$-Adrenergic\|adreno-receptors]] at the cardial nodal tissue ([[Cards/Sinoatrial Node\|SA Node]], [[Cards/Atrioventricular Node\|AV Node]]) and/or [[Cards/Myocardium\|myocardial]] tissue.
-<!--SR:!2024-08-25,3,250-->
+<!--SR:!2024-12-16,40,250-->

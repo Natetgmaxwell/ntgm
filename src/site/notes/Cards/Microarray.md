@@ -36,4 +36,4 @@
 ## Flashcards
 
 Which dyes are commonly used in microarray analysis?;;Cy3 and Cy5
-<!--SR:!2024-09-09,12,230-->
+<!--SR:!2024-10-20,14,210-->

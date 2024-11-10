@@ -25,10 +25,10 @@
 ## Flashcards
 
 Which ovarian hormone repairs and proliferates the [[Cards/Endometrium\|uterus lining]]?;;[[Cards/Estrogen\|Estrogen]]
-<!--SR:!2023-10-22,1,170-->
+<!--SR:!2024-09-04,2,170-->
 
 Which hormone inhibits [[Cards/Follicle Stimulating Hormone\|FSH]] secretion?;;[[Cards/Estrogen\|Estrogen]]
-<!--SR:!2024-05-07,1,130-->
+<!--SR:!2024-09-03,1,130-->
 
 Which hormone is needed to sustain the [[Cards/Uterus\|Uterus]] lining?;;[[Cards/Estrogen\|Estrogen]]
-<!--SR:!2024-05-13,7,210-->
+<!--SR:!2024-09-16,14,210-->

@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]
+> [!quote] [[Sources/Books/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]
 > Before the primary mRNA molecule leaves the nucleus it undergoes a number of modifications, or what is known as RNA processing. This involves splicing, capping, and polyadenylation.
 
 ## Types of [[Cards/RNA Processing\|RNA Processing]]
@@ -37,9 +37,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                               |
-| ------------------------------------------------------------------------------------- |
-| [[Sources/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]] |
+| Sources                                                                                     |
+| ------------------------------------------------------------------------------------------- |
+| [[Sources/Books/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]] |
 
 { .block-language-dataview}
 

@@ -39,10 +39,10 @@
 ## Flashcards
 
 What is the difference between [[Cards/Spermatogenesis\|Spermatogenesis]] What is and [[Cards/Spermiogenesis\|spermiogenesis]]?;;[[Cards/Spermatogenesis\|Spermatogenesis]] is the production of new sperm cells, whereas [[Cards/Spermiogenesis\|spermiogenesis]] is the maturation of the sperm.
-<!--SR:!2024-05-14,8,150-->
+<!--SR:!2024-09-15,13,150-->
 
 What effect would high levels of [[Cards/Luteinising Hormone\|luteinising hormone]] ([[Cards/Luteinising Hormone\|LH]]) have on testosterone production?;;It would increase testosterone production by the [[Cards/Leydig cells\|Leydig cells]]
-<!--SR:!2024-05-08,2,150-->
+<!--SR:!2024-09-05,3,150-->
 
 What are the major hormones involved in the [[Cards/Male Reproductive System\|Male Reproductive System]]?;;[[Cards/Gonadotropin-Releasing Hormone\|GnRH]], [[Cards/Luteinising Hormone\|LH]], [[Cards/Follicle Stimulating Hormone\|FSH]] and [[Cards/Testosterone\|Testosterone]]
-<!--SR:!2023-10-29,8,170-->
+<!--SR:!2024-09-22,20,190-->

@@ -45,4 +45,4 @@
 ## Flashcards
 
 Which hormone is responsible for the reabsorption of sodium ions in the [[Cards/Distal Convoluted Tubule\|distal convoluted tubule]]?;;[[Cards/Aldosterone\|Aldosterone]]
-<!--SR:!2024-05-07,1,130-->
+<!--SR:!2024-09-03,1,130-->

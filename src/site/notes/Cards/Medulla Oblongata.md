@@ -24,4 +24,4 @@
 ## Flashcards
 
 Control of visceral activities such as heart rate, breathing and blood pressure are located in the {{[[Cards/Medulla Oblongata\|Medulla Oblongata]]}}
-<!--SR:!2024-05-12,6,150-->
+<!--SR:!2024-09-13,11,150-->

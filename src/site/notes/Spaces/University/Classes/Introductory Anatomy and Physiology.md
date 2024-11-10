@@ -663,16 +663,16 @@ Many [[Cards/Organ Systems\|organ systems]] together perform functions on an ind
 	- 15-30 layers thick
 	- Dry dead layer of skin that helps protect cells underneath
 	- Constantly shedding
-- [[Cards/Stratum Lucidum\|Stratum Lucidum]]
+- [[Stratum Lucidum\|Stratum Lucidum]]
 	- **Only found on the soles of the feet and palms of the hands**
 - [[Cards/Stratum Granulosum\|Stratum Granulosum]]
 	- About 5 layers thick
 	- As cells are pushed to the surface they lose their [[Cards/Nucleus\|Nucleus]]
 	- Produces [[Cards/Keratin\|Keratin]]
-- [[Cards/Stratum Spinosum\|Stratum Spinosum]]
+- [[Stratum Spinosum\|Stratum Spinosum]]
 	- Generally 8-10 layers thick
 	- [[Cards/Langerhans cells\|Langerhans cells]]
-- [[Cards/Stratum Basale\|Stratum Basale]]
+- [[Stratum Basale\|Stratum Basale]]
 	- Usually one layer thick
 	- Constantly going through [[Cards/Mitosis\|Mitosis]] to produce new cells
 	- [[Cards/Merkel cell\|Merkel cell]]

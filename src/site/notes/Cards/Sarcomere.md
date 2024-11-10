@@ -44,13 +44,13 @@
 ## Flashcards
 
 What is the sarcomere?;;Functional unit of muscle contraction.
-<!--SR:!2023-12-19,73,250-->
+<!--SR:!2025-03-03,182,250-->
 
 What are the bands/zones in a sarcomere?;;A band (thick and thin overlap), [[Cards/I Band\|I Band]] (thin only), [[Cards/H Zone\|H Zone]] (thick only).
-<!--SR:!2024-05-10,4,152-->
+<!--SR:!2024-09-04,2,132-->
 
 What happens to the [[Cards/H Zone\|H Zone]] and [[Cards/I Band\|I Band]] during muscle contraction?;;[[Cards/H Zone\|H Zone]] decreases, [[Cards/I Band\|I Band]] decreases.
-<!--SR:!2024-05-14,8,230-->
+<!--SR:!2024-09-22,20,230-->
 
 What remains constant in the sarcomere during contraction?;;A band width.
-<!--SR:!2024-05-07,1,130-->
+<!--SR:!2024-09-03,1,130-->

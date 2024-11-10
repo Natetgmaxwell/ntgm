@@ -25,4 +25,4 @@
 ## Flashcards
 
 What hormone is responsible for the release of [[Cards/Luteinising Hormone\|LH]], [[Cards/Follicle Stimulating Hormone\|FSH]] in both [[Cards/Male\|males]] and [[Cards/Female\|Females]]?;;[[Cards/Gonadotropin-Releasing Hormone\|Gonadotropin-Releasing Hormone]]
-<!--SR:!2024-05-07,1,130-->
+<!--SR:!2024-09-03,1,130-->

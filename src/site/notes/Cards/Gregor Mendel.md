@@ -25,4 +25,4 @@
 ## Flashcards
 
 Who was it that deduced The underlying principles of genetic inheritance from the patterns observed in the crossing of peas with a variety of traits?;;[[Cards/Gregor Mendel\|Gregor Mendel]]
-<!--SR:!2024-09-07,17,250-->
+<!--SR:!2024-10-21,42,250-->

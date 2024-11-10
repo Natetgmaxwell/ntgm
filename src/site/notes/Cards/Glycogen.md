@@ -21,6 +21,7 @@
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-05-17 Wed\|2023-05-17 Wed]]           |
+| [[Cards/Glycogen Storage Diseases\|Glycogen Storage Diseases]]   |
 | [[Cards/Glycolysis\|Glycolysis]]                                 |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]] |
 | [[Cards/Sarcoplasm\|Sarcoplasm]]                                 |
@@ -42,4 +43,4 @@
 ## Flashcards
 
 A polymer of glucose, which is a storage depot for carbon and energy in a microbial cell, is called?;;[[Cards/Glycogen\|Glycogen]]
-<!--SR:!2024-05-29,14,290-->
+<!--SR:!2024-10-15,43,290-->

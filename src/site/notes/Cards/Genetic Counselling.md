@@ -53,4 +53,4 @@
 ## Flashcards
 
 What are the key components of [[Cards/Genetic Counselling\|Genetic Counselling]]?;;[[Cards/Pedigree Analysis\|Pedigree Analysis]], Confirmation of diagnosis (biochemical analysis, newborn screening, genetic tests), conveyance of information, provision for short & long term support.
-<!--SR:!2024-09-05,8,250-->
+<!--SR:!2024-10-22,19,250-->

@@ -48,19 +48,24 @@ A polymer is composed of a double helix carrying [[Cards/Genes\|genetic]] instru
 | [[Calendar/2022/Daily/2022-08-18\|2022-08-18]]                                                                            |
 | [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                                    |
 | [[Calendar/2023/Daily/2024-07-26 Fri\|2024-07-26 Fri]]                                                                    |
+| [[Calendar/2023/Daily/2024-10-02 Wed\|2024-10-02 Wed]]                                                                    |
 | [[Cards/Allele\|Allele]]                                                                                                  |
 | [[Cards/Binary Fission\|Binary Fission]]                                                                                  |
 | [[Cards/Binomial Nomenclature\|Binomial Nomenclature]]                                                                    |
 | [[Cards/Chromosomes\|Chromosomes]]                                                                                        |
 | [[Cards/Data\|Data]]                                                                                                      |
+| [[Cards/DNA Methylation\|DNA Methylation]]                                                                                |
 | [[Cards/DNA Replication\|DNA Replication]]                                                                                |
 | [[Cards/Epigenetic Regulators\|Epigenetic Regulators]]                                                                    |
+| [[Cards/Epigenetics\|Epigenetics]]                                                                                        |
 | [[Cards/Exons\|Exons]]                                                                                                    |
 | [[Cards/Gene Expression\|Gene Expression]]                                                                                |
 | [[Cards/Gene Mutation\|Gene Mutation]]                                                                                    |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
 | [[Cards/Helicase\|Helicase]]                                                                                              |
 | [[Cards/Histone\|Histone]]                                                                                                |
+| [[Cards/Histone Acetylation\|Histone Acetylation]]                                                                        |
+| [[Cards/Histone Methylation\|Histone Methylation]]                                                                        |
 | [[Cards/Homo neanderthalensis\|Homo neanderthalensis]]                                                                    |
 | [[Cards/HOX Gene\|HOX Gene]]                                                                                              |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
@@ -73,13 +78,14 @@ A polymer is composed of a double helix carrying [[Cards/Genes\|genetic]] instru
 | [[Cards/Nucleotides\|Nucleotides]]                                                                                        |
 | [[Cards/Plasmids\|Plasmids]]                                                                                              |
 | [[Cards/Polymerase Chain Reaction\|Polymerase Chain Reaction]]                                                            |
-| [[• Inbox/Pre-initiation Complex\|Pre-initiation Complex]]                                                                |
+| [[Cards/Pre-initiation Complex\|Pre-initiation Complex]]                                                                  |
 | [[Cards/Primase\|Primase]]                                                                                                |
 | [[Cards/Protein Synthesis\|Protein Synthesis]]                                                                            |
 | [[Cards/Restriction Enzyme\|Restriction Enzyme]]                                                                          |
 | [[Cards/RNA Transcription\|RNA Transcription]]                                                                            |
 | [[Cards/TATA Box\|TATA Box]]                                                                                              |
-| [[• Inbox/Topoisomerase\|Topoisomerase]]                                                                                  |
+| [[Cards/Topoisomerase\|Topoisomerase]]                                                                                    |
+| [[Cards/Tumor Suppressor Genes\|Tumor Suppressor Genes]]                                                                  |
 
 { .block-language-dataview}
 
@@ -116,13 +122,13 @@ A polymer is composed of a double helix carrying [[Cards/Genes\|genetic]] instru
 ## Flashcards
 
 The structure of DNA was described in which year?;;1953
-<!--SR:!2024-09-14,13,230-->
+<!--SR:!2025-02-06,94,250-->
 
 What is the difference between the template strand and the non-template strand of DNA?;;The template strand is the side of the DNA that is copied, while the non-template strand is not copied.
-<!--SR:!2024-09-03,6,230-->
+<!--SR:!2024-11-18,14,210-->
 
 If we extracted DNA from thyroid and neural tissues, we would find the CALCA gene in both types of cells?;;yes
-<!--SR:!2024-09-10,9,248-->
+<!--SR:!2024-12-10,55,248-->
 
 What charge does DNA posses?;;A negative charge
-<!--SR:!2024-09-03,2,244-->
+<!--SR:!2025-01-02,59,244-->

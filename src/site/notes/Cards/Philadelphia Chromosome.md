@@ -5,8 +5,8 @@
 # Philadelphia Chromosome
 
 > [!ontology]-
-> up:: 
-> jump:: [[Cards/Chromosome 22\|Chromosome 22]]
+> up:: [[Cards/Chromosome 22\|Chromosome 22]]
+> jump::
 > down:: 
 
 > [!Definition] Definition

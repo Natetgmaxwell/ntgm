@@ -13,10 +13,10 @@
 
 ## Types of [[Cards/Transport Proteins\|Transport Proteins]] in the [[Cards/Plasma Membranes\|Plasma Membranes]]
 
-![Extras/Images/Q2K7F7KH.png|700](/img/user/Extras/Images/Q2K7F7KH.png)
+![[Extras/Images/Q2K7F7KH.png\|700]]
 
 > [!cite]-
-> [[Sources/@mcmillan2024LFS252M05T04TransmembraneTransport\|@mcmillan2024LFS252M05T04TransmembraneTransport]]
+> [[Sources/Video/@mcmillan2024LFS252M05T04TransmembraneTransport\|@mcmillan2024LFS252M05T04TransmembraneTransport]]
 
 - Channel proteins
 	- [[Cards/Passive Transport\|Passive Transport]]
@@ -61,13 +61,13 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------- |
-| [[Sources/@mcmillan2024LFS252M05T04TransmembraneTransport\|@mcmillan2024LFS252M05T04TransmembraneTransport]] |
+| Sources                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@mcmillan2024LFS252M05T04TransmembraneTransport\|@mcmillan2024LFS252M05T04TransmembraneTransport]] |
 
 { .block-language-dataview}
 
 ## Flashcards
 
 What is the difference between a uniporter, symporter, and [[Cards/Antiporter\|antiporter]]?;;a uniporter transports one type of molecule, a symporter transports two molecules in the same direction, and an [[Cards/Antiporter\|antiporter]] transports two molecules in opposite directions
-<!--SR:!2024-09-04,3,250-->
+<!--SR:!2024-11-09,5,230-->

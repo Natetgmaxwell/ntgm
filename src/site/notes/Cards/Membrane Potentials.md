@@ -23,4 +23,4 @@
 ## Flashcards
 
 What are membrane potentials important for?;; Membrane potentials are important for understanding the movement of ions across the neuronal membrane, development of graded and [[Cards/Action Potentials\|action potentials]], and resting membrane potentials.
-<!--SR:!2024-08-05,91,230-->
+<!--SR:!2025-03-29,208,230-->

@@ -19,6 +19,7 @@
 
 | Incoming Links                                                                                  |
 | ----------------------------------------------------------------------------------------------- |
+| [[Calendar/2023/Daily/2024-10-14 Mon\|2024-10-14 Mon]]                                       |
 | [[Cards/Blood-brain Barrier\|Blood-brain Barrier]]                                           |
 | [[Cards/Caloric Intake\|Caloric Intake]]                                                     |
 | [[Cards/Diet for Increasing Brown Adipose Tissue\|Diet for Increasing Brown Adipose Tissue]] |

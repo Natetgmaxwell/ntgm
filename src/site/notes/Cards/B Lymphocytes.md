@@ -18,7 +18,7 @@
 ![Extras/Images/HFPK5VAE.png|500](/img/user/Extras/Images/HFPK5VAE.png)
 
 > [!cite]-
-> [[Sources/@kuballa2024BIM202M06T03SpecificAcquired\|@BIM202M06T03 Specific acquired immunity]]
+> [[Sources/Video/@kuballa2024BIM202M06T03SpecificAcquired\|@BIM202M06T03 Specific acquired immunity]]
 
 ## Generation of [[Cards/Antibodies\|Antibody]] Diversity
 
@@ -58,10 +58,10 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                           |
-| ------------------------------------------------------------------------------------------------- |
-| [[Sources/Video/@2023-LFS112M6T6Adaptive\|@2023-LFS112M6T6Adaptive]]                           |
-| [[Sources/@kuballa2024BIM202M06T03SpecificAcquired\|@kuballa2024BIM202M06T03SpecificAcquired]] |
+| Sources                                                                                                 |
+| ------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@2023-LFS112M6T6Adaptive\|@2023-LFS112M6T6Adaptive]]                                 |
+| [[Sources/Video/@kuballa2024BIM202M06T03SpecificAcquired\|@kuballa2024BIM202M06T03SpecificAcquired]] |
 
 { .block-language-dataview}
 

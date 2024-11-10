@@ -42,4 +42,4 @@
 ## Flashcards
 
 What does the [[Cards/Mendel's Law of Segregation\|Law of Segregation]] refer to?;;Only one gene per characteristic is transmitted to an egg or sperm during gamete formation.
-<!--SR:!2024-09-01,4,190-->
+<!--SR:!2024-11-15,43,210-->

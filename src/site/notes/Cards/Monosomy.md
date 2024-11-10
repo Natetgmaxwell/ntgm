@@ -37,4 +37,4 @@
 ## Flashcards
 
 Monosomy X can also be described as?;;45X
-<!--SR:!2024-08-30,2,230-->
+<!--SR:!2024-10-24,8,190-->

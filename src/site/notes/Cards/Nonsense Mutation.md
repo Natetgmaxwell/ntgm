@@ -39,4 +39,4 @@
 ## Flashcards
 
 What [[Cards/Gene Mutation\|Gene Mutation]] causes a [[Cards/Stop Codon\|Stop Codon]];;[[Cards/Nonsense Mutation\|Nonsense Mutation]]
-<!--SR:!2024-09-04,3,250-->
+<!--SR:!2024-11-13,9,230-->

@@ -71,3 +71,4 @@
 ## Flashcards
 
 Explain the process of blood pressure regulation and provide examples of factors that can influence blood pressure;;Blood pressure is regulated by the [[Cards/Autonomic Nervous System\|autonomic nervous system]], hormones (e.g., adrenaline), and local factors (e.g., nitric oxide). Factors like exercise, stress, hydration, and medications can influence blood pressure.
+<!--SR:!2024-09-06,4,270-->

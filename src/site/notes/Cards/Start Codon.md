@@ -36,4 +36,4 @@
 ## Flashcards
 
 What is the purpose of the start codon in mRNA?;;The start codon is where translation begins.
-<!--SR:!2024-09-04,3,250-->
+<!--SR:!2024-11-09,5,230-->

@@ -23,4 +23,4 @@
 ## Flashcards
 
 Which artery supplies oxygenated blood to the heart muscle?;;[[Cards/Coronary Arteries\|Coronary Arteries]]
-<!--SR:!2023-10-26,2,150-->
+<!--SR:!2024-09-05,3,150-->

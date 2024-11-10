@@ -24,4 +24,4 @@
 ## Flashcards
 
 Which of the $\beta_1$ or $\beta_2$ [[Cards/Adrenergic receptors\|adreno-receptors]] are more abundant?;;$\beta_1$
-<!--SR:!2024-08-25,3,250-->
+<!--SR:!2024-11-08,2,190-->

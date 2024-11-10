@@ -28,9 +28,10 @@
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-07-26 Fri\|2024-07-26 Fri]] |
+| Incoming Links                                              |
+| ----------------------------------------------------------- |
+| [[Calendar/2023/Daily/2024-07-26 Fri\|2024-07-26 Fri]]   |
+| [[Cards/Tumor Suppressor Genes\|Tumor Suppressor Genes]] |
 
 { .block-language-dataview}
 

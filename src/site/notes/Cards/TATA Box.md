@@ -17,10 +17,10 @@
 
 ## Mentions
 
-| Incoming Links                                                    |
-| ----------------------------------------------------------------- |
-| [[Cards/Initiator Sequences\|Initiator Sequences]]             |
-| [[• Inbox/TATA Box-binding Protein\|TATA Box-binding Protein]] |
+| Incoming Links                                                  |
+| --------------------------------------------------------------- |
+| [[Cards/Initiator Sequences\|Initiator Sequences]]           |
+| [[Cards/TATA Box-binding Protein\|TATA Box-binding Protein]] |
 
 { .block-language-dataview}
 
@@ -39,3 +39,4 @@
 ## Flashcards
 
 Where in is the [[Cards/TATA Box\|TATA Box]] most abundant within eukaryotic [[Cards/Deoxyribonucleic Acid\|DNA]]?;;The [[Cards/TATA Box\|TATA Box]] is most abundant in highly transcribed genes.
+<!--SR:!2024-11-08,3,230-->

@@ -32,10 +32,10 @@
 ## Flashcards
 
 What are the attachment points of the [[Cards/Pronator teres\|Pronator teres]]?;;[[Cards/Humerus\|Humerus]] and the [[Cards/Ulna#Coronoid process\|Coronoid process]] of the [[Cards/Ulna\|Ulna]]
-<!--SR:!2023-10-25,2,230-->
+<!--SR:!2024-09-08,6,230-->
 
 Is the [[Cards/Pronator teres\|Pronator teres]] on the anterior or posterior of the [[Cards/Ante-brachium\|Ante-brachium]] when in anatomical position?;;Anterior
-<!--SR:!2023-10-25,2,158-->
+<!--SR:!2024-09-03,1,138-->
 
 What muscles lyes laterally to the [[Cards/Flexor carpi radialis\|Flexor carpi radialis]]?;;[[Cards/Pronator teres\|Pronator teres]]
 <!--SR:!2023-10-24,1,138-->

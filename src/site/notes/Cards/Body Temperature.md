@@ -29,7 +29,7 @@
 ## Flashcards
 
 What is the significance of the core temperature vs. shell temperature difference?;;Core temperature is more stable and includes internal organs, while shell temperature fluctuates and represents the skin and extremities.
-<!--SR:!2024-05-21,15,160-->
+<!--SR:!2024-10-05,33,180-->
 
 What is the role of circadian rhythms in body temperature fluctuations?;;Circadian rhythms cause normal fluctuations in core body temperature over a 24-hour cycle, with lowest temperatures occurring around 3-4 am and highest temperatures around 6-7 pm.
 <!--SR:!2024-11-11,189,250-->

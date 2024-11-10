@@ -28,7 +28,7 @@
 ## Flashcards
 
 What are the two types of synapses?;;Electrical synapses and chemical synapses.
-<!--SR:!2024-05-08,2,150-->
+<!--SR:!2024-09-05,3,150-->
 
 How do chemical synapses work?;;They convert electrical signals ([[Cards/Action Potentials\|action potentials]]) into chemical signals using neurotransmitters.
-<!--SR:!2024-05-17,11,150-->
+<!--SR:!2024-09-19,17,150-->

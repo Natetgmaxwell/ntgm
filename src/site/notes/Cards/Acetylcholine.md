@@ -1,12 +1,12 @@
 ---
-{"aliases":["ACh"],"tags":["on/Science/Biology","Uni/LFS112","flashcards/LFS112"],"date created":"2022-11-28 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/acetylcholine/","dgPassFrontmatter":true}
+{"aliases":"ACh","tags":["on/Science/Biology","Uni/LFS112","flashcards/LFS112"],"date created":"2022-11-28 Mon","edited":"2023-04-06 Thu","dg-publish":true,"permalink":"/cards/acetylcholine/","dgPassFrontmatter":true}
 ---
 
 # Acetylcholine
 
 > [!Ontology]+
 > up:: [[Cards/Neurotransmitter\|Neurotransmitter]]
-> jump::
+> jump:: [[Cards/Acetylcholinesterase\|Acetylcholinesterase]]
 > down:: 
 
 > [!Definition] Definition

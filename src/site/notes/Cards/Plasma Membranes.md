@@ -1,5 +1,5 @@
 ---
-{"aliases":"cell membranes","edited":"2023-04-06 Thu","date created":"2023-01-23 Mon","dg-publish":true,"tags":["Uni/LFS252","Uni/LFS103"],"permalink":"/cards/plasma-membranes/","dgPassFrontmatter":true}
+{"aliases":"cell membranes","edited":"2023-04-06 Thu","date created":"2023-01-23 Mon","dg-publish":true,"tags":["Uni/LFS252","Uni/LFS103","flashcards/LFS252"],"permalink":"/cards/plasma-membranes/","dgPassFrontmatter":true}
 ---
 
 # Plasma Membranes
@@ -14,10 +14,10 @@
 
 ## Permeability of the [[Cards/Plasma Membranes\|Plasma Membrane]]
 
-![Extras/Images/JBBIH665.png|425](/img/user/Extras/Images/JBBIH665.png)
+![[Extras/Images/JBBIH665.png\|425]]
 
 > [!cite]-
-> [[Sources/@mcmillan2024LFS252M05T04TransmembraneTransport\|@mcmillan2024LFS252M05T04TransmembraneTransport]]
+> [[Sources/Video/@mcmillan2024LFS252M05T04TransmembraneTransport\|@mcmillan2024LFS252M05T04TransmembraneTransport]]
 
 # Reference
 
@@ -32,14 +32,14 @@
 ## Flashcards
 
 Oxygen and carbon dioxide can squeeze between the lipid molecules in the plasma membrane. (True or False);;True
-<!--SR:!2023-07-21,1,230-->
+<!--SR:!2024-11-06,2,230-->
 
 Ions easily diffuse across the cell membrane by [[Cards/Simple Diffusion\|simple diffusion]] (True or False);;False
-<!--SR:!2023-08-20,4,210-->
+<!--SR:!2024-11-06,2,190-->
 
 What is the cell membrane's structure, and what is its role?;; The cell membrane is a lipid bilayer that creates a barrier between [[Cards/Extracellular Fluid\|ECF]] and [[Cards/Intracellular Fluid\|ICF]]. The sodium-potassium ATPase pump maintains the electrochemical gradient by pumping three sodium ions out and two potassium ions in.
-<!--SR:!2023-08-17,1,226-->
+<!--SR:!2024-11-06,2,226-->
 
 What is the hydrophilic part of a phospholipid?;;The phosphate group.
 
-What is the hydrophobic part of a phospholipid?;;The fatty acids or hydrocarbon tails.
+The insides of membranes are [[Cards/Hydrophobic\|hydrophobic]], therefore which type of amino acids would you expect to find in helixes of these proteins: those with polar or nonpolar side chains?;;Non-polar proteins

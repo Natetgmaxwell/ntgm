@@ -10,9 +10,9 @@
 > down:: [[Cards/Bacteria\|Bacteria]], [[Cards/Archaea\|Archaea]]
 
 > [!Definition] Definition
-> 
 
 # Reference
+
 - 
 
 ## Mentions
@@ -40,4 +40,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards

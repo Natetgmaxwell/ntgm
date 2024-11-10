@@ -7,7 +7,7 @@
 > [!ontology]-
 > up:: [[Cards/Cells\|Cells]]
 > jump:: [[Cards/Lipid Hormones\|Lipid Hormones]]
-> down:: 
+> down:: [[Cards/Nuclear Receptors\|Nuclear Receptors]]
 
 > [!Definition] Definition
 
@@ -23,10 +23,11 @@
 
 { .block-language-dataview}
 
-| Outgoing Links                              |
-| ------------------------------------------- |
-| [[Cards/Cells\|Cells]]                   |
-| [[Cards/Lipid Hormones\|Lipid Hormones]] |
+| Outgoing Links                                    |
+| ------------------------------------------------- |
+| [[Cards/Cells\|Cells]]                         |
+| [[Cards/Lipid Hormones\|Lipid Hormones]]       |
+| [[Cards/Nuclear Receptors\|Nuclear Receptors]] |
 
 { .block-language-dataview}
 

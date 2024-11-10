@@ -64,7 +64,7 @@
 ## Flashcards
 
 What are the main functions of the integumentary system?;;The main functions of the integumentary system are protection, [[Cards/Thermoregulation\|thermoregulation]], [[Cards/Sensation\|Sensation]], and [[Cards/Vitamin D\|vitamin D]] synthesis.
-<!--SR:!2023-10-22,1,130-->
+<!--SR:!2024-09-04,2,150-->
 
 What are the accessory structures of the integumentary system?;;Hair, hair follicles, nails, and glands in the skin.
-<!--SR:!2024-05-21,15,150-->
+<!--SR:!2024-09-28,26,150-->
