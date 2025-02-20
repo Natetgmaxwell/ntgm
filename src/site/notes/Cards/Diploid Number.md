@@ -21,7 +21,7 @@
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-03-07\|2022-03-07]]                   |
-| [[Calendar/2023/Daily/2024-07-22 Mon\|2024-07-22 Mon]]           |
+| [[Calendar/2024/Daily/2024-07-22 Mon\|2024-07-22 Mon]]           |
 | [[Cards/Cell Division\|Cell Division]]                           |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]] |
 

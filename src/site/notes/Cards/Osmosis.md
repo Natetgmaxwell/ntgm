@@ -23,6 +23,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                                    |
 | [[Calendar/2023/Daily/2023-12-23 Sat\|2023-12-23 Sat]]                                                                    |
+| [[Cards/Aquaporins\|Aquaporins]]                                                                                          |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]                        |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
@@ -35,7 +36,7 @@
 | [[Cards/Concentration\|Concentration]]                     |
 | [[Cards/Hypertonic solution\|Hypertonic solution]]         |
 | [[Cards/Hypotonic solution\|Hypotonic solution]]           |
-| [[Cards/Isotonic solution\|Isotonic solution]]             |
+| [[Cards/Isotonic Solution\|Isotonic Solution]]             |
 | [[Cards/Nutrient transport\|Nutrient transport]]           |
 | [[Cards/Plasma Membranes\|Plasma Membranes]]               |
 | [[Cards/Semi-permeable Membrane\|Semi-permeable Membrane]] |
@@ -67,5 +68,5 @@ What is a [[Cards/Hypertonic solution\|Hypertonic solution]]?;;A [[Cards/Hyperto
 What is a [[Cards/Hypotonic solution\|Hypotonic solution]]?;;A hypotonic [[Cards/Solutions\|Solutions]] is a solution with a lower concentration of solutes than another [[Cards/Solutions\|Solutions]].
 <!--SR:!2023-12-01,150,270-->
 
-What is an [[Cards/Isotonic solution\|Isotonic solution]]?;;An isotonic [[Cards/Solutions\|Solutions]] is a [[Cards/Solutions\|Solutions]] with the same concentration of solutes as another [[Cards/Solutions\|Solutions]].
+What is an [[Cards/Isotonic Solution\|Isotonic Solution]]?;;An isotonic [[Cards/Solutions\|Solutions]] is a [[Cards/Solutions\|Solutions]] with the same concentration of solutes as another [[Cards/Solutions\|Solutions]].
 <!--SR:!2023-12-13,162,290-->

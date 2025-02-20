@@ -12,7 +12,7 @@
 > [!Definition] Definition
 
 > [!quote] [[Sources/Video/@russell2024BIM263M02T05AcetylcholinesteraseEnzyme\|@russell2024BIM263M02T05AcetylcholinesteraseEnzyme]]
-> ![[Extras/Images/PB93STR9.png\|Extras/Images/PB93STR9.png]]
+> ![Extras/Images/PB93STR9.png](/img/user/Extras/Images/PB93STR9.png)
 
 # Reference
 

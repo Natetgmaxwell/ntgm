@@ -35,6 +35,7 @@
 > | [[Cards/Attitude\|Attitude]]                                                                                                                                                                                                        |
 > | [[Cards/Belief\|Belief]]                                                                                                                                                                                                            |
 > | [[Cards/Brain\|Brain]]                                                                                                                                                                                                              |
+> | [[Cards/Carl Jung\|Carl Jung]]                                                                                                                                                                                                      |
 > | [[Cards/Character\|Character]]                                                                                                                                                                                                      |
 > | [[Atlas/Commonplace Book\|Commonplace Book]]                                                                                                                                                                                        |
 > | [[Cards/Compulsion\|Compulsion]]                                                                                                                                                                                                    |
@@ -346,7 +347,7 @@
 
 > [!quote-green] (Page 181) green
 > 
-> Socrates
+> [[Cards/Socrates\|Socrates]]
 >
 { #VLY3SKH6aMTKQ4SA3p181}
 

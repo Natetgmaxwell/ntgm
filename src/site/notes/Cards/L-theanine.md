@@ -22,7 +22,7 @@
 
 | Incoming Links                                            |
 | --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-05-01 Wed\|2024-05-01 Wed]] |
+| [[Calendar/2024/Daily/2024-05-01 Wed\|2024-05-01 Wed]] |
 
 { .block-language-dataview}
 

@@ -38,11 +38,11 @@ The FBN1 gene on [[Cards/Chromosome 15\|Chromosome 15]] encodes for the fibrilli
 
 { .block-language-dataview}
 
-| Sources                                                                                           |
-| ------------------------------------------------------------------------------------------------- |
-| [[Sources/@han2024TargetedNextgenerationSequencing\|@han2024TargetedNextgenerationSequencing]] |
-| [[Sources/@laurencefaivre2007EffectMutationType\|@laurencefaivre2007EffectMutationType]]       |
-| [[Sources/@sakai2016FBN1DiseaseCausingGene\|@sakai2016FBN1DiseaseCausingGene]]                 |
+| Sources                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@han2024TargetedNextgenerationSequencing\|@han2024TargetedNextgenerationSequencing]] |
+| [[Sources/Research Papers/@laurencefaivre2007EffectMutationType\|@laurencefaivre2007EffectMutationType]]       |
+| [[Sources/Research Papers/@sakai2016FBN1DiseaseCausingGene\|@sakai2016FBN1DiseaseCausingGene]]                 |
 
 { .block-language-dataview}
 

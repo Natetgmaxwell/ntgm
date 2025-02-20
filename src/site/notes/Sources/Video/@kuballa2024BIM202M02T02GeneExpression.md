@@ -69,7 +69,7 @@
 
 > [!quote-yellow] (Page 10) yellow
 > 
-> ![[Extras/Images/4JHCVU65.png\|Extras/Images/4JHCVU65.png]]
+> ![Extras/Images/4JHCVU65.png](/img/user/Extras/Images/4JHCVU65.png)
 >
 { #4JHCVU65aJUHDY9Z5p10}
 

@@ -53,10 +53,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Research Papers/@russellHumanStressResponse2019\|@russellHumanStressResponse2019]]                 |
-| [[Sources/Research Papers/@søvold2021-PrioritizingMentalHealth\|@søvold2021-PrioritizingMentalHealth]]       |
-| [[Sources/Books/Respiratory Contagion by Mieczyslaw Pokorski\|Respiratory Contagion by Mieczyslaw Pokorski]] |
+| Sources                                                                                                   |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@russellHumanStressResponse2019\|@russellHumanStressResponse2019]]           |
+| [[Sources/Research Papers/@søvold2021-PrioritizingMentalHealth\|@søvold2021-PrioritizingMentalHealth]] |
 
 { .block-language-dataview}

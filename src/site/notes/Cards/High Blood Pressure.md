@@ -18,7 +18,7 @@
 ## Mentions
 | Incoming Links                                            |
 | --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-08-19 Mon\|2024-08-19 Mon]] |
+| [[Calendar/2024/Daily/2024-08-19 Mon\|2024-08-19 Mon]] |
 | [[Cards/White matter\|White matter]]                   |
 
 { .block-language-dataview}

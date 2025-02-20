@@ -47,14 +47,14 @@
 
 > [!quote-yellow] (Page 7) yellow
 > 
-> ![[Extras/Images/VTUVV2RB.png\|Extras/Images/VTUVV2RB.png]]
+> ![Extras/Images/VTUVV2RB.png](/img/user/Extras/Images/VTUVV2RB.png)
 >
 { #VTUVV2RBaTZ5QFQACp7}
 
 
 > [!quote-yellow] (Page 8) yellow
 > 
-> ![[Extras/Images/SXLMIA7K.png\|Extras/Images/SXLMIA7K.png]]
+> ![Extras/Images/SXLMIA7K.png](/img/user/Extras/Images/SXLMIA7K.png)
 >
 { #SXLMIA7KaTZ5QFQACp8}
 

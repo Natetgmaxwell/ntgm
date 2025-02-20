@@ -47,8 +47,8 @@ A polymer is composed of a double helix carrying [[Cards/Genes\|genetic]] instru
 | [[Calendar/2022/Daily/2022-03-10\|2022-03-10]]                                                                            |
 | [[Calendar/2022/Daily/2022-08-18\|2022-08-18]]                                                                            |
 | [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                                    |
-| [[Calendar/2023/Daily/2024-07-26 Fri\|2024-07-26 Fri]]                                                                    |
-| [[Calendar/2023/Daily/2024-10-02 Wed\|2024-10-02 Wed]]                                                                    |
+| [[Calendar/2024/Daily/2024-07-26 Fri\|2024-07-26 Fri]]                                                                    |
+| [[Calendar/2024/Daily/2024-10-02 Wed\|2024-10-02 Wed]]                                                                    |
 | [[Cards/Allele\|Allele]]                                                                                                  |
 | [[Cards/Binary Fission\|Binary Fission]]                                                                                  |
 | [[Cards/Binomial Nomenclature\|Binomial Nomenclature]]                                                                    |

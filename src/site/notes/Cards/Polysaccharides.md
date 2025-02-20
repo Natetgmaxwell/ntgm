@@ -17,8 +17,10 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                                                |
+| ------------------------------------------------------------- |
+| [[• Inbox/Lachie Meat Missle\|Lachie Meat Missle]]         |
+| [[Spaces/Swimming/Lachie Meat Missle\|Lachie Meat Missle]] |
 
 { .block-language-dataview}
 

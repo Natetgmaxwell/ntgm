@@ -1,5 +1,5 @@
 ---
-{"aliases":"MBT254","dg-publish":true,"permalink":"/spaces/university/classes/biotechnology-research-to-product/","dgPassFrontmatter":true}
+{"aliases":"MBT254","dg-publish":true,"current-class":null,"permalink":"/spaces/university/classes/biotechnology-research-to-product/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,10 +9,10 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 ## Assessments
 
-| Name                                                                                       | Status      |
-| ------------------------------------------------------------------------------------------ | ----------- |
-| [[Spaces/University/Projects/MBT254A2 Written Assignment\|MBT254A2 Written Assignment]] | In Progress |
-| [[Spaces/University/Projects/MBT254A3 Oral Presentation\|MBT254A3 Oral Presentation]]   | Completed   |
+| Name                                                                                       | Status    |
+| ------------------------------------------------------------------------------------------ | --------- |
+| [[Spaces/University/Projects/MBT254A2 Written Assignment\|MBT254A2 Written Assignment]] | Completed |
+| [[Spaces/University/Projects/MBT254A3 Oral Presentation\|MBT254A3 Oral Presentation]]   | Completed |
 
 { .block-language-dataview}
 
@@ -20,8 +20,8 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 | Name                                                      | Published |
 | --------------------------------------------------------- | --------- |
-| [[Cards/Biotechnology\|Biotechnology]]                 | true      |
 | [[Cards/Bioinformatics\|Bioinformatics]]               | true      |
+| [[Cards/Biotechnology\|Biotechnology]]                 | true      |
 | [[Cards/Personalised Medicine\|Personalised Medicine]] | true      |
 
 { .block-language-dataview}
@@ -30,7 +30,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 | Date                                                      |
 | --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-08-13 Tue\|2024-08-13 Tue]] |
+| [[Calendar/2024/Daily/2024-08-13 Tue\|2024-08-13 Tue]] |
 
 { .block-language-dataview}
 

@@ -19,7 +19,7 @@
 
 | Incoming Links                                            |
 | --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-05-28 Tue\|2024-05-28 Tue]] |
+| [[Calendar/2024/Daily/2024-05-28 Tue\|2024-05-28 Tue]] |
 
 { .block-language-dataview}
 

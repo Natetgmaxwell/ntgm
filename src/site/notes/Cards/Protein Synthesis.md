@@ -26,8 +26,6 @@
 - [[Cards/RNA Transcription\|RNA Transcription]]
 - [[Cards/Codon\|Codon]]
 
-## Flashcards
-
 What are the stages of [[Cards/Protein Synthesis\|Protein Synthesis]] in order?;;[[Cards/RNA Transcription\|RNA Transcription]] and [[Cards/RNA Translation\|RNA Translation]], [[Cards/Post Translation Modification\|Post Translation Modification]] (in [[Cards/Eukaryote\|Eukaryotes]])
 <!--SR:!2023-12-02,151,270-->
 

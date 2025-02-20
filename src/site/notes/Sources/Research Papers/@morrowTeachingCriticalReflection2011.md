@@ -60,7 +60,7 @@
 
 > [!quote-yellow] (Page 6) yellow
 > 
-> ![[Extras/Images/GH2JGUTF.png\|Extras/Images/GH2JGUTF.png]]
+> ![Extras/Images/GH2JGUTF.png](/img/user/Extras/Images/GH2JGUTF.png)
 >
 { #GH2JGUTFaAPPX2R7Vp7}
 
@@ -95,14 +95,14 @@
 
 > [!quote-yellow] (Page 8) yellow
 > 
-> ![[Extras/Images/B526Y4FE.png\|Extras/Images/B526Y4FE.png]]
+> ![Extras/Images/B526Y4FE.png](/img/user/Extras/Images/B526Y4FE.png)
 >
 { #B526Y4FEaAPPX2R7Vp9}
 
 
 > [!quote-yellow] (Page 9) yellow
 > 
-> ![[Extras/Images/5QZYXM4X.png\|Extras/Images/5QZYXM4X.png]]
+> ![Extras/Images/5QZYXM4X.png](/img/user/Extras/Images/5QZYXM4X.png)
 >
 { #5QZYXM4XaAPPX2R7Vp10}
 
@@ -130,14 +130,14 @@
 
 > [!quote-yellow] (Page 11) yellow
 > 
-> ![[Extras/Images/ECHMR7E8.png\|Extras/Images/ECHMR7E8.png]]
+> ![Extras/Images/ECHMR7E8.png](/img/user/Extras/Images/ECHMR7E8.png)
 >
 { #ECHMR7E8aAPPX2R7Vp12}
 
 
 > [!quote-yellow] (Page 13) yellow
 > 
-> ![[Extras/Images/KCJLGLKC.png\|Extras/Images/KCJLGLKC.png]]
+> ![Extras/Images/KCJLGLKC.png](/img/user/Extras/Images/KCJLGLKC.png)
 >
 { #KCJLGLKCaAPPX2R7Vp14}
 

@@ -22,9 +22,8 @@
 > creators:: David McMillan
 
 > [!Links]+
->  | Incoming Links                                                            |
-> | ------------------------------------------------------------------------- |
-> | [[Extras/SystemSculpt/Chats/2024-08-05 10-16-16\|2024-08-05 10-16-16]] |
+>  | Incoming Links |
+> | -------------- |
 > 
 { .block-language-dataview}
 
@@ -43,7 +42,7 @@
 
 > [!quote-yellow] (Page 4) yellow
 > 
-> ![[Extras/Images/8SZLRWBH.png\|Extras/Images/8SZLRWBH.png]]
+> ![Extras/Images/8SZLRWBH.png](/img/user/Extras/Images/8SZLRWBH.png)
 >
 { #8SZLRWBHaNBR3Q6R3p4}
 

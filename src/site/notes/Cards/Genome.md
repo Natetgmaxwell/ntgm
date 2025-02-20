@@ -19,7 +19,7 @@
 
 | Incoming Links                                            |
 | --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-10-09 Wed\|2024-10-09 Wed]] |
+| [[Calendar/2024/Daily/2024-10-09 Wed\|2024-10-09 Wed]] |
 | [[Cards/Genetic Variation\|Genetic Variation]]         |
 | [[Cards/Mitochondrial Genome\|Mitochondrial Genome]]   |
 | [[Cards/Nuclear Genome\|Nuclear Genome]]               |

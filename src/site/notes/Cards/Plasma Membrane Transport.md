@@ -13,15 +13,12 @@
 
 ## Types of [[Cards/Transport Proteins\|Transport Proteins]] in the [[Cards/Plasma Membranes\|Plasma Membranes]]
 
-![[Extras/Images/Q2K7F7KH.png\|700]]
+![Extras/Images/Q2K7F7KH.png|700](/img/user/Extras/Images/Q2K7F7KH.png)
 
 > [!cite]-
 > [[Sources/Video/@mcmillan2024LFS252M05T04TransmembraneTransport\|@mcmillan2024LFS252M05T04TransmembraneTransport]]
 
-- Channel proteins
-	- [[Cards/Passive Transport\|Passive Transport]]
-	- Transports small [[Cards/Hydrophilic\|Hydrophilic]] molecules
-	- [[Cards/Facilitated Diffusion\|Facilitated Diffusion]]
+- [[Cards/Channel Proteins\|Channel Proteins]]
 - Transporters
 	- [[Cards/Uniporter\|Uniporter]]
 		- Simple molecule
@@ -50,10 +47,8 @@
 | ------------------------------------------------------------- |
 | [[Cards/Active Transport\|Active Transport]]               |
 | [[Cards/Antiporter\|Antiporter]]                           |
+| [[Cards/Channel Proteins\|Channel Proteins]]               |
 | [[Cards/Concentration Gradients\|Concentration Gradients]] |
-| [[Cards/Facilitated Diffusion\|Facilitated Diffusion]]     |
-| [[Cards/Hydrophilic\|Hydrophilic]]                         |
-| [[Cards/Passive Transport\|Passive Transport]]             |
 | [[Cards/Plasma Membranes\|Plasma Membranes]]               |
 | [[Cards/Symporter\|Symporter]]                             |
 | [[Cards/Transport Proteins\|Transport Proteins]]           |

@@ -32,21 +32,21 @@
 
 > [!quote-yellow] (Page 10) yellow
 > 
-> ![[Extras/Images/9XSYFCFV.png\|Extras/Images/9XSYFCFV.png]]
+> ![Extras/Images/9XSYFCFV.png](/img/user/Extras/Images/9XSYFCFV.png)
 >
 { #9XSYFCFVaXT4WBNIBp10}
 
 
 > [!quote-yellow] (Page 13) yellow
 > 
-> ![[Extras/Images/RBTRAVTJ.png\|Extras/Images/RBTRAVTJ.png]]
+> ![Extras/Images/RBTRAVTJ.png](/img/user/Extras/Images/RBTRAVTJ.png)
 >
 { #RBTRAVTJaXT4WBNIBp13}
 
 
 > [!quote-yellow] (Page 17) yellow
 > 
-> ![[Extras/Images/LDDDEFCK.png\|Extras/Images/LDDDEFCK.png]]
+> ![Extras/Images/LDDDEFCK.png](/img/user/Extras/Images/LDDDEFCK.png)
 >
 { #LDDDEFCKaXT4WBNIBp17}
 

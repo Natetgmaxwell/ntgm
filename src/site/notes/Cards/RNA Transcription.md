@@ -34,17 +34,17 @@
 
 1. Initiation
 
-	![[Extras/Images/8WNPPPZY.png\|500]]
+	![Extras/Images/8WNPPPZY.png|500](/img/user/Extras/Images/8WNPPPZY.png)
 
 2. Elongation
 	
-	![[Extras/Images/CY3BF47T.png\|500]]
+	![Extras/Images/CY3BF47T.png|500](/img/user/Extras/Images/CY3BF47T.png)
 
 3. Termination
 	- A hairpin loop forms resulting in the dissociation of the [[Cards/Polymerase\|Polymerase]]
 
-		![[Extras/Images/ZCLY4JB2.png\|500]]
-		![[Extras/Images/MQRF9YRW.png\|550]]
+		![Extras/Images/ZCLY4JB2.png|500](/img/user/Extras/Images/ZCLY4JB2.png)
+		![Extras/Images/MQRF9YRW.png|550](/img/user/Extras/Images/MQRF9YRW.png)
 
 > [!cite]-
 > [[Sources/Video/@mcmillan2024LFS252M05T02BacterialTranscription\|@mcmillan2024LFS252M05T02BacterialTranscription]]

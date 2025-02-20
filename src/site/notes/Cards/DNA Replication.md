@@ -14,7 +14,7 @@
 
 ## Steps
 
-![[Extras/Images/SXLMIA7K.png\|Extras/Images/SXLMIA7K.png]]
+![Extras/Images/SXLMIA7K.png](/img/user/Extras/Images/SXLMIA7K.png)
 
 > [!cite]-
 > [[Sources/Video/@kuballa2024BIM202M02T01MolecularBasis\|@kuballa2024BIM202M02T01MolecularBasis]]

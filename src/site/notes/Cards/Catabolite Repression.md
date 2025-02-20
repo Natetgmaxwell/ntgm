@@ -20,7 +20,7 @@
 
 | Incoming Links                                            |
 | --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-08-24 Sat\|2024-08-24 Sat]] |
+| [[Calendar/2024/Daily/2024-08-24 Sat\|2024-08-24 Sat]] |
 
 { .block-language-dataview}
 

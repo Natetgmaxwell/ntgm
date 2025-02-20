@@ -7,5 +7,21 @@
 ## Currently Reading
 
 - [[Sources/Books/@feynman2011SixEasyPieces\|@Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher]]
-- [[Sources/Books/Morning Star by Pierce Brown\|Morning Star by Pierce Brown]]
-- [[Sources/Books/@jorgenson2020AlmanackNavalRavikant\|@The Almanack of Naval Ravikant]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## Reading List
+
+- [ ] Brave New World
+- [ ] A Man’s Search for Meaning
+- [ ] Crime and Punishment
+- [ ] Iron Gold (nearly 50%)
+- [ ] Dark Age
+- [ ] Endurance
+- [ ] [[Sources/Books/@feynman2011SixEasyPieces\|@Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher]]
+- [ ] The Prince
+
+</div></div>

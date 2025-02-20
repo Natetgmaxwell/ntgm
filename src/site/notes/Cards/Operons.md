@@ -39,4 +39,4 @@
 ## Flashcards
 
 What are operons in a genetic context?;;A group of co-regulated genes with related functions that function under the same promoter.
-<!--SR:!2024-11-12,8,230-->
+<!--SR:!2024-11-30,17,230-->

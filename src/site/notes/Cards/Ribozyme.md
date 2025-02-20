@@ -17,10 +17,10 @@
 
 ## Mentions
 
-| Incoming Links                                                          |
-| ----------------------------------------------------------------------- |
-| [[Sources/@LFS252M09TutorialQuestions\|@LFS252M09TutorialQuestions]] |
-| [[• Inbox/Ribozymes\|Ribozymes]]                                     |
+| Incoming Links                                                                |
+| ----------------------------------------------------------------------------- |
+| [[Sources/Other/@LFS252M09TutorialQuestions\|@LFS252M09TutorialQuestions]] |
+| [[Cards/Ribozymes\|Ribozymes]]                                             |
 
 { .block-language-dataview}
 

@@ -22,9 +22,8 @@
 > creators:: David McMillan
 
 > [!Links]+
->  | Incoming Links                                                            |
-> | ------------------------------------------------------------------------- |
-> | [[Extras/SystemSculpt/Chats/2024-08-04 15-33-47\|2024-08-04 15-33-47]] |
+>  | Incoming Links |
+> | -------------- |
 > 
 { .block-language-dataview}
 

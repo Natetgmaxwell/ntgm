@@ -19,7 +19,7 @@
 
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-10-14 Mon\|2024-10-14 Mon]]     |
+| [[Calendar/2024/Daily/2024-10-14 Mon\|2024-10-14 Mon]]     |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]] |
 
 { .block-language-dataview}

@@ -30,7 +30,7 @@
 	- A conflict between the city-state of Thebes and [[Cards/Sparta\|Sparta]] for control over Greece, which ended with Theban victory at the Battle of Leuctra.
 - [[Cards/Wars of Alexander the Great\|Wars of Alexander the Great]] (336-323 BC)
 	- A series of campaigns led by Alexander the Great to conquer the Persian Empire and establish one of the largest empires in history.
-- [[• Inbox/Greco-Persian Wars\|Greco-Persian Wars]] (499-449 BC)
+- [[Cards/Greco-Persian Wars\|Greco-Persian Wars]] (499-449 BC)
 	- A series of conflicts between the Greek city-states and the Persian Empire, including the famous battles of Marathon, Thermopylae, and Salamis.
 - [[First Macedonian War\|First Macedonian War]] (214-205 BC)
 	- A war fought between Macedon and [[Cards/Roman Empire\|Rome]], resulting in a Roman victory and establishing [[Cards/Roman Empire\|Rome]] as a major power in the region.

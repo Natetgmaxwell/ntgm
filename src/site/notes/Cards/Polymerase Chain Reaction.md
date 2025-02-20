@@ -31,7 +31,7 @@ Links: [[Calendar/2022/Daily/2022-06-07\|2022-06-07]]
 
 | Incoming Links                                            |
 | --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-10-21 Mon\|2024-10-21 Mon]] |
+| [[Calendar/2024/Daily/2024-10-21 Mon\|2024-10-21 Mon]] |
 
 { .block-language-dataview}
 

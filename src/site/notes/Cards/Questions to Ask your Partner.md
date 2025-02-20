@@ -5,7 +5,7 @@
 # Questions to Ask your Partner
 
 > [!ontology]-
-> up:: 
+> up:: [[Cards/Romantic Relationships\|Romantic Relationships]]
 > jump:: 
 > down:: 
 
@@ -46,8 +46,9 @@
 
 { .block-language-dataview}
 
-| Outgoing Links |
-| -------------- |
+| Outgoing Links                                              |
+| ----------------------------------------------------------- |
+| [[Cards/Romantic Relationships\|Romantic Relationships]] |
 
 { .block-language-dataview}
 

@@ -7,26 +7,26 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 # Introductory Anatomy and Physiology
 
-**Unit Outline:** [[HBIO1009-2023-T2_UO.pdf]]
-**Class Manual**: [[HBIO1009 Class Manual.docx]]
+**Unit Outline:** [[HBIO1009-2023-T2_UO.pdf\|HBIO1009-2023-T2_UO.pdf]]
+**Class Manual**: [[HBIO1009 Class Manual.docx\|HBIO1009 Class Manual.docx]]
 
 ##### Module 1
-**Chapter 1 Slides (PDF):** [[HBIO1009 Module 1 Chapter 1 Slides.pdf]]
-**Chapter 2 Slides (PDF):** [[HBIO1009 Module 1 Chapter 2 Slides.pdf]]
-**Chapter 3 Slides (PDF):** [[HBIO1009 Module 1 Chapter 3 Slides.pdf]]
-**Chapter 4 Slides (PDF):** [[HBIO1009 Module 1 Chapter 4.pdf]]
+**Chapter 1 Slides (PDF):** [[HBIO1009 Module 1 Chapter 1 Slides.pdf\|HBIO1009 Module 1 Chapter 1 Slides.pdf]]
+**Chapter 2 Slides (PDF):** [[HBIO1009 Module 1 Chapter 2 Slides.pdf\|HBIO1009 Module 1 Chapter 2 Slides.pdf]]
+**Chapter 3 Slides (PDF):** [[HBIO1009 Module 1 Chapter 3 Slides.pdf\|HBIO1009 Module 1 Chapter 3 Slides.pdf]]
+**Chapter 4 Slides (PDF):** [[HBIO1009 Module 1 Chapter 4.pdf\|HBIO1009 Module 1 Chapter 4.pdf]]
 ##### Module 2
-**Chapter 1 Slides (PDF):** [[HBIO1009 Module 2 Chapter 1.pdf]]
-**Chapter 2 Slides (PDF):** [[HBIO1009 Module 2 Chapter 2.pdf]]
-**Chapter 3 Slides (PDF)::** [[HBIO1009 Module 2 Chapter 3.pdf]]
+**Chapter 1 Slides (PDF):** [[HBIO1009 Module 2 Chapter 1.pdf\|HBIO1009 Module 2 Chapter 1.pdf]]
+**Chapter 2 Slides (PDF):** [[HBIO1009 Module 2 Chapter 2.pdf\|HBIO1009 Module 2 Chapter 2.pdf]]
+**Chapter 3 Slides (PDF)::** [[HBIO1009 Module 2 Chapter 3.pdf\|HBIO1009 Module 2 Chapter 3.pdf]]
 ##### Module 3
-**Chapter 1 Slides (PDF):** [[HBIO1009 Module 3 Chapter 1.pdf]]
-**Chapter 2 Slides (PDF):** [[HBIO1009 Module 3 Chapter 2.pdf]]
+**Chapter 1 Slides (PDF):** [[HBIO1009 Module 3 Chapter 1.pdf\|HBIO1009 Module 3 Chapter 1.pdf]]
+**Chapter 2 Slides (PDF):** [[HBIO1009 Module 3 Chapter 2.pdf\|HBIO1009 Module 3 Chapter 2.pdf]]
 ##### Module 4
-**Chapter 1 Slides (PDF):** [[HBIO1009 Module 4 Chapter 1.pdf]]
-**Chapter 2 Slides (PDF):** [[HBIO1009 Module 4 Chapter 2.pdf]]
+**Chapter 1 Slides (PDF):** [[HBIO1009 Module 4 Chapter 1.pdf\|HBIO1009 Module 4 Chapter 1.pdf]]
+**Chapter 2 Slides (PDF):** [[HBIO1009 Module 4 Chapter 2.pdf\|HBIO1009 Module 4 Chapter 2.pdf]]
 **Module 5**
-**Chapter 1 Slides (PDF):** [[HBIO1009 Module 5 Chapter 1 Slides.pdf]]
+**Chapter 1 Slides (PDF):** [[HBIO1009 Module 5 Chapter 1 Slides.pdf\|HBIO1009 Module 5 Chapter 1 Slides.pdf]]
 
 ## Dates
 
@@ -515,7 +515,7 @@ Many [[Cards/Organ Systems\|organ systems]] together perform functions on an ind
 ### 1.3.06 Movement of substances across cell membrane: [[Cards/Tonicity\|Tonicity]]
 
 #### [[Cards/Tonicity\|Tonicity]]
-[[Cards/Isotonic solution\|Isotonic solution]]
+[[Cards/Isotonic Solution\|Isotonic Solution]]
 ##### [[Cards/Hypotonic solution\|Hypotonic solution]]
 [[Cards/Hypertonic solution\|Hypertonic solution]]
 
@@ -524,7 +524,7 @@ Many [[Cards/Organ Systems\|organ systems]] together perform functions on an ind
 #### [[Cards/Facilitated Diffusion\|Facilitated Diffusion]]
 - Passive- uses molecules own [[Cards/Kinetic Energy\|Kinetic Energy]]
 - Moves molecules down their concentration gradient
-- [[Channel Proteins\|Channel Proteins]]
+- [[Cards/Channel Proteins\|Channel Proteins]]
 
 ### 1.3.08 Movement of substances across cell membrane: [[Cards/Active Transport\|Active Transport]]
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/Science/Biology","School","Uni/LFS252","flashcards/LFS252"],"dg-publish":true,"permalink":"/cards/ligase/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["on/Science/Biology","School","Uni/LFS252","flashcards/LFS252"],"dg-publish":true,"cards-deck":"University::BIM202","permalink":"/cards/ligase/","dgPassFrontmatter":true}
 ---
 
 # Ligase
@@ -20,7 +20,7 @@
 | Incoming Links                                            |
 | --------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-03-10\|2022-03-10]]         |
-| [[Calendar/2023/Daily/2024-07-31 Wed\|2024-07-31 Wed]] |
+| [[Calendar/2024/Daily/2024-07-31 Wed\|2024-07-31 Wed]] |
 | [[Cards/Nucleotides\|Nucleotides]]                     |
 
 { .block-language-dataview}

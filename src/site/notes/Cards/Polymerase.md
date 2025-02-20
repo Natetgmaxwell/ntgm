@@ -20,7 +20,7 @@
 | Incoming Links                                                    |
 | ----------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-03-10\|2022-03-10]]                 |
-| [[Calendar/2023/Daily/2024-07-31 Wed\|2024-07-31 Wed]]         |
+| [[Calendar/2024/Daily/2024-07-31 Wed\|2024-07-31 Wed]]         |
 | [[Cards/Mutation\|Mutation]]                                   |
 | [[Cards/Polymerase Chain Reaction\|Polymerase Chain Reaction]] |
 | [[Cards/RNA Transcription\|RNA Transcription]]                 |
@@ -54,4 +54,4 @@ How many types of RNA [[Cards/Polymerase\|Polymerase]] does a prokaryote have?;;
 <!--SR:!2024-11-09,5,230-->
 
 How many types of RNA [[Cards/Polymerase\|Polymerase]] does a [[Cards/Eukaryote\|Eukaryote]] have?;;3
-<!--SR:!2024-11-12,8,250-->
+<!--SR:!2024-12-03,20,250-->

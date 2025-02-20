@@ -22,8 +22,8 @@
 
 | Incoming Links                                                                                        |
 | ----------------------------------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-04-21 Sun\|2024-04-21 Sun]]                                             |
-| [[Calendar/2023/Daily/2024-08-26 Mon\|2024-08-26 Mon]]                                             |
+| [[Calendar/2024/Daily/2024-04-21 Sun\|2024-04-21 Sun]]                                             |
+| [[Calendar/2024/Daily/2024-08-26 Mon\|2024-08-26 Mon]]                                             |
 | [[Cards/Antibody Diversity\|Antibody Diversity]]                                                   |
 | [[Cards/Blood\|Blood]]                                                                             |
 | [[Cards/Enzyme-linked Immunosorbent Assay\|Enzyme-linked Immunosorbent Assay]]                     |

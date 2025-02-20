@@ -52,4 +52,4 @@ What is the region where RNA polymerase can bind to initiate transcription?;;Pro
 <!--SR:!2024-11-10,25,230-->
 
 What are the three types of promoters in eukaryotes?;;[[Cards/TATA Box\|TATA box]], initiator, and [[Cards/CpG Islands\|CpG Islands]]
-<!--SR:!2024-11-10,25,230-->
+<!--SR:!2025-01-10,58,230-->

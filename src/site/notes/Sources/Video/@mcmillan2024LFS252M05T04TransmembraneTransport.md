@@ -34,14 +34,14 @@
 
 > [!quote-yellow] (Page 2) yellow
 > 
-> ![[Extras/Images/JBBIH665.png\|Extras/Images/JBBIH665.png]]
+> ![Extras/Images/JBBIH665.png](/img/user/Extras/Images/JBBIH665.png)
 >
 { #JBBIH665aAYVU27JUp2}
 
 
 > [!quote-yellow] (Page 6) yellow
 > 
-> ![[Extras/Images/Q2K7F7KH.png\|Extras/Images/Q2K7F7KH.png]]
+> ![Extras/Images/Q2K7F7KH.png](/img/user/Extras/Images/Q2K7F7KH.png)
 >
 { #Q2K7F7KHaAYVU27JUp6}
 

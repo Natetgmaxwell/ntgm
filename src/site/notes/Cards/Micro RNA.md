@@ -1,5 +1,5 @@
 ---
-{"aliases":"miRNA","tags":["Uni/LFS252","flashcards/LFS252"],"dg-publish":true,"permalink":"/cards/micro-rna/","dgPassFrontmatter":true}
+{"aliases":"miRNA","tags":["Uni/LFS252","flashcards/LFS252","Uni/BIM202","flashcards/BIM202"],"dg-publish":true,"permalink":"/cards/micro-rna/","dgPassFrontmatter":true}
 ---
 
 # Micro RNA
@@ -44,3 +44,4 @@ Why are miRNAs good biomarkers?;;stability and specificity as miRNAs are highly 
 An RNA molecule from the host genome is transcribed and folds into a dsRNA structure, which RNAi pathway is most likely to be activated?;;miRNA
 <!--SR:!2024-11-06,1,230-->
 
+Which of the following best describes the function of miRNAs? (Removal of exons from pre-mRNA, To reduce the expression of their target genes, They are translated to form very small proteins, Eukaryotic transcription initiation);;To reduce the expression of their target genes.

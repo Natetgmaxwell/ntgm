@@ -20,7 +20,7 @@
 
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-10-09 Wed\|2024-10-09 Wed]]                                                 |
+| [[Calendar/2024/Daily/2024-10-09 Wed\|2024-10-09 Wed]]                                                 |
 | [[Spaces/University/Classes/Foundations in Medical Science\|Foundations in Medical Science]]           |
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]     |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |

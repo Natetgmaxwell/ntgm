@@ -24,7 +24,6 @@
 > [!Links]+
 >  | Incoming Links                              |
 > | ------------------------------------------- |
-> | [[Atlas/📚 Bookshelf\|📚 Bookshelf]]     |
 > | [[Cards/Competition\|Competition]]       |
 > | [[Cards/Microeconomics\|Microeconomics]] |
 > | [[Cards/Naval Ravikant\|Naval Ravikant]] |

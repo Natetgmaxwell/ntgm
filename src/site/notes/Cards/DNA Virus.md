@@ -19,8 +19,8 @@
 
 | Incoming Links                                            |
 | --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-07-26 Fri\|2024-07-26 Fri]] |
-| [[Calendar/2023/Daily/2024-10-09 Wed\|2024-10-09 Wed]] |
+| [[Calendar/2024/Daily/2024-07-26 Fri\|2024-07-26 Fri]] |
+| [[Calendar/2024/Daily/2024-10-09 Wed\|2024-10-09 Wed]] |
 
 { .block-language-dataview}
 

@@ -24,7 +24,6 @@
 > [!Links]+
 >  | Incoming Links                                                            |
 > | ------------------------------------------------------------------------- |
-> | [[Extras/SystemSculpt/Chats/2024-08-12 10-45-31\|2024-08-12 10-45-31]] |
 > | [[Cards/Irreversible Enzyme Inhibitor\|Irreversible Enzyme Inhibitor]] |
 > | [[Cards/Reversible Enzyme Inhibitor\|Reversible Enzyme Inhibitor]]     |
 > 
@@ -42,14 +41,14 @@
 
 > [!quote-yellow] (Page 3) yellow
 > 
-> ![[Extras/Images/PB93STR9.png\|Extras/Images/PB93STR9.png]]
+> ![Extras/Images/PB93STR9.png](/img/user/Extras/Images/PB93STR9.png)
 >
 { #PB93STR9aWC3BFM4Hp3}
 
 
 > [!quote-yellow] (Page 9) yellow
 > 
-> ![[Extras/Images/SH7VGM3Z.png\|Extras/Images/SH7VGM3Z.png]]
+> ![Extras/Images/SH7VGM3Z.png](/img/user/Extras/Images/SH7VGM3Z.png)
 >
 { #SH7VGM3ZaWC3BFM4Hp9}
 

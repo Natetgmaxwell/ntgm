@@ -1,5 +1,5 @@
 ---
-{"aliases":"BIM263","dg-publish":true,"current-class":true,"permalink":"/spaces/university/classes/introduction-to-pharmacology/","dgPassFrontmatter":true}
+{"aliases":"BIM263","dg-publish":true,"current-class":false,"permalink":"/spaces/university/classes/introduction-to-pharmacology/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,9 +9,10 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 ## Assessments
 
-| Name                                                                                         | Status      |
-| -------------------------------------------------------------------------------------------- | ----------- |
-| [[Spaces/University/Projects/BIM263A2 Narrated Powerpoint\|BIM263A2 Narrated Powerpoint]] | In Progress |
+| Name                                                                                         | Status    |
+| -------------------------------------------------------------------------------------------- | --------- |
+| [[Spaces/University/Projects/BIM263A1 Problem Sets\|BIM263A1 Problem Sets]]               | Completed |
+| [[Spaces/University/Projects/BIM263A2 Narrated Powerpoint\|BIM263A2 Narrated Powerpoint]] | Completed |
 
 { .block-language-dataview}
 
@@ -19,12 +20,12 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 | Name                                                                                                                                    | Published |
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [[Cards/Drugs\|Drugs]]                                                                                                               | true      |
 | [[Cards/Advisory Committee on Medicines Scheduling\|Advisory Committee on Medicines Scheduling]]                                     | true      |
 | [[Cards/Aspirin\|Aspirin]]                                                                                                           | true      |
 | [[Cards/Cyclooxygenase\|Cyclooxygenase]]                                                                                             | true      |
-| [[Cards/Standard for the Uniform Scheduling of Medicines and Poisons\|Standard for the Uniform Scheduling of Medicines and Poisons]] | true      |
 | [[Cards/Antagonist\|Antagonist]]                                                                                                     | true      |
+| [[Cards/Drugs\|Drugs]]                                                                                                               | true      |
+| [[Cards/Standard for the Uniform Scheduling of Medicines and Poisons\|Standard for the Uniform Scheduling of Medicines and Poisons]] | true      |
 | [[Cards/Chronotropy\|Chronotropy]]                                                                                                   | true      |
 | [[Cards/Dromotropic\|Dromotropic]]                                                                                                   | true      |
 | [[Cards/Efficacy\|Efficacy]]                                                                                                         | true      |
@@ -46,7 +47,7 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 | Date                                                      |
 | --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-08-19 Mon\|2024-08-19 Mon]] |
+| [[Calendar/2024/Daily/2024-08-19 Mon\|2024-08-19 Mon]] |
 
 { .block-language-dataview}
 

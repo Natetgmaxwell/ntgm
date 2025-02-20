@@ -48,8 +48,8 @@ A single-strandard polymeric molecule, similar to [[Cards/Deoxyribonucleic Acid\
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-03-10\|2022-03-10]]                                                                            |
 | [[Calendar/2022/Daily/2022-03-11\|2022-03-11]]                                                                            |
-| [[Calendar/2023/Daily/2024-07-26 Fri\|2024-07-26 Fri]]                                                                    |
-| [[Calendar/2023/Daily/2024-10-14 Mon\|2024-10-14 Mon]]                                                                    |
+| [[Calendar/2024/Daily/2024-07-26 Fri\|2024-07-26 Fri]]                                                                    |
+| [[Calendar/2024/Daily/2024-10-14 Mon\|2024-10-14 Mon]]                                                                    |
 | [[Cards/Anti-Codon\|Anti-Codon]]                                                                                          |
 | [[Cards/DNA Replication\|DNA Replication]]                                                                                |
 | [[Cards/Electrophoresis\|Electrophoresis]]                                                                                |
@@ -66,7 +66,7 @@ A single-strandard polymeric molecule, similar to [[Cards/Deoxyribonucleic Acid\
 | [[Cards/Protein Synthesis\|Protein Synthesis]]                                                                            |
 | [[Cards/Purine Bases\|Purine Bases]]                                                                                      |
 | [[Cards/Pyrimidine Bases\|Pyrimidine Bases]]                                                                              |
-| [[• Inbox/Ribozymes\|Ribozymes]]                                                                                          |
+| [[Cards/Ribozymes\|Ribozymes]]                                                                                            |
 | [[Cards/RNA Polymerase II\|RNA Polymerase II]]                                                                            |
 | [[Cards/RNA Translation\|RNA Translation]]                                                                                |
 
@@ -107,10 +107,10 @@ What is a secondary and tertiary RNA structure? How are these structures formed?
 <!--SR:!2024-11-21,17,217-->
 
 What are some uses of secondary and tertiary structured RNAs in eukaryotic cells?;;2nd RNA uses include gene regulation and protein translation. 3rd RNA can catalyze biochemical reactions
-<!--SR:!2024-11-06,1,130-->
+<!--SR:!2024-11-14,1,130-->
 
 Describe two similarities between the miRNA and [[Cards/siRNA\|siRNA]] pathways;;Both pathways involve the dicer and RISC complex
-<!--SR:!2024-11-08,4,214-->
+<!--SR:!2024-11-15,2,194-->
 
 Describe two differences between the miRNA and [[Cards/siRNA\|siRNA]] pathways;;miRNAs are endogenously expressed by the host genome. In contrast, siRNAs are typically introduced into the cell through transfection or other means
 <!--SR:!2024-11-21,17,214-->

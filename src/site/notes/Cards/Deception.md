@@ -28,10 +28,11 @@ When people are trying to distract you from the truth or “con” you, you must
 | Incoming Links                                                                                    |
 | ------------------------------------------------------------------------------------------------- |
 | [[Spaces/School/IA1 Time has not Changed Human Nature\|IA1 Time has not Changed Human Nature]] |
-| [[Calendar/2022/Daily/2022-02-26\|2022-02-26]]                                                 |
 | [[Cards/Ministry of Truth\|Ministry of Truth]]                                                 |
+| [[Cards/Louis Vincenti\|Louis Vincenti]]                                                       |
 | [[Cards/Fraud\|Fraud]]                                                                         |
 | [[Cards/10 Commandments for Con Artists\|10 Commandments for Con Artists]]                     |
+| [[Calendar/2022/Daily/2022-02-26\|2022-02-26]]                                                 |
 
 { .block-language-dataview}
 

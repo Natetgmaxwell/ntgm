@@ -25,6 +25,7 @@
 >  | Incoming Links                                |
 > | --------------------------------------------- |
 > | [[Atlas/📚 Bookshelf\|📚 Bookshelf]]       |
+> | [[Calendar/2025/2025\|2025]]               |
 > | [[Cards/Albert Einstein\|Albert Einstein]] |
 > | [[Cards/Richard Feynman\|Richard Feynman]] |
 > 

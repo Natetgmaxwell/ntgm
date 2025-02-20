@@ -12,6 +12,9 @@
 > [!Definition] Definition
 > Carl Jung was a Swiss psychiatrist and psychoanalyst who is widely regarded as one of the most influential thinkers of the 20th century. He is best known for his theories on analytical psychology, which focused on the collective [[Cards/Unconsciousness\|unconscious]] and the process of individuation.
 
+- [[Cards/Shadow Self\|Shadow Self]]
+	- “The Shadow consists of all the qualities people try to deny about themselves and repress” [[Sources/Books/@robertgreeneLawsHumanNature2018\|@The Laws of Human Nature]]
+
 # Reference
 
 - 
@@ -27,12 +30,14 @@
 
 | Outgoing Links                                |
 | --------------------------------------------- |
+| [[Cards/Shadow Self\|Shadow Self]]         |
 | [[Cards/Unconsciousness\|Unconsciousness]] |
 
 { .block-language-dataview}
 
-| Sources |
-| ------- |
+| Sources                                                                                 |
+| --------------------------------------------------------------------------------------- |
+| [[Sources/Books/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]] |
 
 { .block-language-dataview}
 

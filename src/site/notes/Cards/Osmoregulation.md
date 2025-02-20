@@ -15,7 +15,7 @@
 ## [[Cards/Hormones\|Hormones]] Involved in [[Cards/Osmoregulation\|Osmoregulation]]
 
 - [[Cards/Anti-diuretic hormone\|ADH]]
-- [[Renin\|Renin]]
+- [[Cards/Renin\|Renin]]
 - [[Angiotensin I\|Angiotensin I]]
 - [[Angiotensin II\|Angiotensin II]]
 - [[Cards/Aldosterone\|Aldosterone]]
@@ -55,6 +55,7 @@
 | [[Cards/Hormones\|Hormones]]                           |
 | [[Cards/Hydration\|Hydration]]                         |
 | [[Cards/Osmoreceptors\|Osmoreceptors]]                 |
+| [[Cards/Renin\|Renin]]                                 |
 
 { .block-language-dataview}
 

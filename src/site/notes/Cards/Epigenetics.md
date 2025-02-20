@@ -14,7 +14,7 @@
 
 - **[[Cards/Epigenetics\|Epigenetics]]** refers to differences in traits caused by environmental factors that can be [[Cards/Inheritance\|inherited]].
 
-> [!quote] [[Sources/@kuballa2024BIM202M10T01OverviewMolecular\|@kuballa2024BIM202M10T01OverviewMolecular]]
+> [!quote] [[Sources/Video/@kuballa2024BIM202M10T01OverviewMolecular\|@kuballa2024BIM202M10T01OverviewMolecular]]
 > "Epigenetics essentially means above genetics, and it's where we look at heritable changes in gene expression that don't involve changes to the DNA sequence."
 
 ## Environmental Factors that Can Affect [[Cards/Epigenetics\|Epigenetics]]
@@ -38,7 +38,7 @@
 | --------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-04-19\|2022-04-19]]               |
 | [[Calendar/2022/Daily/2022-08-18\|2022-08-18]]               |
-| [[Calendar/2023/Daily/2024-10-08 Tue\|2024-10-08 Tue]]       |
+| [[Calendar/2024/Daily/2024-10-08 Tue\|2024-10-08 Tue]]       |
 | [[Cards/Genomic Imprinting\|Genomic Imprinting]]             |
 | [[Cards/Health-span\|Health-span]]                           |
 | [[Cards/Immortality\|Immortality]]                           |
@@ -72,9 +72,9 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                             |
-| --------------------------------------------------------------------------------------------------- |
-| [[Sources/@kuballa2024BIM202M10T01OverviewMolecular\|@kuballa2024BIM202M10T01OverviewMolecular]] |
+| Sources                                                                                                   |
+| --------------------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@kuballa2024BIM202M10T01OverviewMolecular\|@kuballa2024BIM202M10T01OverviewMolecular]] |
 
 { .block-language-dataview}
 

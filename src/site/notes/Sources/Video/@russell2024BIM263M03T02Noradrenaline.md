@@ -32,7 +32,7 @@
 
 > [!quote-yellow] (Page 9) yellow
 > 
-> ![[Extras/Images/KBHJT5FD.png\|Extras/Images/KBHJT5FD.png]]
+> ![Extras/Images/KBHJT5FD.png](/img/user/Extras/Images/KBHJT5FD.png)
 > 
 > ---
 > Effects of slow intravenous infusion of noradrenaline (10 μg/min)
@@ -42,7 +42,7 @@
 
 > [!quote-yellow] (Page 13) yellow
 > 
-> ![[Extras/Images/3AVHT8BW.png\|Extras/Images/3AVHT8BW.png]]
+> ![Extras/Images/3AVHT8BW.png](/img/user/Extras/Images/3AVHT8BW.png)
 > 
 > ---
 > receptor desensitization

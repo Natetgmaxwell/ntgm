@@ -28,7 +28,7 @@
 
 | Incoming Links                                            |
 | --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-09-02 Mon\|2024-09-02 Mon]] |
+| [[Calendar/2024/Daily/2024-09-02 Mon\|2024-09-02 Mon]] |
 
 { .block-language-dataview}
 

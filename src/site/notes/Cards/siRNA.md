@@ -17,12 +17,12 @@
 
 ## Mentions
 
-| Incoming Links                                                          |
-| ----------------------------------------------------------------------- |
-| [[Sources/@LFS252M09TutorialQuestions\|@LFS252M09TutorialQuestions]] |
-| [[Cards/Non-coding RNA\|Non-coding RNA]]                             |
-| [[Cards/Ribonucleic Acid\|Ribonucleic Acid]]                         |
-| [[Cards/RNA interference\|RNA interference]]                         |
+| Incoming Links                                                                |
+| ----------------------------------------------------------------------------- |
+| [[Sources/Other/@LFS252M09TutorialQuestions\|@LFS252M09TutorialQuestions]] |
+| [[Cards/Non-coding RNA\|Non-coding RNA]]                                   |
+| [[Cards/Ribonucleic Acid\|Ribonucleic Acid]]                               |
+| [[Cards/RNA interference\|RNA interference]]                               |
 
 { .block-language-dataview}
 

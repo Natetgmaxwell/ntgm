@@ -19,7 +19,7 @@
 
 | Incoming Links                                            |
 | --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-04-21 Sun\|2024-04-21 Sun]] |
+| [[Calendar/2024/Daily/2024-04-21 Sun\|2024-04-21 Sun]] |
 
 { .block-language-dataview}
 

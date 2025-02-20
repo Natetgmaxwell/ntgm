@@ -6,37 +6,27 @@
 
 ## Classes
 
-| Classes                                                                                                                               | Class Code                 | Current |
-| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------- |
-| [[Spaces/University/Classes/Introduction to Pharmacology\|Introduction to Pharmacology]]                                           | BIM263                     | true    |
-| [[Spaces/University/Classes/Medical Genetics\|Medical Genetics]]                                                                   | BIM202                     | true    |
-| [[Spaces/University/Classes/Foundations in Medical Science\|Foundations in Medical Science]]                                       | MLS101                     | false   |
-| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                                                         | LFS122                     | false   |
-| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                                   | <ul><li>LFS112</li></ul>   | false   |
-| [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]                                 | <ul><li>HBIO1010</li></ul> | false   |
-| [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                             | <ul><li>HBIO1009</li></ul> | false   |
-| [[Spaces/University/Classes/Introductory Bioscience\|Introductory Bioscience]]                                                     | LFS103                     | false   |
-| [[Spaces/University/Classes/Introductory Chemistry\|Introductory Chemistry]]                                                       | <ul><li>SCI105</li></ul>   | false   |
-| [[Spaces/University/Classes/Introductory Microbiology\|Introductory Microbiology]]                                                 | LFS261                     | false   |
-| [[Spaces/University/Classes/Molecular Biology\|Molecular Biology]]                                                                 | LFS252                     | \-      |
-| [[Spaces/University/Classes/Osteopathic Manual Therapy 2\|Osteopathic Manual Therapy 2]]                                           | OMT2                       | false   |
-| [[Spaces/University/Classes/Osteopathic Manual Therapy 1\|Osteopathic Manual Therapy 1]]                                           | <ul><li>OMT1</li></ul>     | false   |
-| [[Spaces/University/Classes/The Reflective Learner and Health Science Scholar\|The Reflective Learner and Health Science Scholar]] | <ul><li>HLTH1004</li></ul> | false   |
-| [[Spaces/University/Classes/Science Research Methods\|Science Research Methods]]                                                   | SCI110                     | false   |
-| [[Spaces/University/Classes/Biotechnology Research to Product\|Biotechnology Research to Product]]                                 | MBT254                     | \-      |
-| [[Spaces/University/Classes/Foundations of Inter-professional Health Practice\|Foundations of Inter-professional Health Practice]] | <ul><li>HLTH1006</li></ul> | false   |
-| [[Spaces/University/Classes/Think Health\|Think Health]]                                                                           | HLT140                     | false   |
+| Classes                                                                                                         | Class Code | Current |
+| --------------------------------------------------------------------------------------------------------------- | ---------- | ------- |
+| [[Spaces/University/Classes/Applied Microbiology and Biotechnology\|Applied Microbiology and Biotechnology]] | MBT361     | true    |
 
 { .block-language-dataview}
 
 ## [[Atlas/🎓 University\|Uni]] Projects
 
-| Name                                                                                         | Class                                                                                       | Status      |
-| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------- |
-| [[Spaces/University/Projects/BIM263A2 Narrated Powerpoint\|BIM263A2 Narrated Powerpoint]] | [[Spaces/University/Classes/Introduction to Pharmacology\|Introduction to Pharmacology]] | In Progress |
-| [[Spaces/University/Projects/BIM202A2 Literature Review\|BIM202A2 Literature Review]]     | [[Spaces/University/Classes/Medical Genetics\|BIM202]]                                   | In Progress |
-| [[Spaces/University/Projects/BIM263A1 Problem Sets\|BIM263A1 Problem Sets]]               | \-                                                                                          |             |
-| [[Spaces/University/Projects/MBT254A2 Written Assignment\|MBT254A2 Written Assignment]]   | [[Spaces/University/Classes/Biotechnology Research to Product\|MBT254]]                  | In Progress |
+| Name                                                                                             | Class                                                                           | Status      |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ----------- |
+| [[Spaces/University/Projects/LFS251 Laboratory Report\|LFS251 Laboratory Report]]             | [[Spaces/University/Classes/Biochemistry\|LFS251]]                           | Not Started |
+| [[Spaces/University/Projects/LFS251 Mid-Semester Exam\|LFS251 Mid-Semester Exam]]             | [[Spaces/University/Classes/Biochemistry\|LFS251]]                           | Not Started |
+| [[Spaces/University/Projects/LFS251A1A Problem Set\|LFS251A1A Problem Set]]                   | [[Spaces/University/Classes/Biochemistry\|LFS251]]                           | Not Started |
+| [[Spaces/University/Projects/LFS251A1B Problem Set\|LFS251A1B Problem Set]]                   | [[Spaces/University/Classes/Biochemistry\|LFS251]]                           | Not Started |
+| [[Spaces/University/Projects/MBT355A1 Practical Reports\|MBT355A1 Practical Reports]]         | [[Spaces/University/Classes/Bioimformatics\|MBT355]]                         | Not Started |
+| [[Spaces/University/Projects/MBT355A2 Essay\|MBT355A2 Essay]]                                 | [[Spaces/University/Classes/Bioimformatics\|MBT355]]                         | Not Started |
+| [[Spaces/University/Projects/MBT3613B Laboratory Report\|MBT3613B Laboratory Report]]         | [[Spaces/University/Classes/Applied Microbiology and Biotechnology\|MBT361]] | Not Started |
+| [[Spaces/University/Projects/MBT361A1 Early Assessment Quiz\|MBT361A1 Early Assessment Quiz]] | [[Spaces/University/Classes/Applied Microbiology and Biotechnology\|MBT361]] | Not Started |
+| [[Spaces/University/Projects/MBT361A3A Laboratory Quiz\|MBT361A3A Laboratory Quiz]]           | [[Spaces/University/Classes/Applied Microbiology and Biotechnology\|MBT361]] | Not Started |
+| [[Spaces/University/Projects/MBT361A4 Final Exam\|MBT361A4 Final Exam]]                       | [[Spaces/University/Classes/Applied Microbiology and Biotechnology\|MBT361]] | Not Started |
+| [[Spaces/University/Projects/MBT361A2 Mid-Term Exam\|MBT361A2 Mid-Term Exam]]                 | [[Spaces/University/Classes/Applied Microbiology and Biotechnology\|MBT361]] | Not Started |
 
 { .block-language-dataview}
 

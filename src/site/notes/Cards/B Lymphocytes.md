@@ -42,7 +42,7 @@
 
 | Incoming Links                                                                                        |
 | ----------------------------------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-08-28 Wed\|2024-08-28 Wed]]                                             |
+| [[Calendar/2024/Daily/2024-08-28 Wed\|2024-08-28 Wed]]                                             |
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
 | [[Cards/Interleukin 15\|Interleukin 15]]                                                           |
 | [[Cards/Primary Immunodeficiency\|Primary Immunodeficiency]]                                       |

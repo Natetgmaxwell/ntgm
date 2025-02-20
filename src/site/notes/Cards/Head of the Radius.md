@@ -1,5 +1,5 @@
 ---
-{"aliases":["Radial Head"],"tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/head-of-the-radius/","dgPassFrontmatter":true}
+{"aliases":"Radial Head","tags":["Uni/LFS122","flashcards/LFS122"],"dg-publish":true,"permalink":"/cards/head-of-the-radius/","dgPassFrontmatter":true}
 ---
 
 # Head of the Radius

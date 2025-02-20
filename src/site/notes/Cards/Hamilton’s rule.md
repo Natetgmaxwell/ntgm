@@ -1,5 +1,5 @@
 ---
-{"aliases":["Hamilton’s rule"],"tags":["note/seed"],"dg-publish":true,"permalink":"/cards/hamilton-s-rule/","dgPassFrontmatter":true}
+{"aliases":"Hamilton’s rule","tags":["note/seed"],"dg-publish":true,"permalink":"/cards/hamilton-s-rule/","dgPassFrontmatter":true}
 ---
 
 # Hamilton’s Rule

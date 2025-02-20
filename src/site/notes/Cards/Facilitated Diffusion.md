@@ -20,10 +20,10 @@
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                 |
+| [[Cards/Channel Proteins\|Channel Proteins]]                                                           |
 | [[Cards/Gap Junctions\|Gap Junctions]]                                                                 |
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]     |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
-| [[Cards/Plasma Membrane Transport\|Plasma Membrane Transport]]                                         |
 
 { .block-language-dataview}
 

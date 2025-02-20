@@ -21,8 +21,8 @@
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                                    |
 | [[Calendar/2023/Daily/2023-09-11 Mon\|2023-09-11 Mon]]                                                                    |
-| [[Calendar/2023/Daily/2024-07-26 Fri\|2024-07-26 Fri]]                                                                    |
-| [[Calendar/2023/Daily/2024-07-31 Wed\|2024-07-31 Wed]]                                                                    |
+| [[Calendar/2024/Daily/2024-07-26 Fri\|2024-07-26 Fri]]                                                                    |
+| [[Calendar/2024/Daily/2024-07-31 Wed\|2024-07-31 Wed]]                                                                    |
 | [[Cards/Blood\|Blood]]                                                                                                    |
 | [[Cards/Electrophoresis\|Electrophoresis]]                                                                                |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |

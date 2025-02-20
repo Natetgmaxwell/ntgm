@@ -29,7 +29,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-03-11\|2022-03-11]]                                                                            |
 | [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                                    |
-| [[Calendar/2023/Daily/2024-10-21 Mon\|2024-10-21 Mon]]                                                                    |
+| [[Calendar/2024/Daily/2024-10-21 Mon\|2024-10-21 Mon]]                                                                    |
 | [[Cards/Anti-Codon\|Anti-Codon]]                                                                                          |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
 | [[Cards/Post Translation Modification\|Post Translation Modification]]                                                    |

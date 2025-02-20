@@ -1,5 +1,5 @@
 ---
-{"aliases":"BIM202","dg-publish":true,"current-class":true,"tags":["flashcards/BIM202"],"permalink":"/spaces/university/classes/medical-genetics/","dgPassFrontmatter":true}
+{"aliases":"BIM202","dg-publish":true,"current-class":false,"tags":["flashcards/BIM202"],"permalink":"/spaces/university/classes/medical-genetics/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,26 +9,29 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 ## Assessments
 
-| Name                                                                                     | Status      |
-| ---------------------------------------------------------------------------------------- | ----------- |
-| [[Spaces/University/Projects/BIM202A2 Literature Review\|BIM202A2 Literature Review]] | In Progress |
+| Name                                                                                     | Status    |
+| ---------------------------------------------------------------------------------------- | --------- |
+| [[Spaces/University/Projects/BIM202A2 Literature Review\|BIM202A2 Literature Review]] | Completed |
 
 { .block-language-dataview}
 
 ## Sources
 
-| Name                                                                                                          | dg-publish |
-| ------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[Sources/@kuballa2024BIM202M06T04BloodGroups\|@kuballa2024BIM202M06T04BloodGroups]]                       | true       |
-| [[Sources/@kuballa2024BIM202M10T01OverviewMolecular\|@kuballa2024BIM202M10T01OverviewMolecular]]           | true       |
-| [[Sources/Video/@annakuballa2024BIM202M01T01Introduction\|@annakuballa2024BIM202M01T01Introduction]]       | true       |
-| [[Sources/Video/@annakuballa2024BIM202M01T02CourseOverview\|@annakuballa2024BIM202M01T02CourseOverview]]   | true       |
-| [[Sources/Video/@annakuballa2024BIM202M01T03HistoryGenetics\|@annakuballa2024BIM202M01T03HistoryGenetics]] | true       |
-| [[Sources/Video/@annakuballa2024BIM202M01T04ChromosomalDNA\|@annakuballa2024BIM202M01T04ChromosomalDNA]]   | true       |
-| [[Sources/Video/@kuballa2024BIM202M02T01MolecularBasis\|@kuballa2024BIM202M02T01MolecularBasis]]           | true       |
-| [[Sources/Video/@kuballa2024BIM202M02T02GeneExpression\|@kuballa2024BIM202M02T02GeneExpression]]           | true       |
-| [[Sources/Video/@kuballa2024BIM202M06T02InnateImmunity\|@kuballa2024BIM202M06T02InnateImmunity]]           | true       |
-| [[Sources/Video/@kuballa2024BIM202M06T03SpecificAcquired\|@kuballa2024BIM202M06T03SpecificAcquired]]       | true       |
+| Name                                                                                                                | dg-publish |
+| ------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[Sources/Research Papers/@laurencefaivre2007EffectMutationType\|@laurencefaivre2007EffectMutationType]]         | true       |
+| [[Sources/Video/@annakuballa2024BIM202M01T01Introduction\|@annakuballa2024BIM202M01T01Introduction]]             | true       |
+| [[Sources/Video/@annakuballa2024BIM202M01T02CourseOverview\|@annakuballa2024BIM202M01T02CourseOverview]]         | true       |
+| [[Sources/Video/@annakuballa2024BIM202M01T03HistoryGenetics\|@annakuballa2024BIM202M01T03HistoryGenetics]]       | true       |
+| [[Sources/Video/@annakuballa2024BIM202M01T04ChromosomalDNA\|@annakuballa2024BIM202M01T04ChromosomalDNA]]         | true       |
+| [[Sources/Video/@kuballa2024BIM202M02T01MolecularBasis\|@kuballa2024BIM202M02T01MolecularBasis]]                 | true       |
+| [[Sources/Video/@kuballa2024BIM202M02T02GeneExpression\|@kuballa2024BIM202M02T02GeneExpression]]                 | true       |
+| [[Sources/Video/@kuballa2024BIM202M06T01ImmunogeneticsOverview\|@kuballa2024BIM202M06T01ImmunogeneticsOverview]] | true       |
+| [[Sources/Video/@kuballa2024BIM202M06T02InnateImmunity\|@kuballa2024BIM202M06T02InnateImmunity]]                 | true       |
+| [[Sources/Video/@kuballa2024BIM202M06T03SpecificAcquired\|@kuballa2024BIM202M06T03SpecificAcquired]]             | true       |
+| [[Sources/Video/@kuballa2024BIM202M06T04BloodGroups\|@kuballa2024BIM202M06T04BloodGroups]]                       | true       |
+| [[Sources/Video/@kuballa2024BIM202M07T02BiochemicalDisorders\|@kuballa2024BIM202M07T02BiochemicalDisorders]]     | true       |
+| [[Sources/Video/@kuballa2024BIM202M10T01OverviewMolecular\|@kuballa2024BIM202M10T01OverviewMolecular]]           | true       |
 
 { .block-language-dataview}
 
@@ -36,23 +39,23 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 | Date                                                      |
 | --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-07-22 Mon\|2024-07-22 Mon]] |
-| [[Calendar/2023/Daily/2024-07-24 Wed\|2024-07-24 Wed]] |
-| [[Calendar/2023/Daily/2024-07-29 Mon\|2024-07-29 Mon]] |
-| [[Calendar/2023/Daily/2024-07-31 Wed\|2024-07-31 Wed]] |
-| [[Calendar/2023/Daily/2024-08-05 Mon\|2024-08-05 Mon]] |
-| [[Calendar/2023/Daily/2024-08-12 Mon\|2024-08-12 Mon]] |
-| [[Calendar/2023/Daily/2024-08-21 Wed\|2024-08-21 Wed]] |
-| [[Calendar/2023/Daily/2024-08-26 Mon\|2024-08-26 Mon]] |
-| [[Calendar/2023/Daily/2024-08-28 Wed\|2024-08-28 Wed]] |
-| [[Calendar/2023/Daily/2024-09-04 Wed\|2024-09-04 Wed]] |
-| [[Calendar/2023/Daily/2024-09-18 Wed\|2024-09-18 Wed]] |
-| [[Calendar/2023/Daily/2024-10-02 Wed\|2024-10-02 Wed]] |
-| [[Calendar/2023/Daily/2024-10-08 Tue\|2024-10-08 Tue]] |
-| [[Calendar/2023/Daily/2024-10-09 Wed\|2024-10-09 Wed]] |
-| [[Calendar/2023/Daily/2024-10-14 Mon\|2024-10-14 Mon]] |
-| [[Calendar/2023/Daily/2024-10-21 Mon\|2024-10-21 Mon]] |
-| [[Calendar/2023/Daily/2024-10-23 Wed\|2024-10-23 Wed]] |
+| [[Calendar/2024/Daily/2024-07-22 Mon\|2024-07-22 Mon]] |
+| [[Calendar/2024/Daily/2024-07-24 Wed\|2024-07-24 Wed]] |
+| [[Calendar/2024/Daily/2024-07-29 Mon\|2024-07-29 Mon]] |
+| [[Calendar/2024/Daily/2024-07-31 Wed\|2024-07-31 Wed]] |
+| [[Calendar/2024/Daily/2024-08-05 Mon\|2024-08-05 Mon]] |
+| [[Calendar/2024/Daily/2024-08-12 Mon\|2024-08-12 Mon]] |
+| [[Calendar/2024/Daily/2024-08-21 Wed\|2024-08-21 Wed]] |
+| [[Calendar/2024/Daily/2024-08-26 Mon\|2024-08-26 Mon]] |
+| [[Calendar/2024/Daily/2024-08-28 Wed\|2024-08-28 Wed]] |
+| [[Calendar/2024/Daily/2024-09-04 Wed\|2024-09-04 Wed]] |
+| [[Calendar/2024/Daily/2024-09-18 Wed\|2024-09-18 Wed]] |
+| [[Calendar/2024/Daily/2024-10-02 Wed\|2024-10-02 Wed]] |
+| [[Calendar/2024/Daily/2024-10-08 Tue\|2024-10-08 Tue]] |
+| [[Calendar/2024/Daily/2024-10-09 Wed\|2024-10-09 Wed]] |
+| [[Calendar/2024/Daily/2024-10-14 Mon\|2024-10-14 Mon]] |
+| [[Calendar/2024/Daily/2024-10-21 Mon\|2024-10-21 Mon]] |
+| [[Calendar/2024/Daily/2024-10-23 Wed\|2024-10-23 Wed]] |
 
 { .block-language-dataview}
 

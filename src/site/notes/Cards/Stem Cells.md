@@ -33,7 +33,7 @@
 | Incoming Links                                                                |
 | ----------------------------------------------------------------------------- |
 | [[Calendar/2022/Daily/2022-02-22\|2022-02-22]]                             |
-| [[Calendar/2023/Daily/2024-10-09 Wed\|2024-10-09 Wed]]                     |
+| [[Calendar/2024/Daily/2024-10-09 Wed\|2024-10-09 Wed]]                     |
 | [[Cards/Blood Flow Restriction Training\|Blood Flow Restriction Training]] |
 | [[Cards/Embryonic Stem Cells\|Embryonic Stem Cells]]                       |
 | [[Cards/Hypoxia\|Hypoxia]]                                                 |

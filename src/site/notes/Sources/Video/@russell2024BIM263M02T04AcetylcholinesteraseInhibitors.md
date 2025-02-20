@@ -32,7 +32,7 @@
 
 > [!quote-yellow] (Page 2) yellow
 > 
-> ![[Extras/Images/7R6Z7ATB.png\|Extras/Images/7R6Z7ATB.png]]
+> ![Extras/Images/7R6Z7ATB.png](/img/user/Extras/Images/7R6Z7ATB.png)
 >
 { #7R6Z7ATBaUEIDVW5Tp2}
 

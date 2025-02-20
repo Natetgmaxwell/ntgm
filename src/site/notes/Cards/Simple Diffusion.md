@@ -10,6 +10,7 @@
 > down:: 
 
 > [!Definition] Definition
+> [[Cards/Simple Diffusion\|Simple Diffusion]] is the movement of solutes from an area of high to low concentration without the need to [[Cards/Channel Proteins\|Channel Proteins]].
 
 # Reference
 
@@ -26,6 +27,7 @@
 
 | Outgoing Links                                                    |
 | ----------------------------------------------------------------- |
+| [[Cards/Channel Proteins\|Channel Proteins]]                   |
 | [[Cards/Diffusion\|Diffusion]]                                 |
 | [[Cards/Facilitated Diffusion\|Facilitated Diffusion]]         |
 | [[Cards/Plasma Membrane Transport\|Plasma Membrane Transport]] |

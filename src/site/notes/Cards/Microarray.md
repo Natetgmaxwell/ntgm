@@ -19,7 +19,7 @@
 
 | Incoming Links                                            |
 | --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-08-05 Mon\|2024-08-05 Mon]] |
+| [[Calendar/2024/Daily/2024-08-05 Mon\|2024-08-05 Mon]] |
 
 { .block-language-dataview}
 

@@ -19,7 +19,7 @@
 
 | Incoming Links                                            |
 | --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-08-26 Mon\|2024-08-26 Mon]] |
+| [[Calendar/2024/Daily/2024-08-26 Mon\|2024-08-26 Mon]] |
 | [[Cards/Electrophoresis\|Electrophoresis]]             |
 | [[Cards/Lymphocytes\|Lymphocytes]]                     |
 

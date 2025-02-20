@@ -29,9 +29,9 @@
 
 ## Mentions
 
-| Incoming Links                              |
-| ------------------------------------------- |
-| [[• Inbox/Down Syndrome\|Down Syndrome]] |
+| Incoming Links                            |
+| ----------------------------------------- |
+| [[Cards/Down Syndrome\|Down Syndrome]] |
 
 { .block-language-dataview}
 

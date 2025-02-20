@@ -26,7 +26,7 @@
 
 | Incoming Links                                                  |
 | --------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-10-21 Mon\|2024-10-21 Mon]]       |
+| [[Calendar/2024/Daily/2024-10-21 Mon\|2024-10-21 Mon]]       |
 | [[Cards/Transcription Factor IIE\|Transcription Factor IIE]] |
 | [[Cards/Transcription Factor IIH\|Transcription Factor IIH]] |
 

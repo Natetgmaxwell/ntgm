@@ -56,7 +56,7 @@
 
 > [!quote-yellow] (Page 9) yellow
 > 
-> ![[Extras/Images/IBC5LHST.png\|Extras/Images/IBC5LHST.png]]
+> ![Extras/Images/IBC5LHST.png](/img/user/Extras/Images/IBC5LHST.png)
 >
 { #IBC5LHSTa99T52KLAp9}
 

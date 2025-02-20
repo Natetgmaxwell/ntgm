@@ -19,7 +19,7 @@
 
 | Incoming Links                                            |
 | --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2024-10-02 Wed\|2024-10-02 Wed]] |
+| [[Calendar/2024/Daily/2024-10-02 Wed\|2024-10-02 Wed]] |
 | [[Cards/Epigenetic Regulators\|Epigenetic Regulators]] |
 | [[Cards/Genomic Imprinting\|Genomic Imprinting]]       |
 

@@ -5,7 +5,7 @@
 # Gut Microbiome
 
 > [!Ontology]-
-> up:: [[Cards/Gastrointestinal tract\|Gastrointestinal tract]], [[• Inbox/Human Microbiome\|Human Microbiome]]
+> up:: [[Cards/Gastrointestinal tract\|Gastrointestinal tract]], [[Cards/Human Microbiome\|Human Microbiome]]
 > jump:: [[Cards/Micro-organisms\|microorganism]]
 > down:: 
 
@@ -34,7 +34,7 @@
 | Outgoing Links                                              |
 | ----------------------------------------------------------- |
 | [[Cards/Gastrointestinal tract\|Gastrointestinal tract]] |
-| [[• Inbox/Human Microbiome\|Human Microbiome]]           |
+| [[Cards/Human Microbiome\|Human Microbiome]]             |
 | [[Cards/Micro-organisms\|Micro-organisms]]               |
 | [[Cards/Prebiotic fibre\|Prebiotic fibre]]               |
 | [[Cards/Probiotics\|Probiotics]]                         |

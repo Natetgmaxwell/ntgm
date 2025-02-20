@@ -33,21 +33,21 @@
 
 > [!quote-yellow] (Page 3) yellow
 > 
-> ![[Extras/Images/8WNPPPZY.png\|Extras/Images/8WNPPPZY.png]]
+> ![Extras/Images/8WNPPPZY.png](/img/user/Extras/Images/8WNPPPZY.png)
 >
 { #8WNPPPZYaMNBA2V5Cp3}
 
 
 > [!quote-yellow] (Page 3) yellow
 > 
-> ![[Extras/Images/CY3BF47T.png\|Extras/Images/CY3BF47T.png]]
+> ![Extras/Images/CY3BF47T.png](/img/user/Extras/Images/CY3BF47T.png)
 >
 { #CY3BF47TaMNBA2V5Cp3}
 
 
 > [!quote-yellow] (Page 3) yellow
 > 
-> ![[Extras/Images/ZCLY4JB2.png\|Extras/Images/ZCLY4JB2.png]]
+> ![Extras/Images/ZCLY4JB2.png](/img/user/Extras/Images/ZCLY4JB2.png)
 >
 { #ZCLY4JB2aMNBA2V5Cp3}
 
@@ -61,7 +61,7 @@
 
 > [!quote-yellow] (Page 7) yellow
 > 
-> ![[Extras/Images/MQRF9YRW.png\|Extras/Images/MQRF9YRW.png]]
+> ![Extras/Images/MQRF9YRW.png](/img/user/Extras/Images/MQRF9YRW.png)
 >
 { #MQRF9YRWaMNBA2V5Cp7}
 

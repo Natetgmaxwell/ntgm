@@ -20,9 +20,10 @@
 > creators:: Fyodor Dostoevsky
 
 > [!Links]+
->  | Incoming Links                    |
-> | --------------------------------- |
-> | [[Cards/Deception\|Deception]] |
+>  | Incoming Links                                    |
+> | ------------------------------------------------- |
+> | [[Cards/Deception\|Deception]]                 |
+> | [[Cards/Fyodor Dostoevsky\|Fyodor Dostoevsky]] |
 > 
 { .block-language-dataview}
 

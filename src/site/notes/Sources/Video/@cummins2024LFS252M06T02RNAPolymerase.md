@@ -32,21 +32,21 @@
 
 > [!quote-yellow] (Page 4) yellow
 > 
-> ![[Extras/Images/72VQ45GL.png\|Extras/Images/72VQ45GL.png]]
+> ![Extras/Images/72VQ45GL.png](/img/user/Extras/Images/72VQ45GL.png)
 >
 { #72VQ45GLaYYNT97MHp4}
 
 
 > [!quote-yellow] (Page 6) yellow
 > 
-> ![[Extras/Images/S48UWUTH.png\|Extras/Images/S48UWUTH.png]]
+> ![Extras/Images/S48UWUTH.png](/img/user/Extras/Images/S48UWUTH.png)
 >
 { #S48UWUTHaYYNT97MHp6}
 
 
 > [!quote-yellow] (Page 7) yellow
 > 
-> ![[Extras/Images/WC7E6B9A.png\|Extras/Images/WC7E6B9A.png]]
+> ![Extras/Images/WC7E6B9A.png](/img/user/Extras/Images/WC7E6B9A.png)
 > 
 > ---
 > Pre-Initiation Complexe
@@ -56,7 +56,7 @@
 
 > [!quote-yellow] (Page 11) yellow
 > 
-> ![[Extras/Images/SGMGNRDH.png\|Extras/Images/SGMGNRDH.png]]
+> ![Extras/Images/SGMGNRDH.png](/img/user/Extras/Images/SGMGNRDH.png)
 >
 { #SGMGNRDHaYYNT97MHp11}
 

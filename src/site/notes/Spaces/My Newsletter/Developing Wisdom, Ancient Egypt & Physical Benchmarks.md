@@ -3,11 +3,12 @@
 ---
 
 # Developing Wisdom, Ancient Egypt & Physical Benchmarks
+
 ### How One Can Develop Profound Wisdom, the Impacts of Ancient Civilizations and Physical Benchmarks for Optimal Health
 
 Quote of the week comes from [[Cards/Robert Greene\|Robert Greene]] and 50 Cents' _The 50th Law_.
 
-> "His superiority, he realised, was that he knew that he knew nothing. This left his mind open to experiencing things as they are, the source of all knowledge." (referring to Socrates, an ancient greek philosopher)
+> "His superiority, he realised, was that he knew that he knew nothing. This left his mind open to experiencing things as they are, the source of all knowledge." (referring to [[Cards/Socrates\|Socrates]], an ancient greek philosopher)
 
 This shows how acknowledging our [[Cards/Ignorance\|Ignorance]] is a strength in which we are always open to learning more and being proven wrong, constantly building our knowledge and Wisdom. Your knowledge can be leveraged in decision-making, and the more 'data' you have to draw upon, the more justified and accurate your decision will be. 
 
@@ -16,8 +17,6 @@ The process of extracting newfound Wisdom from knowledge, information and, in th
 [
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9973b1fe-4dfc-4d74-a166-3fba675e1e4c_1200x935.png)
-
-
 
 ](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9973b1fe-4dfc-4d74-a166-3fba675e1e4c_1200x935.png)
 

@@ -18,35 +18,35 @@
 
 ## Recently Created Cards
 
-| File Name                                                             | Date Modified     |
-| --------------------------------------------------------------------- | ----------------- |
-| [[Cards/Adrenergic receptors\|Adrenergic receptors]]               | November 06, 2024 |
-| [[Cards/Antagonist\|Antagonist]]                                   | November 06, 2024 |
-| [[Cards/Beta Blockers\|Beta Blockers]]                             | November 06, 2024 |
-| [[Cards/Heparin\|Heparin]]                                         | November 06, 2024 |
-| [[Cards/Inotrope\|Inotrope]]                                       | November 06, 2024 |
-| [[Cards/Lusitropy\|Lusitropy]]                                     | November 06, 2024 |
-| [[Cards/Reversible Enzyme Inhibitor\|Reversible Enzyme Inhibitor]] | November 06, 2024 |
-| [[Cards/Warfarin\|Warfarin]]                                       | November 06, 2024 |
-| [[Cards/Micro RNA\|Micro RNA]]                                     | November 05, 2024 |
-| [[Cards/Nucleosome\|Nucleosome]]                                   | November 05, 2024 |
+| File Name                                                                                                                         | Date Modified     |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Cards/Le Chatelier's Principle\|Le Chatelier's Principle]]                                                                   | February 20, 2025 |
+| [[Cards/Plasma Membrane Transport\|Plasma Membrane Transport]]                                                                 | February 20, 2025 |
+| [[Cards/Simple Diffusion\|Simple Diffusion]]                                                                                   | February 20, 2025 |
+| [[Cards/Channel Proteins\|Channel Proteins]]                                                                                   | February 20, 2025 |
+| [[Cards/Aquaporins\|Aquaporins]]                                                                                               | February 20, 2025 |
+| [[Cards/Consistency\|Consistency]]                                                                                             | February 16, 2025 |
+| [[Cards/Decision Making\|Decision Making]]                                                                                     | February 16, 2025 |
+| [[Cards/Specialisation\|Specialisation]]                                                                                       | February 16, 2025 |
+| [[Cards/5 Questions to Ask if your Unsure about your Relationship\|5 Questions to Ask if your Unsure about your Relationship]] | February 14, 2025 |
+| [[Cards/Charlie munger\|Charlie munger]]                                                                                       | February 14, 2025 |
 
 { .block-language-dataview}
 
 ## Recent Sources
 
-| File Name                                                                                                     | Date Modified      | Type           |
-| ------------------------------------------------------------------------------------------------------------- | ------------------ | -------------- |
-| [[Sources/@ventura2024LFS252M09T01Protein\|@ventura2024LFS252M09T01Protein]]                               | November 05, 2024  | Video          |
-| [[Sources/boudridiBIM263M10T01Drug\|boudridiBIM263M10T01Drug]]                                             | October 29, 2024   | Video          |
-| [[Sources/@boudridiBIM263M10T01Drug\|@boudridiBIM263M10T01Drug]]                                           | October 21, 2024   | Video          |
-| [[Sources/@kuballa2024BIM202M10T01OverviewMolecular\|@kuballa2024BIM202M10T01OverviewMolecular]]           | October 08, 2024   | Video          |
-| [[Sources/@kuballa2024BIM202M07T02BiochemicalDisorders\|@kuballa2024BIM202M07T02BiochemicalDisorders]]     | September 12, 2024 | Video          |
-| [[Sources/@yu2017Smad7EnablesSTAT3\|@yu2017Smad7EnablesSTAT3]]                                             | September 11, 2024 | Research Paper |
-| [[Sources/@huang2020EffectsTransformingGrowth\|@huang2020EffectsTransformingGrowth]]                       | September 11, 2024 | Research Paper |
-| [[Sources/@kuballa2024BIM202M06T01ImmunogeneticsOverview\|@kuballa2024BIM202M06T01ImmunogeneticsOverview]] | September 11, 2024 | Video          |
-| [[Sources/Video/@mcmillan2024LFS252M02T04DNAReplication\|@mcmillan2024LFS252M02T04DNAReplication]]         | September 07, 2024 | Video          |
-| [[Sources/@sakai2016FBN1DiseaseCausingGene\|@sakai2016FBN1DiseaseCausingGene]]                             | September 06, 2024 | Research Paper |
+| File Name                                                                                                           | Date Modified     | Type  |
+| ------------------------------------------------------------------------------------------------------------------- | ----------------- | ----- |
+| [[Sources/Books/@oscarwilde1897Profundis\|@oscarwilde1897Profundis]]                                             | February 16, 2025 | Book  |
+| [[Sources/Books/@leotolstoy1869WarPeace\|@leotolstoy1869WarPeace]]                                               | February 16, 2025 | Book  |
+| [[Sources/Books/@FyodorDostoevsky1869Idiot\|@FyodorDostoevsky1869Idiot]]                                         | February 16, 2025 | Book  |
+| [[Sources/Books/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]                             | January 09, 2025  | Book  |
+| [[Sources/Video/boudridiBIM263M10T01Drug\|boudridiBIM263M10T01Drug]]                                             | December 24, 2024 | Video |
+| [[Sources/Video/@ventura2024LFS252M09T01Protein\|@ventura2024LFS252M09T01Protein]]                               | December 24, 2024 | Video |
+| [[Sources/Video/@kuballa2024BIM202M10T01OverviewMolecular\|@kuballa2024BIM202M10T01OverviewMolecular]]           | December 24, 2024 | Video |
+| [[Sources/Video/@kuballa2024BIM202M07T02BiochemicalDisorders\|@kuballa2024BIM202M07T02BiochemicalDisorders]]     | December 24, 2024 | Video |
+| [[Sources/Video/@kuballa2024BIM202M06T04BloodGroups\|@kuballa2024BIM202M06T04BloodGroups]]                       | December 24, 2024 | Video |
+| [[Sources/Video/@kuballa2024BIM202M06T01ImmunogeneticsOverview\|@kuballa2024BIM202M06T01ImmunogeneticsOverview]] | December 24, 2024 | Video |
 
 { .block-language-dataview}
 
@@ -65,11 +65,22 @@
 - [Zotero - Reference Manager](https://www.zotero.org/)
 - [IINA - Media Player MacOS](https://iina.io/)
 - [Raycast - Better Spotlight Search](https://www.raycast.com/)
-- [Rectangle - Window Management](https://rectangleapp.com/)
+	- Extensions
+		- Apple Reminders
+		- Calendar
+		- Change Case
+		- Coffee
+		- Colour Picker
+		- Pomodoro
+		- Screen OCR
+		- Search Emoji
+		- Test Internet Speed
 - [Flux - Better Night Shift](https://justgetflux.com/)
 - [Arc - Browser of Choice](https://arc.net/)
 - [PDF Editor and Reader](https://pdfexpert.com/)
-- [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
 - [Aerospace - Tiling Window Manager](https://github.com/nikitabobko/AeroSpace)
+- [Homerow - Keyboard Navigation](https://www.homerow.app/)
+- [Hidden Bar - Hide menu bar icons](https://superbits.co/hidden/)
+- [Karabiner-Elements - Keyboard Remapping](https://karabiner-elements.pqrs.org/)
 
 ##### Github Repo Can Be Found At: https://github.com/Natetgmaxwell/ntgm

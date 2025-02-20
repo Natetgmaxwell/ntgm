@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/BIM202","flashcards/BIM202"],"dg-publish":true,"permalink":"/cards/dna-methylation/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/BIM202","flashcards/BIM202"],"dg-publish":true,"cards-deck":"University::BIM202","permalink":"/cards/dna-methylation/","dgPassFrontmatter":true}
 ---
 
 # DNA Methylation
