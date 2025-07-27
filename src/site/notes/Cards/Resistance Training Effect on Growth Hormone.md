@@ -5,13 +5,13 @@
 # Resistance Training Effect on Growth Hormone
 
 > [!ontology]-
-> up:: [[Cards/Resistance training\|Resistance training]], [[Cards/Growth hormone\|Growth hormone]]
+> up:: [[Cards/Resistance training\|Resistance training]], [[Cards/Growth Hormone\|Growth Hormone]]
 > jump:: 
 > down:: 
 
 > [!Definition] Definition
 
-![Extras/Images/JPEVMLIY.png](/img/user/Extras/Images/JPEVMLIY.png)
+![[Extras/Images/JPEVMLIY.png\|Extras/Images/JPEVMLIY.png]]
 [[Sources/Research Papers/@craig1989EffectsProgressiveResistance\|@craig1989EffectsProgressiveResistance]]
 
 > [!quote] [[Sources/Research Papers/@craig1989EffectsProgressiveResistance\|@craig1989EffectsProgressiveResistance]]
@@ -30,7 +30,7 @@
 
 | Outgoing Links                                        |
 | ----------------------------------------------------- |
-| [[Cards/Growth hormone\|Growth hormone]]           |
+| [[Cards/Growth Hormone\|Growth Hormone]]           |
 | [[Cards/Resistance training\|Resistance training]] |
 
 { .block-language-dataview}

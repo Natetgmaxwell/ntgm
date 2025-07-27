@@ -6,14 +6,14 @@
 
 ## Books
 
-| Book                                                                                        | Genre       |
-| ------------------------------------------------------------------------------------------- | ----------- |
-| [[Sources/Books/@FyodorDostoevsky1869Idiot\|@FyodorDostoevsky1869Idiot]]                 | \-          |
-| [[Sources/Books/@leotolstoy1869WarPeace\|@leotolstoy1869WarPeace]]                       | \-          |
-| [[Sources/Books/@oscarwilde1897Profundis\|@oscarwilde1897Profundis]]                     | \-          |
-| [[Sources/Books/@robertgreeneLawsHumanNature2018\|@robertgreeneLawsHumanNature2018]]     | \-          |
-| [[Sources/Books/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]] | \-          |
-| [[Sources/Books/@feynman2011SixEasyPieces\|@feynman2011SixEasyPieces]]                   | Non-Fiction |
+| Book                                                                                                                          | Genre       |
+| ----------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Sources/Books/jamesdinicolantonio2021WinAchievePeak\|jamesdinicolantonio2021WinAchievePeak]]                             | \-          |
+| [[Sources/Books/@danielkahnemanThinkingFastSlow2011\|@danielkahnemanThinkingFastSlow2011]]                                 | \-          |
+| [[Sources/Books/@thomassowell2014BasicEconomics\|@thomassowell2014BasicEconomics]]                                         | \-          |
+| [[Sources/Books/@feynman2011SixEasyPieces\|@feynman2011SixEasyPieces]]                                                     | \-          |
+| [[Sources/Books/AI Superpowers by Kai-Fu Lee\|AI Superpowers by Kai-Fu Lee]]                                               | Non-Fiction |
+| [[Sources/Books/A Short History of Nearly Everything by Bill Bryson\|A Short History of Nearly Everything by Bill Bryson]] | Non-Fiction |
 
 { .block-language-dataview}
 
@@ -32,14 +32,14 @@
 
 ## Articles
 
-| Title                                                                                                  |
-| ------------------------------------------------------------------------------------------------------ |
-| [[Sources/Articles/@koenfucius2024MoralArithmeticEveryday\|@koenfucius2024MoralArithmeticEveryday]] |
-| [[Sources/Articles/@henderson2022HiddenMarriageMarket\|@henderson2022HiddenMarriageMarket]]         |
-| [[Sources/Articles/@williamson20243MMIdentityConnection\|@williamson20243MMIdentityConnection]]     |
-| [[Sources/Articles/@parrish2024Apprenticeship\|@parrish2024Apprenticeship]]                         |
-| [[Sources/Articles/@hendersonDawnEverythingNew2022\|@hendersonDawnEverythingNew2022]]               |
-| [[Sources/Articles/@henderson2024RemnantNewYork\|@henderson2024RemnantNewYork]]                     |
+| Title                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| [[Sources/Articles/@bloomJonahComplexHow2025\|@bloomJonahComplexHow2025]]                                             |
+| [[Sources/Articles/bigaBoneMarkings2019\|bigaBoneMarkings2019]]                                                       |
+| [[Sources/Articles/Why a Genome Can't Bring Back an Extinct Animal\|Why a Genome Can't Bring Back an Extinct Animal]] |
+| [[Sources/Articles/@shaneparish2024BrainFoodSeries\|@shaneparish2024BrainFoodSeries]]                                 |
+| [[Sources/Articles/@gurwinder202225UsefulIdeas\|@gurwinder202225UsefulIdeas]]                                         |
+| [[Sources/Articles/@parrish2024Apprenticeship\|@parrish2024Apprenticeship]]                                           |
 
 { .block-language-dataview}
 
@@ -59,11 +59,11 @@
 
 | File                                                                                                              | Keywords                                                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Research Papers/@mottus2024MostPeoplesLife\|@mottus2024MostPeoplesLife]]                             | <ul><li>Life Satisfaction</li><li>Personality Traits</li><li>Well Being</li></ul>                                                                                                        |
 | [[Sources/Research Papers/@yu2017Smad7EnablesSTAT3\|@yu2017Smad7EnablesSTAT3]]                                 | <ul></ul>                                                                                                                                                                                |
 | [[Sources/Research Papers/@huang2020EffectsTransformingGrowth\|@huang2020EffectsTransformingGrowth]]           | <ul></ul>                                                                                                                                                                                |
 | [[Sources/Research Papers/@sakai2016FBN1DiseaseCausingGene\|@sakai2016FBN1DiseaseCausingGene]]                 | <ul></ul>                                                                                                                                                                                |
 | [[Sources/Research Papers/@laurencefaivre2007EffectMutationType\|@laurencefaivre2007EffectMutationType]]       | \-                                                                                                                                                                                       |
 | [[Sources/Research Papers/@han2024TargetedNextgenerationSequencing\|@han2024TargetedNextgenerationSequencing]] | <ul><li>de novo</li><li>FBN1 gene</li><li>Marfan syndrome (MFS)</li><li>Marfan-like disorders</li><li>Marfan-related gene</li><li>panel-based next-generation sequencing (NGS)</li></ul> |
-| [[Sources/Research Papers/@morrowTeachingCriticalReflection2011\|@morrowTeachingCriticalReflection2011]]       | <ul><li>critical thinking</li><li>reflection</li></ul>                                                                                                                                   |
 
 { .block-language-dataview}

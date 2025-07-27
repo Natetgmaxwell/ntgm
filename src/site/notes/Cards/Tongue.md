@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extras/Images/image-5-x573-y171.png|250](/img/user/Extras/Images/image-5-x573-y171.png)
+![[Extras/Images/image-5-x573-y171.png\|250]]
 
 # Reference
 

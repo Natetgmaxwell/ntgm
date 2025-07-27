@@ -23,5 +23,5 @@
 
 ## Flashcards
 
-Covalent bonds enable some flexibility in proteins but define their structure. What types of covalent bonds are found in proteins?;;Peptide bonds
+[[Cards/Covalent Bonds\|Covalent bonds]] enable some flexibility in proteins but define their structure. What types of [[Cards/Covalent Bonds\|covalent bonds]] are found in proteins?;;Peptide bonds
 <!--SR:!2024-11-06,1,230-->

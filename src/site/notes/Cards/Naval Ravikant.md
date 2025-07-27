@@ -28,14 +28,16 @@
 
 { .block-language-dataview}
 
-| Outgoing Links |
-| -------------- |
+| Outgoing Links                                                                                              |
+| ----------------------------------------------------------------------------------------------------------- |
+| [[Cards/Dawkins’ Law of the Conservation of Difficulty\|Dawkins’ Law of the Conservation of Difficulty]] |
 
 { .block-language-dataview}
 
 | Sources                                                                                       |
 | --------------------------------------------------------------------------------------------- |
 | [[Sources/Books/@jorgenson2020AlmanackNavalRavikant\|@jorgenson2020AlmanackNavalRavikant]] |
+| [[Sources/Podcasts/@parrish2017NavalRavikantAngel\|@parrish2017NavalRavikantAngel]]        |
 
 { .block-language-dataview}
 

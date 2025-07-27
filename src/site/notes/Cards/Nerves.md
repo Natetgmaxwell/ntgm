@@ -30,6 +30,7 @@
 | [[Cards/Femoral nerve\|Femoral nerve]]                                                                                    |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
 | [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]]                                                       |
+| [[Spaces/University/Classes/Integrated Physiology\|Integrated Physiology]]                                                |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
 | [[Cards/Nerves of the Antebrachium\|Nerves of the Antebrachium]]                                                          |
 | [[Cards/Nerves of the Brachium\|Nerves of the Brachium]]                                                                  |

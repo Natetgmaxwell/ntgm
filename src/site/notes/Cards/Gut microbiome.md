@@ -28,6 +28,7 @@
 | Incoming Links                                                                        |
 | ------------------------------------------------------------------------------------- |
 | [[Cards/Microbial Interactions with Animals\|Microbial Interactions with Animals]] |
+| [[Cards/Resident Microflora\|Resident Microflora]]                                 |
 
 { .block-language-dataview}
 

@@ -1,11 +1,11 @@
 ---
-{"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/pyruvate/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/LFS251"],"dg-publish":true,"permalink":"/cards/pyruvate/","dgPassFrontmatter":true}
 ---
 
 # Pyruvate
 
 > [!ontology]
-> up:: 
+> up:: [[Cards/Glucose\|Glucose]]
 > jump:: [[Cards/Glycolysis\|Glycolysis]]
 > down:: [[Cards/Pyruvate dehydrogenase\|Pyruvate dehydrogenase]]
 
@@ -17,14 +17,17 @@
 
 ## Mentions
 
-| Incoming Links                                    |
-| ------------------------------------------------- |
-| [[Cards/Acetyl coenzyme A\|Acetyl coenzyme A]] |
+| Incoming Links                                                                                         |
+| ------------------------------------------------------------------------------------------------------ |
+| [[Cards/Acetyl coenzyme A\|Acetyl coenzyme A]]                                                      |
+| [[Cards/Citric Acid Cycle\|Citric Acid Cycle]]                                                      |
+| [[Extras/Overview processes of Glycolysis.excalidraw\|Overview processes of Glycolysis.excalidraw]] |
 
 { .block-language-dataview}
 
 | Outgoing Links                                              |
 | ----------------------------------------------------------- |
+| [[Cards/Glucose\|Glucose]]                               |
 | [[Cards/Glycolysis\|Glycolysis]]                         |
 | [[Cards/Pyruvate dehydrogenase\|Pyruvate dehydrogenase]] |
 

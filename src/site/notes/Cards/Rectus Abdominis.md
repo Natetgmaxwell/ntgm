@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extras/Images/image-10-x58-y173.png|440](/img/user/Extras/Images/image-10-x58-y173.png)
+![[Extras/Images/image-10-x58-y173.png\|440]]
 
 > [!cite]-
 > [[Sources/Video/@leedaffin2023LFS122M4T4Anterior\|@leedaffin2023LFS122M4T4Anterior]]

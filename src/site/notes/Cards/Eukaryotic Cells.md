@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extras/Images/CF86J7CV.png|450](/img/user/Extras/Images/CF86J7CV.png)
+![[Extras/Images/CF86J7CV.png\|450]]
 
 > [!cite]-
 > [[Sources/Books/@turnpenny2021EmeryElementsMedical\|@turnpenny2021EmeryElementsMedical]]
@@ -22,9 +22,9 @@
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2024/Daily/2024-07-31 Wed\|2024-07-31 Wed]] |
+| Incoming Links                                       |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2024-07-31 Wed\|2024-07-31 Wed]] |
 
 { .block-language-dataview}
 

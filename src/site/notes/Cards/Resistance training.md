@@ -11,11 +11,13 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [!quote] [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > “Resistance training can turn [[Cards/Fast-Twitch Glycolytic Fibers\|type IIb]] fibers into [[Cards/Fast-Twitch Oxidative Fibers\|type IIa]] if the utilisation of
 the  oxidative  cycle  increases  due  to  an  improvement  in  efficiency”
 
-![[Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX#^00cccd\|Biohack Your Fat Loss- Cutting-Edge Techniques for Optimal Body Composition - BOXROX#^00cccd]]
+## Force Velocity Profiles for [[Cards/Resistance training\|Resistance training]]
+
+![[Extras/Images/QMBKYJ78.png\|Extras/Images/QMBKYJ78.png]]
 
 # Reference
 

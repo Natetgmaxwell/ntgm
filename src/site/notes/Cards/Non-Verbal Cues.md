@@ -88,7 +88,7 @@
 
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-01-25 Wed\|2023-01-25 Wed]]           |
+| [[Calendar/Daily/2023-01-25 Wed\|2023-01-25 Wed]]                |
 | [[Cards/Bill Clinton\|Bill Clinton]]                             |
 | [[Cards/Facial Expressions\|Facial Expressions]]                 |
 | [[Cards/Intraspecific interactions\|Intraspecific interactions]] |

@@ -20,8 +20,9 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                              |
+| ------------------------------------------- |
+| [[Cards/Naval Ravikant\|Naval Ravikant]] |
 
 { .block-language-dataview}
 

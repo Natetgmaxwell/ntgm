@@ -23,7 +23,7 @@
 
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-12-10 Sat\|2022-12-10 Sat]]                                                 |
+| [[Calendar/Daily/2022-12-10 Sat\|2022-12-10 Sat]]                                                      |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
 
 { .block-language-dataview}

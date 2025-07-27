@@ -27,15 +27,15 @@
 
 ## Mentions
 
-| Incoming Links                                    |
-| ------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-02-07\|2022-02-07]] |
-| [[Calendar/2022/Daily/2022-03-01\|2022-03-01]] |
-| [[Calendar/2022/Daily/2022-08-08\|2022-08-08]] |
-| [[Cards/Co-evolution\|Co-evolution]]           |
-| [[Cards/Decomposers\|Decomposers]]             |
-| [[Atlas/MOCs/Taxonomy\|Taxonomy]]              |
-| [[Cards/Trophic Cascade\|Trophic Cascade]]     |
+| Incoming Links                                |
+| --------------------------------------------- |
+| [[Calendar/Daily/2022-02-07\|2022-02-07]]  |
+| [[Calendar/Daily/2022-03-01\|2022-03-01]]  |
+| [[Calendar/Daily/2022-08-08\|2022-08-08]]  |
+| [[Cards/Co-evolution\|Co-evolution]]       |
+| [[Cards/Decomposers\|Decomposers]]         |
+| [[Atlas/MOCs/Taxonomy\|Taxonomy]]          |
+| [[Cards/Trophic Cascade\|Trophic Cascade]] |
 
 { .block-language-dataview}
 

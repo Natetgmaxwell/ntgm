@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Pasted image 20220729123748.png|300](/img/user/Extras/Images/Pasted%20image%2020220729123748.png)
+![Pasted image 20220729123748.png|300](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020220729123748.png)
 { #3ae1c1}
 
 

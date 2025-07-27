@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Screenshot 2024-10-21 at 7.52.11 pm.png](/img/user/Extras/Images/Screenshot%202024-10-21%20at%207.52.11%20pm.png)
+![Screenshot 2024-10-21 at 7.52.11 pm.png](/img/user/Extras/Obsidian%20Images/Screenshot%202024-10-21%20at%207.52.11%20pm.png)
 
 # Reference
 

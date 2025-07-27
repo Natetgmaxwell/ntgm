@@ -17,13 +17,13 @@
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-03-08\|2022-03-08]]         |
-| [[Calendar/2024/Daily/2024-07-26 Fri\|2024-07-26 Fri]] |
-| [[Cards/Cytosine\|Cytosine]]                           |
-| [[Cards/Nucleotides\|Nucleotides]]                     |
-| [[Cards/Ribonucleic Acid\|Ribonucleic Acid]]           |
+| Incoming Links                                       |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2022-03-08\|2022-03-08]]         |
+| [[Calendar/Daily/2024-07-26 Fri\|2024-07-26 Fri]] |
+| [[Cards/Cytosine\|Cytosine]]                      |
+| [[Cards/Nucleotides\|Nucleotides]]                |
+| [[Cards/Ribonucleic Acid\|Ribonucleic Acid]]      |
 
 { .block-language-dataview}
 

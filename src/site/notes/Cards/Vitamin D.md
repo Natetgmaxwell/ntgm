@@ -23,6 +23,7 @@
 | --------------------------------------------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                       |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
+| [[Cards/Vitamins\|Vitamins]]                                                                           |
 
 { .block-language-dataview}
 

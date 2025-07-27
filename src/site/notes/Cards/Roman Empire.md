@@ -26,8 +26,8 @@
 
 | Incoming Links                                                                                  |
 | ----------------------------------------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-03-02\|2022-03-02]]                                               |
-| [[Calendar/2022/Daily/2022-03-04\|2022-03-04]]                                               |
+| [[Calendar/Daily/2022-03-02\|2022-03-02]]                                                    |
+| [[Calendar/Daily/2022-03-04\|2022-03-04]]                                                    |
 | [[Cards/Ancient Greece\|Ancient Greece]]                                                     |
 | [[Cards/Augustine of Hippo\|Augustine of Hippo]]                                             |
 | [[Cards/British Empire\|British Empire]]                                                     |

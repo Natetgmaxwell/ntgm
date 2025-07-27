@@ -35,6 +35,7 @@
 | [[Cards/L-theanine\|L-theanine]]                                    |
 | [[Cards/Nervousness\|Nervousness]]                                  |
 | [[Cards/Perception\|Perception]]                                    |
+| [[Cards/Phlebotomy\|Phlebotomy]]                                    |
 | [[Cards/Psychological sigh\|Psychological sigh]]                    |
 | [[Cards/Rationality\|Rationality]]                                  |
 | [[Cards/Temporal Distancing\|Temporal Distancing]]                  |

@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extensor Carpi Radialis Longus Image.png|125](/img/user/Extras/Images/Extensor%20Carpi%20Radialis%20Longus%20Image.png)
+![Extensor Carpi Radialis Longus Image.png|125](/img/user/Extras/Obsidian%20Images/Extensor%20Carpi%20Radialis%20Longus%20Image.png)
 
 - The [[Cards/Extensor Carpi Radialis Longus\|Extensor Carpi Radialis Longus]] is the most lateral [[Cards/Ante-brachium\|Ante-brachium]] muscle in the posterior compartment.
 

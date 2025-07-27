@@ -40,7 +40,7 @@
 
 > [!quote-yellow] (Page 15) yellow
 > 
-> ![Extras/Images/ZF3SEXBA.png](/img/user/Extras/Images/ZF3SEXBA.png)
+> ![[Extras/Images/ZF3SEXBA.png\|Extras/Images/ZF3SEXBA.png]]
 >
 { #ZF3SEXBAa3LKMA873p2}
 

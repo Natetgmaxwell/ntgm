@@ -5,7 +5,7 @@
 # Vitamin B
 
 > [!ontology]+
-> up:: 
+> up:: [[Cards/Vitamins\|Vitamins]]
 > jump:: 
 > down:: [[Cards/Vitamin B1\|B1]], [[Cards/Vitamin B6\|B6]], [[Cards/Vitamin B9\|B9]], [[Cards/Vitamin B12\|B12]]
 
@@ -35,6 +35,7 @@
 | [[Cards/Vitamin B12\|Vitamin B12]] |
 | [[Cards/Vitamin B6\|Vitamin B6]]   |
 | [[Cards/Vitamin B9\|Vitamin B9]]   |
+| [[Cards/Vitamins\|Vitamins]]       |
 
 { .block-language-dataview}
 

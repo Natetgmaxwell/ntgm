@@ -32,7 +32,7 @@
 
 > [!quote-yellow] (Page 2) yellow
 > 
-> ![Extras/Images/3Q4PEFUS.png](/img/user/Extras/Images/3Q4PEFUS.png)
+> ![[Extras/Images/3Q4PEFUS.png\|Extras/Images/3Q4PEFUS.png]]
 >
 { #3Q4PEFUSa7GQH7VS5p2}
 

@@ -6,7 +6,7 @@
 
 ## Currently Reading
 
-- [[Sources/Books/@feynman2011SixEasyPieces\|@Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher]]
+- [[Sources/Books/@feynman2011SixEasyPieces\|@feynman2011SixEasyPieces]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -15,13 +15,12 @@
 
 ## Reading List
 
-- [ ] Brave New World
-- [ ] A Man’s Search for Meaning
+- [x] Brave New World
 - [ ] Crime and Punishment
-- [ ] Iron Gold (nearly 50%)
-- [ ] Dark Age
+- [x] Iron Gold (nearly 50%)
 - [ ] Endurance
-- [ ] [[Sources/Books/@feynman2011SixEasyPieces\|@Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher]]
+- [ ] [[Sources/Books/@feynman2011SixEasyPieces\|@feynman2011SixEasyPieces]]
 - [ ] The Prince
+- [ ] [[Sources/Books/@thomassowell2014BasicEconomics\|@thomassowell2014BasicEconomics]]
 
 </div></div>

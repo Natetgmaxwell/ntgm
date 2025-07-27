@@ -25,6 +25,7 @@
 | ------------------------------------------------------------------------------------- |
 | [[Cards/Bacteria\|Bacteria]]                                                       |
 | [[Spaces/University/Classes/Introductory Microbiology\|Introductory Microbiology]] |
+| [[Cards/Microbiology\|Microbiology]]                                               |
 
 { .block-language-dataview}
 

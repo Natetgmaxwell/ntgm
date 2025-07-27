@@ -19,12 +19,15 @@
 
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
+| [[Cards/Carboxyl Group\|Carboxyl Group]]                                                               |
 | [[Cards/Elements of the Human Body\|Elements of the Human Body]]                                       |
+| [[Cards/Glycolysis\|Glycolysis]]                                                                       |
 | [[Cards/Hydrochloric acid\|Hydrochloric acid]]                                                         |
+| [[Cards/Hydroxyl Group\|Hydroxyl Group]]                                                               |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
 | [[Cards/Power of Hydrogen\|Power of Hydrogen]]                                                         |
 | [[Cards/Sodium bicarbonate\|Sodium bicarbonate]]                                                       |
-| [[Cards/Sodium citrate\|Sodium citrate]]                                                               |
+| [[Cards/Sodium Citrate\|Sodium Citrate]]                                                               |
 | [[Cards/Water\|Water]]                                                                                 |
 
 { .block-language-dataview}
@@ -36,9 +39,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                             |
-| --------------------------------------------------------------------------------------------------- |
-| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 

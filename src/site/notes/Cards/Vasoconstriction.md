@@ -22,9 +22,11 @@
 | [[Cards/Blood Flow\|Blood Flow]]                                                                                          |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                          |
+| [[Spaces/University/Classes/Integrated Physiology\|Integrated Physiology]]                                                |
 | [[Extras/Excalidraw/Low Blood Pressure Feedback Loop.excalidraw\|Low Blood Pressure Feedback Loop.excalidraw]]            |
 | [[Cards/Skins Effect on Thermoregulation\|Skins Effect on Thermoregulation]]                                              |
 | [[Cards/Thermoregulation\|Thermoregulation]]                                                                              |
+| [[Cards/Vascular Smooth Muscle\|Vascular Smooth Muscle]]                                                                  |
 
 { .block-language-dataview}
 

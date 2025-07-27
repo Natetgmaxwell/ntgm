@@ -11,6 +11,9 @@
 
 > [!Definition] Definition
 
+> [!quote] [[Sources/Articles/@gurwinder202225UsefulIdeas\|@gurwinder202225UsefulIdeas]]
+> Often we fail to improve our lives simply because things don't get bad enough. If  new job is hell, you’ll leave it, but if it’s just unsatisfying, you’ll likely grind it out  Thus, small problems o en threaten our quality of life more than big ones.
+
 # Reference
 
 - 
@@ -27,8 +30,9 @@
 
 { .block-language-dataview}
 
-| Sources |
-| ------- |
+| Sources                                                                          |
+| -------------------------------------------------------------------------------- |
+| [[Sources/Articles/@gurwinder202225UsefulIdeas\|@gurwinder202225UsefulIdeas]] |
 
 { .block-language-dataview}
 

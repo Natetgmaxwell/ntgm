@@ -33,7 +33,7 @@
 
 > [!quote-yellow] (Page 3) yellow
 > 
-> ![Extras/Images/CGXNVT7C.png](/img/user/Extras/Images/CGXNVT7C.png)
+> ![[Extras/Images/CGXNVT7C.png\|Extras/Images/CGXNVT7C.png]]
 >
 { #CGXNVT7CaFL7V6NQPp3}
 

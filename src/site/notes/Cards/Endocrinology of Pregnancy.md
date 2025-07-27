@@ -24,7 +24,7 @@
 	- Promotes growth of the fetus and reproductive tissues
 	- Stimulates uterine blood flow
 
-![Extras/Images/CZTB8VRK.png|425](/img/user/Extras/Images/CZTB8VRK.png)
+![[Extras/Images/CZTB8VRK.png\|425]]
 
 > [!cite]-
 > [[Sources/Research Papers/@kuo2016EndocrineControlHuman\|@kuo2016EndocrineControlHuman]]

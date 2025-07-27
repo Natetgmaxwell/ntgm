@@ -46,21 +46,21 @@
 
 > [!quote-yellow] (Page 4) yellow
 > 
-> ![Extras/Images/QSGN4B6H.png](/img/user/Extras/Images/QSGN4B6H.png)
+> ![[Extras/Images/QSGN4B6H.png\|Extras/Images/QSGN4B6H.png]]
 >
 { #QSGN4B6HaCFJQT2UFp4}
 
 
 > [!quote-yellow] (Page 5) yellow
 > 
-> ![Extras/Images/99G32MCB.png](/img/user/Extras/Images/99G32MCB.png)
+> ![[Extras/Images/99G32MCB.png\|Extras/Images/99G32MCB.png]]
 >
 { #99G32MCBaCFJQT2UFp5}
 
 
 > [!quote-yellow] (Page 5) yellow
 > 
-> ![Extras/Images/Q6MYAGI5.png](/img/user/Extras/Images/Q6MYAGI5.png)
+> ![[Extras/Images/Q6MYAGI5.png\|Extras/Images/Q6MYAGI5.png]]
 >
 { #Q6MYAGI5aCFJQT2UFp5}
 

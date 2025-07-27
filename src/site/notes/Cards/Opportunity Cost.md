@@ -17,9 +17,10 @@
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2024/Daily/2024-06-26 Wed\|2024-06-26 Wed]] |
+| Incoming Links                                       |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2024-06-26 Wed\|2024-06-26 Wed]] |
+| [[Cards/Julie Robinson\|Julie Robinson]]          |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS112","Uni/HBIO1010","flashcards/LFS112"],"dg-publish":true,"up":["[[Cards/Amino Acid-Peptide Hormones.md]]"],"jump":["[[Cards/Thyroid Gland.md]]","[[Cards/Calcium Regulation.md]]"],"down":["[[Cards/Calcitonins Effect of the Kidneys.md]]"],"permalink":"/cards/calcitonin/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/LFS112","Uni/HBIO1010","Uni/LFS203"],"dg-publish":true,"up":["[[Cards/Amino Acid-Peptide Hormones.md]]"],"jump":["[[Cards/Thyroid Gland.md]]","[[Cards/Calcium Regulation.md]]"],"down":["[[Cards/Calcitonins Effect of the Kidneys.md]]"],"permalink":"/cards/calcitonin/","dgPassFrontmatter":true}
 ---
 
 # Calcitonin
@@ -24,7 +24,8 @@
 
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-07-19 Wed\|2023-07-19 Wed]]           |
+| [[Calendar/Daily/2023-07-19 Wed\|2023-07-19 Wed]]                |
+| [[Cards/C-cells of the Thyroid\|C-cells of the Thyroid]]         |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]] |
 
 { .block-language-dataview}
@@ -53,3 +54,5 @@ What is the function of calcitonin and what triggers its release?;;Calcitonin is
 
 What gland releases [[Cards/Calcitonin\|Calcitonin]]?;;The [[Cards/Thyroid Gland\|Thyroid Gland]]
 <!--SR:!2024-09-05,3,250-->
+
+What is the physiological action of [[Cards/Calcitonin\|Calcitonin]]?;;Decreased absorption of Ca+ in the [[Cards/Kidneys\|Kidneys]]

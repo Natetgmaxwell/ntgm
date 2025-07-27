@@ -10,7 +10,7 @@
 > down:: 
 
 > [!Definition] Definition
-> Le Chatelier's principle states that if a **[[• Inbox/Dynamic Equilibrium\|dynamic equilibrium]]** is disturbed by changing the conditions, the position of equilibrium shifts to counteract the change to reestablish an equilibrium.
+> Le Chatelier's principle states that if a **[[Cards/Dynamic Equilibrium\|dynamic equilibrium]]** is disturbed by changing the conditions, the position of equilibrium shifts to counteract the change to reestablish an equilibrium.
 
 # Reference
 
@@ -23,10 +23,10 @@
 
 { .block-language-dataview}
 
-| Outgoing Links                                          |
-| ------------------------------------------------------- |
-| [[Cards/Chemical Equilibria\|Chemical Equilibria]]   |
-| [[• Inbox/Dynamic Equilibrium\|Dynamic Equilibrium]] |
+| Outgoing Links                                        |
+| ----------------------------------------------------- |
+| [[Cards/Chemical Equilibria\|Chemical Equilibria]] |
+| [[Cards/Dynamic Equilibrium\|Dynamic Equilibrium]] |
 
 { .block-language-dataview}
 

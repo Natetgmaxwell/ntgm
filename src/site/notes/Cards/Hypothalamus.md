@@ -1,5 +1,5 @@
 ---
-{"aliases":["paleomammalian cortex"],"edited":"2023-04-06 Thu","date created":"2022-11-30 Wed","dg-publish":true,"tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/hypothalamus/","dgPassFrontmatter":true}
+{"aliases":"paleomammalian cortex","edited":"2023-04-06 Thu","date created":"2022-11-30 Wed","dg-publish":true,"tags":["Uni/HBIO1010","Uni/LFS112","flashcards/LFS112"],"permalink":"/cards/hypothalamus/","dgPassFrontmatter":true}
 ---
 
 # Hypothalamus
@@ -14,8 +14,13 @@
 
 - The [[Cards/Hypothalamus\|Hypothalamus]] also promotes the feeling of [[Cards/Satiety\|Satiety]] to reduce further consumption.
 
+## Functions of the [[Cards/Hypothalamus\|Hypothalamus]]
+
 > [!quote] [[Sources/Video/@lindagallo2023LFS112M4T2Hypothalamus\|@lindagallo2023LFS112M4T2Hypothalamus]]
 > "Link between autonomic nervous system & [[Cards/Endocrine System\|endocrine system]]"
+
+- [[Cards/Homeostasis\|Homeostatic]] functions
+- Emotion and Behavioural Patterns
 
 # Reference
 
@@ -25,8 +30,10 @@
 
 | Incoming Links                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Cards/Anti-diuretic hormone\|Anti-diuretic hormone]]                                                                                         |
 | [[Cards/Autonomic Nervous System\|Autonomic Nervous System]]                                                                                   |
 | [[Extras/Excalidraw/Brain Diagram.excalidraw\|Brain Diagram.excalidraw]]                                                                       |
+| [[Extras/Excalidraw/Drawing 2025-04-26 16.40.04.excalidraw\|Drawing 2025-04-26 16.40.04.excalidraw]]                                           |
 | [[Cards/Endocrine Glands\|Endocrine Glands]]                                                                                                   |
 | [[Cards/Gonadotropin-Releasing Hormone\|Gonadotropin-Releasing Hormone]]                                                                       |
 | [[Extras/Excalidraw/Hormones of the Male Reproductive System Diagram.excalidraw\|Hormones of the Male Reproductive System Diagram.excalidraw]] |
@@ -36,6 +43,7 @@
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                                               |
 | [[Cards/Hypothalamic-Pituitary-Adrenal Axis\|Hypothalamic-Pituitary-Adrenal Axis]]                                                             |
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]                                             |
+| [[Spaces/University/Classes/Integrated Physiology\|Integrated Physiology]]                                                                     |
 | [[Cards/Oxytocin\|Oxytocin]]                                                                                                                   |
 | [[Cards/Pituitary gland\|Pituitary gland]]                                                                                                     |
 | [[Cards/Pituitary stalk\|Pituitary stalk]]                                                                                                     |
@@ -49,6 +57,7 @@
 | ----------------------------------------------------------------- |
 | [[Cards/Brain\|Brain]]                                         |
 | [[Cards/Endocrine System\|Endocrine System]]                   |
+| [[Cards/Homeostasis\|Homeostasis]]                             |
 | [[Cards/Limbic System\|Limbic System]]                         |
 | [[Cards/Long-term memory\|Long-term memory]]                   |
 | [[Cards/Olfaction\|Olfaction]]                                 |

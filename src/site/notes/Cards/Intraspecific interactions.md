@@ -7,7 +7,7 @@
 > [!Ontology]
 > up:: [[Communication\|Communication]]
 > jump:: [[Cards/Social Hierarchy\|Social Hierarchy]]
-> down:: [[Cards/Language\|Language]], [[Cards/Non-Verbal Cues\|Non-Verbal Cues]], [[Cards/Narcissism\|Narcissism]], [[Cards/Cooperation\|Cooperation]], [[Cards/intraspecific competition\|intraspecific competition]]
+> down:: [[Cards/Language\|Language]], [[Cards/Non-Verbal Cues\|Non-Verbal Cues]], [[Cards/Narcissism\|Narcissism]], [[Cards/Cooperation\|Cooperation]], [[Cards/Intraspecific Competition\|Intraspecific Competition]]
 
 > [!Definition] Definition
 

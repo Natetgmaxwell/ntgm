@@ -13,7 +13,7 @@
 
 > Different types of [[Cards/Joints\|joints]] allow for an emphasis on stability and others on mobility.
 
-![Pasted image 20230509183922.png|550](/img/user/Extras/Images/Pasted%20image%2020230509183922.png)
+![Pasted image 20230509183922.png|550](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020230509183922.png)
 
 ## Types of [[Cards/Joints\|Joints]]
 

@@ -23,5 +23,5 @@
 
 ## Flashcards
 
-The myocardium would be the thickest in the [______]?.;;[[Cards/Left ventricle\|Left ventricle]]
+The myocardium would be the thickest in the [______]?.;;[[Cards/Left Ventricle\|Left Ventricle]]
 <!--SR:!2023-08-19,3,250-->

@@ -18,8 +18,9 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                    |
+| --------------------------------- |
+| [[Cards/Parasites\|Parasites]] |
 
 { .block-language-dataview}
 

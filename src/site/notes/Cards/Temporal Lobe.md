@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["on/Science/Biology/Anatomy","Uni/HBIO1009"],"dg-publish":true,"permalink":"/cards/temporal-lobe/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["on/Science/Biology/Anatomy","Uni/HBIO1009","Uni/LFS203","flashcards/LFS203"],"dg-publish":true,"permalink":"/cards/temporal-lobe/","dgPassFrontmatter":true}
 ---
 
 up:: [[Cards/Cerebral cortex\|Cerebral cortex]]
@@ -24,8 +24,9 @@ down:: [[Cards/Hippocampus\|Hippocampus]]
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                                                                |
+| ----------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Integrated Physiology\|Integrated Physiology]] |
 
 { .block-language-dataview}
 
@@ -42,3 +43,6 @@ down:: [[Cards/Hippocampus\|Hippocampus]]
 { .block-language-dataview}
 
 ## Flashcards
+
+What is the main function of the [[Cards/Temporal Lobe\|Temporal Lobe]]?;;sound and balance
+<!--SR:!2025-04-14,11,270-->

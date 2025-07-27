@@ -32,7 +32,7 @@
 
 > [!quote-yellow] (Page 2) yellow
 > 
-> ![Extras/Images/J4K3TLCU.png](/img/user/Extras/Images/J4K3TLCU.png)
+> ![[Extras/Images/J4K3TLCU.png\|Extras/Images/J4K3TLCU.png]]
 >
 { #J4K3TLCUa8WE3G7ZCp2}
 
@@ -46,7 +46,7 @@
 
 > [!quote-yellow] (Page 3) yellow
 > 
-> ![Extras/Images/8XAF22I5.png](/img/user/Extras/Images/8XAF22I5.png)
+> ![[Extras/Images/8XAF22I5.png\|Extras/Images/8XAF22I5.png]]
 >
 { #8XAF22I5a8WE3G7ZCp3}
 
@@ -60,7 +60,7 @@
 
 > [!quote-yellow] (Page 6) yellow
 > 
-> ![Extras/Images/6PVCHPS9.png](/img/user/Extras/Images/6PVCHPS9.png)
+> ![[Extras/Images/6PVCHPS9.png\|Extras/Images/6PVCHPS9.png]]
 >
 { #6PVCHPS9a8WE3G7ZCp6}
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["acid"],"tags":["Uni/HBIO1009","Uni/SCI105"],"dg-publish":true,"permalink":"/cards/acids/","dgPassFrontmatter":true}
+{"aliases":"acid","tags":["Uni/HBIO1009","Uni/SCI105"],"dg-publish":true,"permalink":"/cards/acids/","dgPassFrontmatter":true}
 ---
 
 # Acids
@@ -14,7 +14,7 @@
 > [!quote] [[Sources/Video/@DavidMcKay2024SCI105M06T03Acids\|@DavidMcKay2024SCI105M06T03Acids]]
 > Weak acids are partially ionized in water. The conductivity is lower...Strong acids are fully ionized in water. The conductivity of the solution is high.
 
-![Extras/Images/WS2AJ5TP.png|550](/img/user/Extras/Images/WS2AJ5TP.png)
+![[Extras/Images/WS2AJ5TP.png\|550]]
 
 > [!cite]-
 > [[Sources/Video/@DavidMcKay2024SCI105M06T06Strengths\|@DavidMcKay2024SCI105M06T06Strengths]]
@@ -28,7 +28,9 @@
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
 | [[Cards/Bicarbonate\|Bicarbonate]]                                                                     |
+| [[Spaces/University/Classes/Biochemistry\|Biochemistry]]                                               |
 | [[Cards/Conjugate acid\|Conjugate acid]]                                                               |
+| [[Cards/Dissociation Constant\|Dissociation Constant]]                                                 |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
 | [[Cards/Lactate\|Lactate]]                                                                             |
 | [[Cards/Organic Acids\|Organic Acids]]                                                                 |

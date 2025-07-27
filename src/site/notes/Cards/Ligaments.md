@@ -21,7 +21,7 @@
 
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-12-10 Sat\|2022-12-10 Sat]]                                                                    |
+| [[Calendar/Daily/2022-12-10 Sat\|2022-12-10 Sat]]                                                                         |
 | [[Cards/Acromioclavicular Ligament\|Acromioclavicular Ligament]]                                                          |
 | [[Cards/Annular Ligament\|Annular Ligament]]                                                                              |
 | [[Cards/Anterior cruciate ligament\|Anterior cruciate ligament]]                                                          |

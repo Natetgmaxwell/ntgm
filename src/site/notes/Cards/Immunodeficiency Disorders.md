@@ -21,9 +21,9 @@
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2024/Daily/2024-08-28 Wed\|2024-08-28 Wed]] |
+| Incoming Links                                       |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2024-08-28 Wed\|2024-08-28 Wed]] |
 
 { .block-language-dataview}
 

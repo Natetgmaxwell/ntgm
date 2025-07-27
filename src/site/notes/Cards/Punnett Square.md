@@ -9,7 +9,7 @@
 > jump::
 > down:: 
 
-![Pasted image 20220517104234.png](/img/user/Extras/Images/Pasted%20image%2020220517104234.png)
+![Pasted image 20220517104234.png](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020220517104234.png)
 
 - Include the [[Cards/Phenotype\|Phenotype]] (e.g. long wing, short wing) and [[Cards/Genotype\|Genotype]] ([[Cards/Homozygous\|Homozygous]], [[Cards/Heterozygous\|Heterozygous]])
 
@@ -22,7 +22,7 @@
 
 | Incoming Links                                      |
 | --------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-05-17\|2022-05-17]]   |
+| [[Calendar/Daily/2022-05-17\|2022-05-17]]        |
 | [[Cards/Dihybrid Cross\|Dihybrid Cross]]         |
 | [[Cards/Monohybrid Crosses\|Monohybrid Crosses]] |
 

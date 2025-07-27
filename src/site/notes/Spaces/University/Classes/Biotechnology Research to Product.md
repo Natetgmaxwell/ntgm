@@ -28,9 +28,9 @@ up:: [[Atlas/🎓 University\|🎓 University]]
 
 ## Dates
 
-| Date                                                      |
-| --------------------------------------------------------- |
-| [[Calendar/2024/Daily/2024-08-13 Tue\|2024-08-13 Tue]] |
+| Date                                                 |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2024-08-13 Tue\|2024-08-13 Tue]] |
 
 { .block-language-dataview}
 

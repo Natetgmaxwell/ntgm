@@ -14,7 +14,7 @@
 > [!quote] [[Sources/Books/@peterattia2023OutliveScienceArt\|@peterattia2023OutliveScienceArt]]
 > It took nearly two more decades before the advisory committee responsible for the US government dietary guidelines finally conceded (in 2015) that “cholesterol is not a nutrient of concern for overconsumption.” Glad we settled that.
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [!quote] [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > Part of the reason why cholesterol helps with muscle growth may have to do with the antioxidant properties of cholesterol and the repair mechanisms it triggers.
 
 # Reference
@@ -45,7 +45,6 @@
 
 | Sources                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]                                                                                                        |
 | [[Sources/Books/@peterattia2023OutliveScienceArt\|@peterattia2023OutliveScienceArt]]                                                                                                                    |
 | [[Sources/Articles/2023MetabolicSyndrome-australia\|2023MetabolicSyndrome-australia]]                                                                                                                   |
 | [[Sources/Articles/Link Between Sleep Apnea, Deep Sleep Deficit, and Brain Health Risks - Neuroscience News\|Link Between Sleep Apnea, Deep Sleep Deficit, and Brain Health Risks - Neuroscience News]] |

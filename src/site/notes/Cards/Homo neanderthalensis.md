@@ -24,7 +24,7 @@
 
 | Incoming Links                                    |
 | ------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-03-05\|2022-03-05]] |
+| [[Calendar/Daily/2022-03-05\|2022-03-05]]      |
 | [[Cards/Homo floresiensis\|Homo floresiensis]] |
 
 { .block-language-dataview}

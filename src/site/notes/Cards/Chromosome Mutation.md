@@ -25,9 +25,30 @@
 
 # Reference
 
-- [[Cards/Chromosomes\|Chromosomes]]
-- [[Cards/Mutation\|Mutation]]
-- [[Cards/The Tree of Knowledge Mutation\|The Tree of Knowledge Mutation]]
+## Mentions
+
+| Incoming Links                                    |
+| ------------------------------------------------- |
+| [[Calendar/Daily/2022-04-21\|2022-04-21]]      |
+| [[Calendar/Daily/2022-04-28\|2022-04-28]]      |
+| [[Calendar/Daily/2022-08-18\|2022-08-18]]      |
+| [[Cards/Genetic Disorders\|Genetic Disorders]] |
+
+{ .block-language-dataview}
+
+| Outgoing Links                        |
+| ------------------------------------- |
+| [[Cards/Aneuploidy\|Aneuploidy]]   |
+| [[Cards/Chromosomes\|Chromosomes]] |
+| [[Cards/Mutation\|Mutation]]       |
+| [[Cards/Polyploidy\|Polyploidy]]   |
+
+{ .block-language-dataview}
+
+| Sources |
+| ------- |
+
+{ .block-language-dataview}
 
 ## Flashcards
 

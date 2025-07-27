@@ -10,12 +10,12 @@
 > down:: 
 
 > [!Definition] Definition
-> 
 
 > [!quote] [[Sources/Books/@feynman2011SixEasyPieces\|@feynman2011SixEasyPieces]]
 > Einstein was quite simply contemptuous of experiment, preferring to put his faith in pure thought.
 
 # Reference
+
 - 
 
 ## Mentions
@@ -37,4 +37,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards

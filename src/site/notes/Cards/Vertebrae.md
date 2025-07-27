@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Pasted image 20230311190547.png|400](/img/user/Extras/Images/Pasted%20image%2020230311190547.png)
+![Pasted image 20230311190547.png|400](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020230311190547.png)
 
 ## Parts of the [[Cards/Cervical Spine\|Cervical Spine]] Vertebrae
 
@@ -20,7 +20,7 @@
 - [[Cards/Vertebral Foramen\|Vertebral Foramen]]
 - [[Cards/Inferior Articular Process\|Inferior Articular Process]]
 
-![Extras/Images/image-5-x475-y316.png|250](/img/user/Extras/Images/image-5-x475-y316.png)
+![[Extras/Images/image-5-x475-y316.png\|250]]
 
 ## Parts of the [[Cards/Thoracic Spine\|Thoracic Spine]] Vertebrae
 
@@ -30,7 +30,7 @@
 - [[Cards/Vertebral Foramen\|Vertebral Foramen]]
 - [[Cards/Superior articular facet\|Superior articular facet]]
 
-![Extras/Images/image-7-x455-y317.png|250](/img/user/Extras/Images/image-7-x455-y317.png)
+![[Extras/Images/image-7-x455-y317.png\|250]]
 
 ## Parts of the [[Cards/Lumbar Spine\|Lumbar Spine]] Vertebrae
 
@@ -39,13 +39,13 @@
 - [[Cards/Superior articular facet\|Superior articular facet]]
 - [[Cards/Vertebral Foramen\|Vertebral Foramen]]
 
-![Extras/Images/image-7-x455-y317.png|250](/img/user/Extras/Images/image-7-x455-y317.png)
+![[Extras/Images/image-7-x455-y317.png\|250]]
 
 # Reference
 
 - [[Cards/Spinous Process\|Spinous Process]]
 - [[Cards/Transverse process\|Transverse process]]
-- [[Cards/Spinal cord\|Spinal cord]]
+- [[Cards/Spinal Cord\|Spinal Cord]]
 
 ## Mentions
 

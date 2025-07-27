@@ -54,7 +54,7 @@
 
 > [!quote-yellow] (Page 462) yellow
 > 
-> ![Extras/Images/ESL5AAV5.png](/img/user/Extras/Images/ESL5AAV5.png)
+> ![[Extras/Images/ESL5AAV5.png\|Extras/Images/ESL5AAV5.png]]
 >
 { #ESL5AAV5aDJWUBDEKp6}
 

@@ -54,6 +54,7 @@
 | [[Cards/Duodenal Papilla\|Duodenal Papilla]]                                                       |
 | [[Cards/Enterocytes\|Enterocytes]]                                                                 |
 | [[Cards/Gastrointestinal tract\|Gastrointestinal tract]]                                           |
+| [[Cards/Glucose Transporter 2\|Glucose Transporter 2]]                                             |
 | [[Cards/Hapatic Flexure\|Hapatic Flexure]]                                                         |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                         |
 | [[Spaces/School/IA3 Research Investigation\|IA3 Research Investigation]]                           |

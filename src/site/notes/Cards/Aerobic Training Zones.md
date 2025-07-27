@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Pasted image 20230221182306.png](/img/user/Extras/Images/Pasted%20image%2020230221182306.png)
+![Pasted image 20230221182306.png](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020230221182306.png)
 
 ## Zone 1 (Easy/Recovery)
 

@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Supinator Image.png|200](/img/user/Extras/Images/Supinator%20Image.png)
+![Supinator Image.png|200](/img/user/Extras/Obsidian%20Images/Supinator%20Image.png)
 
 ## Attachments
 

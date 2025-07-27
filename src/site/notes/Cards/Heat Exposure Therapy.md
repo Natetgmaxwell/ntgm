@@ -14,10 +14,10 @@
 - [[Cards/Heat Exposure Therapy\|Heat Exposure Therapy]] can increase [[Cards/Sweat\|Sweat]] rate as the body try’s to [[Cards/Thermoregulation\|thermoregulate]], however the [[Cards/Sodium\|Sodium]] concentration in [[Cards/Sweat\|Sweat]] decreases.
 - Infrared [[Cards/Heat Exposure Therapy\|saunas]] may have additional benefit compared to traditional saunas 
 
-![Pasted image 20230303200314.png|400](/img/user/Extras/Images/Pasted%20image%2020230303200314.png)
+![Pasted image 20230303200314.png|400](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020230303200314.png)
 
 > [!cite]-
-> [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 
 # Reference
 
@@ -50,7 +50,6 @@
 | Sources                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Podcasts/Podcast Episodes/ 496   Dr Andrew Huberman   The Science Of Peak Performance — Modern Wisdom\| 496   Dr Andrew Huberman   The Science Of Peak Performance — Modern Wisdom]] |
-| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]                                                                                               |
 | [[Sources/Podcasts/Podcast Episodes/Understanding & Controlling Aggression   Episode 71\|Understanding & Controlling Aggression   Episode 71]]                                                 |
 
 { .block-language-dataview}

@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extras/Images/R4HG2V7R.png](/img/user/Extras/Images/R4HG2V7R.png)
+![[Extras/Images/R4HG2V7R.png\|Extras/Images/R4HG2V7R.png]]
 
 > [!cite]-
 > [[Sources/Video/@davidmckay2024SCI105M07T02Atomic\|@davidmckay2024SCI105M07T02Atomic]]

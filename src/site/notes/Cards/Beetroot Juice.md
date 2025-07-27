@@ -17,7 +17,7 @@
 > [!quote] [[Sources/Research Papers/@perez2019EffectsBeetrootJuice\|@perez2019EffectsBeetrootJuice]]
 > Nitrates, like those found in beetroot juice, have garnered interest due to their effects on lowering blood pressure at rest (2, 17, 30), however there is also a line of research investigating their effects on performance.
 
-![Extras/Images/V4Q879TG.png](/img/user/Extras/Images/V4Q879TG.png)
+![[Extras/Images/V4Q879TG.png\|Extras/Images/V4Q879TG.png]]
 [[Sources/Research Papers/@perez2019EffectsBeetrootJuice\|@perez2019EffectsBeetrootJuice]]
 
 # Reference
@@ -26,9 +26,9 @@
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-03-18 Sat\|2023-03-18 Sat]] |
+| Incoming Links                                       |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2023-03-18 Sat\|2023-03-18 Sat]] |
 
 { .block-language-dataview}
 

@@ -12,12 +12,12 @@
 > [!Definition] Definition
 
 ![Extras/Images/KG4QH6LR.png|450](/img/user/Extras/Images/KG4QH6LR.png)
-[[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+[[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
-> "Thanks to its anabolic effects, [[Cards/Insulin-like growth factor 1\|IGF-1]] has a beneficial effect on [[Cards/Atherosclerosis\|atherosclerosis]], wound healing, muscle dystrophy, burn injuries, diabetes and [[Cards/Osteoporosis\|osteoporosis]]"
+> [!quote] [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> "Thanks to its [[Cards/Anabolic Reactions\|anabolic]] effects, [[Cards/Insulin-like growth factor 1\|IGF-1]] has a beneficial effect on [[Cards/Atherosclerosis\|atherosclerosis]], wound healing, muscle dystrophy, burn injuries, diabetes and [[Cards/Osteoporosis\|osteoporosis]]"
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [!quote] [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > "IGF-1 is a hormone that promotes growth, [[Cards/Bone Density\|Bone Density]] and proliferation of cells, especially in childhood and puberty"
 
 ## 
@@ -34,8 +34,8 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
-> "Red meat, [[Cards/Dairy Products\|Dairy Products]] and dietary calcium are associated with higher [[Cards/Insulin-like growth factor 1\|IGF-1]]"
+> [!quote] [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> "Red meat, [[Cards/Dairy Products\|Dairy Products]] and dietary [[Cards/Calcium\|calcium]] are associated with higher [[Cards/Insulin-like growth factor 1\|IGF-1]]"
 
 ## List of Factors that Increase [[Cards/Insulin-like growth factor 1\|IGF-1]]
 

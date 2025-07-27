@@ -21,7 +21,7 @@
 
 ## [[Cards/Micro-organisms\|Microorganism]] Classification Based on Temperature
 
-![Extras/Images/JZVDBYQ9.png](/img/user/Extras/Images/JZVDBYQ9.png)
+![[Extras/Images/JZVDBYQ9.png\|Extras/Images/JZVDBYQ9.png]]
 
 > [!cite]-
 > [[Sources/Books/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]
@@ -34,8 +34,10 @@
 
 | Incoming Links                                                                                        |
 | ----------------------------------------------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-04-07\|2022-04-07]]                                                     |
+| [[Calendar/Daily/2022-04-07\|2022-04-07]]                                                          |
+| [[Cards/Antibiotic Resistance\|Antibiotic Resistance]]                                             |
 | [[Cards/Cultural Media\|Cultural Media]]                                                           |
+| [[Cards/Disease\|Disease]]                                                                         |
 | [[Cards/Endosymbiotic theory\|Endosymbiotic theory]]                                               |
 | [[Cards/Euglena\|Euglena]]                                                                         |
 | [[Cards/Germ Theory of Disease\|Germ Theory of Disease]]                                           |
@@ -44,11 +46,15 @@
 | [[Spaces/University/Classes/Introductory Microbiology\|Introductory Microbiology]]                 |
 | [[Cards/Koch’s Postulates\|Koch’s Postulates]]                                                     |
 | [[Spaces/University/Projects/LFS261A2 Mid-term Exam\|LFS261A2 Mid-term Exam]]                      |
+| [[Cards/Microbial Metabolites\|Microbial Metabolites]]                                             |
+| [[Cards/Microbiology\|Microbiology]]                                                               |
 | [[Spaces/University/Projects/MLS101A2 Review Quiz\|MLS101A2 Review Quiz]]                          |
 | [[Cards/Organism\|Organism]]                                                                       |
+| [[Cards/Pathogens\|Pathogens]]                                                                     |
 | [[Cards/Pour Plate\|Pour Plate]]                                                                   |
 | [[Cards/Spread Plate\|Spread Plate]]                                                               |
 | [[Cards/Thermal Death Point\|Thermal Death Point]]                                                 |
+| [[Cards/Virulence\|Virulence]]                                                                     |
 
 { .block-language-dataview}
 

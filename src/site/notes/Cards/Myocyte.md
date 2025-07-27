@@ -20,7 +20,8 @@
 
 | Incoming Links                                                         |
 | ---------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-12-24 Sun\|2023-12-24 Sun]]              |
+| [[Calendar/Daily/2023-12-24 Sun\|2023-12-24 Sun]]                   |
+| [[Cards/Action Potentials\|Action Potentials]]                      |
 | [[Cards/Endomysium\|Endomysium]]                                    |
 | [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]] |
 | [[Cards/Myofibril\|Myofibril]]                                      |
@@ -52,3 +53,4 @@
 
 What is the name for a muscle cell?;;[[Cards/Myocyte\|Myocyte]]
 <!--SR:!2023-09-21,36,250-->
+

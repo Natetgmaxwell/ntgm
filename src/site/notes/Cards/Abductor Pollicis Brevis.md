@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Abductor Pollicis Brevis Image.png|250](/img/user/Extras/Images/Abductor%20Pollicis%20Brevis%20Image.png)
+![Abductor Pollicis Brevis Image.png|250](/img/user/Extras/Obsidian%20Images/Abductor%20Pollicis%20Brevis%20Image.png)
 
 # Reference
 

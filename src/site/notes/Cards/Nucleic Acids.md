@@ -18,7 +18,7 @@
 
 ## Differences between [[Cards/Deoxyribonucleic Acid\|DNA]] & [[Cards/Ribonucleic Acid\|RNA]]
 
-![Pasted image 20220310104308.png|400](/img/user/Extras/Images/Pasted%20image%2020220310104308.png)
+![Pasted image 20220310104308.png|400](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020220310104308.png)
 
 # Reference
 

@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > An individual or strain with three different traits and six different [[Cards/Genes\|Genes]]
 
-![Pasted image 20220525145420.png](/img/user/Extras/Images/Pasted%20image%2020220525145420.png)
+![Pasted image 20220525145420.png](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020220525145420.png)
 27 = 3 [[Cards/Dominate Allele\|Dominate Alleles]]
 9 = 2 [[Cards/Dominate Allele\|Dominate Alleles]]
 3 = 1 [[Cards/Dominate Allele\|Dominate Allele]]

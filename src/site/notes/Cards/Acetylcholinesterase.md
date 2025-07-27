@@ -10,7 +10,7 @@
 > down:: 
 
 > [!Definition] Definition
-> Acetylcholinesterase inhibitors block acetylcholine breakdown in the synapse.
+> Acetylcholinesterase inhibitors block [[Cards/Acetylcholine\|acetylcholine]] breakdown in the synapse.
 
 # Reference
 
@@ -18,14 +18,14 @@
 
 ## Mentions
 
-| Incoming Links                            |
-| ----------------------------------------- |
-| [[Cards/Acetylcholine\|Acetylcholine]] |
+| Incoming Links |
+| -------------- |
 
 { .block-language-dataview}
 
-| Outgoing Links |
-| -------------- |
+| Outgoing Links                            |
+| ----------------------------------------- |
+| [[Cards/Acetylcholine\|Acetylcholine]] |
 
 { .block-language-dataview}
 

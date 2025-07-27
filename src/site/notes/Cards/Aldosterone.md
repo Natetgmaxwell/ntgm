@@ -19,9 +19,11 @@
 
 | Incoming Links                                                                                        |
 | ----------------------------------------------------------------------------------------------------- |
+| [[Cards/Adrenal Cortex\|Adrenal Cortex]]                                                           |
 | [[Cards/Aldosterone's effect on Blood Pressure\|Aldosterone's effect on Blood Pressure]]           |
 | [[Cards/Aldosterone's effect on Sodium\|Aldosterone's effect on Sodium]]                           |
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
+| [[Spaces/University/Classes/Integrated Physiology\|Integrated Physiology]]                         |
 
 { .block-language-dataview}
 

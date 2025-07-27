@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extensor Indicis Image.png|200](/img/user/Extras/Images/Extensor%20Indicis%20Image.png)
+![Extensor Indicis Image.png|200](/img/user/Extras/Obsidian%20Images/Extensor%20Indicis%20Image.png)
 
 # Reference
 

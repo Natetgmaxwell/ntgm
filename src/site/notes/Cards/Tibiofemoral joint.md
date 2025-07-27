@@ -28,7 +28,7 @@
 
 | Incoming Links                                                                             |
 | ------------------------------------------------------------------------------------------ |
-| [[Calendar/2023/Daily/2023-03-27 Mon\|2023-03-27 Mon]]                                  |
+| [[Calendar/Daily/2023-03-27 Mon\|2023-03-27 Mon]]                                       |
 | [[Cards/Knee\|Knee]]                                                                    |
 | [[Spaces/University/Projects/OMT1A3 Practical Assessment\|OMT1A3 Practical Assessment]] |
 | [[Cards/Patella\|Patella]]                                                              |

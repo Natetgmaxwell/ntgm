@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [!quote] [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > In order to create ATP, muscles utilise carbohydrates, fatty acids and amino acids from either food or glycogen to fuel cellular respiration.
 
 ## Types of [[Cards/Respiration\|Respiration]]
@@ -64,7 +64,6 @@
 
 | Sources                                                                                                  |
 | -------------------------------------------------------------------------------------------------------- |
-| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]      |
 | [[Sources/Video/@leedaffin2023-LFS122M10T2Systemic\|@leedaffin2023-LFS122M10T2Systemic]]              |
 | [[Sources/Articles/The Harm Caused by Masks - City Journal\|The Harm Caused by Masks - City Journal]] |
 

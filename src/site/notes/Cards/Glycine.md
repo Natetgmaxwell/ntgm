@@ -11,12 +11,12 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [!quote] [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > "[[Cards/Glycine\|Glycine]] is the most abundant amino acid in [[Cards/Collagen\|collagen]]."
 
 - [[Cards/Glycine\|Glycine]] may protect your [[Cards/Liver\|Liver]] from [[Cards/Alcohol\|Alcohol]] damage
 - Due to the reduction in [[Cards/Core Body Temperature\|Core Body Temperature]], [[Cards/Glycine\|Glycine]] 30mins prior to bedtime can improve [[Cards/Sleep\|Sleep]] quality [[Sources/Articles/@greenfield2022-JamesDiNicolantonioDirt\|@greenfield2022-JamesDiNicolantonioDirt]].
-- Taking [[Cards/Glycine\|Glycine]] prior to exercise may reduce [[Cards/Cramps\|Cramps]] as it is an inhibitory [[Cards/Neurotransmitter\|Neurotransmitter]].
+- Taking [[Cards/Glycine\|Glycine]] prior to exercise may reduce [[Cards/Cramps\|Cramps]] as it is an inhibitory [[Cards/Neurotransmitters\|Neurotransmitters]].
 
 # Reference
 
@@ -45,7 +45,7 @@
 | [[Cards/Cramps\|Cramps]]                                 |
 | [[Cards/Creatine\|Creatine]]                             |
 | [[Cards/Liver\|Liver]]                                   |
-| [[Cards/Neurotransmitter\|Neurotransmitter]]             |
+| [[Cards/Neurotransmitters\|Neurotransmitters]]           |
 | [[Cards/Sleep\|Sleep]]                                   |
 
 { .block-language-dataview}
@@ -53,6 +53,5 @@
 | Sources                                                                                                  |
 | -------------------------------------------------------------------------------------------------------- |
 | [[Sources/Articles/@greenfield2022-JamesDiNicolantonioDirt\|@greenfield2022-JamesDiNicolantonioDirt]] |
-| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]      |
 
 { .block-language-dataview}

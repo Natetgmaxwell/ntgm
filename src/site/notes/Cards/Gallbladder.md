@@ -22,7 +22,31 @@
 
 ## Mentions
 
-- [[Sources/Video/@leedaffin2023-LFS122M11T3Pancreas\|@leedaffin2023-LFS122M11T3Pancreas]]
+| Incoming Links                                                                                        |
+| ----------------------------------------------------------------------------------------------------- |
+| [[Cards/Abdominopelvic Cavity\|Abdominopelvic Cavity]]                                             |
+| [[Cards/Cystic Duct\|Cystic Duct]]                                                                 |
+| [[Extras/Excalidraw/Digestive System Diagram\|Digestive System Diagram]]                           |
+| [[Cards/Gastrointestinal tract\|Gastrointestinal tract]]                                           |
+| [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                         |
+| [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
+
+{ .block-language-dataview}
+
+| Outgoing Links                                                                            |
+| ----------------------------------------------------------------------------------------- |
+| [[Cards/Bile Duct\|Bile Duct]]                                                         |
+| [[Cards/Digestive System\|Digestive System]]                                           |
+| [[Extras/Excalidraw/Gall Bladder Diagram.excalidraw\|Gall Bladder Diagram.excalidraw]] |
+| [[Cards/Left Hepatic Duct\|Left Hepatic Duct]]                                         |
+| [[Cards/Liver\|Liver]]                                                                 |
+| [[Cards/Right Hepatic Duct\|Right Hepatic Duct]]                                       |
+
+{ .block-language-dataview}
+
+| Sources                                                                                     |
+| ------------------------------------------------------------------------------------------- |
+| [[Sources/Video/@leedaffin2023-LFS122M11T3Pancreas\|@leedaffin2023-LFS122M11T3Pancreas]] |
 
 { .block-language-dataview}
 

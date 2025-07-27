@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Screenshot 2023-10-05 at 4.21.19 pm.png](/img/user/Extras/Images/Screenshot%202023-10-05%20at%204.21.19%20pm.png)
+![Screenshot 2023-10-05 at 4.21.19 pm.png](/img/user/Extras/Obsidian%20Images/Screenshot%202023-10-05%20at%204.21.19%20pm.png)
 [[Sources/Video/@leedaffin2023-LFS122M11T3Pancreas\|@leedaffin2023-LFS122M11T3Pancreas]]
 
 ## The Five Major Peritoneal Folds

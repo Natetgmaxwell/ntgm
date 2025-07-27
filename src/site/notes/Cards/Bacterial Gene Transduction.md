@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/LFS261","flashcards/LFS261"],"dg-publish":true,"permalink":"/cards/bacterial-gene-transduction/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Uni/LFS261","flashcards/LFS261","Uni/MBT361"],"dg-publish":true,"permalink":"/cards/bacterial-gene-transduction/","dgPassFrontmatter":true}
 ---
 
 # Bacterial Gene Transduction
@@ -12,14 +12,14 @@
 > [!Definition] Definition
 > The transfer of DNA in [[Cards/Bacteria\|Bacteria]] via a [[Cards/Bacteriophages\|bacteriophage]]
 
-## Specific vs Generalised Transduction
+## Specific Vs Generalised Transduction
 
 | **Specific Transduction** | **Generalised Transduction** |
 | ------------------------- | ---------------------------- |
 |                           |                              |
 
-
 # Reference
+
 - 
 
 ## Mentions
@@ -42,4 +42,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards

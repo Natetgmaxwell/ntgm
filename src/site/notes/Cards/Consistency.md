@@ -20,6 +20,7 @@
 | Incoming Links                                                                |
 | ----------------------------------------------------------------------------- |
 | [[Cards/Jakob's Ten Usability Heuristic\|Jakob's Ten Usability Heuristic]] |
+| [[Cards/Leo Tolstoy\|Leo Tolstoy]]                                         |
 
 { .block-language-dataview}
 

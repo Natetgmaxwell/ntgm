@@ -20,9 +20,8 @@
 
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-05-17 Wed\|2023-05-17 Wed]]           |
+| [[Calendar/Daily/2023-05-17 Wed\|2023-05-17 Wed]]                |
 | [[Cards/Glycogen Storage Diseases\|Glycogen Storage Diseases]]   |
-| [[Cards/Glycolysis\|Glycolysis]]                                 |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]] |
 | [[Cards/Sarcoplasm\|Sarcoplasm]]                                 |
 

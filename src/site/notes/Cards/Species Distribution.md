@@ -17,10 +17,10 @@
 # Reference
 
 ## Mentions
-| Incoming Links                                    |
-| ------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-02-14\|2022-02-14]] |
-| [[Calendar/2022/Daily/2022-02-15\|2022-02-15]] |
+| Incoming Links                               |
+| -------------------------------------------- |
+| [[Calendar/Daily/2022-02-14\|2022-02-14]] |
+| [[Calendar/Daily/2022-02-15\|2022-02-15]] |
 
 { .block-language-dataview}
 

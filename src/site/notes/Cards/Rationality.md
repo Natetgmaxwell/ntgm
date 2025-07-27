@@ -3,7 +3,7 @@
 ---
 
 
-Links: [[Calendar/2022/Daily/2022-06-11\|2022-06-11]]
+Links: [[Calendar/Daily/2022-06-11\|2022-06-11]]
 
 # Rationality
 

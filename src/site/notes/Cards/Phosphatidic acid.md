@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [!quote] [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > [[Cards/Phosphatidic acid\|Phosphatidic acid]] enhances mTOR signaling and resistance exercise-induced hypertrophy[717]. Phosphatidic acid gets regulated by exercise which activates mTORC1[718] . You can find phosphatidic acid in [[Cards/Cabbage\|Cabbage]] leaves, [[Cards/Radish\|Radish]] leaves, and herbs as well[719] but also in supplements.
 
 # Reference
@@ -35,9 +35,8 @@
 
 { .block-language-dataview}
 
-| Sources                                                                                             |
-| --------------------------------------------------------------------------------------------------- |
-| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 

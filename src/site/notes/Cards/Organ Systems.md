@@ -17,7 +17,7 @@
 - [[Cards/Reproductive system\|Reproductive system]]
 - [[Cards/Respiratory system\|Respiratory system]]
 - [[Cards/Digestive System\|Digestive System]]
-- [[Cards/Cell Signalling\|Cell Signalling]]
+- [[Cards/Intercellular Communication\|Intercellular Communication]]
 	- [[Cards/Nervous System\|Nervous System]]
 	- [[Cards/Endocrine System\|Endocrine System]]
 - [[Cards/Urinary System\|Urinary System]]
@@ -34,7 +34,7 @@
 
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-04-25 Tue\|2023-04-25 Tue]]                                                                    |
+| [[Calendar/Daily/2023-04-25 Tue\|2023-04-25 Tue]]                                                                         |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
 | [[Spaces/University/Projects/HBIO1010A2 Report\|HBIO1010A2 Report]]                                                       |
 | [[Cards/Immune System\|Immune System]]                                                                                    |
@@ -46,10 +46,10 @@
 | Outgoing Links                                                                                  |
 | ----------------------------------------------------------------------------------------------- |
 | [[Cards/Cardiovascular System\|Cardiovascular System]]                                       |
-| [[Cards/Cell Signalling\|Cell Signalling]]                                                   |
 | [[Cards/Digestive System\|Digestive System]]                                                 |
 | [[Cards/Endocrine System\|Endocrine System]]                                                 |
 | [[Cards/Integumentary System\|Integumentary System]]                                         |
+| [[Cards/Intercellular Communication\|Intercellular Communication]]                           |
 | [[Cards/Levels of Organisation in the Human Body\|Levels of Organisation in the Human Body]] |
 | [[Cards/Lymphatic System\|Lymphatic System]]                                                 |
 | [[Cards/Musculoskeletal System\|Musculoskeletal System]]                                     |
@@ -67,7 +67,6 @@
 | [[Sources/Books/Anatomy Skeletal Muscle\|Anatomy Skeletal Muscle]]                                                                                           |
 | [[Sources/Other/HBIO1010 M1T1 Video - Overview of cell physiology and thermodynamics\|HBIO1010 M1T1 Video - Overview of cell physiology and thermodynamics]] |
 | [[Sources/Other/HBIO1010 M1T2 Blackboard Site\|HBIO1010 M1T2 Blackboard Site]]                                                                               |
-| [[Sources/Articles/LevelsOrganizationHuman2019\|LevelsOrganizationHuman2019]]                                                                                |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"date created":"2023-04-08 Sat","edited":"2023-04-08 Sat","dg-publish":true,"tags":["Uni/LFS112","Uni/HBIO1010","flashcards/LFS112","Uni/HBIO1009"],"permalink":"/cards/skeletal-muscle/","dgPassFrontmatter":true}
+{"aliases":null,"date created":"2023-04-08 Sat","edited":"2023-04-08 Sat","dg-publish":true,"tags":["Uni/LFS112","Uni/HBIO1010","flashcards/LFS112","Uni/HBIO1009","Uni/LFS203","flashcards/LFS203"],"permalink":"/cards/skeletal-muscle/","dgPassFrontmatter":true}
 ---
 
 # Skeletal Muscle
@@ -57,7 +57,7 @@
 
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-08-07 Mon\|2023-08-07 Mon]]                                                                    |
+| [[Calendar/Daily/2023-08-07 Mon\|2023-08-07 Mon]]                                                                         |
 | [[Cards/Abductor Pollicis Brevis\|Abductor Pollicis Brevis]]                                                              |
 | [[Cards/Abductor Pollicis Longus\|Abductor Pollicis Longus]]                                                              |
 | [[Cards/Adductor Pollicis\|Adductor Pollicis]]                                                                            |
@@ -66,7 +66,9 @@
 | [[Cards/Biceps Brachii\|Biceps Brachii]]                                                                                  |
 | [[Cards/Brachialis\|Brachialis]]                                                                                          |
 | [[Cards/Brachioradialis\|Brachioradialis]]                                                                                |
+| [[Cards/Brain Stem\|Brain Stem]]                                                                                          |
 | [[Cards/Coracobrachialis\|Coracobrachialis]]                                                                              |
+| [[Cards/Cori Cycle\|Cori Cycle]]                                                                                          |
 | [[Cards/Deltoid\|Deltoid]]                                                                                                |
 | [[Cards/Diaphragm\|Diaphragm]]                                                                                            |
 | [[Cards/Erector spinae\|Erector spinae]]                                                                                  |
@@ -137,6 +139,7 @@
 
 | Outgoing Links                                          |
 | ------------------------------------------------------- |
+| [[Cards/Actin\|Actin]]                               |
 | [[Cards/Adduction\|Adduction]]                       |
 | [[Cards/Adductor Brevis\|Adductor Brevis]]           |
 | [[Cards/Adductor Longus\|Adductor Longus]]           |
@@ -151,6 +154,7 @@
 | [[Cards/Muscle Contraction\|Muscle Contraction]]     |
 | [[Cards/Muscle Tissue\|Muscle Tissue]]               |
 | [[Cards/Myocyte\|Myocyte]]                           |
+| [[Cards/Myosin\|Myosin]]                             |
 | [[Cards/Nerves\|Nerves]]                             |
 | [[Cards/Obturator Internus\|Obturator Internus]]     |
 | [[Cards/Quadratus femoris\|Quadratus femoris]]       |
@@ -159,6 +163,8 @@
 | [[Cards/Semitendinosus\|Semitendinosus]]             |
 | [[Cards/Superior gemellus\|Superior gemellus]]       |
 | [[Cards/Tensor Fasciae Latae\|Tensor Fasciae Latae]] |
+| [[Cards/Tropomyosin\|Tropomyosin]]                   |
+| [[Cards/Troponin\|Troponin]]                         |
 | [[Cards/Vastus intermedius\|Vastus intermedius]]     |
 | [[Cards/Vastus lateralis\|Vastus lateralis]]         |
 | [[Cards/Vastus Medialis\|Vastus Medialis]]           |
@@ -174,10 +180,13 @@
 ## Flashcards
 
 Muscles lengthen during muscle contraction? (True or False);;False
-<!--SR:!2024-10-30,177,250-->
+<!--SR:!2026-06-20,443,250-->
 
 What are biarticulate muscles?;;Muscles that cross two joints
-<!--SR:!2024-09-25,142,230-->
+<!--SR:!2026-07-09,462,250-->
 
 What are the connective tissue layers surrounding skeletal muscle?;;Epimysium, perimysium, endomysium.
-<!--SR:!2024-10-13,41,230-->
+<!--SR:!2025-07-06,94,230-->
+
+What are the regulatory proteins in [[Cards/Skeletal Muscle\|Skeletal Muscle]]?;;[[Cards/Tropomyosin\|Tropomyosin]] - bound to the [[Cards/Actin\|Actin]], covering the [[Cards/Myosin\|Myosin]] binding sites & [[Cards/Troponin\|Troponin]] - the $Ca^{2+}$ regulated that attaches to the [[Cards/Tropomyosin\|Tropomyosin]]
+<!--SR:!2025-04-12,5,246-->

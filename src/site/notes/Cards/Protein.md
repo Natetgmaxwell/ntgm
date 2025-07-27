@@ -14,11 +14,11 @@
 { #5e830d}
 
 
-![Extras/Images/bookimage-200-x162-y189.png|450](/img/user/Extras/Images/bookimage-200-x162-y189.png)
-[[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+![[Extras/Images/bookimage-200-x162-y189.png\|450]]
+[[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 
 ![Extras/Images/4BL8JCAC.png|500](/img/user/Extras/Images/4BL8JCAC.png)
-[[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+[[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 
 # Reference
 
@@ -48,6 +48,7 @@
 | [[Cards/Peptide bonds\|Peptide bonds]]                                                                 |
 | [[Cards/Post Translation Modification\|Post Translation Modification]]                                 |
 | [[Cards/Protein Breakdown\|Protein Breakdown]]                                                         |
+| [[Cards/Protein Structure\|Protein Structure]]                                                         |
 | [[Cards/Protein Synthesis\|Protein Synthesis]]                                                         |
 | [[Cards/Protein Turnover\|Protein Turnover]]                                                           |
 | [[Cards/Proteolysis\|Proteolysis]]                                                                     |
@@ -71,7 +72,6 @@
 
 | Sources                                                                                                                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]                                                                                                                                           |
 | [[Sources/Articles/37TypesHormones2018\|37TypesHormones2018]]                                                                                                                                                                              |
 | [[Sources/Podcasts/Podcast Episodes/AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More\|AMA  2  Improve Sleep  Reduce Sugar Cravings  Optimal Protein Intake  Stretching Frequency & More]] |
 | [[Sources/Articles/BestBreakfastFoods\|BestBreakfastFoods]]                                                                                                                                                                                |

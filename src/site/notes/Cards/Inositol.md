@@ -17,9 +17,9 @@
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2024/Daily/2024-05-01 Wed\|2024-05-01 Wed]] |
+| Incoming Links                                       |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2024-05-01 Wed\|2024-05-01 Wed]] |
 
 { .block-language-dataview}
 

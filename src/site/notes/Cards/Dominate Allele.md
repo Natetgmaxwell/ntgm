@@ -17,8 +17,8 @@
 
 | Incoming Links                                                                    |
 | --------------------------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-05-17\|2022-05-17]]                                 |
-| [[Calendar/2024/Daily/2024-07-22 Mon\|2024-07-22 Mon]]                         |
+| [[Calendar/Daily/2022-05-17\|2022-05-17]]                                      |
+| [[Calendar/Daily/2024-07-22 Mon\|2024-07-22 Mon]]                              |
 | [[Cards/Autosomal Dominant Disorders\|Autosomal Dominant Disorders]]           |
 | [[Cards/Blood Type\|Blood Type]]                                               |
 | [[Cards/Co-Dominance\|Co-Dominance]]                                           |

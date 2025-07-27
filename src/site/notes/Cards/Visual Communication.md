@@ -34,7 +34,7 @@
 | Incoming Links                                              |
 | ----------------------------------------------------------- |
 | [[Cards/CRAP Design Principles\|CRAP Design Principles]] |
-| [[Calendar/2022/Daily/2022-08-18\|2022-08-18]]           |
+| [[Calendar/Daily/2022-08-18\|2022-08-18]]                |
 
 { .block-language-dataview}
 

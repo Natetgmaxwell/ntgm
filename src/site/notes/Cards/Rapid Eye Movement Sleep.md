@@ -21,9 +21,9 @@
 
 ## Mentions
 
-| Incoming Links                                 |
-| ---------------------------------------------- |
-| [[Calendar/2023/Weekly/2023-W40\|2023-W40]] |
+| Incoming Links                            |
+| ----------------------------------------- |
+| [[Calendar/Weekly/2023-W40\|2023-W40]] |
 
 { .block-language-dataview}
 

@@ -12,13 +12,19 @@
 > [!Definition] Definition
 > Amino acids are **[[Cards/Molecules\|Molecules]] that combine to form [[Cards/Protein\|proteins]]**.
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
+> [!quote] [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
 > "Protein is the building block of life – it’s the second largest component of human tissue after water."
 
-![Extras/Images/bookimage-190-x162-y367.png|500](/img/user/Extras/Images/bookimage-190-x162-y367.png)
-[[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
+## Structure of [[Cards/Amino Acids\|Amino Acids]]
+
+![[Extras/Images/YKMBYCWX.png\|Extras/Images/YKMBYCWX.png]]
 
 ## Types of [[Cards/Amino Acids\|Amino Acids]]
+
+![[Extras/Images/bookimage-190-x162-y367.png\|500]]
+
+> [!cite]-
+> [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 
 - [[Cards/Essential Amino Acids\|Essential Amino Acids]]
 - [[Cards/Nonessential Amino Acids\|Nonessential Amino Acids]]

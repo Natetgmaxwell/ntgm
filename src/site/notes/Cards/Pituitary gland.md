@@ -27,6 +27,6 @@ How is the pituitary gland connected to the hypothalamus?;;[[Cards/Pituitary sta
 What are the major lobes of the pituitary gland?;;The pituitary gland has two major lobes: the anterior lobe and the posterior lobe.
 <!--SR:!2024-09-25,23,170-->
 
-Differentiate between the anterior and posterior pituitary lobes in terms of their composition and hormone release?;;The anterior pituitary is composed of glandular tissue and makes and releases its own hormones. The posterior pituitary is composed of neural tissue and stores neurohormones that were made in the hypothalamus until they are triggered for release.
+Differentiate between the anterior and posterior pituitary lobes in terms of their composition and hormone release?;;The anterior pituitary is composed of glandular tissue and makes and releases its own hormones. The posterior pituitary is composed of neural tissue and stores [[Cards/Neurohormones\|neurohormones]] that were made in the hypothalamus until they are triggered for release.
 <!--SR:!2024-09-07,5,130-->
 

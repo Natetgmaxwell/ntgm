@@ -1,5 +1,5 @@
 ---
-{"aliases":["Conjugation"],"tags":["Uni/LFS261","flashcards/LFS261"],"dg-publish":true,"permalink":"/cards/bacterial-gene-conjugation/","dgPassFrontmatter":true}
+{"aliases":"Conjugation","tags":["Uni/LFS261","flashcards/LFS261"],"dg-publish":true,"permalink":"/cards/bacterial-gene-conjugation/","dgPassFrontmatter":true}
 ---
 
 # Bacterial Gene Conjugation
@@ -17,7 +17,8 @@
 
 - The [[Cards/Relaxase\|Relaxase]] enzyme splices the [[Cards/Plasmids\|plasmid]] into a single strand for transfer across the pilus.
 
-![Extras/Images/YDA347ZV.png|600](/img/user/Extras/Images/YDA347ZV.png)
+![[Extras/Images/YDA347ZV.png\|600]]
+
 > [!cite]-
 > [[Sources/Video/@mcmillan2024LFS261M10T03Conjugation\|@mcmillan2024LFS261M10T03Conjugation]]
 
@@ -32,14 +33,17 @@
 ## Types of [[Cards/Plasmids\|plasmids]] for [[Cards/Bacterial Gene Conjugation\|Conjugation]]
 
 ### Self Transmissible [[Cards/Plasmids\|Plasmids]]
+
 - Can transfer themselves from a donor cell to a recipient cell.
 - Possess all genes necessary for construction of conjugal bridge.
 
 ### Mobilisable [[Cards/Plasmids\|Plasmids]]
+
 - Require the help of self transmissible [[Cards/Plasmids\|plasmids]] for transfer
 - Lacks genes necessary for conjugal bridge.
 
 # Reference
+
 - 
 
 ## Mentions
@@ -64,4 +68,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards

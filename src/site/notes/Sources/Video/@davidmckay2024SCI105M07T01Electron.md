@@ -40,7 +40,7 @@
 
 > [!quote-yellow] (Page 8) yellow
 > 
-> ![Extras/Images/GRKTRDYJ.png](/img/user/Extras/Images/GRKTRDYJ.png)
+> ![[Extras/Images/GRKTRDYJ.png\|Extras/Images/GRKTRDYJ.png]]
 >
 { #GRKTRDYJaKBFJX8GZp8}
 

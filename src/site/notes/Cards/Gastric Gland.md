@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extras/Images/image-4-x568-y163.png|500](/img/user/Extras/Images/image-4-x568-y163.png)
+![[Extras/Images/image-4-x568-y163.png\|500]]
 [@lindagallo2023-LFS112M7T2Functions]
 
 # Reference

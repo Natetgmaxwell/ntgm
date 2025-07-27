@@ -39,10 +39,11 @@
 
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-04-06\|2022-04-06]]                                                         |
-| [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                 |
+| [[Calendar/Daily/2022-04-06\|2022-04-06]]                                                              |
+| [[Calendar/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                      |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                       |
 | [[Cards/Hypothalamic-Pituitary-Adrenal Axis\|Hypothalamic-Pituitary-Adrenal Axis]]                     |
+| [[Spaces/University/Classes/Integrated Physiology\|Integrated Physiology]]                             |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
 | [[Cards/Non-Verbal Cues\|Non-Verbal Cues]]                                                             |
 | [[Extras/Excalidraw/Stress Response.excalidraw\|Stress Response.excalidraw]]                           |
@@ -64,7 +65,7 @@
 | [[Cards/Peripheral nervous system\|Peripheral nervous system]]           |
 | [[Cards/Pons\|Pons]]                                                     |
 | [[Cards/Pupillary Size\|Pupillary Size]]                                 |
-| [[Cards/Spinal cord\|Spinal cord]]                                       |
+| [[Cards/Spinal Cord\|Spinal Cord]]                                       |
 | [[Cards/Sympathetic Nervous System\|Sympathetic Nervous System]]         |
 
 { .block-language-dataview}
@@ -84,6 +85,6 @@ What is the autonomic nervous system responsible for?;; The autonomic nervous sy
 What is the Autonomic Nervous System (ANS) responsible for?;; The ANS controls involuntary functions of visceral effectors like smooth and cardiac muscles, glands, and adipocytes.
 <!--SR:!2025-05-19,259,270-->
 
-How does the ANS differ from the somatic nervous system?;; The ANS has a two-neuron system with autonomic ganglia between the [[Cards/Spinal cord\|spinal cord]] and effector organs, while the somatic nervous system has a one-neuron system with direct control over skeletal muscles.
+How does the ANS differ from the somatic nervous system?;; The ANS has a two-neuron system with autonomic ganglia between the [[Cards/Spinal Cord\|Spinal Cord]] and effector organs, while the somatic nervous system has a one-neuron system with direct control over skeletal muscles.
 <!--SR:!2024-11-02,61,200-->
 

@@ -32,7 +32,7 @@
 
 > [!quote-yellow] (Page 5) yellow
 > 
-> ![Extras/Images/WLZW8JKL.png](/img/user/Extras/Images/WLZW8JKL.png)
+> ![[Extras/Images/WLZW8JKL.png\|Extras/Images/WLZW8JKL.png]]
 >
 { #WLZW8JKLaDSA39L2Sp5}
 

@@ -19,7 +19,7 @@
 
 | Incoming Links                                                            |
 | ------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-05-08 Mon\|2023-05-08 Mon]]                 |
+| [[Calendar/Daily/2023-05-08 Mon\|2023-05-08 Mon]]                      |
 | [[Extras/Excalidraw/Atom Diagram.excalidraw\|Atom Diagram.excalidraw]] |
 
 { .block-language-dataview}

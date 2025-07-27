@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extras/Images/JDFFSCRH.png|350](/img/user/Extras/Images/JDFFSCRH.png)
+![[Extras/Images/JDFFSCRH.png\|350]]
 
 ## Diversity of Antigen Receptor on [[Cards/T Lymphocytes\|T Cells]]
 
@@ -32,7 +32,7 @@
 
 | Incoming Links                                                  |
 | --------------------------------------------------------------- |
-| [[Calendar/2024/Daily/2024-08-28 Wed\|2024-08-28 Wed]]       |
+| [[Calendar/Daily/2024-08-28 Wed\|2024-08-28 Wed]]            |
 | [[Cards/Primary Immunodeficiency\|Primary Immunodeficiency]] |
 
 { .block-language-dataview}

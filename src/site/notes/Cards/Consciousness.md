@@ -23,7 +23,6 @@ Consciousness, at its simplest, is awareness of internal and external existence.
 
 | Incoming Links                                                              |
 | --------------------------------------------------------------------------- |
-| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]         |
 | [[Cards/Unconsciousness\|Unconsciousness]]                               |
 | [[Cards/The World of Experience\|The World of Experience]]               |
 | [[Cards/The Tree of Knowledge Mutation\|The Tree of Knowledge Mutation]] |
@@ -34,10 +33,11 @@ Consciousness, at its simplest, is awareness of internal and external existence.
 | [[Cards/Low-Grade Emotions\|Low-Grade Emotions]]                         |
 | [[Cards/High-Grade Emotions\|High-Grade Emotions]]                       |
 | [[Cards/Explicit Memory\|Explicit Memory]]                               |
-| [[Cards/Consciousness Engineering\|Consciousness Engineering]]           |
 | [[Cards/Conscious Breathing\|Conscious Breathing]]                       |
-| [[Calendar/2023/Daily/2023-04-29 Sat\|2023-04-29 Sat]]                   |
+| [[Cards/Consciousness Engineering\|Consciousness Engineering]]           |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]         |
 | [[Atlas/MOCs/Homo\|Homo]]                                                |
+| [[Calendar/Daily/2023-04-29 Sat\|2023-04-29 Sat]]                        |
 
 { .block-language-dataview}
 

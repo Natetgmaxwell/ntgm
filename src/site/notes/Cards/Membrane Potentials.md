@@ -7,9 +7,11 @@
 > [!ontology]
 > up:: [[Cards/Plasma Membranes\|Plasma Membranes]] of [[Cards/Neurons\|Neurons]]
 > jump:: 
-> down:: [[Cards/Action Potentials\|Action Potentials]], [[Cards/Graded Potentials\|Graded Potentials]], [[Cards/Resting Potential\|Resting Potential]]
+> down:: [[Cards/Action Potentials\|Action Potentials]], [[Cards/Graded Potentials\|Graded Potentials]], [[Cards/Resting Membrane Potential\|Resting Membrane Potential]]
 
 > [!Definition] Definition
+
+## Calculating a Membrane Potential
 
 # Reference
 

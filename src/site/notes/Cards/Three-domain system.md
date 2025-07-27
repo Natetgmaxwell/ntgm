@@ -17,8 +17,9 @@
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                                       |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2025-03-03 Mon\|2025-03-03 Mon]] |
 
 { .block-language-dataview}
 

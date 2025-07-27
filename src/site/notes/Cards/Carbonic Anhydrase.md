@@ -22,7 +22,7 @@
 
 ## Flashcards
 
-What is the equation for the formation of HCO3 from CO2 in the red blood cells?;; $H_2O + CO_2$
+What is the equation for the formation of HCO3 from CO2 in the [[Cards/Red Blood Cells\|red blood cells]]?;; $H_2O + CO_2$
 <!--SR:!2024-09-23,21,170-->
 
 What is the name of the enzyme that converts $CO_2$ and $H_2O$ to [[Cards/Bicarbonate\|Bicarbonate]]?;;[[Cards/Carbonic Anhydrase\|Carbonic Anhydrase]]

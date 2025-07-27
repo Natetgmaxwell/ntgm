@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extras/Images/image-7-x88-y146.png|300](/img/user/Extras/Images/image-7-x88-y146.png)
+![[Extras/Images/image-7-x88-y146.png\|300]]
 [[@leedaffin2023-LFS122M9T1Respiratory\|@leedaffin2023-LFS122M9T1Respiratory]]
 
 # Reference

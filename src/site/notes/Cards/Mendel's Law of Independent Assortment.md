@@ -3,7 +3,7 @@
 ---
 
 
-Links: [[Calendar/2022/Daily/2022-05-24\|2022-05-24]]
+Links: [[Calendar/Daily/2022-05-24\|2022-05-24]]
 
 # Mendel's Law of Independent Assortment
 

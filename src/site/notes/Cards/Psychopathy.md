@@ -23,10 +23,10 @@
 
 ## Mentions
 
-| Incoming Links                                    |
-| ------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-02-27\|2022-02-27]] |
-| [[Cards/Leadership\|Leadership]]               |
+| Incoming Links                               |
+| -------------------------------------------- |
+| [[Calendar/Daily/2022-02-27\|2022-02-27]] |
+| [[Cards/Leadership\|Leadership]]          |
 
 { .block-language-dataview}
 

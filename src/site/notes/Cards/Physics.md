@@ -30,10 +30,12 @@
 
 ## Mentions
 
-| Incoming Links                                          |
-| ------------------------------------------------------- |
-| [[Cards/Atmospheric Pressure\|Atmospheric Pressure]] |
-| [[Cards/Richard Feynman\|Richard Feynman]]           |
+| Incoming Links                                                  |
+| --------------------------------------------------------------- |
+| [[Atlas/🌏 Atlas\|🌏 Atlas]]                                 |
+| [[Cards/Atmospheric Pressure\|Atmospheric Pressure]]         |
+| [[Cards/Kinetic Theory of Matter\|Kinetic Theory of Matter]] |
+| [[Cards/Richard Feynman\|Richard Feynman]]                   |
 
 { .block-language-dataview}
 

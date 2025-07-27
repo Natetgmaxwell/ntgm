@@ -19,7 +19,7 @@
 
 ## Regions of a Tooth
 
-![Extras/Images/image-8-x55-y145.png|500](/img/user/Extras/Images/image-8-x55-y145.png)
+![[Extras/Images/image-8-x55-y145.png\|500]]
 [@leedaffin2023-LFS122M11T1Oral]
 
 - [[Cards/Enamel\|Enamel]]

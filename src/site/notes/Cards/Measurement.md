@@ -16,7 +16,7 @@
 
 ## Components of a Measurement
 
-![Extras/Images/YSQMY66D.png|400](/img/user/Extras/Images/YSQMY66D.png)
+![[Extras/Images/YSQMY66D.png\|400]]
 
 ## Types of Measurements
 

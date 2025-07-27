@@ -3,14 +3,14 @@
 ---
 
 tags:: on/Science/Biology/Genetics School 
-Links: [[Calendar/2022/Daily/2022-06-07\|2022-06-07]]
+Links: [[Calendar/Daily/2022-06-07\|2022-06-07]]
 
 # Polymerase Chain Reaction
 
 > [!Definition] Definition
 > [[Cards/Polymerase Chain Reaction\|PCR]] is a polmerase chain reaction that amplifies the amount of [[Cards/Deoxyribonucleic Acid\|DNA]] available, allowing for further testing.
 
-![Pasted image 20220607105522.png](/img/user/Extras/Images/Pasted%20image%2020220607105522.png)
+![Pasted image 20220607105522.png](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020220607105522.png)
 
 ## The Replication Process
 
@@ -29,15 +29,15 @@ Links: [[Calendar/2022/Daily/2022-06-07\|2022-06-07]]
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2024/Daily/2024-10-21 Mon\|2024-10-21 Mon]] |
+| Incoming Links                                       |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2024-10-21 Mon\|2024-10-21 Mon]] |
 
 { .block-language-dataview}
 
 | Outgoing Links                                            |
 | --------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-06-07\|2022-06-07]]         |
+| [[Calendar/Daily/2022-06-07\|2022-06-07]]              |
 | [[Cards/Denaturation\|Denaturation]]                   |
 | [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]] |
 | [[Cards/Electrophoresis\|Electrophoresis]]             |

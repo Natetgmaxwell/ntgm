@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extras/Images/MBZD5I5D.png](/img/user/Extras/Images/MBZD5I5D.png)
+![[Extras/Images/MBZD5I5D.png\|Extras/Images/MBZD5I5D.png]]
 
 > [!cite]-
 > [[Sources/Research Papers/@ryu2017ChapterVirusLife\|@ryu2017ChapterVirusLife]]
@@ -27,6 +27,7 @@
 | [[Cards/Bacteriophages\|Bacteriophages]]                                           |
 | [[Cards/DNA Virus\|DNA Virus]]                                                     |
 | [[Spaces/University/Classes/Introductory Microbiology\|Introductory Microbiology]] |
+| [[Cards/Pathogens\|Pathogens]]                                                     |
 
 { .block-language-dataview}
 

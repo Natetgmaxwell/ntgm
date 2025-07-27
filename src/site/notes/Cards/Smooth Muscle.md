@@ -1,5 +1,5 @@
 ---
-{"aliases":["involuntary muscle"],"edited":"2023-04-06 Thu","date created":"2023-04-04 Tue","tags":["Uni/HBIO1010","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/smooth-muscle/","dgPassFrontmatter":true}
+{"aliases":"involuntary muscle","edited":"2023-04-06 Thu","date created":"2023-04-04 Tue","tags":["Uni/HBIO1010","on/Science/Biology/Anatomy","Uni/LFS203","flashcards/LFS203"],"dg-publish":true,"permalink":"/cards/smooth-muscle/","dgPassFrontmatter":true}
 ---
 
 # Smooth Muscle
@@ -26,4 +26,7 @@
 ## Flashcards
 
 Which of the following binds to calcium ions in a smooth muscle, causing contraction (Caveolin, Tropomyosin, [[Cards/Actin\|Actin]] or [[Cards/Calmodulin\|Calmodulin]])?;;[[Cards/Calmodulin\|Calmodulin]]
-<!--SR:!2023-08-17,1,230-->
+<!--SR:!2025-04-12,5,230-->
+
+Compare and contrast multi- and single-unit smooth muscle?;;Single-unit smooth muscle: Uniform contraction, syncytium-like behavior, gap junctions, synchronised contractions, found in digestive tract and uterus. Multi-unit smooth muscle: Independent fibers, no gap junctions, variable tension, precise neural control, found in blood vessels and iris.
+<!--SR:!2025-04-24,2,228-->

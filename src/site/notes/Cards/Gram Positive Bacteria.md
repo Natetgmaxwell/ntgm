@@ -21,6 +21,7 @@
 | Incoming Links                                              |
 | ----------------------------------------------------------- |
 | [[Cards/Gram Negative Bacteria\|Gram Negative Bacteria]] |
+| [[Cards/Lactobacillus\|Lactobacillus]]                   |
 
 { .block-language-dataview}
 

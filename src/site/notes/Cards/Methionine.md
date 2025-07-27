@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [!quote] [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > Leucine, HMB and creatine monohydrate also prevent myostatin’s inhibitory effects on muscle growth[710] . The other essential amino acids like methionine and valine also activate mTORC1[711] .
 
 # Reference
@@ -21,7 +21,6 @@
 
 ## Mentions
 
-- [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 
 { .block-language-dataview}
 

@@ -13,9 +13,9 @@
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-04-29 Sat\|2023-04-29 Sat]] |
+| Incoming Links                                       |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2023-04-29 Sat\|2023-04-29 Sat]] |
 
 { .block-language-dataview}
 

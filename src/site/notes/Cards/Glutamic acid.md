@@ -10,11 +10,11 @@
 > down:: 
 
 > [!Definition] Definition
-> [[Cards/Glutamic acid\|Glutamic acid]] is an amino acid used to form [[Cards/Protein\|proteins]]. In the body, it turns into [[Cards/Glutamate\|Glutamate]]. This is a chemical that helps nerve cells in the [[Cards/Brain\|Brain]] send and receive information from other cells as a [[Cards/Neurotransmitter\|Neurotransmitter]]. It may be involved in learning and [[Cards/Memory\|Memory]].
+> [[Cards/Glutamic acid\|Glutamic acid]] is an amino acid used to form [[Cards/Protein\|proteins]]. In the body, it turns into [[Cards/Glutamate\|Glutamate]]. This is a chemical that helps nerve cells in the [[Cards/Brain\|Brain]] send and receive information from other cells as a [[Cards/Neurotransmitters\|Neurotransmitters]]. It may be involved in learning and [[Cards/Memory\|Memory]].
 
 # Reference
 
-- [[Cards/Neurotransmitter\|Neurotransmitter]]
+- [[Cards/Neurotransmitters\|Neurotransmitters]]
 
 ## Mentions
 
@@ -25,14 +25,14 @@
 
 { .block-language-dataview}
 
-| Outgoing Links                                  |
-| ----------------------------------------------- |
-| [[Cards/Amino Acids\|Amino Acids]]           |
-| [[Cards/Brain\|Brain]]                       |
-| [[Cards/Glutamate\|Glutamate]]               |
-| [[Cards/Memory\|Memory]]                     |
-| [[Cards/Neurotransmitter\|Neurotransmitter]] |
-| [[Cards/Protein\|Protein]]                   |
+| Outgoing Links                                    |
+| ------------------------------------------------- |
+| [[Cards/Amino Acids\|Amino Acids]]             |
+| [[Cards/Brain\|Brain]]                         |
+| [[Cards/Glutamate\|Glutamate]]                 |
+| [[Cards/Memory\|Memory]]                       |
+| [[Cards/Neurotransmitters\|Neurotransmitters]] |
+| [[Cards/Protein\|Protein]]                     |
 
 { .block-language-dataview}
 

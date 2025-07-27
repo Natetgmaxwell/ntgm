@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extras/Images/KMAM6IG6.png|400](/img/user/Extras/Images/KMAM6IG6.png)
+![[Extras/Images/KMAM6IG6.png\|400]]
 
 > [!cite]-
 > [[Sources/Video/@LFS112M6T5Innate2023\|@LFS112M6T5Innate2023]]

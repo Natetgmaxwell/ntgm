@@ -9,6 +9,8 @@
 ## Classes of Receptor
 
 ### $\alpha$-Adrenergic
+{ #e38389}
+
 
 ### $\beta$-Adrenergic
 

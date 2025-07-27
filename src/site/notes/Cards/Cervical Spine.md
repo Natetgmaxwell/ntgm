@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extras/Images/image-5-x475-y316.png|300](/img/user/Extras/Images/image-5-x475-y316.png)
+![[Extras/Images/image-5-x475-y316.png\|300]]
 
 > [!cite]-
 > [[Sources/Video/@LFS122M4T1Vertebral\|@LFS122M4T1Vertebral]]

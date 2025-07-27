@@ -7,17 +7,17 @@
 > [!Ontology]
 > up:: [[Cards/Electrolytes\|Electrolytes]], [[Cards/Minerals\|Minerals]]
 > jump:: [[Cards/Sweat\|Sweat]]
-> down:: [[Cards/Sodium citrate\|Sodium citrate]], [[Cards/Sodium acetate\|Sodium acetate]], [[Cards/Sodium bicarbonate\|Sodium bicarbonate]], [[Cards/Saline Solutions\|Saline Solutions]]
+> down:: [[Cards/Sodium Citrate\|Sodium Citrate]], [[Cards/Sodium acetate\|Sodium acetate]], [[Cards/Sodium bicarbonate\|Sodium bicarbonate]], [[Cards/Saline Solutions\|Saline Solutions]]
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [!quote] [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > ”[[Cards/Sodium\|Sodium]]  absorption is  also  impaired  during  exercise, which  is  why  it  is  best  to  ingest [[Cards/Sodium\|Sodium]]  and  fluid  prior  to  exercise.”
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [!quote] [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > “When  we  don’t get  enough  [[Cards/Sodium\|Sodium]],  the  body  will  pull  [[Cards/Sodium\|Sodium]]  from  [[Cards/Bone Tissue\|Bone Tissue]]  to  maintain normal [[Cards/Sodium\|Sodium]] blood levels. However, [[Cards/Calcium\|Calcium]] and [[Cards/Magnesium\|Magnesium]] get pulled along  with  [[Cards/Sodium\|Sodium]],  leading  to  a  negative  balance  in  all  three  minerals.”
 
-![Pasted image 20230303202529.png|400](/img/user/Extras/Images/Pasted%20image%2020230303202529.png)
+![Pasted image 20230303202529.png|400](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020230303202529.png)
 [@jamesdinicolantonio2021-WinAchievePeak]
 
 ### High-Quality Salts for Consumption

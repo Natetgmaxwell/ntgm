@@ -30,6 +30,7 @@
 
 | Sources                                                                           |
 | --------------------------------------------------------------------------------- |
+| [[Sources/Books/@bartlett2023DiaryCEO33\|@bartlett2023DiaryCEO33]]             |
 | [[Sources/Books/@stevenbartlett2023DiaryCEO33\|@stevenbartlett2023DiaryCEO33]] |
 
 { .block-language-dataview}

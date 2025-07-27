@@ -20,9 +20,9 @@
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-10-01 Sat\|2022-10-01 Sat]] |
+| Incoming Links                                       |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2022-10-01 Sat\|2022-10-01 Sat]] |
 
 { .block-language-dataview}
 

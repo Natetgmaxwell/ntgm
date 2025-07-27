@@ -16,7 +16,7 @@
 
 
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [!quote] [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > Approximately 70% of the daily pulses of growth hormone occur during slow wave sleep or [[Cards/Slow-wave Sleep\|deep sleep]].
 
 </div></div>
@@ -30,7 +30,7 @@
 
 | Incoming Links                          |
 | --------------------------------------- |
-| [[Cards/White matter\|White matter]] |
+| [[Cards/White Matter\|White Matter]] |
 
 { .block-language-dataview}
 

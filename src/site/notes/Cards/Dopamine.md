@@ -5,7 +5,7 @@
 # Dopamine
 
 > [!Ontology]+
-> up:: [[Cards/Amino Acid-Peptide Hormones\|Amino Acid-Peptide Hormones]], [[Cards/Neurotransmitter\|Neurotransmitter]]
+> up:: [[Cards/Amino Acid-Peptide Hormones\|Amino Acid-Peptide Hormones]], [[Cards/Neurotransmitters\|Neurotransmitters]]
 > jump:: [[Cards/Alcohol\|Alcohol]]
 > down:: 
 
@@ -14,7 +14,7 @@
 
 # Reference
 
-- [[Cards/Neurotransmitter\|Neurotransmitter]]
+- [[Cards/Neurotransmitters\|Neurotransmitters]]
 
 ## Mentions
 

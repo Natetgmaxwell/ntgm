@@ -15,7 +15,7 @@
 > [!quote] [[Sources/Research Papers/@ayavoo2021RolesMechanismsStem\|@ayavoo2021RolesMechanismsStem]]
 > Stem cells are unspecialized cells derived from adult body tissues and embryos that differentiate into any cell of an organism and capable of self-regeneration.
 
-![Extras/Images/PVAGAVGV.png|550](/img/user/Extras/Images/PVAGAVGV.png)
+![[Extras/Images/PVAGAVGV.png\|550]]
 
 > [!cite]-
 > [[Sources/Research Papers/@goodellStemCellsHealthy2015\|@goodellStemCellsHealthy2015]]
@@ -32,8 +32,8 @@
 
 | Incoming Links                                                                |
 | ----------------------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-02-22\|2022-02-22]]                             |
-| [[Calendar/2024/Daily/2024-10-09 Wed\|2024-10-09 Wed]]                     |
+| [[Calendar/Daily/2022-02-22\|2022-02-22]]                                  |
+| [[Calendar/Daily/2024-10-09 Wed\|2024-10-09 Wed]]                          |
 | [[Cards/Blood Flow Restriction Training\|Blood Flow Restriction Training]] |
 | [[Cards/Embryonic Stem Cells\|Embryonic Stem Cells]]                       |
 | [[Cards/Hypoxia\|Hypoxia]]                                                 |

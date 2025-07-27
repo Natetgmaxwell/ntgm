@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extras/Images/VZWJC9DY.png|400](/img/user/Extras/Images/VZWJC9DY.png)
+![[Extras/Images/VZWJC9DY.png\|400]]
 [[Sources/Books/@tortora2019MicrobiologyIntroduction\|@tortora2019MicrobiologyIntroduction]]
 
 # Reference

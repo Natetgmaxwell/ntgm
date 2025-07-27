@@ -15,7 +15,7 @@ A group of people with a video particular faith.
 - Came to being during the [[Cards/Cognitive Revolution\|Cognitive Revolution]]
 
 > [!quote] [[Sources/Books/@stewart-williams2018ApeThatUnderstood\|@stewart-williams2018ApeThatUnderstood]]
-> So, one way a meme can spread itself in the culture is by boosting its owners’ longevity. Another is by boosting its owners’ reproductive success.  Any meme that encourages its bearers to have lots of children inevitably upgrades its chances of spreading.78 This is because children tend to inherit the belief systems of their parents and the parents’ community, and therefore fertility-promoting memes automatically build lots of new homes for themselves.
+> So, one way a meme can spread itself in the culture is by boosting its owners’ longevity. Another is by boosting its owners’ reproductive success.  Any meme that encourages its bearers to have lots of children inevitably upgrades its chances of spreading.78 This is because children tend to inherit the belief systems of their parents and the parents’ community, and therefore [[Cards/Fertility\|Fertility]]-promoting memes automatically build lots of new homes for themselves.
 
 ## Fields of Belief
 
@@ -65,6 +65,7 @@ A group of people with a video particular faith.
 | [[Cards/Culture\|Culture]]                                               |
 | [[Cards/Duotheism\|Duotheism]]                                           |
 | [[Cards/Egalitarianism\|Egalitarianism]]                                 |
+| [[Cards/Fertility\|Fertility]]                                           |
 | [[Cards/Humanism\|Humanism]]                                             |
 | [[Cards/Judaism\|Judaism]]                                               |
 | [[Cards/Monotheism\|Monotheism]]                                         |

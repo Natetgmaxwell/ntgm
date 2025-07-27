@@ -25,10 +25,11 @@
 
 ## Mentions
 
-| Incoming Links                        |
-| ------------------------------------- |
-| [[Cards/Dromotropic\|Dromotropic]] |
-| [[Cards/Inotrope\|Inotrope]]       |
+| Incoming Links                                            |
+| --------------------------------------------------------- |
+| [[Cards/Dromotropic\|Dromotropic]]                     |
+| [[Cards/Inotrope\|Inotrope]]                           |
+| [[Cards/Sympathomimetic Drugs\|Sympathomimetic Drugs]] |
 
 { .block-language-dataview}
 

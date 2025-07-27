@@ -17,9 +17,9 @@
 
 ## Mentions
 
-| Incoming Links                                 |
-| ---------------------------------------------- |
-| [[Calendar/2022/Weekly/2022-W31\|2022-W31]] |
+| Incoming Links                            |
+| ----------------------------------------- |
+| [[Calendar/Weekly/2022-W31\|2022-W31]] |
 
 { .block-language-dataview}
 

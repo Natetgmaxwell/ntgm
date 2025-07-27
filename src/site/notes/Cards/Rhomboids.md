@@ -12,7 +12,7 @@
 > [!Definition] Definition
 > The [[Cards/Rhomboids\|Rhomboids]] are a collective group of muscles formed by the [[Cards/Rhomboids Major\|Rhomboids Major]] and minor.
 
-![Pasted image 20230310210227.png|200](/img/user/Extras/Images/Pasted%20image%2020230310210227.png)
+![Pasted image 20230310210227.png|200](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020230310210227.png)
 
 ### Attachments of the [[Cards/Rhomboids\|Rhomboids]]
 

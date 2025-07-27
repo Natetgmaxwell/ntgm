@@ -22,4 +22,4 @@
 
 ## Flashcards
 
-What are the main neurohormones released by the posterior pituitary, and how are they triggered for release?;;[[Cards/Anti-diuretic hormone\|ADH]] and [[Cards/Oxytocin\|Oxytocin]]
+What are the main [[Cards/Neurohormones\|neurohormones]] released by the posterior pituitary, and how are they triggered for release?;;[[Cards/Anti-diuretic hormone\|ADH]] and [[Cards/Oxytocin\|Oxytocin]]

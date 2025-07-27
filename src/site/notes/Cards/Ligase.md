@@ -17,11 +17,11 @@
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-03-10\|2022-03-10]]         |
-| [[Calendar/2024/Daily/2024-07-31 Wed\|2024-07-31 Wed]] |
-| [[Cards/Nucleotides\|Nucleotides]]                     |
+| Incoming Links                                       |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2022-03-10\|2022-03-10]]         |
+| [[Calendar/Daily/2024-07-31 Wed\|2024-07-31 Wed]] |
+| [[Cards/Nucleotides\|Nucleotides]]                |
 
 { .block-language-dataview}
 

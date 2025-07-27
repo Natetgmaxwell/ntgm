@@ -23,7 +23,7 @@
 
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-08-18\|2022-08-18]]                   |
+| [[Calendar/Daily/2022-08-18\|2022-08-18]]                        |
 | [[Cards/Gametes\|Gametes]]                                       |
 | [[Cards/Haploid Number\|Haploid Number]]                         |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]] |

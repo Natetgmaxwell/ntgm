@@ -19,7 +19,7 @@
 
 | Incoming Links                                                    |
 | ----------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-03-04\|2022-03-04]]                 |
+| [[Calendar/Daily/2022-03-04\|2022-03-04]]                      |
 | [[Cards/Consciousness Engineering\|Consciousness Engineering]] |
 | [[Cards/Sleep\|Sleep]]                                         |
 

@@ -25,8 +25,8 @@
 
 | Incoming Links                                                  |
 | --------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-03-07\|2022-03-07]]               |
-| [[Calendar/2022/Daily/2022-04-28\|2022-04-28]]               |
+| [[Calendar/Daily/2022-03-07\|2022-03-07]]                    |
+| [[Calendar/Daily/2022-04-28\|2022-04-28]]                    |
 | [[Cards/Cystic Fibrosis\|Cystic Fibrosis]]                   |
 | [[Cards/Dihybrid Cross\|Dihybrid Cross]]                     |
 | [[Cards/Epigenetics\|Epigenetics]]                           |

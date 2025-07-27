@@ -34,7 +34,7 @@
 
 | Incoming Links                                                |
 | ------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-05-07\|2022-05-07]]             |
+| [[Calendar/Daily/2022-05-07\|2022-05-07]]                  |
 | [[Cards/Dominance Social Status\|Dominance Social Status]] |
 | [[Cards/Leadership\|Leadership]]                           |
 

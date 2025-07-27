@@ -27,9 +27,11 @@
 
 ## Mentions
 
-| Incoming Links                                                            |
-| ------------------------------------------------------------------------- |
-| [[Cards/Questions to Ask your Partner\|Questions to Ask your Partner]] |
+| Incoming Links                                                                      |
+| ----------------------------------------------------------------------------------- |
+| [[Cards/Finding the Charm in Peoples Flaws\|Finding the Charm in Peoples Flaws]] |
+| [[Cards/Life Satisfaction\|Life Satisfaction]]                                   |
+| [[Cards/Questions to Ask your Partner\|Questions to Ask your Partner]]           |
 
 { .block-language-dataview}
 

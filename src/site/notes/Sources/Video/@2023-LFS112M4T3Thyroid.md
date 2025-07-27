@@ -87,11 +87,9 @@
   
 
 
-![Extras/Images/image-2-x76-y103.png|500](/img/user/Extras/Images/image-2-x76-y103.png)
+![[Extras/Images/image-2-x76-y103.png\|500]]
 
-![Extras/Images/image-2-x414-y145.png|500](/img/user/Extras/Images/image-2-x414-y145.png)
-
-
+![[Extras/Images/image-2-x414-y145.png\|500]]
 
 
 
@@ -103,7 +101,9 @@
 
 
 
-![Extras/Images/image-6-x55-y102.png|500](/img/user/Extras/Images/image-6-x55-y102.png)
+
+
+![[Extras/Images/image-6-x55-y102.png\|500]]
 
 
 
@@ -113,5 +113,5 @@
 
 
 
-![Extras/Images/image-10-x52-y102.png|500](/img/user/Extras/Images/image-10-x52-y102.png)
+![[Extras/Images/image-10-x52-y102.png\|500]]
 

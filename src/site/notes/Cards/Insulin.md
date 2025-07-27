@@ -18,11 +18,14 @@
 
 ## Mentions
 
-| Incoming Links                                                      |
-| ------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-05-17 Wed\|2023-05-17 Wed]]           |
-| [[Spaces/University/Classes/Human Physiology\|Human Physiology]] |
-| [[Cards/Plasma Glucose Regulation\|Plasma Glucose Regulation]]   |
+| Incoming Links                                                                |
+| ----------------------------------------------------------------------------- |
+| [[Calendar/Daily/2023-05-17 Wed\|2023-05-17 Wed]]                          |
+| [[Calendar/Daily/2025-03-17 Mon\|2025-03-17 Mon]]                          |
+| [[Cards/Glucose Transporter 4\|Glucose Transporter 4]]                     |
+| [[Spaces/University/Classes/Human Physiology\|Human Physiology]]           |
+| [[Spaces/University/Classes/Integrated Physiology\|Integrated Physiology]] |
+| [[Cards/Plasma Glucose Regulation\|Plasma Glucose Regulation]]             |
 
 { .block-language-dataview}
 

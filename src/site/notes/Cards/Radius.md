@@ -27,7 +27,7 @@
 
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-04-05 Wed\|2023-04-05 Wed]]                                                 |
+| [[Calendar/Daily/2023-04-05 Wed\|2023-04-05 Wed]]                                                      |
 | [[Cards/Abductor Pollicis Longus\|Abductor Pollicis Longus]]                                           |
 | [[Cards/Biceps Brachii\|Biceps Brachii]]                                                               |
 | [[Cards/Brachioradialis\|Brachioradialis]]                                                             |

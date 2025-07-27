@@ -17,9 +17,9 @@
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2024/Daily/2024-10-09 Wed\|2024-10-09 Wed]] |
+| Incoming Links                                       |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2024-10-09 Wed\|2024-10-09 Wed]] |
 
 { .block-language-dataview}
 

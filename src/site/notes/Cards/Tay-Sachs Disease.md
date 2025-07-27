@@ -19,7 +19,7 @@
 
 | Incoming Links                                        |
 | ----------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-04-26\|2022-04-26]]     |
+| [[Calendar/Daily/2022-04-26\|2022-04-26]]          |
 | [[Cards/Autosomal Disorders\|Autosomal Disorders]] |
 
 { .block-language-dataview}

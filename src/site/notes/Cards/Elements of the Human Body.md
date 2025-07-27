@@ -11,9 +11,9 @@
 
 > [!Definition] Definition
 
-![Pasted image 20230508104419.png](/img/user/Extras/Images/Pasted%20image%2020230508104419.png)
+![Pasted image 20230508104419.png](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020230508104419.png)
 
-![Extras/Images/image-5-x53-y34.png|500](/img/user/Extras/Images/image-5-x53-y34.png)
+![[Extras/Images/image-5-x53-y34.png\|500]]
 [[Sources/Video/@nicolemastersLFS112M5T1Building2023\|@nicolemastersLFS112M5T1Building2023]]
 
 ## List of Elements

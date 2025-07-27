@@ -1,5 +1,5 @@
 ---
-{"zotero-key":"JUXVJSQK","zt-attachments":["17168"],"alias":", @Apprenticeship","keywords":[],"FirstAuthor":"[[ Shane Parrish]]","tags":["source/article"],"dg-publish":true,"permalink":"/sources/articles/parrish2024-apprenticeship/","dgPassFrontmatter":true}
+{"zotero-key":"JUXVJSQK","zt-attachments":["17168"],"alias":", @Apprenticeship","keywords":[],"FirstAuthor":"[[Shane Parish]]","tags":["source/article"],"dg-publish":true,"permalink":"/sources/articles/parrish2024-apprenticeship/","dgPassFrontmatter":true}
 ---
 
 # @parrish2024Apprenticeship

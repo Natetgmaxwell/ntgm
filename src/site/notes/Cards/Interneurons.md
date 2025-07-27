@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/interneurons/","dgPassFrontmatter":true}
+{"aliases":"Interneuron","tags":["Uni/HBIO1009","Uni/LFS112"],"dg-publish":true,"permalink":"/cards/interneurons/","dgPassFrontmatter":true}
 ---
 
 # Interneurons

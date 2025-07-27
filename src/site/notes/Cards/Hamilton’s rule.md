@@ -20,9 +20,9 @@
 
 ## Mentions
 
-| Incoming Links                                 |
-| ---------------------------------------------- |
-| [[Calendar/2023/Weekly/2023-W42\|2023-W42]] |
+| Incoming Links                            |
+| ----------------------------------------- |
+| [[Calendar/Weekly/2023-W42\|2023-W42]] |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["CSF"],"tags":["Uni/HBIO1009","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/cerebrospinal-fluid/","dgPassFrontmatter":true}
+{"aliases":"CSF","tags":["Uni/HBIO1009","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/cerebrospinal-fluid/","dgPassFrontmatter":true}
 ---
 
 # Cerebrospinal Fluid
@@ -19,7 +19,9 @@
 
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
+| [[Calendar/Daily/2025-07-26 Sat\|2025-07-26 Sat]]                                                      |
 | [[Spaces/University/Classes/Foundations in Medical Science\|Foundations in Medical Science]]           |
+| [[Cards/Human Specimen Collection\|Human Specimen Collection]]                                         |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
 | [[Cards/Subarachnoid space\|Subarachnoid space]]                                                       |
 

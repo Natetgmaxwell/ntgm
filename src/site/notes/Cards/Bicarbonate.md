@@ -6,7 +6,7 @@
 
 > [!Definition] Definition
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
+> [!quote] [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]]
 > “[[Cards/Sodium bicarbonate\|Bicarbonate]]  supplements/mineral  waters  for  exercise  performance
 *improve; [[Cards/Hydration\|Hydration]], Lactate threshold, Time to [[Cards/Fatigue\|Fatigue]]*, Glycogen utilization during exercise, Performance, power and workload, Exercise-induced metabolic acidosis, Helps remove acid from the muscle, Low potassium blood levels, Subsequent high-intensity exercise time to exhaustion, Post-exercise [[Cards/Acids\|Acids]]-base balance recovery, PGC1-α, mRNA expression, Increased muscle gains post-exercise.”
 

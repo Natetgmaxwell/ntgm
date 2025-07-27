@@ -2,31 +2,32 @@
 {"aliases":null,"tags":null,"dg-publish":true,"permalink":"/cards/5-questions-to-ask-if-your-unsure-about-your-relationship/","dgPassFrontmatter":true}
 ---
 
-# 5 Questions to Ask if your Unsure about your Relationship
+# 5 Questions to Ask if Your Unsure about Your Relationship
 
 > [!ontology]-
 > up:: [[Cards/Romantic Relationships\|Romantic Relationships]]
 > jump:: 
 > down:: 
 
-#### 1. If someone told you were a lot like your partner would this be a compliment?
+#### 1. If Someone Told You Were a Lot like Your Partner Would This Be a Compliment?
 
-#### 2. Are you truly fulfilled or just less lonely?
+#### 2. Are You Truly Fulfilled or just less Lonely?
 
-#### 3. Are you able to be unapologetically be yourself or feel the need to show up differently to please your partner?
+#### 3. Are You Able to Be Unapologetically Be Yourself or Feel the Need to Show up Differently to Please Your Partner?
 
-#### 4. Are you in love you in love with who your partner is now, or are you only in love with there good side, there potential or the idea of them?
+#### 4. Are You in Love You in Love with Who Your Partner is Now, or Are You only in Love with there Good Side, there Potential or the Idea of Them?
 
-#### 5. Would you want your further or imagined child to date someone like your partner?
+#### 5. Would You want Your Further or Imagined Child to Date Someone like Your Partner?
 
 # Reference
+
 - 
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2023/Daily/2025-02-12 Wed\|2025-02-12 Wed]] |
+| Incoming Links                                       |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2025-02-12 Wed\|2025-02-12 Wed]] |
 
 { .block-language-dataview}
 
@@ -41,4 +42,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards

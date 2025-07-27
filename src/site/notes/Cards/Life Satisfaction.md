@@ -6,21 +6,43 @@
 
 > [!ontology]-
 > up:: 
-> jump:: 
-> down:: 
+> jump:: [[Cards/Goals\|Goals]], [[Cards/Romantic Relationships\|Romantic Relationships]], [[Cards/Platonic Relationships\|Platonic Relationships]]
+> down::  
 
 > [!Definition] Definition
 
-## [[Cards/Life Satisfaction\|Life Satisfaction]] Fluctuation Based on Life Events 
+## [[Cards/Predicting Life Satisfaction using Personality Traits\|Predicting Life Satisfaction using Personality Traits]]
 
-> [!quote] [[Sources/Research Papers/@clark2008LagsLeadsLife\|@clark2008LagsLeadsLife]]
-> Our most general conclusion is that research that seeks to relate measures such as life satisfaction only to an individual’s labour force and marital status at a point in time is in danger of missing important information. Just as the word ‘life’ implies a long-term process, life satisfaction seems to contain an important intertemporal dimension.
 
-![Extras/Images/FLERCMUG.png|500](/img/user/Extras/Images/FLERCMUG.png)
-![Extras/Images/64BH3EE3.png|500](/img/user/Extras/Images/64BH3EE3.png)
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/predicting-life-satisfaction-using-personality-traits/#777a59" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-> [!cite]-
-> [[Sources/Research Papers/@clark2008LagsLeadsLife\|@clark2008LagsLeadsLife]]
+
+
+- Using the full set of 136 personality items, the true predictive accuracy for LS reached .88 
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/predicting-life-satisfaction-using-personality-traits/#0d1a69" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+- Using the Big Five personality domains, the true predictive accuracy for LS was .79 
+
+</div></div>
+
+
+## [[Cards/Life Satisfaction Fluctuation Based on Life Events\|Life Satisfaction Fluctuation Based on Life Events]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Men are found to be broadly more affected by labour market events (unemployment and layoffs) than women in terms of the size of the associated movements in life satisfaction. While the birth of a child provides a larger initial satisfaction boost to women, the effect becomes similarly negative for both sexes later on. 
+
+</div></div>
+
 
 # Reference
 
@@ -33,14 +55,18 @@
 
 { .block-language-dataview}
 
-| Outgoing Links |
-| -------------- |
+| Outgoing Links                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------- |
+| [[Cards/Goals\|Goals]]                                                                                                 |
+| [[Cards/Life Satisfaction Fluctuation Based on Life Events\|Life Satisfaction Fluctuation Based on Life Events]]       |
+| [[Cards/Platonic Relationships\|Platonic Relationships]]                                                               |
+| [[Cards/Predicting Life Satisfaction using Personality Traits\|Predicting Life Satisfaction using Personality Traits]] |
+| [[Cards/Romantic Relationships\|Romantic Relationships]]                                                               |
 
 { .block-language-dataview}
 
-| Sources                                                                         |
-| ------------------------------------------------------------------------------- |
-| [[Sources/Research Papers/@clark2008LagsLeadsLife\|@clark2008LagsLeadsLife]] |
+| Sources |
+| ------- |
 
 { .block-language-dataview}
 

@@ -43,7 +43,7 @@
 
 > [!quote-yellow] (Page 58) yellow
 > 
-> ![Extras/Images/CF86J7CV.png](/img/user/Extras/Images/CF86J7CV.png)
+> ![[Extras/Images/CF86J7CV.png\|Extras/Images/CF86J7CV.png]]
 >
 { #CF86J7CVaHSHCNIHNp58}
 

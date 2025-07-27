@@ -1,5 +1,5 @@
 ---
-{"aliases":["Keq"],"tags":["Uni/SCI105","flashcards/SCI105"],"dg-publish":true,"permalink":"/cards/equilibrium-constant/","dgPassFrontmatter":true}
+{"aliases":["Keq","Kw"],"tags":["Uni/SCI105","flashcards/SCI105"],"dg-publish":true,"permalink":"/cards/equilibrium-constant/","dgPassFrontmatter":true}
 ---
 
 # Equilibrium Constant
@@ -13,7 +13,8 @@
 
 $$aA+bB ⇌ cC+dD$$
 
-$$K_{eq}=\frac{C^cD^d}{A^aB^b}$$
+$$K_{eq}=\frac{[C]^c[D]^d}{[A]^a[B]^b}$$
+Where $A$&$B$ are products and $C$&$D$ are reactants
 
 # Reference
 
@@ -21,9 +22,10 @@ $$K_{eq}=\frac{C^cD^d}{A^aB^b}$$
 
 ## Mentions
 
-| Incoming Links                        |
-| ------------------------------------- |
-| [[Cards/Equilibrium\|Equilibrium]] |
+| Incoming Links                                       |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2025-03-04 Tue\|2025-03-04 Tue]] |
+| [[Cards/Equilibrium\|Equilibrium]]                |
 
 { .block-language-dataview}
 

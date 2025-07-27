@@ -35,4 +35,4 @@ There are different ways to classify infections, depending on the cause, locatio
 
 ## Transmission
 
-![Screenshot 2023-10-16 at 11.03.15 am.png|400](/img/user/Extras/Images/Screenshot%202023-10-16%20at%2011.03.15%20am.png)
+![Screenshot 2023-10-16 at 11.03.15 am.png|400](/img/user/Extras/Obsidian%20Images/Screenshot%202023-10-16%20at%2011.03.15%20am.png)

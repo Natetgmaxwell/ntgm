@@ -1,5 +1,5 @@
 ---
-{"aliases":["Bacteriophage"],"tags":["Uni/LFS261"],"dg-publish":true,"permalink":"/cards/bacteriophages/","dgPassFrontmatter":true}
+{"aliases":["Bacteriophage","Phage"],"tags":["Uni/LFS261"],"dg-publish":true,"permalink":"/cards/bacteriophages/","dgPassFrontmatter":true}
 ---
 
 # Bacteriophages
@@ -13,12 +13,14 @@
 > Bacteriophages, also known as phages, are viruses that specifically infect and replicate within bacteria.
 
 # Reference
+
 - 
 
 ## Mentions
 
-| Incoming Links |
-| -------------- |
+| Incoming Links                                            |
+| --------------------------------------------------------- |
+| [[Cards/Bacteriophage Therapy\|Bacteriophage Therapy]] |
 
 { .block-language-dataview}
 
@@ -35,4 +37,4 @@
 
 { .block-language-dataview}
 
-## Flashcards 
+## Flashcards

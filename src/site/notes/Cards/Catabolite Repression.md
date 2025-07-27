@@ -18,9 +18,9 @@
 
 ## Mentions
 
-| Incoming Links                                            |
-| --------------------------------------------------------- |
-| [[Calendar/2024/Daily/2024-08-24 Sat\|2024-08-24 Sat]] |
+| Incoming Links                                       |
+| ---------------------------------------------------- |
+| [[Calendar/Daily/2024-08-24 Sat\|2024-08-24 Sat]] |
 
 { .block-language-dataview}
 

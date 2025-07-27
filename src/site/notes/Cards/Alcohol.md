@@ -33,7 +33,7 @@
 
 - [[Cards/Alcohol\|Alcohol]] speeds up age-related brain shrinking.
 - Increased risk of [[Cards/Liver Fibrosis\|Liver Fibrosis]]
-- Diminishes [[Cards/Grey matter\|Grey matter]] and [[Cards/White matter\|White matter]] in the [[Cards/Brain\|Brain]]
+- Diminishes [[Cards/Grey Matter\|Grey Matter]] and [[Cards/White Matter\|White Matter]] in the [[Cards/Brain\|Brain]]
 - Throat, [[Cards/Buccal Cavity\|Buccal Cavity]], larynx, breast, [[Cards/Liver Cancer\|liver]], Colorectal, or [[Cards/Esophageal Cancer\|Esophageal Cancer]]
 
 ## To Avoid [[Cards/Alcohol\|Alcohols]] Adverse Effects
@@ -51,13 +51,17 @@
 
 ## Mentions
 
-| Incoming Links                                                        |
-| --------------------------------------------------------------------- |
-| [[Cards/Curcumin\|Curcumin]]                                       |
-| [[Cards/Glycine\|Glycine]]                                         |
-| [[Cards/Liver\|Liver]]                                             |
-| [[Cards/Oxidative Priority of Foods\|Oxidative Priority of Foods]] |
-| [[Cards/Rapid Eye Movement Sleep\|Rapid Eye Movement Sleep]]       |
+| Incoming Links                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------- |
+| [[Spaces/University/Classes/Applied Microbiology and Biotechnology\|Applied Microbiology and Biotechnology]] |
+| [[Cards/Coordination\|Coordination]]                                                                         |
+| [[Cards/Curcumin\|Curcumin]]                                                                                 |
+| [[Cards/Glycine\|Glycine]]                                                                                   |
+| [[Cards/Liver\|Liver]]                                                                                       |
+| [[Cards/Non Nutrients\|Non Nutrients]]                                                                       |
+| [[Cards/Nutrients\|Nutrients]]                                                                               |
+| [[Cards/Oxidative Priority of Foods\|Oxidative Priority of Foods]]                                           |
+| [[Cards/Rapid Eye Movement Sleep\|Rapid Eye Movement Sleep]]                                                 |
 
 { .block-language-dataview}
 
@@ -72,7 +76,7 @@
 | [[Cards/Dopamine\|Dopamine]]                                                       |
 | [[Cards/Epinephrine\|Epinephrine]]                                                 |
 | [[Cards/Esophageal Cancer\|Esophageal Cancer]]                                     |
-| [[Cards/Grey matter\|Grey matter]]                                                 |
+| [[Cards/Grey Matter\|Grey Matter]]                                                 |
 | [[Cards/Histamine N-methyltransferase\|Histamine N-methyltransferase]]             |
 | [[Cards/Impulsivity\|Impulsivity]]                                                 |
 | [[Cards/Liver Cancer\|Liver Cancer]]                                               |
@@ -90,7 +94,7 @@
 | [[Cards/Sulfite oxidase\|Sulfite oxidase]]                                         |
 | [[Cards/Thermoregulation\|Thermoregulation]]                                       |
 | [[Cards/Vitamin B1\|Vitamin B1]]                                                   |
-| [[Cards/White matter\|White matter]]                                               |
+| [[Cards/White Matter\|White Matter]]                                               |
 
 { .block-language-dataview}
 

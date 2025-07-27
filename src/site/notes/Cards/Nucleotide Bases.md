@@ -22,9 +22,9 @@
 
 | Incoming Links                                                                                        |
 | ----------------------------------------------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-06-08\|2022-06-08]]                                                     |
-| [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                             |
-| [[Calendar/2024/Daily/2024-07-26 Fri\|2024-07-26 Fri]]                                             |
+| [[Calendar/Daily/2022-06-08\|2022-06-08]]                                                          |
+| [[Calendar/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                                                  |
+| [[Calendar/Daily/2024-07-26 Fri\|2024-07-26 Fri]]                                                  |
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]] |
 | [[Cards/Polymerase Chain Reaction\|Polymerase Chain Reaction]]                                     |
 | [[Cards/RNA Translation\|RNA Translation]]                                                         |

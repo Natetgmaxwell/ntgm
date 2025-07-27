@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Pasted image 20231020193038.png](/img/user/Extras/Images/Pasted%20image%2020231020193038.png)
+![Pasted image 20231020193038.png](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020231020193038.png)
 [[@leedaffin2023-LFS122M9T1Respiratory\|@leedaffin2023-LFS122M9T1Respiratory]]
 
 # Reference

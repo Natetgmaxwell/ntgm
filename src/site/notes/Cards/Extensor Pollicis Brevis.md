@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extensor Pollicis Brevis.png|200](/img/user/Extras/Images/Extensor%20Pollicis%20Brevis.png)
+![Extensor Pollicis Brevis.png|200](/img/user/Extras/Obsidian%20Images/Extensor%20Pollicis%20Brevis.png)
 
 # Reference
 

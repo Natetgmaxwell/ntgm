@@ -17,7 +17,7 @@
 > [!quote] [[Sources/Research Papers/@crowe2009AssociationDietSerum\|@crowe2009AssociationDietSerum]]
 > Notably, higher intakes of total and dairy protein and calcium were highly significantly associated withelevated concentrations of IGF-I and lower concentrations of IGFBP-2.
 
-> [!quote] [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
+> [!quote] [[@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]
 > Red meat, [[Cards/Dairy Products\|dairy products]] and dietary calcium are associated with higher [[Cards/Insulin-like growth factor 1\|IGF-1]].
 
 # Reference
@@ -28,15 +28,17 @@
 
 | Incoming Links                                                                    |
 | --------------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                         |
-| [[Calendar/2023/Daily/2023-07-11 Tue\|2023-07-11 Tue]]                         |
+| [[Calendar/Daily/2023-07-04 Tue\|2023-07-04 Tue]]                              |
+| [[Calendar/Daily/2023-07-11 Tue\|2023-07-11 Tue]]                              |
 | [[Cards/Axon Terminal\|Axon Terminal]]                                         |
 | [[Extras/Excalidraw/Axon Terminal.excalidraw\|Axon Terminal.excalidraw]]       |
 | [[Cards/Calcitonins Effect of the Kidneys\|Calcitonins Effect of the Kidneys]] |
 | [[Cards/Elements of the Human Body\|Elements of the Human Body]]               |
 | [[Cards/Endoplasmic reticulum\|Endoplasmic reticulum]]                         |
+| [[Cards/Ethylenediaminetetraacetic Acid\|Ethylenediaminetetraacetic Acid]]     |
 | [[Cards/Factors for Increasing IGF-1\|Factors for Increasing IGF-1]]           |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]               |
+| [[Cards/Magnesium\|Magnesium]]                                                 |
 | [[Cards/Sodium\|Sodium]]                                                       |
 
 { .block-language-dataview}
@@ -56,7 +58,6 @@
 | [[Sources/Video/@2023-LFS112M6T3Platelets\|@2023-LFS112M6T3Platelets]]                                                   |
 | [[Sources/Research Papers/@avigailerlich2019MitophagyRegulationSkeletal\|@avigailerlich2019MitophagyRegulationSkeletal]] |
 | [[Sources/Research Papers/@crowe2009AssociationDietSerum\|@crowe2009AssociationDietSerum]]                               |
-| [[Sources/Books/@jamesdinicolantonio2021WinAchievePeak\|@jamesdinicolantonio2021WinAchievePeak]]                         |
 
 { .block-language-dataview}
 

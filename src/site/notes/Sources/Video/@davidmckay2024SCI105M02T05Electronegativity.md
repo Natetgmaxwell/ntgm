@@ -47,7 +47,7 @@
 
 > [!quote-yellow] (Page 22) yellow
 > 
-> ![Extras/Images/BI5JVC9Q.png](/img/user/Extras/Images/BI5JVC9Q.png)
+> ![[Extras/Images/BI5JVC9Q.png\|Extras/Images/BI5JVC9Q.png]]
 >
 { #BI5JVC9Qa466VK2FFp3}
 
@@ -68,7 +68,7 @@
 
 > [!quote-yellow] (Page 21) yellow
 > 
-> ![Extras/Images/CWVIS8R3.png](/img/user/Extras/Images/CWVIS8R3.png)
+> ![[Extras/Images/CWVIS8R3.png\|Extras/Images/CWVIS8R3.png]]
 >
 { #CWVIS8R3a466VK2FFp2}
 

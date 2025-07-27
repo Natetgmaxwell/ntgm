@@ -24,8 +24,8 @@
 
 | Incoming Links                                                                |
 | ----------------------------------------------------------------------------- |
-| [[Calendar/2024/Daily/2024-09-02 Mon\|2024-09-02 Mon]]                     |
-| [[Calendar/2024/Daily/2024-09-04 Wed\|2024-09-04 Wed]]                     |
+| [[Calendar/Daily/2024-09-02 Mon\|2024-09-02 Mon]]                          |
+| [[Calendar/Daily/2024-09-04 Wed\|2024-09-04 Wed]]                          |
 | [[Cards/Amino Acid Metabolism Disorders\|Amino Acid Metabolism Disorders]] |
 
 { .block-language-dataview}

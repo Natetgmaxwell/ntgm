@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extras/Images/WR9HNPQR.png|400](/img/user/Extras/Images/WR9HNPQR.png)
+![[Extras/Images/WR9HNPQR.png\|400]]
 
 # Reference
 

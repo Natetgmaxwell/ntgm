@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extras/Images/ESL5AAV5.png|400](/img/user/Extras/Images/ESL5AAV5.png)
+![[Extras/Images/ESL5AAV5.png\|400]]
 [[Sources/Research Papers/@bentepedersen2012MusclesExerciseObesity\|@bentepedersen2012MusclesExerciseObesity]]
 
 > [!quote] [[Sources/Research Papers/@bentepedersen2012MusclesExerciseObesity\|@bentepedersen2012MusclesExerciseObesity]]

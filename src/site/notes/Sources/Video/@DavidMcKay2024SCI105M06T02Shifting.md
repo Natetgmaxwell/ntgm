@@ -39,7 +39,7 @@
 
 > [!quote-yellow] (Page 9) yellow
 > 
-> ![Extras/Images/B6C9ZAR2.png](/img/user/Extras/Images/B6C9ZAR2.png)
+> ![[Extras/Images/B6C9ZAR2.png\|Extras/Images/B6C9ZAR2.png]]
 >
 { #B6C9ZAR2aN87W2IHWp3}
 

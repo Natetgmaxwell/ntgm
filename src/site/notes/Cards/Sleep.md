@@ -6,7 +6,7 @@
 
 > [!Ontology]
 > up:: 
-> jump:: [[Cards/Endocrine System\|Endocrine System]], [[Cards/Circadian rhythm\|Circadian rhythm]], [[Cards/Fatigue\|Fatigue]], [[Cards/Magnesium\|Magnesium]], [[Cards/Theanine\|Theanine]], [[Cards/Coffee\|Coffee]], [[Cards/Pre-Sleep Protein\|Pre-Sleep Protein]]
+> jump:: [[Cards/Endocrine System\|Endocrine System]], [[Cards/Circadian Rhythms\|Circadian Rhythms]], [[Cards/Fatigue\|Fatigue]], [[Cards/Magnesium\|Magnesium]], [[Cards/Theanine\|Theanine]], [[Cards/Coffee\|Coffee]], [[Cards/Pre-Sleep Protein\|Pre-Sleep Protein]]
 > down:: [[Cards/Insomnia\|Insomnia]], [[Cards/Slow-wave Sleep\|Slow-wave Sleep]], [[Cards/Rapid Eye Movement Sleep\|Rapid Eye Movement Sleep]]
 
 ![[Boundless by Ben Greenfield#^348c76\|Boundless by Ben Greenfield#^348c76]]
@@ -14,7 +14,7 @@
 ## The Influence of Sleep
 
 - Regulates the [[Cards/Endocrine System\|Endocrine System]]
-- Cognitive Behaviour / [[Cards/Circadian rhythm\|Circadian rhythm]]
+- Cognitive Behaviour / [[Cards/Circadian Rhythms\|Circadian Rhythms]]
 - Can aid in the onset of [[Cards/Fatigue\|Fatigue]]
 
 ## Enhancing Sleep
@@ -38,7 +38,7 @@
 - [[Cards/Insomnia\|Insomnia]]
 - [[Cards/Thermoregulation\|Thermoregulation]]
 - [[Cards/Endocrine System\|Endocrine System]]
-- [[Cards/Circadian rhythm\|Circadian rhythm]]
+- [[Cards/Circadian Rhythms\|Circadian Rhythms]]
 - [[Cards/Sleep Debt\|Sleep Debt]]
 - [[Cards/Sleep Efficiency\|Sleep Efficiency]]
 - [[Cards/Fatigue\|Fatigue]]
@@ -53,7 +53,7 @@
 | [[Cards/Glycine\|Glycine]]                             |
 | [[Cards/LLLT effect on Sleep\|LLLT effect on Sleep]]   |
 | [[Cards/Melatonin\|Melatonin]]                         |
-| [[Cards/Mouth taping\|Mouth taping]]                   |
+| [[Cards/Mouth Taping\|Mouth Taping]]                   |
 | [[Cards/Productivity\|Productivity]]                   |
 | [[Cards/Sleep Apnea\|Sleep Apnea]]                     |
 
@@ -62,7 +62,7 @@
 | Outgoing Links                                                  |
 | --------------------------------------------------------------- |
 | [[Cards/Caffeine\|Caffeine]]                                 |
-| [[Cards/Circadian rhythm\|Circadian rhythm]]                 |
+| [[Cards/Circadian Rhythms\|Circadian Rhythms]]               |
 | [[Cards/Coffee\|Coffee]]                                     |
 | [[Cards/Endocrine System\|Endocrine System]]                 |
 | [[Cards/Fatigue\|Fatigue]]                                   |

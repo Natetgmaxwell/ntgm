@@ -20,7 +20,7 @@
 
 
 
-![Pasted image 20220729123722.png|300](/img/user/Extras/Images/Pasted%20image%2020220729123722.png) 
+![Pasted image 20220729123722.png|300](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020220729123722.png) 
 
 </div></div>
 
@@ -30,7 +30,7 @@
 
 
 
-![Pasted image 20220729123748.png|300](/img/user/Extras/Images/Pasted%20image%2020220729123748.png) 
+![Pasted image 20220729123748.png|300](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020220729123748.png) 
 
 </div></div>
 
@@ -40,7 +40,7 @@
 
 
 
-![Pasted image 20220729123805.png|300](/img/user/Extras/Images/Pasted%20image%2020220729123805.png) 
+![Pasted image 20220729123805.png|300](/img/user/Extras/Obsidian%20Images/Pasted%20image%2020220729123805.png) 
 
 </div></div>
 

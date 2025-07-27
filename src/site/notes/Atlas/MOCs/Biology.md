@@ -10,7 +10,6 @@
 ## Inbox
 - [[Cards/HOX Gene\|HOX Gene]]
 - [[Cards/Genetic Variation\|Genetic Variation]]
-- [[Cards/Cladistics\|Cladistics]]
 
 { .block-language-dataview}
 

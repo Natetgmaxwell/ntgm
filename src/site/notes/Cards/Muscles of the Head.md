@@ -13,7 +13,7 @@
 
 ## List of [[Cards/Head\|Head]] Muscles
 
-![Extras/Images/6B655TFM.png](/img/user/Extras/Images/6B655TFM.png)
+![[Extras/Images/6B655TFM.png\|Extras/Images/6B655TFM.png]]
 
 > [!cite]-
 > [[Sources/Video/@LFS122M5T2Muscles\|@LFS122M5T2Muscles]]

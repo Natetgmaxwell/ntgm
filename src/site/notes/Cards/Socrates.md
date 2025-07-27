@@ -22,7 +22,7 @@
 
 | Incoming Links                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Calendar/2022/Weekly/2022-W31\|2022-W31]]                                                                                             |
+| [[Calendar/Weekly/2022-W31\|2022-W31]]                                                                                                  |
 | [[Spaces/My Newsletter/Developing Wisdom, Ancient Egypt & Physical Benchmarks\|Developing Wisdom, Ancient Egypt & Physical Benchmarks]] |
 
 { .block-language-dataview}

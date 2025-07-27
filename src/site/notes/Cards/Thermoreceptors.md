@@ -19,7 +19,8 @@
 
 | Incoming Links                                                      |
 | ------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-10-16 Mon\|2023-10-16 Mon]]           |
+| [[Calendar/Daily/2023-10-16 Mon\|2023-10-16 Mon]]                |
+| [[Cards/Free Nerve Endings\|Free Nerve Endings]]                 |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]] |
 | [[Cards/Sensory Neurons\|Sensory Neurons]]                       |
 

@@ -48,7 +48,7 @@
 
 > [!quote-yellow] (Page 4) yellow
 > 
-> ![Extras/Images/ZB8M5UU9.png](/img/user/Extras/Images/ZB8M5UU9.png)
+> ![[Extras/Images/ZB8M5UU9.png\|Extras/Images/ZB8M5UU9.png]]
 >
 { #ZB8M5UU9aF5333TVVp4}
 

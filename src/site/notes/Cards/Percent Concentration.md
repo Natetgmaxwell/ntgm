@@ -11,7 +11,7 @@
 
 > [!Definition] Definition
 
-![Extras/Images/PHVGPNCS.png|400](/img/user/Extras/Images/PHVGPNCS.png)
+![[Extras/Images/PHVGPNCS.png\|400]]
 
 # Reference
 

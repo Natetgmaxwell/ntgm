@@ -54,7 +54,7 @@ Engaging in regular resistance training, particularly [[Cards/Compound Movements
 
 - Protein: Consum
 
-![Extras/Images/ZQ4UA4XA.png](/img/user/Extras/Images/ZQ4UA4XA.png)
+![[Extras/Images/ZQ4UA4XA.png\|Extras/Images/ZQ4UA4XA.png]]
 [[Sources/Research Papers/@kataoka2021ReviewFoodsFood\|@kataoka2021ReviewFoodsFood]]
 
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"tags":["Uni/LFS112"],"permalink":"/cards/baroreceptors/","dgPassFrontmatter":true}
+{"aliases":null,"dg-publish":true,"tags":["Uni/LFS112","Uni/LFS203","flashcards/LFS203"],"permalink":"/cards/baroreceptors/","dgPassFrontmatter":true}
 ---
 
 # Baroreceptors
@@ -22,3 +22,5 @@
 { .block-language-dataview}
 
 ## Flashcards
+
+The most important baroreceptors involved in the moment-to-moment regulation of blood pressure are located in the?[[Cards/Carotid Sinus\|Carotid Sinus]] and the [[Cards/Aortic Arch\|Aortic Arch]]

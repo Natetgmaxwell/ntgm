@@ -46,10 +46,10 @@ A single-strandard polymeric molecule, similar to [[Cards/Deoxyribonucleic Acid\
 
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2022/Daily/2022-03-10\|2022-03-10]]                                                                            |
-| [[Calendar/2022/Daily/2022-03-11\|2022-03-11]]                                                                            |
-| [[Calendar/2024/Daily/2024-07-26 Fri\|2024-07-26 Fri]]                                                                    |
-| [[Calendar/2024/Daily/2024-10-14 Mon\|2024-10-14 Mon]]                                                                    |
+| [[Calendar/Daily/2022-03-10\|2022-03-10]]                                                                                 |
+| [[Calendar/Daily/2022-03-11\|2022-03-11]]                                                                                 |
+| [[Calendar/Daily/2024-07-26 Fri\|2024-07-26 Fri]]                                                                         |
+| [[Calendar/Daily/2024-10-14 Mon\|2024-10-14 Mon]]                                                                         |
 | [[Cards/Anti-Codon\|Anti-Codon]]                                                                                          |
 | [[Cards/DNA Replication\|DNA Replication]]                                                                                |
 | [[Cards/Electrophoresis\|Electrophoresis]]                                                                                |
@@ -60,7 +60,6 @@ A single-strandard polymeric molecule, similar to [[Cards/Deoxyribonucleic Acid\
 | [[Spaces/University/Classes/Integrated Anatomy and Physiology\|Integrated Anatomy and Physiology]]                        |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
 | [[Cards/Non-coding RNA\|Non-coding RNA]]                                                                                  |
-| [[Cards/Nucleotides\|Nucleotides]]                                                                                        |
 | [[Cards/Polymerase\|Polymerase]]                                                                                          |
 | [[Cards/Primase\|Primase]]                                                                                                |
 | [[Cards/Protein Synthesis\|Protein Synthesis]]                                                                            |
@@ -79,7 +78,9 @@ A single-strandard polymeric molecule, similar to [[Cards/Deoxyribonucleic Acid\
 | [[Cards/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]] |
 | [[Cards/Eukaryote\|Eukaryote]]                         |
 | [[Cards/Genes\|Genes]]                                 |
+| [[Cards/Hydrogen Bonds\|Hydrogen Bonds]]               |
 | [[Cards/Nucleic Acids\|Nucleic Acids]]                 |
+| [[Cards/Nucleotides\|Nucleotides]]                     |
 | [[Cards/Prokaryote\|Prokaryote]]                       |
 | [[Cards/Ribosomes\|Ribosomes]]                         |
 | [[Cards/RNA Transcription\|RNA Transcription]]         |
@@ -103,7 +104,7 @@ What is the difference between prokaryotic and eukaryotic mRNA?;;Prokaryotic mRN
 If we extracted mRNA from thyroid and neuronal cells, we would find the same sets of mature mRNA molecules in both types of cells?;;no
 <!--SR:!2024-11-15,43,250-->
 
-What is a secondary and tertiary RNA structure? How are these structures formed?;;2nd RNA strutures and based on complementary based paired hydrogen bonds. 3rd RNA structures and more complex the 2nd with electrostatic forces (Van wals forces)
+What is a secondary and tertiary RNA structure? How are these structures formed?;;2nd RNA strutures and based on complementary based paired [[Cards/Hydrogen Bonds\|hydrogen bonds]]. 3rd RNA structures and more complex the 2nd with electrostatic forces (Van wals forces)
 <!--SR:!2024-11-21,17,217-->
 
 What are some uses of secondary and tertiary structured RNAs in eukaryotic cells?;;2nd RNA uses include gene regulation and protein translation. 3rd RNA can catalyze biochemical reactions
@@ -114,3 +115,5 @@ Describe two similarities between the miRNA and [[Cards/siRNA\|siRNA]] pathways;
 
 Describe two differences between the miRNA and [[Cards/siRNA\|siRNA]] pathways;;miRNAs are endogenously expressed by the host genome. In contrast, siRNAs are typically introduced into the cell through transfection or other means
 <!--SR:!2024-11-21,17,214-->
+
+What is the fundamental building block of [[Cards/Ribonucleic Acid\|RNA]]?;;[[Cards/Nucleotides\|Nucleotides]]

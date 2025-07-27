@@ -41,7 +41,7 @@
 
 > [!quote-yellow] (Page 10) yellow
 > 
-> ![Extras/Images/R4HG2V7R.png](/img/user/Extras/Images/R4HG2V7R.png)
+> ![[Extras/Images/R4HG2V7R.png\|Extras/Images/R4HG2V7R.png]]
 >
 { #R4HG2V7RaLLMGAJZDp2}
 

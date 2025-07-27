@@ -34,6 +34,19 @@
 10. Label and Transport Blood Samples
 	- Clearly label each vacutainer tube with the patient's name, date of collection, and any relevant information. Store them securely at an appropriate temperature before transporting to the laboratory for analysis.
 
+#### Factors Influencing [[Cards/Blood\|Blood]] Sample
+{ #2fe1d0}
+
+
+- Patient Age
+- Posture
+- Recent food intake ([[Cards/Diet\|Diet]])
+- Immobilisation
+- Physical Activity ([[Cards/Exercise\|Exercise]])
+- [[Cards/Stress\|Stress]]
+- [[Cards/Circadian Rhythms\|Circadian Rhythms]]
+- [[Cards/Ethanol\|Ethanol]]
+
 # Reference
 
 - 
@@ -43,12 +56,18 @@
 | Incoming Links                                                                                  |
 | ----------------------------------------------------------------------------------------------- |
 | [[Spaces/University/Classes/Foundations in Medical Science\|Foundations in Medical Science]] |
+| [[Cards/Human Specimen Collection\|Human Specimen Collection]]                               |
 
 { .block-language-dataview}
 
-| Outgoing Links            |
-| ------------------------- |
-| [[Cards/Blood\|Blood]] |
+| Outgoing Links                                    |
+| ------------------------------------------------- |
+| [[Cards/Blood\|Blood]]                         |
+| [[Cards/Circadian Rhythms\|Circadian Rhythms]] |
+| [[Cards/Diet\|Diet]]                           |
+| [[Cards/Ethanol\|Ethanol]]                     |
+| [[Cards/Exercise\|Exercise]]                   |
+| [[Cards/Stress\|Stress]]                       |
 
 { .block-language-dataview}
 

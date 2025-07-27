@@ -26,11 +26,10 @@
 
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-11-07 Tue\|2023-11-07 Tue]]                                                                    |
+| [[Calendar/Daily/2023-11-07 Tue\|2023-11-07 Tue]]                                                                         |
 | [[Cards/Aerobic Training Zones\|Aerobic Training Zones]]                                                                  |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]]                    |
-| [[Cards/Krebs Cycle\|Krebs Cycle]]                                                                                        |
 | [[Cards/Training Zone 2\|Training Zone 2]]                                                                                |
 
 { .block-language-dataview}

@@ -33,14 +33,14 @@
 
 > [!quote-yellow] (Page 6) yellow
 > 
-> ![Extras/Images/JPEVMLIY.png](/img/user/Extras/Images/JPEVMLIY.png)
+> ![[Extras/Images/JPEVMLIY.png\|Extras/Images/JPEVMLIY.png]]
 >
 { #JPEVMLIYa5N8LMHZNp6}
 
 
 > [!quote-yellow] (Page 8) yellow
 > 
-> ![Extras/Images/U96I6PY2.png](/img/user/Extras/Images/U96I6PY2.png)
+> ![[Extras/Images/U96I6PY2.png\|Extras/Images/U96I6PY2.png]]
 >
 { #U96I6PY2a5N8LMHZNp8}
 

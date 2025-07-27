@@ -32,7 +32,7 @@
 
 | Incoming Links                                                    |
 | ----------------------------------------------------------------- |
-| [[Calendar/2022/Weekly/2022-W31\|2022-W31]]                    |
+| [[Calendar/Weekly/2022-W31\|2022-W31]]                         |
 | [[Cards/Belief\|Belief]]                                       |
 | [[Cards/Gnaeus Marcius Coriolanus\|Gnaeus Marcius Coriolanus]] |
 | [[Cards/Perception\|Perception]]                               |

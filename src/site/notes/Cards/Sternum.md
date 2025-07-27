@@ -25,7 +25,7 @@
 
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-04-03 Mon\|2023-04-03 Mon]]                                                 |
+| [[Calendar/Daily/2023-04-03 Mon\|2023-04-03 Mon]]                                                      |
 | [[Cards/Axial Skeleton\|Axial Skeleton]]                                                               |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
 | [[Cards/Pectoralis\|Pectoralis]]                                                                       |

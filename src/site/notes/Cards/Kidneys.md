@@ -16,7 +16,7 @@
 
 ## Structure of the Kidneys
 
-![Extras/Images/image-6-x25-y130.png|325](/img/user/Extras/Images/image-6-x25-y130.png)
+![[Extras/Images/image-6-x25-y130.png\|325]]
 [[Sources/Video/@leedaffin2023-LFS122M12T1Urinary\|@leedaffin2023-LFS122M12T1Urinary]]
 
 - [[Cards/Renal capsule\|Renal capsule]]
@@ -44,5 +44,5 @@
 Why is the right kidney lower?;;it is displaced by the [[Cards/Liver\|Liver]].
 <!--SR:!2024-09-14,12,230-->
 
-Where in the body can you find fenestrated capillaries?;;[[Cards/Kidneys\|Kidneys]]
+Where in the body can you find fenestrated [[Cards/Capillaries\|capillaries]]?;;[[Cards/Kidneys\|Kidneys]]
 <!--SR:!2024-09-03,1,130-->

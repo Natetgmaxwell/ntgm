@@ -2,12 +2,12 @@
 {"aliases":["Cerebral Hemisphere","Cerebrum"],"date created":"2022-12-03 Sat","edited":"2023-04-06 Thu","tags":["Uni/LFS122","Uni/HBIO1009","on/Science/Biology/Anatomy"],"dg-publish":true,"permalink":"/cards/cerebral-cortex/","dgPassFrontmatter":true}
 ---
 
-# Cerebral cortex
+# Cerebral Cortex
 
 > [!Ontology]
 > up:: [[Cards/Brain\|Brain]]
 > jump::
-> down:: [[Cards/Frontal lobe\|Frontal lobe]], [[Cards/Parietal lobe\|Parietal lobe]], [[Cards/Temporal Lobe\|Temporal Lobe]], [[Cards/Occipital lobe\|Occipital lobe]]
+> down:: [[Cards/Frontal lobe\|Frontal lobe]], [[Cards/Parietal Lobe\|Parietal Lobe]], [[Cards/Temporal Lobe\|Temporal Lobe]], [[Cards/Occipital Lobe\|Occipital Lobe]]
 
 > [!Definition] Definition
 > The cerebral cortex is the outer layer of the brain that covers and protects the inner structures. It is composed of gray and white matter, with gray matter consisting of neurons and synapses, and white matter consisting of myelinated axons that connect different regions. The cerebral cortex is responsible for most of the higher cognitive functions, such as reasoning, perception, memory, language, and decision making. It also contains various regions that specialize in different tasks, such as visual, auditory, motor, and somatosensory processing.
@@ -15,9 +15,9 @@
 ## Parts of the [[Cards/Cerebral cortex\|Cerebral cortex]]
 
 - [[Cards/Frontal lobe\|Frontal lobe]]
-- [[Cards/Parietal lobe\|Parietal lobe]]
+- [[Cards/Parietal Lobe\|Parietal Lobe]]
 - [[Cards/Temporal Lobe\|Temporal Lobe]]
-- [[Cards/Occipital lobe\|Occipital lobe]]
+- [[Cards/Occipital Lobe\|Occipital Lobe]]
 
 # Reference
 
@@ -27,7 +27,7 @@
 
 | Incoming Links                                                                                            |
 | --------------------------------------------------------------------------------------------------------- |
-| [[Cards/Basal ganglia\|Basal ganglia]]                                                                 |
+| [[Cards/Basal Ganglia\|Basal Ganglia]]                                                                 |
 | [[Extras/Excalidraw/Brain Diagram.excalidraw\|Brain Diagram.excalidraw]]                               |
 | [[Cards/Central Nervous System\|Central Nervous System]]                                               |
 | [[Cards/Conscious Breathing\|Conscious Breathing]]                                                     |
@@ -35,6 +35,7 @@
 | [[Cards/Cranial Sulci\|Cranial Sulci]]                                                                 |
 | [[Spaces/University/Classes/Human Anatomy\|Human Anatomy]]                                             |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                       |
+| [[Spaces/University/Classes/Integrated Physiology\|Integrated Physiology]]                             |
 | [[Spaces/University/Classes/Introductory Anatomy and Physiology\|Introductory Anatomy and Physiology]] |
 | [[Cards/Long-term memory\|Long-term memory]]                                                           |
 | [[Cards/Memory\|Memory]]                                                                               |
@@ -47,8 +48,8 @@
 | --------------------------------------------------------------- |
 | [[Cards/Brain\|Brain]]                                       |
 | [[Cards/Frontal lobe\|Frontal lobe]]                         |
-| [[Cards/Occipital lobe\|Occipital lobe]]                     |
-| [[Cards/Parietal lobe\|Parietal lobe]]                       |
+| [[Cards/Occipital Lobe\|Occipital Lobe]]                     |
+| [[Cards/Parietal Lobe\|Parietal Lobe]]                       |
 | [[Cards/Pyrroloquinoline quinone\|Pyrroloquinoline quinone]] |
 | [[Cards/Temporal Lobe\|Temporal Lobe]]                       |
 

@@ -1,5 +1,5 @@
 ---
-{"aliases":["t-tubules"],"dg-publish":true,"permalink":"/cards/transverse-tubules/","dgPassFrontmatter":true}
+{"aliases":"t-tubules","dg-publish":true,"permalink":"/cards/transverse-tubules/","dgPassFrontmatter":true}
 ---
 
 # Transverse Tubules

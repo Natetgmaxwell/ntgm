@@ -18,10 +18,11 @@
 
 ## Mentions
 
-| Incoming Links                                  |
-| ----------------------------------------------- |
-| [[Cards/Emotion\|Emotion]]                   |
-| [[Cards/Long-term memory\|Long-term memory]] |
+| Incoming Links                                                                |
+| ----------------------------------------------------------------------------- |
+| [[Cards/Emotion\|Emotion]]                                                 |
+| [[Spaces/University/Classes/Integrated Physiology\|Integrated Physiology]] |
+| [[Cards/Long-term memory\|Long-term memory]]                               |
 
 { .block-language-dataview}
 

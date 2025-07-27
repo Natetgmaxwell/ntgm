@@ -12,13 +12,19 @@
 > [!Definition] Definition
 > The integumentary system is the body's largest organ system, consisting of skin, hair, [[Cards/Nails\|Nails]], and associated glands.
 
-## Organs of the [[Cards/Integumentary System\|Integumentary System]] [[Sources/Research Papers/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]
+## Organs of the [[Cards/Integumentary System\|Integumentary System]]
+
+> [!cite]-
+> [[Sources/Research Papers/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]
 
 - [[Cards/Skin\|Skin]]
 - [[Cards/Hair\|Hair]]
 - [[Cards/Nails\|Nails]]
 
-## Functions of the [[Cards/Integumentary System\|Integumentary System]] [[Sources/Research Papers/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]
+## Functions of the [[Cards/Integumentary System\|Integumentary System]]
+
+> [!cite]-
+> [[Sources/Research Papers/@kimPhysiologyIntegument2023\|@kimPhysiologyIntegument2023]]
 
 - [[Cards/Thermoregulation\|Thermoregulation]]
 - [[Cards/Osmoregulation\|Osmoregulation]]
@@ -33,7 +39,7 @@
 
 | Incoming Links                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------- |
-| [[Calendar/2023/Daily/2023-04-25 Tue\|2023-04-25 Tue]]                                                                    |
+| [[Calendar/Daily/2023-04-25 Tue\|2023-04-25 Tue]]                                                                         |
 | [[Spaces/University/Projects/HBIO1009A1 Open-book short Written Responses\|HBIO1009A1 Open-book short Written Responses]] |
 | [[Spaces/University/Classes/Human Physiology\|Human Physiology]]                                                          |
 | [[Cards/Hypodermis\|Hypodermis]]                                                                                          |
